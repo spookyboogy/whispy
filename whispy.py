@@ -1,0 +1,125 @@
+import whisper
+import os
+import time
+import datetime
+
+
+def naive_merge(path, en_transcript, es_transcript):
+    """ very naive """
+
+    merge_limit = min(len(en_transcript), len(es_transcript))
+    f_out = os.path.splitext(path)[0] + '--naive-merge.txt'
+    with open(f_out, 'w') as f:
+        for i in range(merge_limit):
+            f.write(f"________\
+                    \n{en_transcript[i]}\
+                    \n{es_transcript[i]}\n")
+
+
+def print_timestamp(_lang, starting=False, return_time=False):
+    _time = time.strftime("%H:%M:%S")
+    start_or_end = ['Finished', 'Starting'][int(starting)]
+    s = f"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
+          \n {start_or_end} {_lang} transcription...\
+          \n Time : {_time}\
+          \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n"
+    print(s)
+    if return_time:
+        return s, _time
+
+
+def log_mel(path):
+    """copypasta from whisper readme, not implemented or working atm"""
+    model = whisper.load_model("large-v2")
+    audio = whisper.load_audio(path)
+    audio = whisper.pad_or_trim(audio)
+
+    mel = whisper.log_mel_spectrogram(audio).to(model.device)
+    _, probs = model.detect_language(mel)
+    lang = max(probs, key=probs.get)
+    print(f"\nDetected language: {lang}")
+
+    options = whisper.DecodingOptions(fp16=False, language=lang)
+    print(f'\noptions = {options}\n')
+    result = whisper.decode(model, mel, options)
+
+    res = result.text
+    print(f'res = \n{res}\n')
+
+    f_out = path + '_transcript.txt'
+    with open(f_out, 'w') as f:
+        f.write(res)
+    return res
+
+
+def main(path, langs=['en', 'es'], print_line_nums=True, model_size="large-v2", fp16=False):
+
+    print(f'Loading model : {model_size}', end=' ... ')
+    model = whisper.load_model(model_size)
+    print('Done loading.\n')
+
+    header = f"Audio File : {os.path.sep.join(path.split(os.path.sep)[-3:])}\
+             \nModel size : {model_size}\n" #if model_size!="large-v2" else None
+    
+    transcripts = {lang : [] for lang in langs}
+    for lang in langs:
+        start_time, _  = print_timestamp(lang, starting=True, return_time=True)
+        # best_of=best_of, beam_size=beam_size, temperature=temperature
+        options = dict(language=lang, fp16=fp16, verbose=True)
+        transcribe_options = dict(task="transcribe", **options)
+        result = model.transcribe(path, **transcribe_options)
+
+        finish_time,_ = print_timestamp(lang, return_time=True)
+        f_out = os.path.splitext(path)[0] + f'_{lang}_transcript.txt'
+        with open(f_out, 'w') as f:
+            f.write(header)
+            f.write(start_time)
+            for i in result['segments']:
+                _line = f"{i['id']:4}"
+                _start = f"{i['start']:7}"
+                _end = f"{i['end']:7}"
+                _text = f"{i['text'].strip()}"
+
+                start = str(datetime.timedelta(seconds=float(_start)))
+                end = str(datetime.timedelta(seconds=float(_end)))
+                if print_line_nums:
+                    segment = f"{_line} [{start} -> {end}] {_text}"
+                else:
+                    segment = f"[{start} -> {end}] {_text}"
+                transcripts[lang] += [segment]
+                f.write(f'{segment}\n')
+            f.write(finish_time)
+
+    if len(langs) > 1:
+        naive_merge(path, transcripts['en'], transcripts['es'])
+    
+
+if __name__ == '__main__':
+    
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\feb_07\\"
+    # f_in = "020723_meeting.wav"
+    # full_path = os.path.join(path, f_in)
+    # print(f'\nfile: {full_path}\n')
+    # main(full_path)
+
+    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
+    f_in = "test_0307.m4a"
+    full_path = os.path.join(path, f_in)
+    print(f'\nfile: {full_path}\n')
+    main(full_path, model_size='small')
+
+    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
+    f_in = "030723_meeting.wav"
+    full_path = os.path.join(path, f_in)
+    print(f'\nfile: {full_path}\n')
+    main(full_path)
+
+    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
+    f_in = "032123_meeting.m4a"
+    full_path = os.path.join(path, f_in)
+    print(f'\nfile: {full_path}\n')
+    main(full_path)
+
+
+
+    

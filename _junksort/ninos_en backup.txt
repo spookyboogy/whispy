@@ -1,0 +1,796 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Starting en transcription...
+ Time : 00:51:07________
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+C:\Users\mattt\AppData\Local\Programs\Python\Python38\lib\site-packages\whisper\transcribe.py:114: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:02.000]  Say movie Mario.
+[00:06.000 --> 00:07.000]  Tell me.
+[00:07.000 --> 00:09.000]  Tell me what you are doing.
+[00:13.000 --> 00:15.000]  What do you mean? Aren't you planning your stop motion?
+[00:15.000 --> 00:16.000]  Yes.
+[00:16.000 --> 00:18.000]  Movie? Let's see how it goes.
+[00:18.000 --> 00:21.000]  Here. Remember here we are going to change the story?
+[00:21.000 --> 00:22.000]  Yes.
+[00:22.000 --> 00:24.000]  Remember here we are going to change here?
+[00:24.000 --> 00:26.000]  We have to reconcile.
+[00:27.000 --> 00:29.000]  It's Aiden, right?
+[00:29.000 --> 00:31.000]  Yes, it's Aiden.
+[00:31.000 --> 00:37.000]  Because he made a story where they fight with Isis.
+[00:37.000 --> 00:40.000]  Aha, this is Aiden and this is Isis?
+[00:40.000 --> 00:41.000]  Yes.
+[00:41.000 --> 00:43.000]  Isis made it, not me.
+[00:43.000 --> 00:45.000]  Oh, Isis.
+[00:45.000 --> 00:47.000]  Isis made the story, not me.
+[00:47.000 --> 00:48.000]  She made the story?
+[00:48.000 --> 00:49.000]  Yes.
+[00:49.000 --> 00:50.000]  Last week?
+[00:50.000 --> 00:52.000]  No, before the break.
+[00:52.000 --> 00:53.000]  Before the break?
+[00:53.000 --> 00:54.000]  Before the break.
+[00:54.000 --> 00:56.000]  Aha, but do you remember what it was?
+[00:56.000 --> 01:00.000]  In the end, he said they were going to get angry.
+[01:00.000 --> 01:04.000]  So we were talking about when we fight with our friends,
+[01:04.000 --> 01:08.000]  if we get angry or reconcile.
+[01:10.000 --> 01:12.000]  Tell me, Jaira, didn't you like this story?
+[01:12.000 --> 01:14.000]  Didn't you want this story?
+[01:14.000 --> 01:15.000]  Or do you want to finish it?
+[01:15.000 --> 01:18.000]  Because you say that Isis was the one who made it.
+[01:18.000 --> 01:20.000]  We can change it.
+[01:20.000 --> 01:23.000]  Tell me, tell me the story.
+[01:23.000 --> 01:26.000]  Do you like the story, Jaira? Tell me.
+[01:28.000 --> 01:30.000]  Is this story important to you or not?
+[01:30.000 --> 01:31.000]  Yes.
+[01:31.000 --> 01:33.000]  It has to be important to you. Why?
+[01:34.000 --> 01:36.000]  Jordani said he's going to do the walk.
+[01:36.000 --> 01:38.000]  Why is it important to you?
+[01:39.000 --> 01:42.000]  What are you going to put? Are you going to put something from the community in your box for the story?
+[01:42.000 --> 01:43.000]  No.
+[01:43.000 --> 01:45.000]  Where is this story going to happen?
+[01:45.000 --> 01:47.000]  In the park.
+[01:48.000 --> 01:50.000]  In the park? Let's see.
+[01:51.000 --> 01:55.000]  In the park where we didn't go, where they play baseball.
+[01:58.000 --> 02:00.000]  We didn't go on the day of the walk, I mean.
+[02:01.000 --> 02:02.000]  No?
+[02:02.000 --> 02:04.000]  Okay, but it's going to be in the park.
+[02:04.000 --> 02:05.000]  We didn't go.
+[02:06.000 --> 02:07.000]  It's going to be in the park.
+[02:09.000 --> 02:11.000]  Let's see, and Dariel, what is he doing?
+[02:12.000 --> 02:13.000]  It's perfect.
+[02:13.000 --> 02:14.000]  You said it.
+[02:14.000 --> 02:15.000]  Yes.
+[02:16.000 --> 02:19.000]  But tell me, what's going to happen in the park?
+[02:19.000 --> 02:22.000]  Explain to the teacher how the story is going to be.
+[02:22.000 --> 02:24.000]  And we can change things.
+[02:24.000 --> 02:26.000]  Tell him how you explained it to me.
+[02:26.000 --> 02:27.000]  Let's see, Jaden.
+[02:40.000 --> 02:43.000]  Well, we're going to make the dolls with plastic, right?
+[02:44.000 --> 02:45.000]  No.
+[02:45.000 --> 02:46.000]  How are we going to do it?
+[02:46.000 --> 02:48.000]  Wait, maybe he has another idea, Dariel.
+[02:49.000 --> 02:50.000]  Because he said no.
+[02:51.000 --> 02:52.000]  Yes, yes, yes.
+[02:52.000 --> 02:53.000]  Yes, yes, we're going to do it with plastic.
+[02:53.000 --> 02:56.000]  We're going to make an Isis and we're going to make a Jaden.
+[02:57.000 --> 02:59.000]  And what's going to happen? How is the action going to be?
+[03:00.000 --> 03:01.000]  How is the action going to be?
+[03:01.000 --> 03:03.000]  How is your stop motion going to be?
+[03:03.000 --> 03:04.000]  What's going to happen first?
+[03:04.000 --> 03:05.000]  What's going to happen first?
+[03:09.000 --> 03:11.000]  Do you want to check what we wrote first?
+[03:15.000 --> 03:17.000]  Can I take a picture of you?
+[03:18.000 --> 03:19.000]  What did you write here?
+[03:19.000 --> 03:20.000]  A lot of words.
+[03:20.000 --> 03:23.000]  We're going to take a picture of your movie.
+[03:24.000 --> 03:25.000]  Wait, first put it on.
+[03:25.000 --> 03:26.000]  Now you can press it.
+[03:27.000 --> 03:28.000]  Do you want to press it?
+[03:29.000 --> 03:31.000]  Jaden, do you want to press the button?
+[03:32.000 --> 03:33.000]  Here?
+[03:33.000 --> 03:34.000]  I'll press it.
+[03:34.000 --> 03:35.000]  Stand up and look there.
+[03:36.000 --> 03:38.000]  There, perfect. Thank you.
+[03:38.000 --> 03:40.000]  This is Jaden and Isis.
+[03:41.000 --> 03:42.000]  Right?
+[03:43.000 --> 03:44.000]  Can you tell me?
+[03:46.000 --> 03:47.000]  What did they write there?
+[03:47.000 --> 03:48.000]  Me?
+[03:50.000 --> 03:51.000]  Isis?
+[03:52.000 --> 03:54.000]  Me fighting Isis.
+[03:55.000 --> 03:56.000]  Fighting Isis.
+[03:56.000 --> 03:58.000]  Good title, right? Because that's the story.
+[03:59.000 --> 04:02.000]  And what do you want to tell the people who see your story?
+[04:03.000 --> 04:05.000]  What message are you giving as the author?
+[04:05.000 --> 04:07.000]  You're the author of the story. What's your message?
+[04:09.000 --> 04:10.000]  To the reader.
+[04:12.000 --> 04:13.000]  There has to be a message, right?
+[04:22.000 --> 04:23.000]  Let's see, Dariel.
+[04:23.000 --> 04:24.000]  Can I take a picture of you?
+[04:24.000 --> 04:26.000]  You're not done yet. I'll take a picture of you later.
+[04:26.000 --> 04:28.000]  Yes, because the story is changing a bit.
+[04:29.000 --> 04:30.000]  Tell me, Dariel.
+[04:31.000 --> 04:33.000]  There's Mario coming with us to the pool.
+[04:33.000 --> 04:34.000]  Can I use your eraser?
+[04:34.000 --> 04:35.000]  Wait one second.
+[04:36.000 --> 04:37.000]  I messed up.
+[04:39.000 --> 04:40.000]  Thanks.
+[04:41.000 --> 04:42.000]  Dariel and...
+[04:43.000 --> 04:44.000]  Mario!
+[04:46.000 --> 04:48.000]  Dariel and Mario, is that your title?
+[04:49.000 --> 04:51.000]  No, here it says the title is The Bee.
+[04:53.000 --> 04:55.000]  Is that the title of your story, Dariel?
+[04:55.000 --> 04:57.000]  Dariel and Mario, is that your title?
+[04:57.000 --> 04:59.000]  Yeah, mine is Mario too.
+[04:59.000 --> 05:00.000]  You changed it.
+[05:00.000 --> 05:02.000]  Mine is Mario too.
+[05:02.000 --> 05:04.000]  Sorry, remind me your name.
+[05:05.000 --> 05:06.000]  Mario.
+[05:06.000 --> 05:07.000]  Remind me your name.
+[05:08.000 --> 05:09.000]  Jordani, sorry, Jordani.
+[05:09.000 --> 05:12.000]  Jordani, tell me. What are you looking for on the phone?
+[05:13.000 --> 05:14.000]  I want to play Mario.
+[05:14.000 --> 05:17.000]  You want to play Mario too? You already did it. It was really good.
+[05:18.000 --> 05:20.000]  Yes, but I didn't like it.
+[05:20.000 --> 05:21.000]  You didn't like it that much?
+[05:23.000 --> 05:25.000]  I want to do an easy version.
+[05:26.000 --> 05:27.000]  What?
+[05:27.000 --> 05:28.000]  An easy version.
+[05:28.000 --> 05:30.000]  An easy version to be able to draw it better.
+[05:31.000 --> 05:32.000]  Can I get a color?
+[05:33.000 --> 05:34.000]  Okay.
+[05:35.000 --> 05:36.000]  And what is the story going to be?
+[05:37.000 --> 05:38.000]  Have you thought about it?
+[05:38.000 --> 05:40.000]  I don't care. I just want...
+[05:43.000 --> 05:46.000]  But we said Mario was going to walk through where?
+[05:46.000 --> 05:47.000]  Wait, let me see, let me see.
+[05:48.000 --> 05:49.000]  No, actually I want...
+[05:50.000 --> 05:51.000]  He's focused.
+[05:52.000 --> 05:53.000]  I want red, yellow...
+[05:54.000 --> 05:56.000]  Red, yellow and blue.
+[05:57.000 --> 05:58.000]  Mario's colors.
+[05:58.000 --> 05:59.000]  Yeah.
+[05:59.000 --> 06:00.000]  Okay.
+[06:01.000 --> 06:02.000]  And brown.
+[06:02.000 --> 06:03.000]  What's going on in your story, Darién?
+[06:04.000 --> 06:05.000]  Oh, that was a good one!
+[06:07.000 --> 06:08.000]  That was a good one.
+[06:08.000 --> 06:11.000]  Where is Mario? Mario's right here.
+[06:12.000 --> 06:13.000]  That's a good part.
+[06:13.000 --> 06:14.000]  Yes, it's really good.
+[06:15.000 --> 06:17.000]  But you skipped this whole story.
+[06:18.000 --> 06:19.000]  I'm gonna fix it.
+[06:20.000 --> 06:21.000]  Tell me from the beginning.
+[06:22.000 --> 06:23.000]  No, I mean, telling me what you want.
+[06:23.000 --> 06:24.000]  I need also a brown.
+[06:24.000 --> 06:25.000]  A brown.
+[06:25.000 --> 06:26.000]  Brown.
+[06:26.000 --> 06:27.000]  Brown.
+[06:27.000 --> 06:28.000]  Brown.
+[06:29.000 --> 06:31.000]  Tell me what happens in the first one.
+[06:32.000 --> 06:34.000]  Okay, you tell me how it goes.
+[06:35.000 --> 06:37.000]  You say you go to the beach with Mario.
+[06:38.000 --> 06:39.000]  And with my other friend.
+[06:40.000 --> 06:41.000]  With other friends?
+[06:42.000 --> 06:43.000]  That are not from the video game?
+[06:44.000 --> 06:45.000]  Not from the video game.
+[06:46.000 --> 06:47.000]  Okay, people.
+[06:47.000 --> 06:48.000]  Really.
+[06:49.000 --> 06:50.000]  Really.
+[06:50.000 --> 06:51.000]  And what are they going to do on the beach?
+[06:51.000 --> 06:52.000]  What are they going to do on the beach?
+[06:53.000 --> 06:54.000]  We are going to...
+[07:07.000 --> 07:09.000]  Is there going to be a problem in your story or not?
+[07:16.000 --> 07:17.000]  Is that Darién?
+[07:18.000 --> 07:19.000]  Or you can't?
+[07:19.000 --> 07:20.000]  You can't draw.
+[07:31.000 --> 07:32.000]  Okay, tell me the story now.
+[07:33.000 --> 07:36.000]  So, you go to the beach with Mario and other real people.
+[07:37.000 --> 07:38.000]  All your friends.
+[07:38.000 --> 07:39.000]  And what happens?
+[07:40.000 --> 07:41.000]  Mario took off his hat here.
+[07:42.000 --> 07:43.000]  He took off his hat here?
+[07:43.000 --> 07:44.000]  On the three?
+[07:45.000 --> 07:46.000]  This is the one.
+[07:46.000 --> 07:47.000]  Can I put numbers?
+[07:47.000 --> 07:48.000]  This is the two.
+[07:48.000 --> 07:49.000]  Can I put a number here?
+[07:50.000 --> 07:51.000]  This is the three, right?
+[07:52.000 --> 07:53.000]  And this is the four.
+[07:53.000 --> 07:54.000]  Okay.
+[07:54.000 --> 07:55.000]  Can you explain to me about the three?
+[07:56.000 --> 07:57.000]  Did he put his hat there?
+[07:58.000 --> 07:59.000]  No, he took it off.
+[07:59.000 --> 08:00.000]  He took off his hat.
+[08:01.000 --> 08:02.000]  Ah, because he always wears it like this.
+[08:02.000 --> 08:03.000]  Okay.
+[08:04.000 --> 08:05.000]  This is...
+[08:05.000 --> 08:06.000]  Look.
+[08:12.000 --> 08:14.000]  Thirteen hours and more than two.
+[08:14.000 --> 08:15.000]  He comes and goes without Mario.
+[08:16.000 --> 08:17.000]  And now what is Mario going to do?
+[08:18.000 --> 08:19.000]  Mario...
+[08:22.000 --> 08:23.000]  This is Mario?
+[08:24.000 --> 08:25.000]  And where is the hat now?
+[08:26.000 --> 08:28.000]  Put it in red if you want it to look better.
+[08:29.000 --> 08:30.000]  Like here, right?
+[08:31.000 --> 08:32.000]  He put it in a box.
+[08:33.000 --> 08:35.000]  Oh, it's not here in the scene, the hat is not shown.
+[08:36.000 --> 08:37.000]  Okay.
+[08:37.000 --> 08:38.000]  And what happens in the story?
+[08:38.000 --> 08:39.000]  What is the problem in the story?
+[08:40.000 --> 08:41.000]  Is there a problem or not?
+[08:41.000 --> 08:42.000]  No.
+[08:42.000 --> 08:43.000]  Okay.
+[08:43.000 --> 08:44.000]  He's having fun and stuff.
+[08:46.000 --> 08:47.000]  He's having a good time.
+[08:47.000 --> 08:48.000]  He's having fun, you say?
+[08:49.000 --> 08:51.000]  I love how you said it in English.
+[08:52.000 --> 08:53.000]  Yes.
+[08:54.000 --> 08:55.000]  There's water there.
+[08:56.000 --> 08:57.000]  There's water.
+[08:58.000 --> 08:59.000]  In the first one, what happens in the water?
+[09:00.000 --> 09:01.000]  No, that's not water.
+[09:01.000 --> 09:02.000]  It's a car.
+[09:03.000 --> 09:04.000]  In the past...
+[09:04.000 --> 09:05.000]  Oh, where is the water?
+[09:06.000 --> 09:08.000]  Because you told me something about the water, right?
+[09:09.000 --> 09:13.000]  Of course, you put it blue and I thought you were going to color it brown now.
+[09:15.000 --> 09:16.000]  Better.
+[09:18.000 --> 09:20.000]  And another car.
+[09:21.000 --> 09:22.000]  And now...
+[09:23.000 --> 09:24.000]  And where are they going to be?
+[09:25.000 --> 09:27.000]  12 hours and 29 minutes.
+[09:30.000 --> 09:32.000]  Another car.
+[09:33.000 --> 09:36.000]  Behind the others.
+[09:37.000 --> 09:38.000]  And he crashed it.
+[09:39.000 --> 09:40.000]  He crashed it?
+[09:40.000 --> 09:41.000]  Here in the number one?
+[09:42.000 --> 09:44.000]  Yes, that's the only thing that happened.
+[09:44.000 --> 09:47.000]  So you're going to do it with clay and you're going to make two cars that crash?
+[09:48.000 --> 09:50.000]  Okay, and then what happens?
+[09:51.000 --> 09:52.000]  They crash.
+[09:53.000 --> 09:55.000]  That's the story, they crash and that's the end of the story?
+[10:04.000 --> 10:05.000]  I'm going to see it in the clay.
+[10:06.000 --> 10:08.000]  Okay, what's going to be the message of your story, Daniel?
+[10:09.000 --> 10:11.000]  The name of my story is...
+[10:18.000 --> 10:25.000]  Welcome to the Mario and Dario movie at the beginning.
+[10:38.000 --> 10:40.000]  And you're going to make a stop motion movie.
+[10:41.000 --> 10:42.000]  What do you want people to learn with your movie?
+[10:43.000 --> 10:45.000]  Are you teaching them something or what is it for?
+[10:46.000 --> 10:47.000]  Why are they watching this movie?
+[10:48.000 --> 10:49.000]  Because...
+[10:50.000 --> 10:51.000]  Because...
+[10:52.000 --> 10:55.000]  He wanted to have fun, but then he crashed it.
+[10:56.000 --> 10:59.000]  But then that made the car go faster and we got there faster.
+[11:00.000 --> 11:01.000]  When it crashed, it went faster?
+[11:02.000 --> 11:03.000]  Ah, it was a little push.
+[11:04.000 --> 11:05.000]  It wasn't an accident, it was a push.
+[11:05.000 --> 11:06.000]  It was a push.
+[11:07.000 --> 11:09.000]  Because the car is made of strong metal.
+[11:10.000 --> 11:14.000]  Oh, it's made of strong metal, so when you hit it, it didn't wrinkle, it didn't bend, it didn't break?
+[11:15.000 --> 11:25.000]  It only sank a little bit, but the car behind it has a broken, broken, broken, broken.
+[11:26.000 --> 11:28.000]  Aha, I see it there. Where is the broken one, here?
+[11:29.000 --> 11:32.000]  No, here, the other car that crashed with this one.
+[11:33.000 --> 11:34.000]  This one did break.
+[11:35.000 --> 11:38.000]  Because the car is so strong.
+[11:39.000 --> 11:40.000]  But the other one wasn't so strong and it broke.
+[11:41.000 --> 11:43.000]  But you guys get to the beach really fast.
+[11:44.000 --> 11:45.000]  Aha, because of the car.
+[11:46.000 --> 11:51.000]  Ok, and then here, at number two, what happened?
+[11:52.000 --> 11:54.000]  Ah, it's boring.
+[11:55.000 --> 11:58.000]  Tell me your story, your story is boring.
+[11:59.000 --> 12:03.000]  No, it's boring. This is boring, it's not so much.
+[12:03.000 --> 12:05.000]  Ok, what do you want to tell me then?
+[12:06.000 --> 12:15.000]  And then Mario is walking on the little, you know the little beaches, there's like these little walks before you enter the beach.
+[12:16.000 --> 12:18.000]  Yes, yes, yes, on the rocks, like this, walking on the rocks.
+[12:19.000 --> 12:26.000]  Yeah, and then now we're like going to the beach, and now, no, that's, now we're all in the sand, like we're all laying down.
+[12:27.000 --> 12:29.000]  Oh, you're lying down, sunbathing?
+[12:30.000 --> 12:31.000]  Yeah.
+[12:31.000 --> 12:32.000]  Yeah, sunbathing, no?
+[12:33.000 --> 12:34.000]  Ok.
+[12:35.000 --> 12:36.000]  Just laying down.
+[12:37.000 --> 12:38.000]  Just laying down.
+[12:39.000 --> 12:40.000]  And there they are in the water, at number four.
+[12:41.000 --> 12:42.000]  Aha, and, and the end.
+[12:43.000 --> 12:44.000]  The end?
+[12:45.000 --> 12:46.000]  They're going to swim and the story is over?
+[12:47.000 --> 12:48.000]  This is going to be good.
+[12:49.000 --> 12:50.000]  This is going to be what?
+[12:51.000 --> 12:53.000]  These are extras, you don't need to fill them all up.
+[12:54.000 --> 12:55.000]  Wow, look at this Super Mario.
+[12:56.000 --> 13:00.000]  No, because the end of the movie is going to be all black.
+[13:01.000 --> 13:02.000]  You're going to want to have it all black at the end?
+[13:03.000 --> 13:04.000]  That's how your story ends?
+[13:05.000 --> 13:06.000]  Very good, Daniel.
+[13:07.000 --> 13:08.000]  Hi, what's your name?
+[13:09.000 --> 13:10.000]  Luigi.
+[13:11.000 --> 13:12.000]  L-I-J-O.
+[13:13.000 --> 13:14.000]  Joan?
+[13:15.000 --> 13:16.000]  Good question, Jordana.
+[13:17.000 --> 13:18.000]  And who's this?
+[13:19.000 --> 13:20.000]  Jean.
+[13:21.000 --> 13:22.000]  He's a friend?
+[13:23.000 --> 13:24.000]  Nadia.
+[13:25.000 --> 13:26.000]  No, no, it's J.
+[13:27.000 --> 13:28.000]  How is it, what's his name?
+[13:29.000 --> 13:30.000]  Luigi.
+[13:31.000 --> 13:32.000]  It's a G.
+[13:33.000 --> 13:34.000]  Luigi.
+[13:35.000 --> 13:36.000]  C.
+[13:37.000 --> 13:38.000]  Let's see if we can get it.
+[13:39.000 --> 13:40.000]  Isn't that Luigi?
+[13:41.000 --> 13:42.000]  We have them.
+[13:43.000 --> 13:45.000]  That looks like the old school Mario, kind of.
+[13:47.000 --> 13:53.000]  You don't need to do it with so much detail, Jordana, because later with the plastic you won't be able to do it super, super detailed, right?
+[13:54.000 --> 13:56.000]  Remember that later we're going to use another material.
+[13:57.000 --> 13:59.000]  I can try by looking at the picture.
+[13:59.000 --> 14:00.000]  When?
+[14:01.000 --> 14:03.000]  I can try, because I can look at lines.
+[14:04.000 --> 14:05.000]  It's beautiful.
+[14:06.000 --> 14:07.000]  Is Lucas here today?
+[14:08.000 --> 14:09.000]  Lucas, yes.
+[14:10.000 --> 14:11.000]  Yes.
+[14:15.000 --> 14:18.000]  Oh, we're going to use the plastic, Tina, after when we clean off.
+[14:19.000 --> 14:22.000]  I think you'll do it the next day, Jordana.
+[14:23.000 --> 14:24.000]  Have you thought about your story?
+[14:25.000 --> 14:26.000]  Do you remember?
+[14:27.000 --> 14:28.000]  You still haven't thought about your story.
+[14:29.000 --> 14:30.000]  What's that?
+[14:31.000 --> 14:32.000]  Luigi is Mario's partner.
+[14:33.000 --> 14:34.000]  No, it's his brother.
+[14:35.000 --> 14:36.000]  It's his brother?
+[14:37.000 --> 14:38.000]  Yes, his brother.
+[14:59.000 --> 15:07.000]  You know Mario? In the movie Mario is jumping over stuff to get to the owner's house to fix something.
+[15:08.000 --> 15:09.000]  Like jumping over stuff.
+[15:10.000 --> 15:12.000]  Well, Mario jumps in the video game, right?
+[15:13.000 --> 15:15.000]  No, but his brother, it was in the movie.
+[15:16.000 --> 15:17.000]  Okay.
+[15:18.000 --> 15:19.000]  It was Mario's brother that I see.
+[15:20.000 --> 15:21.000]  Oh, it's hot.
+[15:22.000 --> 15:25.000]  Oh, it's the last movie that came out. Have you seen it?
+[15:26.000 --> 15:28.000]  I'm going to go with my son to see who's there.
+[15:29.000 --> 15:37.000]  He's tired because he was running because the car was damaged.
+[15:38.000 --> 15:39.000]  Okay.
+[15:40.000 --> 15:42.000]  And this is going to be your story?
+[15:43.000 --> 15:44.000]  Yes.
+[15:45.000 --> 15:46.000]  This is your story, right?
+[15:47.000 --> 15:50.000]  Don't put so much detail because it's going to take too long.
+[15:51.000 --> 15:53.000]  This is just the planning of your story, right, Jordana?
+[15:54.000 --> 15:55.000]  Yes.
+[15:56.000 --> 15:57.000]  Jump, right?
+[15:57.000 --> 15:58.000]  No?
+[15:59.000 --> 16:00.000]  Okay, let me see.
+[16:01.000 --> 16:02.000]  Fixing, fixing.
+[16:03.000 --> 16:04.000]  Fixing things?
+[16:05.000 --> 16:06.000]  Fix, fix.
+[16:07.000 --> 16:08.000]  That's what I like.
+[16:09.000 --> 16:10.000]  Fix.
+[16:11.000 --> 16:12.000]  X?
+[16:13.000 --> 16:14.000]  Fixing.
+[16:15.000 --> 16:16.000]  Ing, ing.
+[16:17.000 --> 16:18.000]  Fixing.
+[16:19.000 --> 16:20.000]  Fixing.
+[16:21.000 --> 16:22.000]  Can you say the characters?
+[16:23.000 --> 16:24.000]  Fixing.
+[16:25.000 --> 16:26.000]  Fixing.
+[16:27.000 --> 16:29.000]  Alright, so Mario is fixing.
+[16:30.000 --> 16:31.000]  He jumped and he's fixing.
+[16:32.000 --> 16:33.000]  Fixing.
+[16:34.000 --> 16:35.000]  Give us your moment.
+[16:36.000 --> 16:37.000]  Okay, alright.
+[16:38.000 --> 16:40.000]  And, uh, Dariel is swimming.
+[16:41.000 --> 16:42.000]  Fix, fix.
+[16:43.000 --> 16:44.000]  Fix.
+[16:45.000 --> 16:46.000]  No.
+[16:47.000 --> 16:48.000]  This is the ending.
+[16:49.000 --> 16:50.000]  Like the scream goes black.
+[16:51.000 --> 16:52.000]  This is when they're swimming.
+[16:52.000 --> 16:54.000]  Yes, and here when it comes out at the end it says,
+[16:55.000 --> 16:58.000]  Director, Dariel, Producer, Dariel.
+[16:59.000 --> 17:01.000]  And, uh, Dariel.
+[17:02.000 --> 17:03.000]  Can I take a picture of your work?
+[17:04.000 --> 17:05.000]  Everything Dariel.
+[17:06.000 --> 17:08.000]  But I'm going to see how far you go.
+[17:09.000 --> 17:11.000]  I'm going to do the second part.
+[17:12.000 --> 17:14.000]  But Dariel, I mean, yes, Dariel.
+[17:15.000 --> 17:16.000]  Okay.
+[17:17.000 --> 17:18.000]  Fighting.
+[17:19.000 --> 17:20.000]  Who's fighting?
+[17:20.000 --> 17:21.000]  Who's fighting?
+[17:22.000 --> 17:23.000]  Thank you, Dario.
+[17:26.000 --> 17:27.000]  Let's see who's here.
+[17:28.000 --> 17:31.000]  There's Lucas, there's Chloe, there's Marin.
+[17:32.000 --> 17:33.000]  No, no.
+[17:34.000 --> 17:35.000]  Kelsey.
+[17:36.000 --> 17:38.000]  There's Pepita.
+[17:39.000 --> 17:40.000]  Kaylee.
+[17:41.000 --> 17:43.000]  And Jeremy.
+[17:44.000 --> 17:45.000]  And Marin.
+[17:46.000 --> 17:47.000]  And there's a lot of people.
+[17:47.000 --> 17:48.000]  Seriously?
+[17:49.000 --> 17:50.000]  Let's see what they're doing.
+[17:51.000 --> 17:52.000]  Nothing.
+[17:53.000 --> 17:54.000]  So we had a story.
+[17:55.000 --> 17:56.000]  Tell me, Kelsey.
+[17:57.000 --> 17:58.000]  Okay.
+[17:59.000 --> 18:00.000]  Tell me, Kelsey.
+[18:01.000 --> 18:02.000]  I'm going to take a picture of your plastic.
+[18:03.000 --> 18:07.000]  The story is about when we were stealing Squishmallows.
+[18:08.000 --> 18:09.000]  And we got arrested.
+[18:10.000 --> 18:11.000]  What?
+[18:12.000 --> 18:13.000]  We're stealing Squishmallows.
+[18:14.000 --> 18:15.000]  Me and Kelsey are stealing Squishmallows.
+[18:15.000 --> 18:17.000]  We're stealing marshmallows?
+[18:18.000 --> 18:19.000]  Squishmallows?
+[18:20.000 --> 18:21.000]  Yeah, Squishmallows.
+[18:22.000 --> 18:24.000]  It's like a little teddy bear and it has faces.
+[18:25.000 --> 18:26.000]  These are the green and the pink faces?
+[18:27.000 --> 18:28.000]  Yeah.
+[18:29.000 --> 18:30.000]  All these, you're stealing them?
+[18:31.000 --> 18:32.000]  Yeah.
+[18:33.000 --> 18:34.000]  And we got arrested.
+[18:35.000 --> 18:36.000]  But you know, you can make them like three-dimensional.
+[18:37.000 --> 18:38.000]  Like you can make them stand up.
+[18:39.000 --> 18:40.000]  Because we're going to have like a little box.
+[18:41.000 --> 18:42.000]  You're going to put them inside.
+[18:45.000 --> 18:46.000]  But you have all this work done.
+[18:47.000 --> 18:49.000]  But from now on, you can make them like standing up if you like.
+[18:50.000 --> 18:52.000]  It's going to be three-dimensional.
+[18:55.000 --> 18:56.000]  So tell me more, Kelsey, about this story.
+[18:57.000 --> 18:58.000]  What happens then?
+[18:59.000 --> 19:00.000]  Somebody comes and tells you what are you doing?
+[19:01.000 --> 19:02.000]  Yeah, and then we got arrested.
+[19:03.000 --> 19:04.000]  No.
+[19:05.000 --> 19:06.000]  And then we get arrested.
+[19:07.000 --> 19:08.000]  And then we get arrested.
+[19:09.000 --> 19:10.000]  And then we get arrested.
+[19:11.000 --> 19:12.000]  And then we get arrested.
+[19:13.000 --> 19:14.000]  No, we feel happy.
+[19:15.000 --> 19:16.000]  Oh, you feel happy?
+[19:17.000 --> 19:18.000]  How do you feel happy?
+[19:19.000 --> 19:20.000]  Because you got arrested?
+[19:21.000 --> 19:22.000]  Because you deserve it?
+[19:25.000 --> 19:26.000]  Who are you stealing in the story?
+[19:27.000 --> 19:28.000]  Who are you?
+[19:29.000 --> 19:30.000]  Kaylee and you?
+[19:31.000 --> 19:32.000]  So you're in this story.
+[19:33.000 --> 19:34.000]  And where does the story take place?
+[19:35.000 --> 19:36.000]  What image are you going to make?
+[19:37.000 --> 19:38.000]  In Target?
+[19:39.000 --> 19:40.000]  In Target, are you going to be stealing the dolls?
+[19:41.000 --> 19:42.000]  Chloe is also there?
+[19:43.000 --> 19:44.000]  Yeah, Chloe wants to be there.
+[19:45.000 --> 19:46.000]  Why?
+[19:47.000 --> 19:48.000]  I don't know.
+[19:49.000 --> 19:50.000]  It's okay.
+[19:51.000 --> 19:52.000]  What happened?
+[19:53.000 --> 19:54.000]  Did they erase Chloe's name?
+[19:55.000 --> 19:56.000]  Too many people?
+[19:57.000 --> 19:58.000]  Well, what is Chloe going to do?
+[19:59.000 --> 20:00.000]  She has to have a role.
+[20:01.000 --> 20:02.000]  She did it!
+[20:03.000 --> 20:04.000]  I don't know what she did.
+[20:05.000 --> 20:06.000]  But what did you do?
+[20:07.000 --> 20:08.000]  Can you be the police?
+[20:09.000 --> 20:10.000]  Who do you want to be, Chloe?
+[20:11.000 --> 20:12.000]  What are you going to do?
+[20:12.000 --> 20:15.000]  Because Kaylee wanted to not have so many people.
+[20:19.000 --> 20:21.000]  Chloe, what are you going to do?
+[20:22.000 --> 20:23.000]  She's the police officer!
+[20:24.000 --> 20:25.000]  She's the police officer!
+[20:26.000 --> 20:27.000]  Wait, what does Chloe say? I can't hear her.
+[20:28.000 --> 20:29.000]  Tell me, honey.
+[20:30.000 --> 20:31.000]  She's gone.
+[20:32.000 --> 20:33.000]  What did you say, Kelsey?
+[20:34.000 --> 20:35.000]  Her name is Kelsey, I'm Kaylee.
+[20:36.000 --> 20:37.000]  Oh, sorry, Kelsey.
+[20:38.000 --> 20:39.000]  Kaylee, no.
+[20:40.000 --> 20:41.000]  Kaylee, no?
+[20:42.000 --> 20:43.000]  Kaylee, what were you saying?
+[20:44.000 --> 20:45.000]  What can Chloe do?
+[20:46.000 --> 20:48.000]  She's going to be the police officer and arrest us.
+[20:49.000 --> 20:50.000]  Do you think she'll like that role?
+[20:51.000 --> 20:52.000]  We have to ask her.
+[20:53.000 --> 20:55.000]  But we don't have anymore, um, wait, we just have these colors.
+[20:56.000 --> 20:57.000]  How do you make them?
+[20:58.000 --> 21:00.000]  Well, we can imagine that there are many colors.
+[21:01.000 --> 21:03.000]  This is Chloe's skin color, a little bit similar.
+[21:04.000 --> 21:05.000]  No?
+[21:07.000 --> 21:09.000]  Okay, and what's going to happen after you get arrested?
+[21:10.000 --> 21:14.000]  We go to jail, we have to, um, people have to take us.
+[21:16.000 --> 21:17.000]  They're going to take you to jail?
+[21:18.000 --> 21:19.000]  To the children's jail, I hope.
+[21:20.000 --> 21:22.000]  Oh my God, what a sad story.
+[21:23.000 --> 21:25.000]  Okay, and what happens when they take you to jail?
+[21:26.000 --> 21:27.000]  I don't know.
+[21:28.000 --> 21:29.000]  How do you solve the problem?
+[21:30.000 --> 21:33.000]  The problem is that they've stolen your dolls and they take them to jail,
+[21:34.000 --> 21:35.000]  the police officer, Chloe.
+[21:36.000 --> 21:37.000]  And then what happens?
+[21:37.000 --> 21:40.000]  They're trying to teach a message to the person watching your movie, right?
+[21:41.000 --> 21:43.000]  What's the message they're trying to say in your movie?
+[21:48.000 --> 21:50.000]  What's the message they're trying to say in your movie, Kelsey?
+[21:53.000 --> 21:57.000]  There has to be a message, something they want to say to the person watching the movie, right?
+[21:58.000 --> 22:02.000]  Yes, when Chloe is being arrested,
+[22:03.000 --> 22:07.000]  Yes, when Chloe is being arrested.
+[22:09.000 --> 22:13.000]  So I'm a police officer, so I'm going to put a hat like this.
+[22:16.000 --> 22:17.000]  Sorry.
+[22:17.000 --> 22:18.000]  Are you serious?
+[22:23.000 --> 22:24.000]  Karlie, shut up!
+[22:33.000 --> 22:37.000]  So they will rob one of the Squishmallows.
+[22:38.000 --> 22:39.000]  Okay, I understand that.
+[22:41.000 --> 22:42.000]  The wheelchair.
+[22:43.000 --> 22:44.000]  The wheelchair?
+[22:45.000 --> 22:46.000]  The wheelchair?
+[22:47.000 --> 22:48.000]  Yeah, and the white dress!
+[22:49.000 --> 22:50.000]  Oh, the wheelchair, sorry.
+[22:51.000 --> 22:52.000]  Yes, but I don't know.
+[22:53.000 --> 22:56.000]  Okay, Kelsey, you were telling me, so we were robbing the Squishmallows.
+[22:57.000 --> 23:01.000]  And the police officer was in the video.
+[23:02.000 --> 23:03.000]  The police officer, Chloe.
+[23:04.000 --> 23:05.000]  And I was...
+[23:07.000 --> 23:08.000]  Oh, you on the bus.
+[23:09.000 --> 23:10.000]  Yes.
+[23:11.000 --> 23:12.000]  And then we go weightlifting.
+[23:13.000 --> 23:14.000]  Oh, yeah!
+[23:15.000 --> 23:16.000]  Weightlifting?
+[23:17.000 --> 23:18.000]  Yeah.
+[23:19.000 --> 23:20.000]  Where, in jail?
+[23:21.000 --> 23:22.000]  No, the Squishmallows are fighting there.
+[23:23.000 --> 23:25.000]  Ah, in jail, but they didn't take you to jail?
+[23:26.000 --> 23:30.000]  Yes, but they let me go to do exercise.
+[23:30.000 --> 23:33.000]  Oh, they let you go to exercise to get stronger.
+[23:39.000 --> 23:41.000]  Chloe, what is the message of your story?
+[23:49.000 --> 23:51.000]  No, from there, but closer, I can't hear you.
+[23:52.000 --> 23:53.000]  There's a lot of noise.
+[23:54.000 --> 23:55.000]  What is the message of your story?
+[23:56.000 --> 24:05.000]  I saw that you were in Cali Airs, and we were using a...
+[24:06.000 --> 24:07.000]  A machine?
+[24:08.000 --> 24:09.000]  No, makeup.
+[24:10.000 --> 24:11.000]  Oh, makeup?
+[24:12.000 --> 24:14.000]  Yes, and we can use it to share a little bit with the kids.
+[24:15.000 --> 24:16.000]  Candy.
+[24:17.000 --> 24:19.000]  Candy? But they also stole it.
+[24:20.000 --> 24:21.000]  Yes.
+[24:22.000 --> 24:23.000]  A little bit on this side, and a little bit on the other.
+[24:23.000 --> 24:24.000]  No, I bought it.
+[24:25.000 --> 24:26.000]  You bought it, ok.
+[24:27.000 --> 24:29.000]  Is this another story, or is it the same story, Chloe?
+[24:33.000 --> 24:34.000]  The same story.
+[24:35.000 --> 24:36.000]  The same story?
+[24:37.000 --> 24:38.000]  Is there a message in this story?
+[24:39.000 --> 24:41.000]  Something you want to teach the person who sees it?
+[24:43.000 --> 24:44.000]  What is the message?
+[24:46.000 --> 24:47.000]  What are you doing this story for?
+[24:48.000 --> 24:49.000]  What is the message?
+[24:50.000 --> 24:52.000]  I like Clears.
+[24:53.000 --> 24:54.000]  Clears is a place?
+[24:58.000 --> 24:59.000]  I like it.
+[25:00.000 --> 25:01.000]  You like Clears, ok.
+[25:02.000 --> 25:03.000]  So you want to make the story there, right?
+[25:04.000 --> 25:05.000]  And why do you like it?
+[25:06.000 --> 25:07.000]  Because...
+[25:08.000 --> 25:09.000]  Would you have been there before?
+[25:10.000 --> 25:11.000]  Because there's a lot of...
+[25:12.000 --> 25:15.000]  A lot of fire and candy.
+[25:16.000 --> 25:17.000]  Do you go with your family there?
+[25:17.000 --> 25:18.000]  Not so much?
+[25:21.000 --> 25:23.000]  Ok, does anyone have the end of their story?
+[25:32.000 --> 25:34.000]  Ok, Kelsey, you try to sneak out, and what happened?
+[25:39.000 --> 25:40.000]  The police, Chloe.
+[25:41.000 --> 25:43.000]  Ok, and then what happened? What is the end of the story?
+[25:44.000 --> 25:45.000]  Or is there more?
+[25:45.000 --> 25:46.000]  Ah, you went to do exercise?
+[25:47.000 --> 25:48.000]  And then?
+[25:49.000 --> 25:50.000]  I helped you, ok?
+[25:51.000 --> 25:52.000]  I took a picture of you.
+[25:53.000 --> 25:54.000]  A picture of you?
+[25:55.000 --> 25:56.000]  I took a picture of you, Chloe.
+[25:57.000 --> 25:58.000]  But I took it because...
+[25:59.000 --> 26:00.000]  Yellow!
+[26:01.000 --> 26:02.000]  Oh, you have a camera?
+[26:03.000 --> 26:04.000]  Yellow and then we took a picture.
+[26:05.000 --> 26:06.000]  I thought you were asking me. Is this yours, Chloe?
+[26:07.000 --> 26:08.000]  Check photo!
+[26:09.000 --> 26:10.000]  The doll with the black hair.
+[26:11.000 --> 26:12.000]  Alright, Kelsey.
+[26:13.000 --> 26:14.000]  I'm going to go.
+[26:15.000 --> 26:16.000]  Are you going to tell me more about the story?
+[26:42.000 --> 26:43.000]  What happened, Jenny?
+[26:45.000 --> 26:46.000]  You have to press your face.
+[26:47.000 --> 26:48.000]  Or you have to press your balls.
+[26:50.000 --> 26:53.000]  Ok, guys, they finished the model pass, and they tell me the end of the story.
+[26:54.000 --> 26:56.000]  I'm intrigued. How does the story continue?
+[26:57.000 --> 27:00.000]  We tried to get out so many times, but they still passed.
+[27:01.000 --> 27:02.000]  And then we got back.
+[27:03.000 --> 27:04.000]  We are the blue ones.
+[27:05.000 --> 27:06.000]  And they caught our heads.
+[27:07.000 --> 27:08.000]  You get punished?
+[27:09.000 --> 27:10.000]  Yeah, that's what they do in prison.
+[27:11.000 --> 27:12.000]  How do you know that?
+[27:12.000 --> 27:13.000]  We were like in...
+[27:14.000 --> 27:15.000]  We were not the ones who were 15.
+[27:16.000 --> 27:18.000]  So we were like running, and they caught our heads.
+[27:19.000 --> 27:20.000]  And then they...
+[27:21.000 --> 27:22.000]  They called their dad because they are minors.
+[27:23.000 --> 27:26.000]  And then we got in trouble from our mom, so they couldn't pay us after.
+[27:27.000 --> 27:29.000]  So we had to pay them for like seven years.
+[27:30.000 --> 27:31.000]  Wait, in the jail?
+[27:32.000 --> 27:33.000]  Yeah, they did.
+[27:34.000 --> 27:35.000]  Seven years?
+[27:36.000 --> 27:37.000]  Wow, but how old are they going to be?
+[27:38.000 --> 27:41.000]  So they do something, squish me a little, so I'm the officer.
+[27:42.000 --> 27:43.000]  How old are you?
+[27:44.000 --> 27:45.000]  The police, Chloe.
+[27:46.000 --> 27:51.000]  They tell me that Kelsey and Kaylee are going to be in prison for seven years.
+[27:52.000 --> 27:54.000]  Because their mom got angry, she didn't come to pick them up.
+[27:55.000 --> 27:56.000]  That's very sad, I'm going to cry.
+[27:57.000 --> 27:58.000]  About this story.
+[27:59.000 --> 28:01.000]  What is the message of the story?
+[28:02.000 --> 28:04.000]  There has to be a message, something they are teaching.
+[28:05.000 --> 28:06.000]  You are the authors.
+[28:07.000 --> 28:08.000]  Do you want to print a photo?
+[28:09.000 --> 28:10.000]  No.
+[28:11.000 --> 28:12.000]  You want to be a realist.
+[28:13.000 --> 28:14.000]  Oh, ok, so maybe we take the photo away after a little while.
+[28:15.000 --> 28:16.000]  On purpose.
+[28:17.000 --> 28:18.000]  Where do they go?
+[28:19.000 --> 28:21.000]  They are stealing, they should have a consequence.
+[28:22.000 --> 28:23.000]  The shop?
+[28:24.000 --> 28:26.000]  I think they are passing, so they can take a picture.
+[28:27.000 --> 28:28.000]  Oh, ok.
+[28:29.000 --> 28:32.000]  I don't think your mom would let you stay there for seven years, no matter how angry she was.
+[28:33.000 --> 28:34.000]  She would die of shame.
+[28:37.000 --> 28:38.000]  Change the paper?
+[28:38.000 --> 28:39.000]  Something is happening.
+[28:40.000 --> 28:41.000]  Where is it?
+[28:42.000 --> 28:43.000]  You drew everything.
+[28:44.000 --> 28:45.000]  Can I print this one?
+[28:46.000 --> 28:47.000]  No.
+[28:48.000 --> 28:49.000]  It's not.
+[28:50.000 --> 28:53.000]  Ah, from the universe and the UFO.
+[28:54.000 --> 28:57.000]  Ok, girls, I'm going to go back to continue telling me.
+[28:58.000 --> 29:03.000]  I love the story, I see the message, I'm a little sad, but well, she will have to survive.
+[29:04.000 --> 29:05.000]  Let's move on to this other group.
+[29:06.000 --> 29:07.000]  Let's see who we have here.
+[29:08.000 --> 29:09.000]  We have...
+[29:10.000 --> 29:11.000]  Sorry, I'm going to kill myself.
+[29:12.000 --> 29:13.000]  How are we doing, girls?
+[29:18.000 --> 29:19.000]  Oh, hello.
+[29:20.000 --> 29:21.000]  New student?
+[29:22.000 --> 29:24.000]  You were here last week, but you didn't come so much.
+[29:25.000 --> 29:26.000]  What's your name?
+[29:27.000 --> 29:28.000]  Ivani.
+[29:29.000 --> 29:30.000]  Novani.
+[29:31.000 --> 29:32.000]  Novani, yes, it's true.
+[29:33.000 --> 29:35.000]  Novani, I don't know if I have this from your parents.
+[29:35.000 --> 29:36.000]  Let's see.
+[29:39.000 --> 29:40.000]  No.
+[29:41.000 --> 29:42.000]  Did I send this to you?
+[29:43.000 --> 29:44.000]  I didn't send it to you.
+[29:45.000 --> 29:47.000]  I think I told your mom I was going to send it, and then I didn't.
+[29:48.000 --> 29:49.000]  Can you send it to your parents?
+[29:50.000 --> 29:51.000]  And they have to sign.
+[29:52.000 --> 29:55.000]  Look, they have to put their initials here, if they agree to record it.
+[29:56.000 --> 29:57.000]  I explained it to them by phone.
+[29:58.000 --> 29:59.000]  And then, second, that's one.
+[30:00.000 --> 30:01.000]  And the other is to sign, two things.
+[30:02.000 --> 30:03.000]  And do you bring it tomorrow?
+[30:03.000 --> 30:06.000]  Yes, Novani, because you came in a little later, so I didn't give you this.
+[30:07.000 --> 30:10.000]  It's the permission so we can see your work for the program, ok?
+[30:11.000 --> 30:12.000]  Put it in your backpack, come on, honey.
+[30:24.000 --> 30:25.000]  Don't lose it, honey.
+[30:26.000 --> 30:27.000]  Do you have garlic for dinner?
+[30:34.000 --> 30:35.000]  Tell me what you're doing.
+[30:36.000 --> 30:37.000]  What's your story, Novani?
+[30:38.000 --> 30:39.000]  This one?
+[30:42.000 --> 30:44.000]  Hey, do you know that the dolls can stand up?
+[30:45.000 --> 30:46.000]  Because they're going to be in a box.
+[30:47.000 --> 30:48.000]  Like yours is three-dimensional.
+[30:49.000 --> 30:50.000]  I think it's the first one I see.
+[30:51.000 --> 30:52.000]  Kelsey, right?
+[30:53.000 --> 30:54.000]  No, what's her name?
+[30:55.000 --> 30:56.000]  Marin.
+[30:57.000 --> 30:58.000]  I'm confusing them.
+[30:59.000 --> 31:00.000]  Ok, here we have Novani.
+[31:00.000 --> 31:02.000]  We have Marin and we have Keisha.
+[31:03.000 --> 31:05.000]  I forget after not seeing them for so long.
+[31:06.000 --> 31:07.000]  And Keisha.
+[31:08.000 --> 31:11.000]  Let's see, Marin, I love that you're doing it like in space, you see?
+[31:12.000 --> 31:13.000]  Because we're going to make it in a box.
+[31:14.000 --> 31:18.000]  It's ok, Keisha has made it flat, because when we did it before it was flat.
+[31:19.000 --> 31:21.000]  But now, if you want, you can do it like standing up.
+[31:22.000 --> 31:24.000]  Novani is putting it up too, right?
+[31:25.000 --> 31:26.000]  Yes, I'm putting it up.
+[31:26.000 --> 31:28.000]  Novani is putting it up too, right?
+[31:29.000 --> 31:31.000]  Like sitting down, you're putting them up like three-dimensional.
+[31:32.000 --> 31:33.000]  Like mine.
+[31:34.000 --> 31:37.000]  And yet Keisha is fine, Keisha has chosen to make it flat.
+[31:38.000 --> 31:39.000]  More or less.
+[31:40.000 --> 31:41.000]  Alright.
+[31:43.000 --> 31:44.000]  I understand English too.
+[31:45.000 --> 31:46.000]  I like to speak in Spanish.
+[31:48.000 --> 31:49.000]  Alright.
+[31:50.000 --> 31:53.000]  Marin, tell me your story.
+[31:53.000 --> 31:54.000]  Tell me your story.
+[31:55.000 --> 31:56.000]  Tell me your story.
+[31:57.000 --> 31:58.000]  Where is your story?
+[31:59.000 --> 32:00.000]  Is it this one?
+[32:04.000 --> 32:05.000]  Alright.
+[32:06.000 --> 32:07.000]  The character is Jessie?
+[32:08.000 --> 32:09.000]  Jessie Apple?
+[32:11.000 --> 32:12.000]  Who is Jessie? Is this her?
+[32:13.000 --> 32:14.000]  Is that Jessie?
+[32:15.000 --> 32:17.000]  What happened? Did you take her head off?
+[32:18.000 --> 32:19.000]  I want to take a picture, can I?
+[32:20.000 --> 32:21.000]  Can I take a picture?
+[32:21.000 --> 32:22.000]  Can I take a picture?
+[32:23.000 --> 32:24.000]  Are you going to put her head on first?
+[32:25.000 --> 32:26.000]  Or should I take it off now?
+[32:27.000 --> 32:28.000]  And can I take a picture of yours?
+[32:29.000 --> 32:30.000]  Novani, don't move it.
+[32:33.000 --> 32:34.000]  Wow, Novani.
+[32:35.000 --> 32:37.000]  What are you going to do with these dolls? What's the story?
+[32:38.000 --> 32:40.000]  Do you have a story, all three of you?
+[32:41.000 --> 32:42.000]  Together?
+[32:45.000 --> 32:46.000]  No? Different?
+[32:47.000 --> 32:48.000]  No, I have a story with Novani.
+[32:49.000 --> 32:50.000]  You have a story with what?
+[32:51.000 --> 32:52.000]  Novani.
+[32:53.000 --> 32:54.000]  Novani and?
+[32:55.000 --> 32:56.000]  Noami.
+[32:57.000 --> 32:58.000]  Noami.
+[32:59.000 --> 33:00.000]  Where is Noami?
+[33:01.000 --> 33:02.000]  She came today.
+[33:03.000 --> 33:04.000]  Oh, I saw her come out.
+[33:06.000 --> 33:09.000]  So Keisha, Noemi and Noami have made the same story.
+[33:10.000 --> 33:11.000]  Can you tell me what it is, Keisha?
+[33:12.000 --> 33:13.000]  It's our...
+[33:15.000 --> 33:16.000]  Our...
+[33:17.000 --> 33:18.000]  How do you say it?
+[33:18.000 --> 33:20.000]  Our story is called, but my mom didn't tell me.
+[33:21.000 --> 33:22.000]  But one day she did.
+[33:24.000 --> 33:25.000]  Like a pajama party?
+[33:26.000 --> 33:27.000]  A sleepover? Something like that?
+[33:28.000 --> 33:29.000]  Yes.
+[33:30.000 --> 33:32.000]  Ok, so your mom didn't tell you and...
+[33:34.000 --> 33:36.000]  But you're making a big heart, right?
+[33:39.000 --> 33:40.000]  Tell me.
+[33:41.000 --> 33:43.000]  What is this about your story, the heart?
+[33:44.000 --> 33:45.000]  Take a picture.
+[33:45.000 --> 33:48.000]  It's a heart, but it's a person's heart.
+[33:49.000 --> 33:50.000]  A person's heart?
+[33:51.000 --> 33:52.000]  Yes.
+[33:53.000 --> 33:54.000]  And what is the message in your story?
+[33:55.000 --> 33:57.000]  Do you have a message you want to tell with your story?
+[33:58.000 --> 33:59.000]  As an author?
+[34:05.000 --> 34:06.000]  We don't have a story?
+[34:06.000 --> 34:07.000]  You don't have a story?
+[34:15.000 --> 34:18.000]  Ok, but did something happen after they didn't give you permission to make the pajama party?
+[34:19.000 --> 34:20.000]  What happened?
+[34:23.000 --> 34:24.000]  We made a video.
+[34:25.000 --> 34:26.000]  What?
+[34:27.000 --> 34:28.000]  A pajama video.
+[34:29.000 --> 34:30.000]  Oh, you made a pajama video?
+[34:33.000 --> 34:34.000]  But at school.
+[34:37.000 --> 34:38.000]  At school, to take to school?
+[34:39.000 --> 34:44.000]  Or at school, while they were at school, instead of going to class, they went to make a video?
+[34:45.000 --> 34:46.000]  No, here at our show.
+[34:47.000 --> 34:49.000]  Oh, during our show they made a video.
+[34:55.000 --> 34:57.000]  Oh, you're telling me in reality that they already made the video?
+[34:58.000 --> 34:59.000]  Of their pajama party?
+[35:00.000 --> 35:02.000]  Oh, they already did it, and this is extra, the heart?
+[35:03.000 --> 35:04.000]  You're just doing it for fun.
+[35:04.000 --> 35:05.000]  I'm doing it for fun.
+[35:06.000 --> 35:08.000]  Ah, ok, ok, now I understand.
+[35:17.000 --> 35:19.000]  Let's see, you have a little bit left there, Jordani.
+[35:21.000 --> 35:22.000]  Alright.
+[35:23.000 --> 35:24.000]  What do I need here?
+[35:26.000 --> 35:27.000]  No bunny.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ Finished  en transcription...
+ Time : 03:21:53________
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

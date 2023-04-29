@@ -1,0 +1,13 @@
+/__pycache__
+
+# Ignore media files
+*.wav
+*.m4a
+*.mp3
+*.mp4
+
+# Except test files
+!test*.wav
+!test*.m4a
+!test*.mp3
+!test*.mp4

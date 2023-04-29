@@ -1,0 +1,17 @@
+Audio File : whispy\test\test_0307.m4a             
+Model size : small
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting en transcription...          
+ Time : 02:18:17          
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   0 [0:00:00 -> 0:00:26.400000] So, I put this piece of tape here just to make sure it's always in the same place.
+   1 [0:00:26.400000 -> 0:00:28.400000] And then...
+   2 [0:00:28.400000 -> 0:00:30.400000] Okay, there's the app store solo.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished en transcription...          
+ Time : 02:18:40          
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

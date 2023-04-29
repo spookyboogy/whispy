@@ -1,0 +1,856 @@
+// begining of 0418_session_con_ninos-converted.txt
+
+[0:00:00 -> 0:00:02]  Dile a Muffy y a Mario.
+[0:00:06 -> 0:00:07]  Dime.
+[0:00:07 -> 0:00:09]  Dime que estás haciendo.
+[0:00:13 -> 0:00:15]  ¿Cómo nada? ¿No están planificando su stop motion?
+[0:00:15 -> 0:00:16]  Sí.
+[0:00:16 -> 0:00:18]  Muffy, a ver cómo va.
+[0:00:18 -> 0:00:19]  Aquí.
+[0:00:19 -> 0:00:20]  Dime.
+[0:00:20 -> 0:00:22]  ¿Se acuerda de que íbamos a cambiar la historia?
+[0:00:22 -> 0:00:23]  ¿Sí?
+[0:00:23 -> 0:00:25]  ¿Se acuerda de que íbamos a cambiar aquí?
+[0:00:25 -> 0:00:27]  Tenemos que que se reconcilien.
+[0:00:28 -> 0:00:30]  Es Aiden, ¿verdad?
+[0:00:30 -> 0:00:31]  Sí, es Aiden.
+[0:00:31 -> 0:00:33]  Aiden, Aiden.
+[0:00:33 -> 0:00:34]  Con Belén.
+[0:00:34 -> 0:00:37]  Donde se pelean con Isis.
+[0:00:37 -> 0:00:38]  Ajá, ajá.
+[0:00:38 -> 0:00:40]  Este es Aiden y ese es Isis.
+[0:00:40 -> 0:00:41]  Sí.
+[0:00:41 -> 0:00:43]  Isis hizo esto, no yo.
+[0:00:43 -> 0:00:44]  Con otra Isis.
+[0:00:44 -> 0:00:45]  Oh, Isis.
+[0:00:45 -> 0:00:47]  Isis hizo la historia, no yo.
+[0:00:47 -> 0:00:48]  ¿Hizo la historia?
+[0:00:48 -> 0:00:49]  Sí.
+[0:00:49 -> 0:00:50]  ¿La semana pasada?
+[0:00:51 -> 0:00:53]  ¿Cuando? ¿Antes de vacaciones?
+[0:00:53 -> 0:00:54]  Antes del descanso.
+[0:00:54 -> 0:00:56]  Ah, ¿pero te acuerdas de qué era?
+[0:00:56 -> 0:00:59]  Y al final el puso que se iban enojados.
+[0:01:00 -> 0:01:04]  Entonces estábamos hablando que cuando peleamos con los amigos,
+[0:01:04 -> 0:01:07]  si nos quedamos enojados o nos reconciliamos.
+[0:01:10 -> 0:01:12]  Cuéntame, Jaira, ¿no te gustaba esta historia?
+[0:01:12 -> 0:01:13]  ¿No querías esta historia?
+[0:01:13 -> 0:01:14]  ¿O quieren que termine?
+[0:01:14 -> 0:01:17]  Porque dices que Isis fue el que la hizo.
+[0:01:17 -> 0:01:18]  La que la hizo.
+[0:01:18 -> 0:01:19]  ¿La podemos cambiar?
+[0:01:19 -> 0:01:20]  ¿La podemos cambiar?
+[0:01:20 -> 0:01:22]  Cuéntame, cuéntame la historia.
+[0:01:22 -> 0:01:24]  ¿Te gusta la historia, Jaira?
+[0:01:24 -> 0:01:25]  Cuéntamela.
+[0:01:25 -> 0:01:27]  ¿Es importante para ti esta historia o no?
+[0:01:27 -> 0:01:28]  Sí.
+[0:01:28 -> 0:01:30]  Pero tiene que ser importante para ti, ¿por qué?
+[0:01:32 -> 0:01:34]  Porque es importante para ti.
+[0:01:35 -> 0:01:36]  ¿Qué vas a poner?
+[0:01:36 -> 0:01:39]  ¿Vas a poner algo de la comunidad en tu caja para la historia?
+[0:01:39 -> 0:01:40]  No.
+[0:01:40 -> 0:01:42]  ¿Dónde va a pasar esta historia?
+[0:01:42 -> 0:01:44]  En el parque.
+[0:01:44 -> 0:01:46]  ¿En el parque? A ver.
+[0:01:48 -> 0:01:51]  En el parque que no fuimos, que está, pero que es donde juegan al béisbol.
+[0:01:51 -> 0:01:53]  No fuimos el día del paseo, digo.
+[0:01:54 -> 0:01:55]  ¿No?
+[0:01:55 -> 0:01:56]  No.
+[0:01:56 -> 0:01:57]  Ok, pero va a ser en el parque.
+[0:01:57 -> 0:01:58]  No fuimos.
+[0:01:58 -> 0:01:59]  ¡Wow!
+[0:01:59 -> 0:02:00]  Va a ser en el parque.
+[0:02:02 -> 0:02:04]  A ver, y Dariel, ¿qué está haciendo?
+[0:02:04 -> 0:02:05]  ¡Wow!
+[0:02:05 -> 0:02:06]  Es perfecto.
+[0:02:06 -> 0:02:07]  ¿Lo has dicho?
+[0:02:07 -> 0:02:08]  Sí.
+[0:02:08 -> 0:02:09]  Yo creo que está bien así.
+[0:02:09 -> 0:02:10]  Sí.
+[0:02:10 -> 0:02:11]  Pero cuéntamelo.
+[0:02:11 -> 0:02:13]  ¿O qué va a pasar en el parque y qué va a pasar?
+[0:02:13 -> 0:02:15]  Voy con la profesora y la profesora.
+[0:02:15 -> 0:02:16]  ¿Qué va a pasar?
+[0:02:16 -> 0:02:17]  ¿Qué va a pasar?
+[0:02:17 -> 0:02:18]  ¿Qué va a pasar?
+[0:02:18 -> 0:02:19]  ¿Qué va a pasar?
+[0:02:19 -> 0:02:20]  ¿Qué va a pasar?
+[0:02:20 -> 0:02:22]  Explícale a la profesora cómo es la historia.
+[0:02:22 -> 0:02:24]  Y podemos cambiar cositas. A ver, cuéntame.
+[0:02:24 -> 0:02:26]  Cuéntale cómo me la explicaste a mi abuela.
+[0:02:26 -> 0:02:27]  A ver, Jaden.
+[0:02:27 -> 0:02:29]  Sí, esta es la abuela.
+[0:02:29 -> 0:02:31]  Y esta es mi abuela.
+[0:02:31 -> 0:02:32]  Y esta es mi abuela.
+[0:02:32 -> 0:02:34]  Y tenemos que hacer un...
+[0:02:34 -> 0:02:35]  un...
+[0:02:35 -> 0:02:36]  un...
+[0:02:36 -> 0:02:37]  un...
+[0:02:37 -> 0:02:38]  un...
+[0:02:38 -> 0:02:39]  un...
+[0:02:39 -> 0:02:40]  un...
+[0:02:40 -> 0:02:41]  un...
+[0:02:41 -> 0:02:43]  Bueno, los muñequitos los vamos a hacer con plástico, ¿no?
+[0:02:44 -> 0:02:45]  No.
+[0:02:45 -> 0:02:46]  Sí.
+[0:02:46 -> 0:02:47]  ¿Cómo los vamos a hacer?
+[0:02:47 -> 0:02:49]  Espera, que a lo mejor él tiene otra idea, Dariel.
+[0:02:49 -> 0:02:51]  Porque ha dicho que no.
+[0:02:52 -> 0:02:54]  Sí, sí, lo vamos a hacer con plástico.
+[0:02:54 -> 0:02:56]  Vamos a hacer una Isis y vamos a hacer un Jaden.
+[0:02:58 -> 0:03:00]  ¿Y qué va a pasar? ¿Cómo va a ser la acción?
+[0:03:00 -> 0:03:02]  ¿Cómo va a ser la acción?
+[0:03:02 -> 0:03:04]  ¿Cómo va a ser tu stop motion?
+[0:03:04 -> 0:03:05]  ¿Qué va a pasar primero?
+[0:03:09 -> 0:03:12]  ¿Queda revisar lo que escribimos primero?
+[0:03:12 -> 0:03:14]  No, no, no, no.
+[0:03:15 -> 0:03:17]  ¿Le puedo sacar una foto?
+[0:03:17 -> 0:03:19]  Oh, oh, ¿qué escribieron aquí?
+[0:03:19 -> 0:03:21]  Un montón de palabras.
+[0:03:21 -> 0:03:23]  Vamos a hacer una foto de tu... de tu...
+[0:03:23 -> 0:03:24]  movie.
+[0:03:24 -> 0:03:25]  Espera, primero que la coloque.
+[0:03:25 -> 0:03:27]  Ahora le puedes apretar.
+[0:03:27 -> 0:03:29]  ¿Le quieres apretar tú?
+[0:03:30 -> 0:03:31]  Jaden, ¿le quieres apretar?
+[0:03:31 -> 0:03:32]  ¿Al botón?
+[0:03:32 -> 0:03:33]  ¿Aquí?
+[0:03:33 -> 0:03:34]  La aprieto yo.
+[0:03:34 -> 0:03:35]  Mira para ti y mira ahí.
+[0:03:36 -> 0:03:38]  Ahí, perfecto. Gracias.
+[0:03:38 -> 0:03:40]  Este es el de Jaden y Isis.
+[0:03:41 -> 0:03:42]  ¿Es verdad?
+[0:03:43 -> 0:03:44]  ¿Me cuentas?
+[0:03:46 -> 0:03:47]  ¿Ahí qué pusieron?
+[0:03:47 -> 0:03:48]  ¿Me?
+[0:03:50 -> 0:03:51]  ¿Isis?
+[0:03:51 -> 0:03:52]  Isis.
+[0:03:52 -> 0:03:54]  Me, fighting Isis.
+[0:03:54 -> 0:03:56]  Fighting Isis.
+[0:03:56 -> 0:03:57]  Buen título, ¿no?
+[0:03:57 -> 0:03:59]  Porque de eso es la historia.
+[0:03:59 -> 0:04:02]  ¿Y qué quieres decirle a las personas que vean tu historia?
+[0:04:03 -> 0:04:05]  ¿Qué mensaje estás dando como autor?
+[0:04:05 -> 0:04:06]  Tú eres el autor de la historia.
+[0:04:06 -> 0:04:08]  ¿Cuál es tu mensaje?
+[0:04:09 -> 0:04:10]  Al lector.
+[0:04:12 -> 0:04:13]  Tiene que haber un mensaje, ¿no?
+[0:04:13 -> 0:04:14]  Sí.
+[0:04:22 -> 0:04:24]  A ver, Dariel, ¿puedo sacarle foto?
+[0:04:24 -> 0:04:25]  Oh, tú todavía no has terminado.
+[0:04:25 -> 0:04:26]  Le saco foto después.
+[0:04:26 -> 0:04:28]  Sí, porque está cambiando un poco la historia.
+[0:04:29 -> 0:04:30]  Cuéntame, Dariel.
+[0:04:31 -> 0:04:33]  Está viendo Mario con nosotros.
+[0:04:33 -> 0:04:34]  ¿Puedo usar un arraigador?
+[0:04:34 -> 0:04:35]  Espera un segundo.
+[0:04:36 -> 0:04:37]  ¡Ah, me he arruinado!
+[0:04:39 -> 0:04:40]  Gracias.
+[0:04:41 -> 0:04:42]  Dariel y...
+[0:04:43 -> 0:04:44]  ¡Mario!
+[0:04:46 -> 0:04:48]  Dariel y Mario, ¿ese es tu título?
+[0:04:49 -> 0:04:51]  No, aquí pone que el título es The Bee.
+[0:04:53 -> 0:04:55]  ¿Ese es el título de tu historia, Dariel?
+[0:04:55 -> 0:04:57]  Dariel y Mario, ¿va a ser tu título?
+[0:04:57 -> 0:04:58]  Sí.
+[0:04:58 -> 0:04:59]  Sí, mi nombre es Mario también.
+[0:04:59 -> 0:05:00]  Lo has cambiado.
+[0:05:00 -> 0:05:02]  Mi nombre es Mario también.
+[0:05:02 -> 0:05:04]  Perdona, recuérdame tu nombre, que se me olvidó.
+[0:05:04 -> 0:05:05]  ¿Es Mario?
+[0:05:05 -> 0:05:06]  ¿Recuérdame tu nombre?
+[0:05:06 -> 0:05:07]  ¿Recuérdame tu nombre?
+[0:05:07 -> 0:05:08]  Jordani.
+[0:05:08 -> 0:05:09]  Jordani, perdón, Jordani.
+[0:05:09 -> 0:05:12]  A ver, Jordani, dime, ¿qué estás buscando en el teléfono?
+[0:05:12 -> 0:05:14]  Hacer Mario.
+[0:05:14 -> 0:05:15]  ¿Quieres hacer Mario también?
+[0:05:15 -> 0:05:17]  Ya lo tenías hecho, estaba súper bien.
+[0:05:17 -> 0:05:19]  Sí, pero no me gustó.
+[0:05:20 -> 0:05:21]  ¿No te gustó tanto?
+[0:05:22 -> 0:05:25]  Y ahora quiero hacer un Easy.
+[0:05:26 -> 0:05:27]  ¿Cómo?
+[0:05:27 -> 0:05:28]  Un Easy version.
+[0:05:28 -> 0:05:29]  ¿Un Easy version?
+[0:05:29 -> 0:05:30]  ¿Para poderlo dibujar mejor?
+[0:05:31 -> 0:05:32]  ¿Eso?
+[0:05:32 -> 0:05:33]  ¿Puedo usar el arraigador?
+[0:05:33 -> 0:05:34]  Sí.
+[0:05:35 -> 0:05:36]  ¿Y cuál va a ser la historia?
+[0:05:37 -> 0:05:38]  ¿Has pensado?
+[0:05:38 -> 0:05:41]  No me importa, solo quiero...
+[0:05:43 -> 0:05:46]  Pero dijimos que Mario iba a caminar por dónde.
+[0:05:46 -> 0:05:48]  Espera, déjame ver, déjame ver.
+[0:05:48 -> 0:05:50]  No, en realidad, quiero...
+[0:05:50 -> 0:05:51]  Está concentrado.
+[0:05:52 -> 0:05:57]  Quiero rojo, azul y azul.
+[0:05:57 -> 0:05:58]  Los colores de Mario.
+[0:05:58 -> 0:05:59]  Sí.
+[0:05:59 -> 0:06:00]  Bien.
+[0:06:00 -> 0:06:01]  Y rojo.
+[0:06:01 -> 0:06:03]  ¿Qué está pasando en tu historia, Dariel?
+[0:06:04 -> 0:06:05]  ¡Ese fue un buen!
+[0:06:07 -> 0:06:08]  Ese fue un buen.
+[0:06:08 -> 0:06:10]  ¿Dónde está Mario?
+[0:06:10 -> 0:06:11]  Mario está aquí.
+[0:06:12 -> 0:06:13]  ¿Ese es Mario?
+[0:06:13 -> 0:06:15]  Sí, es muy bueno.
+[0:06:15 -> 0:06:17]  Pero te saltaste toda esta historia.
+[0:06:18 -> 0:06:20]  Voy a arreglarlo.
+[0:06:20 -> 0:06:21]  Cuéntame desde el principio.
+[0:06:21 -> 0:06:23]  No, digo contándomelo con tu boca.
+[0:06:23 -> 0:06:24]  Y marrón.
+[0:06:24 -> 0:06:25]  Necesito también un rojo.
+[0:06:25 -> 0:06:26]  Un marrón.
+[0:06:26 -> 0:06:27]  Café.
+[0:06:29 -> 0:06:31]  Cuéntame qué pasa en el primero.
+[0:06:32 -> 0:06:34]  Bueno, vale, me cuentas entero cómo iba, ¿no?
+[0:06:34 -> 0:06:37]  Dices que vas a la playa con Mario.
+[0:06:38 -> 0:06:39]  Y con mi otro amigo.
+[0:06:40 -> 0:06:41]  ¿Con otros amigos?
+[0:06:41 -> 0:06:42]  Sí.
+[0:06:42 -> 0:06:43]  ¿Que no son del videojuego o sí?
+[0:06:44 -> 0:06:45]  No, de verdad.
+[0:06:45 -> 0:06:46]  Ok, personas.
+[0:06:46 -> 0:06:47]  De verdad.
+[0:06:47 -> 0:06:48]  De verdad.
+[0:06:49 -> 0:06:50]  ¿Y qué van a hacer en la playa?
+[0:06:51 -> 0:06:53]  Vamos a...
+[0:06:54 -> 0:06:56]  ¿Va a haber algún problema en tu historia o no?
+[0:07:01 -> 0:07:03]  ¿Y qué va a hacer este Mario?
+[0:07:03 -> 0:07:04]  ¿Es Dariel?
+[0:07:04 -> 0:07:05]  ¿O no te puedes...?
+[0:07:05 -> 0:07:07]  Te estoy distrayendo mientras dibujas.
+[0:07:07 -> 0:07:09]  Estuve todo el día peleando.
+[0:07:10 -> 0:07:12]  ¿Y qué va a hacer Mario?
+[0:07:12 -> 0:07:13]  ¿Es Dariel?
+[0:07:13 -> 0:07:14]  ¿O no te puedes...?
+[0:07:14 -> 0:07:16]  Te estoy distrayendo mientras dibujas.
+[0:07:16 -> 0:07:18]  Estuve todo el día peleando.
+[0:07:19 -> 0:07:20]  ¿Y qué va a hacer Mario?
+[0:07:20 -> 0:07:21]  ¿Es Dariel?
+[0:07:21 -> 0:07:22]  ¿O no te puedes...?
+[0:07:23 -> 0:07:24]  ¡Wow!
+[0:07:30 -> 0:07:31]  ¡Ya está!
+[0:07:31 -> 0:07:33]  Ok, cuéntame la historia ahora.
+[0:07:33 -> 0:07:37]  Entonces, van a la playa con Mario y con otras personas reales, otros amigos.
+[0:07:37 -> 0:07:38]  ¿Y qué pasa?
+[0:07:39 -> 0:07:41]  Mario se quitó el gorro aquí.
+[0:07:42 -> 0:07:43]  ¿Se quitó el gorro aquí?
+[0:07:43 -> 0:07:44]  ¿En la tres?
+[0:07:44 -> 0:07:45]  Ok.
+[0:07:45 -> 0:07:46]  ¿Esta es la uno?
+[0:07:46 -> 0:07:47]  ¿Puedo poner números?
+[0:07:47 -> 0:07:48]  Esta es la dos.
+[0:07:48 -> 0:07:49]  ¿Le pongo un número aquí?
+[0:07:50 -> 0:07:51]  ¿Esta es la tres?
+[0:07:51 -> 0:07:52]  ¿Esta es la cuatro?
+[0:07:52 -> 0:07:53]  Ok.
+[0:07:53 -> 0:07:55]  ¿Me estás explicando de la tres?
+[0:07:55 -> 0:07:56]  ¿Se puso el gorro ahí?
+[0:07:57 -> 0:07:58]  No, se quitó.
+[0:07:58 -> 0:07:59]  Se quitó el gorro.
+[0:08:00 -> 0:08:01]  Ah, porque siempre lo lleva puesto.
+[0:08:01 -> 0:08:02]  Ok.
+[0:08:04 -> 0:08:06]  Es mucho tiempo.
+[0:08:11 -> 0:08:13]  Trece horas y más de cinco minutos.
+[0:08:13 -> 0:08:14]  Está muy bien.
+[0:08:14 -> 0:08:15]  Y viene así Mario.
+[0:08:15 -> 0:08:16]  Aquí está.
+[0:08:16 -> 0:08:17]  ¿Y ahora qué va a hacer este Mario?
+[0:08:17 -> 0:08:18]  Mario...
+[0:08:18 -> 0:08:19]  Mario...
+[0:08:22 -> 0:08:23]  ¿Este es Mario?
+[0:08:23 -> 0:08:24]  Sí.
+[0:08:24 -> 0:08:25]  ¿Y la gorra dónde está ahora?
+[0:08:26 -> 0:08:29]  Ponla en rojo si quieres para que se vea mejor, como aquí, ¿no?
+[0:08:31 -> 0:08:33]  Él lo puso en una parte.
+[0:08:33 -> 0:08:34]  ¿Oh, no está aquí en la escena?
+[0:08:34 -> 0:08:35]  No sale la gorra.
+[0:08:35 -> 0:08:36]  Allá.
+[0:08:36 -> 0:08:37]  Ok.
+[0:08:37 -> 0:08:38]  ¿Y qué pasa en la historia?
+[0:08:38 -> 0:08:39]  ¿Cuál es el problema en la historia?
+[0:08:39 -> 0:08:40]  ¿Hay un problema o no?
+[0:08:41 -> 0:08:42]  No.
+[0:08:42 -> 0:08:43]  Ok.
+[0:08:43 -> 0:08:45]  Yo estaba haciendo fun y cosas.
+[0:08:46 -> 0:08:47]  Lo está pasando bien.
+[0:08:47 -> 0:08:48]  ¿Estás haciendo fun?
+[0:08:48 -> 0:08:49]  ¿Dices?
+[0:08:49 -> 0:08:51]  Me encanta como lo has dicho usando inglés.
+[0:08:52 -> 0:08:53]  Sí.
+[0:08:54 -> 0:08:55]  Ahí hay el agua.
+[0:08:55 -> 0:08:56]  Ahí.
+[0:08:56 -> 0:08:57]  Ahí hay el agua.
+[0:08:58 -> 0:08:59]  ¿En la uno?
+[0:08:59 -> 0:09:00]  ¿Qué pasa en el agua?
+[0:09:00 -> 0:09:01]  No, eso no es agua.
+[0:09:01 -> 0:09:02]  Es un carro.
+[0:09:03 -> 0:09:04]  En el carro...
+[0:09:04 -> 0:09:05]  Oh, ¿y dónde está el agua?
+[0:09:06 -> 0:09:08]  Porque me has dicho algo del agua, ¿no?
+[0:09:09 -> 0:09:10]  Claro, la has puesto azul.
+[0:09:10 -> 0:09:11]  Pensaba que era...
+[0:09:11 -> 0:09:13]  Oh, ¿lo vas a colorear en marrón ahora?
+[0:09:15 -> 0:09:16]  Mejor, ¿sí?
+[0:09:18 -> 0:09:20]  Y a un otro carro.
+[0:09:21 -> 0:09:22]  Ahí hay que pegar.
+[0:09:22 -> 0:09:23]  ¿Y en dónde van a estar?
+[0:09:24 -> 0:09:27]  14 horas y 29 minutos.
+[0:09:29 -> 0:09:31]  A un otro carro.
+[0:09:32 -> 0:09:36]  Pa' atrás de los otros.
+[0:09:36 -> 0:09:37]  Y lo chocó.
+[0:09:38 -> 0:09:39]  ¿Lo chocó?
+[0:09:40 -> 0:09:41]  ¿Aquí en la número uno?
+[0:09:42 -> 0:09:43]  Ajá, esa es la única cosa que pasó.
+[0:09:44 -> 0:09:47]  ¿Entonces lo vas a hacer con plástico y vas a hacer dos carros que se chocan?
+[0:09:48 -> 0:09:50]  Ok, ¿y luego qué pasa?
+[0:09:51 -> 0:09:52]  Se chocan.
+[0:09:53 -> 0:09:55]  ¿Así es la historia ya? ¿Se chocan y ahí se acaba la historia?
+[0:09:55 -> 0:09:56]  No.
+[0:09:57 -> 0:09:58]  No, la historia no va a gustar a él.
+[0:09:58 -> 0:09:59]  No, a él le va a gustar.
+[0:09:59 -> 0:10:00]  No, a él le va a gustar.
+
+// begining of apr_18_pt2-transcript-converted.txt
+
+[0:00:00 -> 0:00:04]   ¿Lo voy a ver en la plastilina?
+[0:00:04 -> 0:00:07]   ¿Cuál va a ser el mensaje de tu historia, Dariel?
+[0:00:07 -> 0:00:08]  Dariel: uhm... the name of my story is umm...
+[0:00:09 -> 0:00:16]   El mensaje, ¿qué quieres decir como autor a la persona que va a ver tu historia?
+[0:00:17 -> 0:00:25]  Dariel: The name of my story, is, umm...
+[0:00:17 -> 0:00:25]   Dariel: Welcome to the mario and dariel movie, at the beginning
+[0:00:25 -> 0:00:29]   ¿Eso vas a decir al principio? Me encanta.
+[0:00:31 -> 0:00:38]   ¿Pero qué quieres que las personas aprendan cuando tengas tu historia hecha con plásticos y hagas tu stop motion movie?
+[0:00:38 -> 0:00:44]   ¿Qué vas a querer que las personas aprendan con tu movie? ¿Estás enseñándoles algo o para qué es tu movie?
+[0:00:44 -> 0:00:46]   ¿Por qué estás viendo este movie?
+[0:00:46 -> 0:00:58]   Porque ellos en tap x o se disfrazan (fun?), pero entonces lo chocó, pero entonces eso hizo que el carro va más rápido y llegamos más rápido.
+[0:00:58 -> 0:01:00]   ¿Al chocar fueron más rápidos?
+[0:01:00 -> 0:01:01]   Sí.
+[0:01:01 -> 0:01:04]   Ah, fue un empujoncito, no fue un accidente, fue un empujón.
+[0:01:04 -> 0:01:08]   Porque el carro es hecho de metal fuerte.
+[0:01:08 -> 0:01:13]   Oh, está hecho de metal fuerte, entonces al darle no se arrugó, no se dobló, no se estropeó.
+[0:01:13 -> 0:01:24]   Como solo se hundió un poquito, pero el carro para atrás tiene como roto, roto, roto.
+[0:01:25 -> 0:01:27]   Ajá, ahí lo veo. ¿Dónde está el roto, aquí?
+[0:01:27 -> 0:01:31]   No, aquí, el otro carro que chocó [choquió] con este. <---- lmaooo
+[0:01:31 -> 0:01:32]   Este sí se rompió.
+[0:01:32 -> 0:01:33]   Porque este es tan fuerte.
+[0:01:33 -> 0:01:36]   Porque lo chocó y le dio tan duro.
+[0:01:36 -> 0:01:39]   Pero el otro no era tan fuerte y se rompió.
+[0:01:39 -> 0:01:42]   Ok, pero ustedes llegan rapidísimo a la playa.
+[0:01:42 -> 0:01:44]   Ajá, porque el carro.
+[0:01:44 -> 0:01:50]   Ok, y entonces aquí, en la número dos, ¿qué pasó?
+[0:01:51 -> 0:01:53]  Dariel: Ah, this is boring!
+[0:01:53 -> 0:01:57]   ¿El qué? ¿Contarme tu historia? Tu historia es aburrida?
+[0:01:57 -> 0:02:02]   Dariel: Not my story! This is boring to talk so long.
+[0:02:02 -> 0:02:04]   Ok, ¿qué me quieres contar entonces?
+[0:02:04 -> 0:02:11]   Mayo is walking on the little uh, you know the beaches,
+[0:02:11 -> 0:02:13]   there's like these little rocks
+[0:02:13 -> 0:02:16]   Ah, sí, sí, en las rocas, así caminando por las rocas.
+[0:02:16 -> 0:02:25]   Yeah, and then now, we're like, we're going to the beach -- and no that's... that
+[0:02:16 -> 0:02:25]  And now we're on sand
+[0:02:25 -> 0:02:28]   Oh, estáis tumbados, ¿tomando el sol?
+[0:02:28 -> 0:02:29]   Yeah
+[0:02:29 -> 0:02:32]   Sí, estáis tomando el sol, ¿no? Tomando el sol.
+[0:02:32 -> 0:02:33]   Yes, laying down. 
+[0:02:33 -> 0:02:34]   Ok. Solo en la arena.
+[0:02:34 -> 0:02:36]   Solo en la arena, ok.
+[0:02:36 -> 0:02:39]   ¿Y ahí están en el agua, en el número cuatro?
+[0:02:39 -> 0:02:41]   Ajá, y fin.
+[0:02:41 -> 0:02:45]   ¿Fin? ¿Se van a nadar y se acabó la historia?
+[0:02:45 -> 0:02:47]   Esto va a ser...
+[0:02:47 -> 0:02:48]   ¿Esto va a ser qué?
+[0:02:48 -> 0:02:52]   Esto son extra, no hace falta rellenarlos todos.
+[0:02:52 -> 0:02:54]   ¡Guau! Mira este Super Mario.
+[0:02:54 -> 0:02:59]   No, porque en la final de la película va a ser todo negro.
+[0:02:59 -> 0:03:04]   ¿Vas a querer tenerlo negro al final? ¿Así es como termina tu historia? Muy bien, Dariel.
+[0:03:04 -> 0:03:10]   Luigi, Luigi, Luigi, L-I...
+[0:03:10 -> 0:03:11]   Joe?
+[0:03:11 -> 0:03:12]   John.
+[0:03:12 -> 0:03:13]   Buena pregunta, Jordana.
+[0:03:13 -> 0:03:14]   ¿Y este quién es?
+[0:03:14 -> 0:03:15]   John.
+[0:03:15 -> 0:03:17]   ¿Son amigos?
+[0:03:17 -> 0:03:19]   No, Joe.
+[0:03:19 -> 0:03:20]   Joe.
+[0:03:20 -> 0:03:23]   No, no, es Fota.
+[0:03:23 -> 0:03:25]   ¿Cómo es el que tenemos?
+[0:03:25 -> 0:03:26]   Luigi.
+[0:03:26 -> 0:03:27]   Luigi.
+[0:03:27 -> 0:03:29]   Ok, Luigi yo creo que es así.
+[0:03:29 -> 0:03:30]   It's a "G"!
+[0:03:30 -> 0:03:31]   ¿Puede ser así?
+[0:03:31 -> 0:03:32]   Lui-G.
+[0:03:32 -> 0:03:33]   Sí.
+[0:03:33 -> 0:03:34]   Ok.
+[0:03:34 -> 0:03:35]   A ver si nos sale.
+[0:03:35 -> 0:03:37]   ¿No es ese Luigi, no es ese?
+[0:03:37 -> 0:03:38]   Ajá.
+[0:03:38 -> 0:03:40]   No, no, ahí los tenemos.
+[0:03:41 -> 0:03:44]   That's like the old school Mario Kart.
+[0:03:55 -> 0:03:58]   Puedo intentarlo mirando la foto.
+[0:03:58 -> 0:03:59]   ¿Cuándo?
+[0:03:59 -> 0:04:02]   Puedo intentarlo mirando la línea.
+[0:04:02 -> 0:04:05]   ¿Está Lucas aquí hoy?
+[0:04:05 -> 0:04:06]   Lucas, sí.
+[0:04:06 -> 0:04:07]   ¿Ya está?
+[0:04:07 -> 0:04:08]   Sí.
+[0:04:11 -> 0:04:14]   ¿Cómo se desplaza?
+[0:04:14 -> 0:04:16]   Oh, me estoy yendo a la plaza.
+[0:04:16 -> 0:04:18]   ¿Están haciendo un acto o algo?
+[0:04:18 -> 0:04:19]   No.
+[0:04:19 -> 0:04:22]   Creo que ustedes el próximo día, Jordani.
+[0:04:22 -> 0:04:24]   ¿Tienes pensada tu historia?
+[0:04:24 -> 0:04:25]   ¿Me acuerdas?
+[0:04:25 -> 0:04:27]   Tú todavía no tienes tu historia pensada.
+[0:04:27 -> 0:04:28]   Mario, Mario.
+[0:04:28 -> 0:04:29]   Hola, Jeremy.
+[0:04:29 -> 0:04:30]   ¡Uy!, ¿qué es eso?
+[0:04:30 -> 0:04:32]   Luigi es el compañero de Mario.
+[0:04:32 -> 0:04:33]   No, es hermano.
+[0:04:33 -> 0:04:34]   ¿Es tu hermano?
+[0:04:34 -> 0:04:36]   Sí, el hermano.
+[0:04:36 -> 0:04:37]   Oh.
+[0:04:38 -> 0:04:40]   Mario empezó a saltar.
+[0:04:41 -> 0:04:42]  How do you spell "jumping"? 
+[0:04:41 -> 0:04:42]  Jumping?
+[0:04:41 -> 0:04:42]  No I said what was happening in the story
+[0:04:40 -> 0:04:41]   Jumping?
+[0:04:41 -> 0:04:42]   ¿J?
+[0:04:42 -> 0:04:45]   No, es que, ¿qué pasó cuando empezó a saltar?
+[0:04:45 -> 0:04:48]   They was playin' around...
+[0:04:48 -> 0:04:51]   No they was fixin' all the stuff.
+[0:04:51 -> 0:04:52]   Ok.
+[0:04:52 -> 0:04:59]   No, cuz, I put Mario separate from luigi and luigi is behind him because you know, 
+[0:04:59 -> 0:05:06]   In the movie Mario, it's them jumping over stuff to house to fix something. They're jumping over stuff.
+[0:05:06 -> 0:05:09]   Bueno, Mario en el videojuego salta, ¿no?
+[0:05:09 -> 0:05:12]   No, the brother Mario, in the movie...
+[0:05:12 -> 0:05:13]   Ok.
+[0:05:13 -> 0:05:16]   The brother... Mario...
+[0:05:16 -> 0:05:18]   ¡Uy! ¡Uy!
+[0:05:18 -> 0:05:20]   Oh, en la última película que ha salido.
+[0:05:20 -> 0:05:21]   ¿Ya la has visto?
+[0:05:21 -> 0:05:22]   Sí.
+[0:05:22 -> 0:05:23]   Voy a ir con mi hijo a ver.
+[0:05:23 -> 0:05:24]   ¿Con quién está?
+[0:05:24 -> 0:05:25]   El carro.
+[0:05:25 -> 0:05:32]   Él está cansado porque ellos están corriendo porque el carro está dañado.
+[0:05:33 -> 0:05:34]   Ok.
+[0:05:34 -> 0:05:37]   Y no fession... fissiona [funciona] el carro.
+[0:05:37 -> 0:05:39]   ¿Y esta va a ser tu historia?
+[0:05:39 -> 0:05:40]   Sí.
+[0:05:40 -> 0:05:41]   ¿Esto se puede ver?
+[0:05:41 -> 0:05:42]   Sí.
+[0:05:42 -> 0:05:43]   ¿No?
+[0:05:43 -> 0:05:46]   No pongas tanto detalle porque si no no te va a dar tiempo.
+[0:05:46 -> 0:05:49]   Esto solo es el planning de tu historia, ¿verdad Jordani?
+[0:05:49 -> 0:05:50]   No.
+[0:05:50 -> 0:05:51]   ¿Qué hace?
+[0:05:51 -> 0:05:52]   ¿Jump?
+[0:05:52 -> 0:05:53]   ¿No?
+[0:05:53 -> 0:05:54]   En tu vestido.
+[0:05:54 -> 0:05:55]   Ok, déjame ver.
+[0:05:55 -> 0:05:56]   ¿O saltar?
+[0:05:56 -> 0:05:57]  Fixing!!!
+[0:05:56 -> 0:05:57]   Fixing, fixing things?
+[0:05:57 -> 0:05:59]   ¿Pues venga? Fix.
+[0:06:00 -> 0:06:01]   Fixing. Fix-ing...
+[0:06:01 -> 0:06:02]   ¿Puedo decir los personajes?
+[0:06:02 -> 0:06:03]   Fixing.
+[0:06:03 -> 0:06:04]   Perfecto.
+[0:06:04 -> 0:06:07]   Ok, entonces Mario está fixing, y saltó y está fixing.
+[0:06:07 -> 0:06:09]   Y está acabando.
+[0:06:09 -> 0:06:10]   ¿Qué parece?
+[0:06:10 -> 0:06:11]   ¿Cómo se dice?
+[0:06:11 -> 0:06:12]   No, it's the ending, the ending, like the screen goes black.
+[0:06:12 -> 0:06:13]   ¿El final?
+[0:06:13 -> 0:06:14]   Sí, el final.
+[0:06:14 -> 0:06:15]   Ah, el final.
+[0:06:15 -> 0:06:16]   Sí, el final.
+[0:06:16 -> 0:06:17]   Bueno, vamos a ver.
+[0:06:17 -> 0:06:18]   A ver, por ejemplo, ¿qué dice Mario?
+[0:06:18 -> 0:06:19]   ¿Qué dice Mario?
+[0:06:29 -> 0:06:31]   Entonces Mario está fixing. Y saltó y está fixing.
+[0:06:33 -> 0:06:34]   aquí.
+[0:06:34 -> 0:06:35]   Ok.
+[0:06:35 -> 0:06:36]   Bien.
+[0:06:36 -> 0:06:37]   Ya.
+[0:06:37 -> 0:06:40]   Y, eh, Dariel me...
+[0:06:40 -> 0:06:41]   Está acabando.
+[0:06:41 -> 0:06:42]   ¿Qué es?
+[0:06:42 -> 0:06:43]   El final de la historia.
+[0:06:43 -> 0:06:44]   No.
+[0:06:44 -> 0:06:45]   No.
+[0:06:45 -> 0:06:46]   No.
+[0:06:46 -> 0:06:48]   Esto es el final.
+[0:06:48 -> 0:06:50]   Como cuando se graba.
+[0:06:50 -> 0:06:51]   ¿Aquí?
+[0:06:51 -> 0:06:52]   Sí, aquí es cuando está nadando.
+[0:06:52 -> 0:06:55]   Sí, aquí cuando sale el final, dice, director.
+[0:06:55 -> 0:06:58]   Productor, Dariel.
+[0:06:58 -> 0:06:59]   Y Dariel.
+[0:06:59 -> 0:07:00]   Dariel.
+[0:07:00 -> 0:07:02]   ¿Ahora sí me puedo tomar una foto de tu trabajo?
+[0:07:02 -> 0:07:03]   Todo Dariel.
+[0:07:03 -> 0:07:04]   Jordani.
+[0:07:04 -> 0:07:07]   Pero voy a volver a ver cuánto avanzas.
+[0:07:07 -> 0:07:08]   ¿A ver cuánto avanzas?
+[0:07:08 -> 0:07:09]   A menos de...
+[0:07:09 -> 0:07:11]   ¿A menos de cuándo va a ser la segunda parte de la historia?
+[0:07:11 -> 0:07:12]   Pero a Dariel, que a Dariel me va a pedir...
+[0:07:12 -> 0:07:13]   Digo, si, Dariel.
+[0:07:13 -> 0:07:14]   Bueno.
+[0:07:14 -> 0:07:16]   De tus cinco con el negro al final.
+[0:07:16 -> 0:07:17]   ¿Peleando?
+[0:07:17 -> 0:07:19]   ¿Quién está peleando?
+[0:07:19 -> 0:07:20]   Yo tengo.
+[0:07:20 -> 0:07:21]   Gracias, Dariel.
+[0:07:21 -> 0:07:22]   A ver, ¿qué pasa?
+
+// next group 
+
+[0:07:22 -> 0:07:23]   A ver, ¿quiénes están?
+[0:07:23 -> 0:07:24]   Está Lucas, está Chloe, está Marin...
+[0:07:24 -> 0:07:25]   No.
+[0:07:25 -> 0:07:26]   Kelsey.
+[0:07:26 -> 0:07:27]   Está Pepita.
+[0:07:27 -> 0:07:28]   Kaylee.
+[0:07:28 -> 0:07:29]   Y Jeremy.
+[0:07:29 -> 0:07:30]   ¿Y qué están haciendo?
+[0:07:31 -> 0:07:34]  
+[0:07:34 -> 0:07:42]   Kelsey, Pepe, Kaylee y Jeremy.
+[0:07:43 -> 0:07:46]   Y mi nombre y hay muchos más.
+[0:07:50 -> 0:07:53]   So we had a story...
+[0:07:50 -> 0:07:53]  Me cuenta... Kelsey. cuéntame Kelsey
+[0:07:53 -> 0:08:06]   The story is about uh, we are stealing, squishmellows and we got arrested.
+[0:08:09 -> 0:08:11]   Me and Kelsey are stealing marshmallows
+[0:08:13 -> 0:08:16]   Estaban robando... ¿marshmallows?
+[0:08:17 -> 0:08:18]   ¿Marshmallows?
+[0:08:18 -> 0:08:20]   Yeah they're like a little...
+[0:08:22 -> 0:08:25]   These, the green and the pink pastries?
+[0:08:27 -> 0:08:29]   All these, you aree stealing them?
+[0:08:29 -> 0:08:31]   Yeah, and we got arrested.
+[0:08:31 -> 0:08:39]   But you know, you can make them like 3-dimensional, like you can make them stand up, 
+[0:08:39 -> 0:08:41]   Cause you're going to have a box and you can put them inside
+[0:08:42 -> 0:08:48]   But you already have this all set up...
+[0:08:48 -> 0:08:51]   So tell me more Kelsey about this story. What happens then?
+[0:08:52 -> 0:08:55]   What happens then?
+[0:08:55 -> 0:08:58]   Somebody comes and tells you "what are you doing?"
+[0:08:58 -> 0:08:59]   What happens? 
+[0:08:59 -> 0:09:01]   Perdón, que os estoy hablando en inglés.
+[0:09:01 -> 0:09:03]   No, ¿les arrestan la policía?
+[0:09:03 -> 0:09:04]   Sí.
+[0:09:05 -> 0:09:07]   ¿Y cómo se sienten cuando eso pasa?
+[0:09:08 -> 0:09:09]   Muy...
+[0:09:10 -> 0:09:11]   Muy bien.
+[0:09:11 -> 0:09:12]   No, me siento feliz.
+[0:09:12 -> 0:09:13]   ¡Oh, sí!
+[0:09:13 -> 0:09:18]   ¿Ah, están contentos? ¿Cómo que están contentos? ¿Porque los arrestan?
+[0:09:18 -> 0:09:20]   Porque se lo merecen, ¿o qué?
+[0:09:23 -> 0:09:26]   ¿Quiénes están en la historia robando? ¿Quiénes son?
+[0:09:26 -> 0:09:28]   ¿Kaylee tú?
+[0:09:28 -> 0:09:29]   Sí.
+[0:09:29 -> 0:09:32]   Ah, o sea que ustedes están en esta historia. ¿Y dónde pasa la historia?
+[0:09:32 -> 0:09:37]   ¿Qué imagen van a hacer? ¿En Target? ¿En Target van a estar robando los muñequitos?
+[0:09:37 -> 0:09:38]   Sí.
+[0:09:38 -> 0:09:39]   Me too! 
+[0:09:39 -> 0:09:40]   ¿Chloe también está?
+[0:09:40 -> 0:09:41]   Sí, Chloe quiere estar.
+[0:09:41 -> 0:09:43]   ¿Por qué?
+[0:09:43 -> 0:09:44]   ¿Por qué?
+[0:09:48 -> 0:09:51]   A ver, ¿qué pasó? ¿Borraron el nombre de Chloe? ¿Por qué?
+[0:09:53 -> 0:09:57]   ¿Too many people? Bueno, pero ¿qué va a hacer Chloe entonces? Tiene que tener un papel.
+[0:09:53 -> 0:09:57]  I dunno, but what can you do.
+[0:09:57 -> 0:09:59]   ¿Y la policía?
+[0:09:59 -> 0:10:01]   ¡Lo logró!
+[0:10:01 -> 0:10:03]   ¡Ella! No sé si lo logró.
+[0:10:03 -> 0:10:05]   ¿Pero qué hizo?
+[0:10:06 -> 0:10:11]   ¿Puede ser la policía? ¿Quién quieres ser, Chloe? ¿Tú qué vas a hacer?
+[0:10:18 -> 0:10:20]   Chloe, ¿tú qué vas a hacer?
+[0:10:20 -> 0:10:22]   ¡Ella es la policía!
+[0:10:22 -> 0:10:23]   ¡Estoy bromeando!
+[0:10:23 -> 0:10:24]   ¡Ella es la policía!
+[0:10:24 -> 0:10:30]   A ver, ¿qué dice Chloe? Que no la oiga. Dime, cariño. Se ha ido. ¿Qué decías, Kelsey?
+[0:10:31 -> 0:10:34]   My name is.. her name is Kelsey, my name is...
+[0:10:34 -> 0:10:39]   Ay, perdón, Kelsey. ¿Kaylee? No. ¿Kaylee, no?
+[0:10:39 -> 0:10:40]   Sí.
+[0:10:40 -> 0:10:44]   A ver, ¿Kaylee, qué me decías, perdón? ¿Qué puede hacer Chloe?
+[0:10:45 -> 0:10:47]   She's gonna be a police officer and arrest us.
+[0:10:47 -> 0:10:49]   ¿Crees que le gustará ese papel?
+[0:10:49 -> 0:10:50]   Sí.
+[0:10:50 -> 0:10:51]   Tenemos que preguntarla.
+[0:10:51 -> 0:10:54]   But we don't have any more paper...
+[0:10:54 -> 0:10:56]   Probablemente tendríamos papel.
+[0:10:56 -> 0:11:03]   Bueno, podemos imaginarnos que son muchos colores. Este es el color de la piel de Chloe, un poquito parecido. ¿No?
+[0:11:06 -> 0:11:09]   Ok, ¿y qué va a pasar después de que os arrestan?
+[0:11:09 -> 0:11:11]   Uh we go to jail, and we have to...
+[0:11:11 -> 0:11:13]   We have to...
+[0:11:13 -> 0:11:15]   Tienen que...
+[0:11:16 -> 0:11:19]   ¿Nos van a llevar a la cárcel? A la cárcel de niños, espero.
+[0:11:19 -> 0:11:20]   A ver...
+[0:11:20 -> 0:11:22]   Madre mía, qué historia más triste es esta.
+[0:11:23 -> 0:11:25]   Ok, ¿y qué pasa cuando les llevan a la cárcel?
+[0:11:25 -> 0:11:27]   Uhh, I don't know.
+[0:11:28 -> 0:11:36]   ¿Cómo se resuelve el problema? El problema es que han robado sus muñequitos y se los llevan a la cárcel a la señorita policía Chloe.
+[0:11:37 -> 0:11:38]   ¿Y luego qué pasa?
+[0:11:39 -> 0:11:46]   ¿Están intentando enseñar un mensaje a la persona que vea su película o no? ¿Cuál es el mensaje que están diciendo en su película?
+[0:11:50 -> 0:11:53]   ¿Cuál es el mensaje que están intentando decir en su película, Kelsey?
+[0:11:57 -> 0:12:01]   Tiene que haber algún mensaje, algo que le quieran decir a la persona que vea la película. ¿No?
+[0:12:02 -> 0:12:05]   ¿Qué es el color de la piel de Chloe?
+[0:12:05 -> 0:12:06]   ... how it works... so I'm gonna put a hat...
+[0:12:07 -> 0:12:08]   ¿Cómo?
+[0:12:08 -> 0:12:11]   Entonces, yo quiero poner un color de piel, así que voy a poner un...
+[0:12:12 -> 0:12:14]   ¿Cómo, Kelsey? ¿Qué dijiste que no te oí?
+[0:12:14 -> 0:12:15]   Lo siento.
+[0:12:15 -> 0:12:16]   Hay mucho ruido ahí.
+[0:12:16 -> 0:12:17]   ¿Lo dices?
+[0:12:18 -> 0:12:22]   El efecto de la historia...
+[0:12:23 -> 0:12:25]   ¿El efecto de la historia?
+[0:12:29 -> 0:12:31]   Oye, que también entiendo inglés, eh.
+[0:12:32 -> 0:12:35]   So then we go a robar los cushmellows.
+[0:12:35 -> 0:12:37]   Ok, eso lo he entendido.
+[0:12:39 -> 0:12:40]   The wheel chair?
+[0:12:45 -> 0:12:46]   Sí, eso.
+[0:12:46 -> 0:12:47]   ¿Por qué lo dices?
+[0:12:47 -> 0:12:49]   Oh, the wheel's chair (?), sorry.
+[0:12:49 -> 0:12:50]   Sí.
+[0:12:50 -> 0:12:53]   Ok, Kelsey, me estabas contando. Entonces, estábamos robando los...
+[0:12:53 -> 0:12:54]   Los cuchamelos.
+[0:12:54 -> 0:12:55]   Sí. Y la policia 
+[0:12:56 -> 0:12:58]   ¿Y la policía?
+[0:12:58 -> 0:13:00]   La policía estaba... 
+[0:13:01 -> 0:13:02]   La policia Chloe.
+[0:13:01 -> 0:13:02]  And then they say, "Oh, you're under arrest." 
+[0:13:05 -> 0:13:06]   Sí.
+[0:13:05 -> 0:13:06]  And then we go wait -- And then there's also a weight...
+[0:13:12 -> 0:13:13]   ¿Llevar la pesa?
+[0:13:15 -> 0:13:16]   ¿Dónde, en la cárcel?
+[0:13:18 -> 0:13:21]   Ah, en Target, pero no se lo habían llevado a la cárcel.
+[0:13:21 -> 0:13:25]  They let me go to let me do exercises.
+[0:13:29 -> 0:13:32]   Oh, fueron a hacer ejercicio para ponerse más fuerte. Ok.
+[0:13:37 -> 0:13:39]   Chloe, ¿cuál es el mensaje de su historia?
+[0:13:48 -> 0:13:50]   No, desde ahí, pero más cerca, que no te oigo bien.
+[0:13:51 -> 0:13:53]   ¿Cuál es el mensaje de su historia?
+[0:13:59 -> 0:14:00]   Y nosotros, yo...
+[0:14:01 -> 0:14:03]   ... But I think we used ...
+[0:14:05 -> 0:14:06]   ¿Una máquina?
+[0:14:06 -> 0:14:07]   No, maquillaje.
+[0:14:07 -> 0:14:09]   ¿Oh, de maquillaje? ¿O qué es?
+[0:14:09 -> 0:14:10]   Sí, y... Y, candy... 
+[0:14:16 -> 0:14:18]   ¿Pero qué, que lo robaron también?
+[0:14:19 -> 0:14:20]   Oh, bueno.
+[0:14:21 -> 0:14:23]   No, no, eso lo compraste.
+[0:14:23 -> 0:14:25]   Eso lo compraste. Ok.
+[0:14:25 -> 0:14:27]   ¿Esta es otra historia o es la misma historia, Chloe?
+[0:14:33 -> 0:14:34]   ¿La misma historia?
+[0:14:34 -> 0:14:35]   Ya.
+[0:14:35 -> 0:14:39]   Ok. ¿Hay un mensaje en esta historia? ¿Algo que quieres enseñar a la persona que la vea?
+[0:14:41 -> 0:14:43]   ¿Cuál es el mensaje?
+[0:14:44 -> 0:14:47]   ¿Para qué estás haciendo esta historia? ¿Cuál es el mensaje?
+[0:14:48 -> 0:14:50]  Porque a mi me gusta Clears
+[0:14:52 -> 0:14:53]   ¿Clears es un sitio?
+[0:14:56 -> 0:14:57]   Claro.
+[0:14:59 -> 0:15:02]   A ti te gusta Clears, ok. Entonces quieres hacer la historia allí, ¿no?
+[0:15:02 -> 0:15:04]   ¿Y por qué te gusta?
+[0:15:04 -> 0:15:05]  Porque alli hay mucho juego... y candy...
+[0:15:06 -> 0:15:08]   ¿Ya habías estado allí antes?
+[0:15:15 -> 0:15:16]   ¿Vas con tu familia allí?
+[0:15:18 -> 0:15:19]   ¿No tanto?
+[0:15:22 -> 0:15:24]   Ok, bueno. ¿Alguien tiene el final de su historia?
+[0:15:24 -> 0:15:25]  We tried to sneak out, but the police caught us. 
+[0:15:25 -> 0:15:26]   Okay and you tried to sneak out y que pasó?
+[0:15:31 -> 0:15:32]   La policía Chloe.
+[0:15:33 -> 0:15:35]   Ok, ¿y luego qué pasó? ¿Cuál es el final de la historia?
+[0:15:36 -> 0:15:37]   ¿O hay más en la historia?
+[0:15:38 -> 0:15:39]   Ah, fuiste a hacer ejercicio?
+[0:15:40 -> 0:15:41]   ¿Y después?
+[0:15:42 -> 0:15:43]   ¿Cómo se hace el mayo?
+[0:15:44 -> 0:15:45]   ¿Un poco blanco, en serio?
+[0:15:46 -> 0:15:47]   ¿Sí?
+[0:15:48 -> 0:15:49]   ¿Qué es eso?
+[0:15:53 -> 0:15:54]   ¿Un poco blanco, en serio?
+[0:15:55 -> 0:15:56]   Yo le saco una foto al tuyo, Chloe.
+[0:15:57 -> 0:15:59]   Pero está bien porque no hay persona que me lo saque.
+[0:16:00 -> 0:16:01]   ¡Amarillo!
+[0:16:02 -> 0:16:03]   ¿Tú tienes una cámara?
+[0:16:04 -> 0:16:06]   Pensé que me pedías a mí. ¿Este es el tuyo, Chloe?
+[0:16:07 -> 0:16:08]   ¡Check foto!
+[0:16:09 -> 0:16:10]   La muñequita con el pelo negro.
+[0:16:11 -> 0:16:12]   Ok, Kelsey.
+[0:16:13 -> 0:16:14]   ¿Me vas a contar más de la historia?
+[0:16:24 -> 0:16:25]   Y los cushmellows
+[0:16:26 -> 0:16:27]   ¿Esto?
+[0:16:28 -> 0:16:29]   ¿Qué es eso?
+[0:16:30 -> 0:16:31]   ¿Es la cabeza?
+[0:16:32 -> 0:16:33]   ¿Así?
+[0:16:34 -> 0:16:35]   Sí.
+[0:16:36 -> 0:16:37]   ¿Pero vamos a preguntar a ella?
+[0:16:38 -> 0:16:39]   ¿Este?
+[0:16:40 -> 0:16:41]   ¿Qué pasó, Jenny?
+[0:16:42 -> 0:16:43]   ¿Pregúntale?
+[0:16:44 -> 0:16:46]   ¿Hay que apretar la cara o hay que dejar de comer bola?
+[0:16:47 -> 0:16:48]   Todo este, sí.
+[0:16:49 -> 0:16:53]   Así que se acaban con el pase de modelos y me cuentan el final de esta historia. Estoy intrigada.
+[0:16:54 -> 0:16:55]   ¿Cómo sigue la historia, pizza?
+[0:16:56 -> 0:16:59]   We try to get out Zoey and they still catch us.
+[0:17:00 -> 0:17:01]   And then we get punished.
+[0:17:02 -> 0:17:03]   Really, you get punished?
+[0:17:06 -> 0:17:08]   Yeah! That's what they do in prison -- in juvy
+[0:17:09 -> 0:17:10]   ¿Cómo sabes tú eso?
+[0:17:11 -> 0:17:13]   he was ___ when he was 15...
+[0:17:14 -> 0:17:15]   And then they call our parents, and... 
+[0:17:15 -> 0:17:20]   Entonces nos llevaron a la cárcel y nos llamaron a sus padres porque son menores de edad.
+[0:17:21 -> 0:17:25]   Y luego nos tuvimos problemas con nuestras mamás, así que no podíamos jugar.
+[0:17:26 -> 0:17:28]   So we have to stay there for like 7 years
+[0:17:29 -> 0:17:30]   ¿En la cárcel?
+[0:17:31 -> 0:17:32]   Sí, en la cárcel.
+[0:17:33 -> 0:17:34]   ¿7 años?
+[0:17:35 -> 0:17:36]   ¿Pero qué edad van a tener 7 años?
+[0:17:37 -> 0:17:39]   Entonces, yo soy la policía.
+[0:17:40 -> 0:17:41]   ¿Cómo es?
+[0:17:42 -> 0:17:43]   La policía Chloe.
+[0:17:43 -> 0:17:47]   Me dicen Kelsey y Kaylee que van a estar en la cárcel 7 años.
+[0:17:48 -> 0:17:50]   Porque su mamá se enfadó, no la vino a buscar.
+[0:17:51 -> 0:17:53]   Eso es muy triste, voy a llorar.
+[0:17:54 -> 0:17:55]   Con esta historia.
+[0:17:56 -> 0:17:58]   ¿Cuál es el mensaje de la historia?
+[0:17:59 -> 0:18:01]   Tiene que haber un mensaje, algo que están enseñando.
+[0:18:02 -> 0:18:03]   Ustedes son las autoras.
+[0:18:04 -> 0:18:05]   ¿Soto, quieres ser el primero?
+[0:18:06 -> 0:18:07]   
+[0:18:12 -> 0:18:13]   Entonces, quizás tomemos la foto después.
+[0:18:14 -> 0:18:15]   ¿A dónde van?
+[0:18:20 -> 0:18:21]   La tienda.
+[0:18:22 -> 0:18:24]   Yo voy a la tienda y les voy a tomar una foto.
+[0:18:25 -> 0:18:26]   ¿Pueden salir?
+[0:18:27 -> 0:18:31]   No me creo que tu mamá te dejara allí 7 años, por muy enfadada que estuviera.
+[0:18:32 -> 0:18:33]   Se moriría de pena.
+[0:18:36 -> 0:18:37]   ¿Algo que pasa?
+[0:18:38 -> 0:18:39]   ¿Dónde está?
+[0:18:40 -> 0:18:41]   ¿Te dibujaste?
+[0:18:42 -> 0:18:43]   ¿Puedo leer esto?
+[0:18:53 -> 0:18:55]   Ok, chicos, voy a volver a que me sigan contando.
+[0:18:56 -> 0:18:57]   Me encanta la historia.
+[0:18:58 -> 0:19:02]   Veo el mensaje, me da un poco de pena, pero bueno, tendrá que sobrevivir.
+[0:19:03 -> 0:19:04]   Vamos a pasar a este otro grupo.
+[0:19:05 -> 0:19:06]   A ver quién tenemos aquí.
+
+// next group 
+
+[0:19:07 -> 0:19:09]   Tenemos... Perdón que me mato.
+[0:19:11 -> 0:19:12]   ¿Qué tal vamos, chicas?
+[0:19:17 -> 0:19:19]   Hola, ¿nueva estudiante?
+[0:19:21 -> 0:19:23]   Estuviste la semana, la vez pasada, pero no te hizo tanto.
+[0:19:24 -> 0:19:25]   ¿Cómo es su nombre?
+[0:19:26 -> 0:19:27]   ¿Ivani?
+[0:19:28 -> 0:19:30]   Novani, sí, es verdad.
+[0:19:31 -> 0:19:33]   Novani, yo no sé si tengo esto de tus papás, a ver.
+[0:19:37 -> 0:19:38]   No.
+[0:19:39 -> 0:19:40]   ¿Este te lo mandé?
+[0:19:41 -> 0:19:42]   No te lo mandé.
+[0:19:43 -> 0:19:45]   Este permiso creo que le dije a tu mamá que le iba a mandar y luego no lo mandé.
+[0:19:46 -> 0:19:47]   ¿Se lo puedes hacer a tus papás?
+[0:19:48 -> 0:19:50]   Y tienen que firmar, mira, tienen que poner aquí sus iniciales,
+[0:19:51 -> 0:19:54]   si están de acuerdo en que lo grabe, yo les expliqué por teléfono.
+[0:19:55 -> 0:19:58]   Y luego, segundo, eso es uno, y otro es firmar, dos cosas.
+[0:19:59 -> 0:20:00]   ¿Y lo traes mañana?
+[0:20:01 -> 0:20:04]   Sí, Novani, porque como tú entraste un poquito más tarde, no te di esto.
+[0:20:04 -> 0:20:07]   Es el permiso para que podamos ver tu trabajo para el programa, ¿ok?
+[0:20:08 -> 0:20:09]   Ponlo en tu mochila, anda, cariño.
+[0:20:21 -> 0:20:22]   Que no se pierdan, mi amor.
+[0:20:23 -> 0:20:24]   ¿Tienes algo para ponerle?
+[0:20:35 -> 0:20:36]   Cuéntame qué están haciendo.
+[0:20:37 -> 0:20:39]   ¿Cuál es tu historia, Novani, esta?
+[0:20:43 -> 0:20:45]   Oye, ¿saben que los muñequitos se pueden poner de pie?
+[0:20:46 -> 0:20:47]   Porque van a estar como en una cajita.
+[0:20:48 -> 0:20:51]   Ya, como el tuyo está tridimensional, creo que es el primero que veo.
+[0:20:53 -> 0:20:54]   ¿Kelsey, verdad?
+[0:20:55 -> 0:20:56]   No, ¿cómo es?
+[0:20:57 -> 0:20:58]   Marin.
+[0:20:59 -> 0:21:00]   Las confundo.
+[0:21:00 -> 0:21:03]   Aquí tenemos a Novani, tenemos a Marin y tenemos a...
+[0:21:04 -> 0:21:05]   Keisha.
+[0:21:06 -> 0:21:07]   Me olvido después de no verlos tanto tiempo.
+[0:21:09 -> 0:21:10]   Y Keisha.
+[0:21:11 -> 0:21:14]   A ver, Marin, me encanta que lo estás haciendo como en el espacio, ¿ves?
+[0:21:15 -> 0:21:16]   Porque lo vamos a hacer en una cajita.
+[0:21:17 -> 0:21:21]   Está bien, Keisha lo ha hecho plano, porque cuando lo hacíamos antes era plano,
+[0:21:22 -> 0:21:24]   pero ahora, si quieren, lo pueden hacer como de pie.
+[0:21:25 -> 0:21:27]   Novani le está poniendo de pie también, ¿no?
+[0:21:27 -> 0:21:29]   Como sentadito, lo está poniendo como tridimensional.
+[0:21:30 -> 0:21:31]   Como el mío.
+[0:21:32 -> 0:21:35]   Mhm, Y sin embargo Keisha está bien, Keisha ha escogido hacerlo plano.
+[0:21:36 -> 0:21:37]   Más o menos.
+[0:21:38 -> 0:21:39]   Alright.
+[0:21:40 -> 0:21:44]   Oye, yo entiendo inglés también, me gusta hablarles en español.
+[0:21:46 -> 0:21:47]   Alright.
+[0:21:48 -> 0:21:51]   Marin, cuéntame tu historia.
+[0:21:52 -> 0:21:54]   Cuéntame tu historia. ¿Dónde está tu historia?
+[0:21:54 -> 0:21:55]   ¿Es esta?
+[0:21:56 -> 0:21:57]   ¿Esta?
+[0:22:00 -> 0:22:01]   Alright.
+[0:22:02 -> 0:22:03]   El carácter es Jesse.
+[0:22:04 -> 0:22:05]   Jesse Apple.
+[0:22:07 -> 0:22:08]   ¿Quién es Jesse? ¿Es esta?
+[0:22:09 -> 0:22:10]   ¿Esa es Jesse?
+[0:22:11 -> 0:22:13]   ¿Y qué pasó? ¿Le has quitado la cabeza?
+[0:22:14 -> 0:22:15]   Le quiero hacer una foto, ¿puedo?
+[0:22:16 -> 0:22:17]   ¿Me puedo hacer una fotito?
+[0:22:18 -> 0:22:19]   ¿Me vas a poner la cabeza primero?
+[0:22:20 -> 0:22:21]   Pues le saco ya.
+[0:22:21 -> 0:22:23]   Y de los tuyos, ¿le puedo hacer una foto?
+[0:22:24 -> 0:22:25]   Novani, no te importa que los muevas.
+[0:22:27 -> 0:22:28]   ¡Guau!
+[0:22:29 -> 0:22:30]   Novani.
+[0:22:31 -> 0:22:33]   ¿Qué van a hacer con estos muñequitos? ¿Cuál es la historia?
+[0:22:34 -> 0:22:36]   ¿Tienen una historia las tres?
+[0:22:37 -> 0:22:38]   ¿Juntas?
+[0:22:41 -> 0:22:42]   ¿No? ¿Diferentes?
+[0:22:43 -> 0:22:44]   Yo tengo una historia con Novani.
+[0:22:45 -> 0:22:46]   ¿Tú tienes una historia con qué?
+[0:22:47 -> 0:22:48]   No, aquí está.
+[0:22:48 -> 0:22:49]   Novani y...
+[0:22:50 -> 0:22:51]   Noami, Noami.
+[0:22:52 -> 0:22:53]   ¿O Con Noami?
+[0:22:54 -> 0:22:55]   ¿Noami dónde está?
+[0:22:56 -> 0:22:57]   No, ella se fue a aparecer.
+[0:22:58 -> 0:22:59]   Ah, sí, la vi salir.
+[0:23:01 -> 0:23:05]   Entonces Keisha y Noemi y Noami han hecho una misma historia.
+[0:23:06 -> 0:23:07]   ¿Me cuentas de qué es Keisha?
+[0:23:08 -> 0:23:09]   Es de nuestro...
+[0:23:10 -> 0:23:11]   ¿Cómo es que se dice?
+[0:23:12 -> 0:23:14]   Nuestra pijamada, pero mi mamá no me dejó.
+[0:23:15 -> 0:23:16]   ¿Qué es?
+[0:23:16 -> 0:23:18]   Es de nuestra pijamada, pero mi mamá no me dejó.
+[0:23:19 -> 0:23:20]   Pero un día sí.
+[0:23:22 -> 0:23:25]   ¿Hacer como una fiesta de pijamas? ¿Un sleepover o algo así?
+[0:23:26 -> 0:23:27]   Aha
+[0:23:28 -> 0:23:30]   Ok, entonces la mamá no les dejó y...
+[0:23:32 -> 0:23:34]   Pero tú estás haciendo como un corazón grande, ¿no?
+[0:23:37 -> 0:23:38]   Cuéntame.
+[0:23:39 -> 0:23:41]   ¿Qué es esto de tu historia de corazón?
+[0:23:42 -> 0:23:45]   ¿Qué es de corazón?
+[0:23:46 -> 0:23:47]   El corazón de una persona.
+[0:23:48 -> 0:23:49]   ¿El corazón de una persona?
+[0:23:50 -> 0:23:52]   ¿Y cuál es el mensaje en tu historia?
+[0:23:53 -> 0:23:56]   ¿Tiene un mensaje que quieres decir con tu historia como autora?
+[0:24:03 -> 0:24:05]   ¿No tenemos una historia?
+[0:24:05 -> 0:24:09]   ¿Puedes ponerlo con cuidado tus piezas  en la caja con Isabel?
+[0:24:10 -> 0:24:12]   Sé que no hay una pieza.
+[0:24:27 -> 0:24:30]   Hicimos un video
+[0:24:35 -> 0:24:37]   ¿En la escuela, para llevar a la escuela o en la escuela?
+[0:24:38 -> 0:24:42]   ¿Mientras estaban en la escuela, en vez de ir a clase, fueron a hacer un video?
+[0:24:43 -> 0:24:44]   No, aquí en el programa.
+[0:24:45 -> 0:24:47]   Ah, durante nuestro programa hicieron un video.
+[0:24:53 -> 0:24:55]   ¿Me lo dices en la realidad, que ya hicieron el video?
+[0:24:56 -> 0:24:57]   De su fiesta de pijamas.
+[0:24:58 -> 0:25:00]   Ah, ya lo hicieron. Esto es extra, el corazón.
+[0:25:01 -> 0:25:02]   Solo estás haciéndolo por fan.
+[0:25:03 -> 0:25:04]   No.
+[0:25:05 -> 0:25:07]   Ok, ok, ahora entiendo.
+[0:25:16 -> 0:25:18]   A ver, les queda un poquito ahí, Jordani.
+[0:25:20 -> 0:25:21]   Alright...
+[0:25:22 -> 0:25:23]   ¿Quién me falta aquí?
+[0:25:25 -> 0:25:26]   Jordani...
