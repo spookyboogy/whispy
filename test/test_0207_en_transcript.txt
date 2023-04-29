@@ -1,0 +1,31 @@
+Audio File : whispy\test\test_0207.wav             
+Model size : large-v2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting en transcription...          
+ Time : 01:15:18          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   0 [0:00:00 -> 0:00:05] So it's now like at the beginning that we have to trace.
+   1 [0:00:06.100000 -> 0:00:08.180000] I think one adult coming up,
+   2 [0:00:08.180000 -> 0:00:11.740000] like if it were only you, Joe, coming up by yourself
+   3 [0:00:11.740000 -> 0:00:14.740000] and moving quietly around the room, I think we'd be fine.
+   4 [0:00:14.740000 -> 0:00:15.580000] Sure.
+   5 [0:00:15.580000 -> 0:00:17.100000] I mean, we could pass her.
+   6 [0:00:17.100000 -> 0:00:19.700000] Or ask her, you know, do you mind if I come in?
+   7 [0:00:19.700000 -> 0:00:21.260000] I have to take a rest.
+   8 [0:00:21.260000 -> 0:00:24.160000] That was the thought process of sending an adult up here
+   9 [0:00:24.160000 -> 0:00:27.140000] was to just make sure that like the classroom is ready
+  10 [0:00:27.140000 -> 0:00:29.580000] so that we don't, and so that someone has eyes on it
+  11 [0:00:29.580000 -> 0:00:31.740000] before we come in.
+  12 [0:00:31.740000 -> 0:00:34.860000] So then before we leave, we can make sure it's the same.
+  13 [0:00:34.860000 -> 0:00:36.140000] So like, I don't wanna-
+  14 [0:00:36.140000 -> 0:00:38.780000] But today, there were children.
+  15 [0:00:38.780000 -> 0:00:39.620000] Yeah, yeah, yeah.
+  16 [0:00:39.620000 -> 0:00:40.580000] Which is different, yeah.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished en transcription...          
+ Time : 01:20:57          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

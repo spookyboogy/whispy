@@ -41,14 +41,15 @@ def print_timestamp(starting=False, return_HMS=False, return_time=False, quiet=F
         return _time, s
 
 
-def main(path):
+def main(path, testing=True):
 
     print('Loading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
                                         use_auth_token=use_auth_token)
-    print('\nDone Loading.')
+    print('\nDone loading.')
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
+    # test num_speakers
     diarization = pipeline(path)
     end_time, endstamp = print_timestamp(return_time=True)
     total_runtime = str(datetime.timedelta(seconds=end_time-start_time)).split('.')[0]
@@ -58,12 +59,14 @@ def main(path):
     
     print(f'overlap:{diarization.get_overlap()}')
     _overlap = diarization.get_overlap()
-    for i in _overlap:
-        print(type(i), i)
     print(f'timeline:{diarization.get_timeline()}')
     _timeline = diarization.get_timeline()
-    for i in _timeline:
-        print(type(i), i)
+
+    if testing:
+        for i in _overlap:
+            print(type(i), i)
+        for i in _timeline:
+            print(type(i), i)
 
     f_out = os.path.splitext(path)[0] + '--diarization.txt'
     with open(f_out, 'w') as f:
@@ -72,24 +75,56 @@ def main(path):
                 \n{diarization}\
                   {endstamp}\
                   {runtime_stamp}")
-        f.write(f"\ntesting...\n\
-                  \nOverlap : \n\t{_overlap}\n\
-                  \nTimeline: \n\t{_timeline}")  
+        if testing:
+            f.write(f"\ntesting...\n\
+                    \nOverlap : \n\t{_overlap}\n\
+                    \nTimeline: \n\t{_timeline}")  
 
     print(diarization)
     dr = '\n'.join(i for i in dir(diarization) if not i.startswith('__'))
     print(f'\ndir...\n{dr}')
-    
+
     discrete = diarization.discretize()
     print(discrete)
+
 
 if __name__ == '__main__':
     
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    f_in = "test_0207.wav"
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\test\\"
+    # f_in = "test_0207.wav"
+    # path = os.path.join(path, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)
+
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\"
+    # f_in = "april_18_session.wav"
+    # path = os.path.join(path, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)
+
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_28\\"
+    # f_in = "032823_meeting.wav"
+    # path = os.path.join(path, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)
+
+    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
+    f_in = "032123_meeting.wav"
     path = os.path.join(path, f_in)
     print(f'\nfile: {path}\n')
     main(path)
+
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
+    # f_in = "030723_meeting.wav"
+    # path = os.path.join(path, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)
+
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\feb_07\\"
+    # f_in = "020723_meeting.wav"
+    # path = os.path.join(path, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)

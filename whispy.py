@@ -22,7 +22,7 @@ def print_timestamp(_lang, starting=False, return_time=False):
     s = f"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
           \n {start_or_end} {_lang} transcription...\
           \n Time : {_time}\
-          \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n"
+          \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n"
     print(s)
     if return_time:
         return s, _time
