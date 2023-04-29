@@ -3,9 +3,10 @@ Pipeline : pyannote/speaker-diarization
                   
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Starting diarization...          
- Time : 20:18:35          
+ Time : 00:51:57          
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                  [ 00:00:03.484 -->  00:00:05.003] B SPEAKER_01
+                
+[ 00:00:03.484 -->  00:00:05.003] B SPEAKER_01
 [ 00:00:05.003 -->  00:00:15.938] A SPEAKER_00
 [ 00:00:06.319 -->  00:00:06.741] C SPEAKER_01
 [ 00:00:08.192 -->  00:00:08.918] D SPEAKER_01
@@ -13,10 +14,10 @@ Pipeline : pyannote/speaker-diarization
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Finished diarization...          
- Time : 20:20:45          
+ Time : 00:54:24          
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                  
 ~~~~~~~~~~~~~~~~~~~~~~~           
- Total runtime: 0:02:10           
+ Total runtime: 0:02:26           
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 testing...

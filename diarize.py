@@ -58,8 +58,12 @@ def main(path):
     
     print(f'overlap:{diarization.get_overlap()}')
     _overlap = diarization.get_overlap()
+    for i in _overlap:
+        print(type(i), i)
     print(f'timeline:{diarization.get_timeline()}')
     _timeline = diarization.get_timeline()
+    for i in _timeline:
+        print(type(i), i)
 
     f_out = os.path.splitext(path)[0] + '--diarization.txt'
     with open(f_out, 'w') as f:
@@ -75,6 +79,9 @@ def main(path):
     print(diarization)
     dr = '\n'.join(i for i in dir(diarization) if not i.startswith('__'))
     print(f'\ndir...\n{dr}')
+    
+    discrete = diarization.discretize()
+    print(discrete)
 
 if __name__ == '__main__':
     
@@ -82,7 +89,7 @@ if __name__ == '__main__':
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy
     path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    f_in = "test_0307.wav"
+    f_in = "test_0207.wav"
     path = os.path.join(path, f_in)
     print(f'\nfile: {path}\n')
     main(path)

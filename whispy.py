@@ -101,10 +101,10 @@ if __name__ == '__main__':
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy 
     path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    f_in = "test_0307.m4a"
+    f_in = "test_0207.wav"
     full_path = os.path.join(path, f_in)
     print(f'\nfile: {full_path}\n')
-    main(full_path, model_size='small')
+    main(full_path)
 
 
 
