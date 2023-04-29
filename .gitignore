@@ -6,8 +6,8 @@
 *.mp3
 *.mp4
 
-# Except test files
-!test*.wav
-!test*.m4a
-!test*.mp3
-!test*.mp4
+# # Except test files
+# !test*.wav
+# !test*.m4a
+# !test*.mp3
+# !test*.mp4
