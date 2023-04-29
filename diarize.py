@@ -78,6 +78,9 @@ def main(path):
 
 if __name__ == '__main__':
     
+    # Change this path to whatever your test directory path is
+    # Will update soon to or make an --audio_path command line arg
+    # and/or check os.getcwd() assuming user is running in /whispy
     path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
     f_in = "test_0307.wav"
     path = os.path.join(path, f_in)
