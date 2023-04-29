@@ -96,29 +96,16 @@ def main(path, langs=['en', 'es'], print_line_nums=True, model_size="large-v2", 
 
 if __name__ == '__main__':
     
-    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\feb_07\\"
-    # f_in = "020723_meeting.wav"
-    # full_path = os.path.join(path, f_in)
-    # print(f'\nfile: {full_path}\n')
-    # main(full_path)
 
+    # Change this path to whatever your test directory path is
+    # Will update soon to or make an --audio_path command line arg
+    # and/or check os.getcwd() assuming user is running in /whispy 
     path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
     f_in = "test_0307.m4a"
     full_path = os.path.join(path, f_in)
     print(f'\nfile: {full_path}\n')
     main(full_path, model_size='small')
 
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
-    f_in = "030723_meeting.wav"
-    full_path = os.path.join(path, f_in)
-    print(f'\nfile: {full_path}\n')
-    main(full_path)
-
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
-    f_in = "032123_meeting.m4a"
-    full_path = os.path.join(path, f_in)
-    print(f'\nfile: {full_path}\n')
-    main(full_path)
 
 
 
