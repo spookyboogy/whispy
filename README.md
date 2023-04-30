@@ -1,52 +1,54 @@
 Todo: 
 - [x] Join apr_18 session (session with children) pt1 and pt2 (check pt1 again)
-- [ ] implement diarization from pyannote-speaker_diarization
+
+- [x] implement diarization from pyannote/speaker-diarization
+- [ ] test fine tuning with groundtruth using pytorch-lightning
+- [ ] test num_speakers and other diarization hyperparameters
+- [ ] test differnt beam_search values for transcriptions
 
 - [ ] test translation task for dealing with mixed language
 - [ ] find fast way to get language verification for audio segments
 
-- [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original is m4a) 
-- [ ] revisit and diarize everything with large-v2
+- [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original audio is m4a) 
+- [x] revisit and diarize everything with large-v2 and pyannote/speaker-diarization
 - [ ] test whisper.cpp
 - [ ] get a colab (or other) set up to run remotely/on better hardware/multiple at a time
+- [ ] make portable installer (including dependencies if possible) and cli (which uses gpu if available)
 
-
-To (re)transcibe:
-- [ ] very first one
-- [ ] second one (can't remember which)
-- [x] feb_07 
-    * [x] en 
-    * [x] es
-- [x] mar_07 
-    * [x] en 
-    * [x] es
-- [x] mar_21 
-    * [x] en 
-    * [x] es
-    * used ".m4a" instead of ".wav", might want to retry
-- [x] mar_28
-    * [x] en 
-    * [x] es
-- [x] apr_18 
-    * [x] en 
-    * [x] es
-
-
-To listen/check/correct:
+Checklist:
 - [ ] feb_07 
-    * [ ] en 
-    * [ ] es
+    - [x] transcripts
+        * [x] en 
+        * [x] es
+        * used ".m4a" instead of ".wav", might want to retry
+    - [x] diarization
+    - [ ] merge transcript and diarization
+    - [ ] listen/check/finalize
 - [ ] mar_07 
-    * [ ] en 
-    * [ ] es
+    - [x] transcripts
+        * [x] en 
+        * [x] es
+    - [x] diarization
+    - [ ] merge transcript and diarization
+    - [ ] listen/check/finalize
 - [ ] mar_21 
-    * [ ] en 
-    * [ ] es
+    - [x] transcripts
+        * [x] en 
+        * [x] es
+    - [x] diarization
+    - [ ] merge transcript and diarization
+    - [ ] listen/check/finalize
 - [ ] mar_28 
-    * [ ] en 
-    * [ ] es
-- [x] apr_18 
-    * [x] en 
-    * [x] es
-
-
+    - [x] transcripts
+        * [x] en 
+        * [x] es
+    - [x] diarization
+    - [ ] merge transcript and diarization
+    - [ ] listen/check/finalize
+- [ ] apr_18 
+    - [x] transcripts
+        * [x] en 
+        * [x] es
+    - [x] diarization
+    - [ ] merge transcript and diarization
+    - [ ] listen/check/finalize
