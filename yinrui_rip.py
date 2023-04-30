@@ -1,3 +1,11 @@
+#########################################################################################
+##  Ripped from https://github.com/yinruiqing/pyannote-whisper/tree/main/pyannote_whisper
+##  which provides some helper functions for merging transcripts and diarizations.
+##  Will eventually credit once I learn how, after whispy is working,
+##  depending on what/how much is borrowed. 
+#########################################################################################
+
+
 import argparse
 import os
 import warnings
