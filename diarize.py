@@ -41,7 +41,7 @@ def print_timestamp(starting=False, return_HMS=False, return_time=False, quiet=F
         return _time, s
 
 
-def main(path, testing=True):
+def main(path, testing=True, write_to_file=True):
 
     print('Loading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
@@ -68,17 +68,18 @@ def main(path, testing=True):
         for i in _timeline:
             print(type(i), i)
 
-    f_out = os.path.splitext(path)[0] + '--diarization.txt'
-    with open(f_out, 'w') as f:
-        f.write(f"{header}\
-                  {startstamp}\
-                \n{diarization}\
-                  {endstamp}\
-                  {runtime_stamp}")
-        if testing:
-            f.write(f"\ntesting...\n\
-                    \nOverlap : \n\t{_overlap}\n\
-                    \nTimeline: \n\t{_timeline}")  
+    if write_to_file:
+        f_out = os.path.splitext(path)[0] + '--diarization.txt'
+        with open(f_out, 'w') as f:
+            f.write(f"{header}\
+                    {startstamp}\
+                    \n{diarization}\
+                    {endstamp}\
+                    {runtime_stamp}")
+            if testing:
+                f.write(f"\ntesting...\n\
+                        \nOverlap : \n\t{_overlap}\n\
+                        \nTimeline: \n\t{_timeline}")  
 
     print(diarization)
     dr = '\n'.join(i for i in dir(diarization) if not i.startswith('__'))
@@ -86,6 +87,7 @@ def main(path, testing=True):
 
     discrete = diarization.discretize()
     print(discrete)
+    return diarization
 
 
 if __name__ == '__main__':
@@ -93,11 +95,11 @@ if __name__ == '__main__':
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy
-    # path = "C:\\Users\\mattt\\Desktop\\CS\\test\\"
-    # f_in = "test_0207.wav"
-    # path = os.path.join(path, f_in)
-    # print(f'\nfile: {path}\n')
-    # main(path)
+    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
+    f_in = "test_0207.wav"
+    path = os.path.join(path, f_in)
+    print(f'\nfile: {path}\n')
+    main(path)
 
     # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\"
     # f_in = "april_18_session.wav"
@@ -111,11 +113,11 @@ if __name__ == '__main__':
     # print(f'\nfile: {path}\n')
     # main(path)
 
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
-    f_in = "032123_meeting.wav"
-    path = os.path.join(path, f_in)
-    print(f'\nfile: {path}\n')
-    main(path)
+    # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
+    # f_in = "032123_meeting.wav"
+    # path = os.path.join(path, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)
 
     # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
     # f_in = "030723_meeting.wav"
