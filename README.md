@@ -5,35 +5,40 @@ Checklist:
         * [x] es
         * used ".m4a" instead of ".wav", might want to retry
     - [x] diarization
-    - [ ] merge transcript and diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
     - [ ] listen/check/finalize
 - [ ] mar_07 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcript and diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
     - [ ] listen/check/finalize
 - [ ] mar_21 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcript and diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
     - [ ] listen/check/finalize
 - [ ] mar_28 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcript and diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
     - [ ] listen/check/finalize
 - [ ] apr_18 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcript and diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
     - [ ] listen/check/finalize
 
 
