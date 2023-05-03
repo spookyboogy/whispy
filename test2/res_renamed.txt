@@ -1,0 +1,17 @@
+[ 00:00:00.000 -->  00:00:05.000] [Belén] So it's now like at the beginning that we have to trace.
+[ 00:00:06.100 -->  00:00:08.180] [Patricia] I think one adult coming up,
+[ 00:00:08.180 -->  00:00:11.740] [Patricia] like if it were only you, Joe, coming up by yourself
+[ 00:00:11.740 -->  00:00:14.740] [Patricia] and moving quietly around the room, I think we'd be fine.
+error -> [ 00:00:14.740 -->  00:00:15.580] [Patricia] Sure.
+[ 00:00:15.580 -->  00:00:17.100] [Patricia] I mean, we could pass her.
+[ 00:00:17.100 -->  00:00:19.700] [Patricia] Or ask her, you know, do you mind if I come in?
+[ 00:00:19.700 -->  00:00:21.260] [Patricia] I have to take a rest.
+[ 00:00:21.260 -->  00:00:24.160] [Cristina] That was the thought process of sending an adult up here
+[ 00:00:24.160 -->  00:00:27.140] [Cristina] was to just make sure that like the classroom is ready
+[ 00:00:27.140 -->  00:00:29.580] [Cristina] so that we don't, and so that someone has eyes on it
+[ 00:00:29.580 -->  00:00:31.740] [Cristina] before we come in.
+[ 00:00:31.740 -->  00:00:34.860] [Cristina] So then before we leave, we can make sure it's the same.
+[ 00:00:34.860 -->  00:00:36.140] [Cristina] So like, I don't wanna-
+[ 00:00:36.140 -->  00:00:38.780] [Patricia] But today, there were children.
+[ 00:00:38.780 -->  00:00:39.620] [Patricia] Yeah, yeah, yeah.
+error -> [ 00:00:39.620 -->  00:00:40.580] [Patricia] Which is different, yeah.

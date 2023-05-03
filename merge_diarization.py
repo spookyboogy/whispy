@@ -49,7 +49,7 @@ def reconstruct_diarization(diarization_file):
 
     A more flexible approach would be possible if the 'raw' results of the 
     diarization pipeline were handled immediately after they're generated instead
-    of doing it this way post-diarization, because the pipeline offers additional methods.
+    of doing it this way, post-diarization, because the pipeline offers additional methods.
     """
     
     diary = []
@@ -58,9 +58,8 @@ def reconstruct_diarization(diarization_file):
             if ('[' not in line) or ('~' in line) or ('/' in line): 
                 continue
             diary += [line]
-    
-    ann = Annotation()
     speaker_segs = []
+    ann = Annotation()
     for line in diary:
         i, j = line.index('['), line.index(']')
         # adapt to handle different formats and separators
@@ -72,6 +71,19 @@ def reconstruct_diarization(diarization_file):
         speaker_segs += [(seg, speaker)]
         ann[seg] = speaker
     return speaker_segs, ann
+
+
+def add_speaker_info_to_text(timestamp_texts, ann):
+    spk_text = []
+    for seg, text in timestamp_texts:
+        print()
+        s = ann.crop(seg)
+        spk = s.argmax()
+        print(f'trnscript seg : {seg}\
+              \nannotation seg: {s}\
+              \nargmax (spkr) : {spk}')
+        spk_text.append((seg, spk, text))
+    return spk_text
 
 
 def merge_cache(text_cache):
@@ -129,6 +141,14 @@ if __name__ == "__main__":
 
     timeline1 = Timeline(i[0] for i in segscript)
     timeline2 = Timeline(i[0] for i in spk_segs)
+
+    tst = add_speaker_info_to_text(segscript, annotation)
+    print('\n'.join(repr(i) for i in tst))
+
+    with open(folder + 'res.txt', 'w') as f:
+        for seg, spk, txt in tst:
+            f.write(f"{str(seg)} [{spk}] {txt}\n")
+
 
     # attempt = diarize_text(script, diary)
     # for i in attempt: print(i)
