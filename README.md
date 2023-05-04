@@ -5,9 +5,10 @@ Checklist:
         * [x] es
         * used ".m4a" instead of ".wav", might want to retry
     - [x] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
+    - [x] merge transcripts with diarization
+    - [x] handle mixed language (none, 'en' script)
+    - [ ] convert to csv
+    - [ ] listen/check/correct/finalize
 - [ ] mar_07 
     - [x] transcripts
         * [x] en 

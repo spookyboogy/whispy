@@ -47,8 +47,6 @@ def convert_timestamps(path):
     with open(f_out, 'w') as f:
         for line in newscript:
             f.write(f'{line}\n')
-    for i in newscript:
-        print(i)    
     return newscript
 
 
@@ -173,15 +171,26 @@ def remove_line_numbers(path):
 
 if __name__ == "__main__":
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
-    txt = "032123_meeting_en_transcript.txt"
-    txt2 = "032123_meeting_es_transcript.txt"
-    path1 = os.path.join(folder, txt)
-    path2 = os.path.join(folder, txt2)
-    print(f'\nFile : {path1}\n')
-    convert_weirderstamp(path1)
-    print(f'\nFile : {path2}\n')
-    convert_weirderstamp(path2)
+    pass
+
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
+    # txt = folder + "0418_meeting_en_script.txt"
+    # txt2 = folder + "0418_meeting_es_script.txt"
+    # txt3 = folder + "0418_meeting_fin.txt"
+    # # convert_timestamps(txt)
+    # # convert_timestamps(txt2)
+    # convert_timestamps(txt3)
+
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
+    # txt = "032123_meeting_en_transcript.txt"
+    # txt2 = "032123_meeting_es_transcript.txt"
+    # path1 = os.path.join(folder, txt)
+    # path2 = os.path.join(folder, txt2)
+    # print(f'\nFile : {path1}\n')
+    # convert_weirderstamp(path1)
+    # print(f'\nFile : {path2}\n')
+    # convert_weirderstamp(path2)
+    
 
     # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\con_ninos\\"
     # txt = "0418_session_con_ninos_en_transcript.txt"
