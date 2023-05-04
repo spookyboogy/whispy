@@ -9,7 +9,7 @@ def read_file(transcript_or_diarization_file):
     container = []
     with open(transcript_or_diarization_file, 'r') as f:
         for line in f.read().splitlines():
-            # naively assume that anything with [ -> ] is a desired line
+            # naively assume that anything with '[ ->' is a desired line
             if '[' in line and ('->' in line or '-->' in line):
                 container += [line]
             else:
