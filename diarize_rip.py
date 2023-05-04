@@ -1,5 +1,5 @@
 #########################################################################################
-##  Ripped from:
+##  Borrowed from:
 ##      https://huggingface.co/spaces/vumichien/Whisper_speaker_diarization/blob/main/app.py
 ##  Not working or being used by whisper or diarize, just using for parts/ideas.
 ##  Will eventually credit once I learn how, after whispy is working,

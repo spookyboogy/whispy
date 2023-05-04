@@ -1,0 +1,1326 @@
+[ 00:00:00.000 -->  00:00:02.000] [None] Alright, let me...
+[ 00:00:02.000 -->  00:00:04.000] [SPEAKER_05] I need a tissue.
+[ 00:00:14.000 -->  00:00:16.000] [SPEAKER_05] How is everyone doing? Oh my gosh.
+[ 00:00:16.000 -->  00:00:18.000] [SPEAKER_05] Alright, let's record.
+[ 00:00:22.000 -->  00:00:24.000] [SPEAKER_05] What do you think?
+[ 00:00:24.000 -->  00:00:26.000] [SPEAKER_05] About this work?
+[ 00:00:30.000 -->  00:00:32.000] [SPEAKER_07] We have more time, but we don't have it.
+[ 00:00:32.000 -->  00:00:34.000] [SPEAKER_07] So...
+[ 00:00:34.000 -->  00:00:36.000] [SPEAKER_07] We're going to do it...
+[ 00:00:36.000 -->  00:00:38.000] [SPEAKER_07] In three weeks.
+[ 00:00:38.000 -->  00:00:40.000] [SPEAKER_04] But what worries me is that
+[ 00:00:40.000 -->  00:00:42.000] [SPEAKER_04] the learning process is...
+[ 00:00:42.000 -->  00:00:50.000] [SPEAKER_04] It happens when we're talking and asking about their creations,
+[ 00:00:50.000 -->  00:00:52.000] [SPEAKER_04] what they're doing, why,
+[ 00:00:52.000 -->  00:00:54.000] [SPEAKER_04] if they were made and created on the stage,
+[ 00:00:54.000 -->  00:00:58.000] [SPEAKER_04] if they're thinking about each movement,
+[ 00:00:58.000 -->  00:01:00.000] [SPEAKER_03] the action, the characters...
+[ 00:01:00.000 -->  00:01:04.000] [SPEAKER_03] I feel like in the conversations we had,
+[ 00:01:04.000 -->  00:01:06.000] [SPEAKER_03] there was a lot of...
+[ 00:01:06.000 -->  00:01:08.000] [SPEAKER_03] Yes.
+[ 00:01:08.000 -->  00:01:10.000] [SPEAKER_07] I put it into...
+[ 00:01:10.000 -->  00:01:12.000] [SPEAKER_07] The learning process.
+[ 00:01:12.000 -->  00:01:14.000] [SPEAKER_06] How?
+[ 00:01:14.000 -->  00:01:16.000] [SPEAKER_06] Learning is going to happen during...
+[ 00:01:16.000 -->  00:01:18.000] [SPEAKER_06] In the process.
+[ 00:01:18.000 -->  00:01:20.000] [SPEAKER_06] Just like they did with the other animation,
+[ 00:01:20.000 -->  00:01:22.000] [SPEAKER_06] but I think this time it will come back to them, hopefully.
+[ 00:01:22.000 -->  00:01:24.000] [SPEAKER_06] Especially because I'm seeing now that a lot are just
+[ 00:01:24.000 -->  00:01:26.000] [SPEAKER_06] instinctively flattening their clay,
+[ 00:01:26.000 -->  00:01:30.000] [SPEAKER_06] which I wish we had done something at the beginning.
+[ 00:01:30.000 -->  00:01:32.000] [SPEAKER_06] I guess I should have done my demonstration today.
+[ 00:01:32.000 -->  00:01:36.000] [SPEAKER_06] I just didn't realize how many were going to go ahead and start with that.
+[ 00:01:36.000 -->  00:01:38.000] [SPEAKER_05] I was mentioning that to them.
+[ 00:01:38.000 -->  00:01:40.000] [SPEAKER_06] I heard you saying that, I appreciated it.
+[ 00:01:40.000 -->  00:01:42.000] [SPEAKER_05] And it kind of clicked.
+[ 00:01:42.000 -->  00:01:44.000] [SPEAKER_05] They were like,
+[ 00:01:44.000 -->  00:01:46.000] [SPEAKER_05] oh...
+[ 00:01:46.000 -->  00:01:48.000] [SPEAKER_05] There was a group here,
+[ 00:01:48.000 -->  00:01:50.000] [SPEAKER_05] that one of them was making it three-dimensional,
+[ 00:01:50.000 -->  00:01:54.000] [SPEAKER_05] so there were two more that were imitating that.
+[ 00:01:54.000 -->  00:01:56.000] [SPEAKER_05] Yeah.
+[ 00:01:56.000 -->  00:01:58.000] [SPEAKER_06] They learned from each other.
+[ 00:01:58.000 -->  00:02:00.000] [SPEAKER_06] I got some to start, but we had to correct.
+[ 00:02:00.000 -->  00:02:02.000] [SPEAKER_05] That was the group with Nobani, Marin and Keisha.
+[ 00:02:02.000 -->  00:02:04.000] [SPEAKER_05] I think it was Keisha.
+[ 00:02:04.000 -->  00:02:06.000] [SPEAKER_05] Keisha was doing it three-dimensional.
+[ 00:02:06.000 -->  00:02:08.000] [SPEAKER_05] It was hard because it was heavy,
+[ 00:02:08.000 -->  00:02:10.000] [SPEAKER_05] she was trying to sit in and play something.
+[ 00:02:10.000 -->  00:02:12.000] [SPEAKER_05] I think it was Marin.
+[ 00:02:12.000 -->  00:02:14.000] [SPEAKER_05] Because Keisha was doing the heart.
+[ 00:02:14.000 -->  00:02:16.000] [SPEAKER_05] Marin.
+[ 00:02:16.000 -->  00:02:18.000] [SPEAKER_05] Keisha was doing the heart because she said she had finished her movie already.
+[ 00:02:18.000 -->  00:02:20.000] [SPEAKER_05] And she was just making the heart for fun.
+[ 00:02:20.000 -->  00:02:22.000] [SPEAKER_06] She's using that as her background,
+[ 00:02:22.000 -->  00:02:24.000] [SPEAKER_06] instead of a photo.
+[ 00:02:24.000 -->  00:02:26.000] [SPEAKER_06] That's a background.
+[ 00:02:26.000 -->  00:02:28.000] [SPEAKER_06] But I kept telling her,
+[ 00:02:28.000 -->  00:02:30.000] [SPEAKER_06] you need to also make your characters,
+[ 00:02:30.000 -->  00:02:32.000] [SPEAKER_05] I don't think she has yet.
+[ 00:02:32.000 -->  00:02:34.000] [SPEAKER_05] She will.
+[ 00:02:34.000 -->  00:02:36.000] [SPEAKER_05] So you think that maybe telling them,
+[ 00:02:36.000 -->  00:02:38.000] [SPEAKER_05] you said, I wish we had told them before.
+[ 00:02:38.000 -->  00:02:40.000] [SPEAKER_06] I wish we had started off by doing my demonstration,
+[ 00:02:40.000 -->  00:02:42.000] [SPEAKER_06] because in my demonstration,
+[ 00:02:42.000 -->  00:02:44.000] [SPEAKER_06] [Joe] I was slash still am going to show
+[ 00:02:44.000 -->  00:02:46.000] [SPEAKER_06] standing up 3D.
+[ 00:02:46.000 -->  00:02:48.000] [SPEAKER_06] So we didn't create a model in the end?
+[ 00:02:48.000 -->  00:02:50.000] [SPEAKER_05] [Joe] No, we were going to show it tomorrow,
+[ 00:02:50.000 -->  00:02:52.000] [SPEAKER_06] because today was just supposed to be
+[ 00:02:52.000 -->  00:02:54.000] [SPEAKER_06] finishing up the writing,
+[ 00:02:54.000 -->  00:02:56.000] [SPEAKER_06] and for those who had already finished it,
+[ 00:02:56.000 -->  00:02:58.000] [SPEAKER_06] working with me personally.
+[ 00:02:58.000 -->  00:03:00.000] [SPEAKER_06] That's fine.
+[ 00:03:00.000 -->  00:03:02.000] [SPEAKER_06] I think we should still show them.
+[ 00:03:02.000 -->  00:03:04.000] [SPEAKER_06] [Patricia] It's nice that we saw this today,
+[ 00:03:04.000 -->  00:03:06.000] [SPEAKER_05] the first way of starting.
+[ 00:03:06.000 -->  00:03:08.000] [SPEAKER_05] This is great.
+[ 00:03:08.000 -->  00:03:10.000] [SPEAKER_05] This is the learning process happening.
+[ 00:03:10.000 -->  00:03:12.000] [SPEAKER_04] It's older, because I think, well, Marin is older,
+[ 00:03:12.000 -->  00:03:14.000] [SPEAKER_04] but some of the kids instinctively did 3D too.
+[ 00:03:14.000 -->  00:03:16.000] [SPEAKER_04] Yes.
+[ 00:03:16.000 -->  00:03:18.000] [SPEAKER_05] It just depended on.
+[ 00:03:18.000 -->  00:03:20.000] [SPEAKER_05] I only saw Marin.
+[ 00:03:20.000 -->  00:03:22.000] [SPEAKER_04] Dylan, Isabelle.
+[ 00:03:22.000 -->  00:03:24.000] [SPEAKER_04] Who? That group?
+[ 00:03:24.000 -->  00:03:26.000] [SPEAKER_05] Yes, because she's like, well, I'm doing this.
+[ 00:03:26.000 -->  00:03:28.000] [SPEAKER_05] I didn't see that group today.
+[ 00:03:28.000 -->  00:03:30.000] [SPEAKER_03] But Dariel,
+[ 00:03:30.000 -->  00:03:32.000] [SPEAKER_03] he started 3D.
+[ 00:03:32.000 -->  00:03:34.000] [SPEAKER_03] Yes, he made a little bus.
+[ 00:03:34.000 -->  00:03:36.000] [SPEAKER_03] Car.
+[ 00:03:36.000 -->  00:03:38.000] [SPEAKER_03] Yes, like a car.
+[ 00:03:38.000 -->  00:03:40.000] [SPEAKER_05] [Patricia] For the car that was going to hit the other car,
+[ 00:03:40.000 -->  00:03:42.000] [SPEAKER_05] I was going to push him
+[ 00:03:42.000 -->  00:03:44.000] [SPEAKER_02] on the way to the beach.
+[ 00:03:44.000 -->  00:03:46.000] [SPEAKER_02] For the car that was driving him to the beach.
+[ 00:03:46.000 -->  00:03:48.000] [SPEAKER_05] Another car was going to hit them.
+[ 00:03:48.000 -->  00:03:50.000] [SPEAKER_05] And he was going to push them
+[ 00:03:50.000 -->  00:03:52.000] [SPEAKER_05] faster to the beach.
+[ 00:03:52.000 -->  00:03:54.000] [SPEAKER_05] But the car that hit them was going to be destroyed.
+[ 00:03:54.000 -->  00:03:56.000] [SPEAKER_05] But not them, because the car was very strong.
+[ 00:03:56.000 -->  00:03:58.000] [SPEAKER_05] Oh, that's good.
+[ 00:03:58.000 -->  00:04:00.000] [SPEAKER_05] That's good to hear.
+[ 00:04:00.000 -->  00:04:02.000] [SPEAKER_03] And Dadan made them,
+[ 00:04:02.000 -->  00:04:04.000] [SPEAKER_03] but he wanted to do it
+[ 00:04:04.000 -->  00:04:06.000] [SPEAKER_03] three-dimensional,
+[ 00:04:06.000 -->  00:04:08.000] [SPEAKER_03] but they were too heavy.
+[ 00:04:08.000 -->  00:04:10.000] [SPEAKER_06] [Joe] I was worried about that
+[ 00:04:10.000 -->  00:04:12.000] [SPEAKER_06] [Joe] with the Play-Doh.
+[ 00:04:12.000 -->  00:04:14.000] [SPEAKER_06] It's kind of a problem.
+[ 00:04:14.000 -->  00:04:16.000] [SPEAKER_06] I can make the legs bigger and the top smaller.
+[ 00:04:16.000 -->  00:04:18.000] [SPEAKER_03] But you know what?
+[ 00:04:18.000 -->  00:04:20.000] [SPEAKER_03] I saw that Daniel started doing it.
+[ 00:04:20.000 -->  00:04:22.000] [SPEAKER_03] [Belen] He used one of the clips
+[ 00:04:22.000 -->  00:04:24.000] [SPEAKER_03] that I used for the paper.
+[ 00:04:24.000 -->  00:04:26.000] [SPEAKER_03] And he started molding
+[ 00:04:26.000 -->  00:04:28.000] [SPEAKER_03] [Belen] with the clay.
+[ 00:04:28.000 -->  00:04:30.000] [SPEAKER_01] I was thinking of that today.
+[ 00:04:30.000 -->  00:04:32.000] [SPEAKER_01] They figured out the tool.
+[ 00:04:32.000 -->  00:04:34.000] [SPEAKER_01] [?] It could be helpful to get stuff to stand too,
+[ 00:04:34.000 -->  00:04:36.000] [SPEAKER_01] [?] to reinforce it.
+[ 00:04:36.000 -->  00:04:38.000] [SPEAKER_03] So there were,
+[ 00:04:38.000 -->  00:04:40.000] [SPEAKER_03] Jordani and Daniel were finding ways
+[ 00:04:40.000 -->  00:04:42.000] [SPEAKER_03] that it would stand up.
+[ 00:04:42.000 -->  00:04:44.000] [SPEAKER_03] And they were using one clip,
+[ 00:04:44.000 -->  00:04:46.000] [SPEAKER_03] so they were kind of fighting over the clip.
+[ 00:04:46.000 -->  00:04:50.000] [SPEAKER_03] Like, I want it because I want my character to stand.
+[ 00:04:50.000 -->  00:04:52.000] [SPEAKER_04] [Cristina?] I don't know if it helps or if it made it worse,
+[ 00:04:52.000 -->  00:04:54.000] [SPEAKER_04] but I proactively helped Nathan make it tiny.
+[ 00:04:54.000 -->  00:04:56.000] [SPEAKER_04] Yeah.
+[ 00:04:56.000 -->  00:04:58.000] [SPEAKER_04] So it would stand and you would use less.
+[ 00:04:58.000 -->  00:05:00.000] [SPEAKER_05] Yeah.
+[ 00:05:00.000 -->  00:05:02.000] [SPEAKER_05] I don't know how we're going to get some of these figures
+[ 00:05:02.000 -->  00:05:04.000] [SPEAKER_06] inside the box.
+[ 00:05:04.000 -->  00:05:06.000] [SPEAKER_05] We can just move it close.
+[ 00:05:06.000 -->  00:05:08.000] [SPEAKER_05] They could make it outside.
+[ 00:05:08.000 -->  00:05:10.000] [SPEAKER_05] Why restrict them to...
+[ 00:05:10.000 -->  00:05:12.000] [SPEAKER_05] a box.
+[ 00:05:12.000 -->  00:05:14.000] [SPEAKER_05] One thing is the flatness.
+[ 00:05:14.000 -->  00:05:16.000] [SPEAKER_05] Then when they make it three-dimensional,
+[ 00:05:16.000 -->  00:05:18.000] [SPEAKER_05] we have the weight problem.
+[ 00:05:18.000 -->  00:05:20.000] [SPEAKER_05] I would let them explore.
+[ 00:05:20.000 -->  00:05:22.000] [SPEAKER_05] That's part of the artistic process of learning.
+[ 00:05:22.000 -->  00:05:24.000] [SPEAKER_05] That's what I was going to say.
+[ 00:05:24.000 -->  00:05:26.000] [SPEAKER_05] [Patricia] The art process is in that.
+[ 00:05:26.000 -->  00:05:28.000] [SPEAKER_05] It's in realizing that it's too heavy.
+[ 00:05:28.000 -->  00:05:30.000] [SPEAKER_05] How do I make it work?
+[ 00:05:30.000 -->  00:05:32.000] [SPEAKER_06] [Joe] Limitations and possibilities of the materials.
+[ 00:05:32.000 -->  00:05:34.000] [SPEAKER_05] I know we want things to go fast,
+[ 00:05:34.000 -->  00:05:36.000] [SPEAKER_05] but that's really the learning.
+[ 00:05:36.000 -->  00:05:38.000] [SPEAKER_01] Yeah, I think it's okay that it...
+[ 00:05:38.000 -->  00:05:40.000] [SPEAKER_03] [Belen] Jayden had a story that
+[ 00:05:40.000 -->  00:05:42.000] [SPEAKER_03] began in the morning
+[ 00:05:42.000 -->  00:05:44.000] [SPEAKER_03] and then finished in the middle of the night.
+[ 00:05:44.000 -->  00:05:46.000] [SPEAKER_03] But when I told him,
+[ 00:05:46.000 -->  00:05:48.000] [SPEAKER_03] well, you should have a different background
+[ 00:05:48.000 -->  00:05:50.000] [SPEAKER_03] because it's night.
+[ 00:05:50.000 -->  00:05:52.000] [SPEAKER_03] [Belen] So he just changed the time.
+[ 00:05:52.000 -->  00:05:54.000] [SPEAKER_03] Oh, never mind.
+[ 00:05:54.000 -->  00:05:56.000] [SPEAKER_03] Jayden is so thinking about it.
+[ 00:05:56.000 -->  00:05:58.000] [SPEAKER_03] But he was very aware
+[ 00:05:58.000 -->  00:06:00.000] [SPEAKER_03] of what time to put
+[ 00:06:00.000 -->  00:06:02.000] [SPEAKER_03] and to make sure that it says a.m.
+[ 00:06:02.000 -->  00:06:04.000] [SPEAKER_03] to make sure that the story
+[ 00:06:04.000 -->  00:06:06.000] [SPEAKER_03] is still in the middle of the night.
+[ 00:06:06.000 -->  00:06:08.000] [SPEAKER_03] And to make sure that the story
+[ 00:06:08.000 -->  00:06:10.000] [SPEAKER_03] is still in the morning.
+[ 00:06:10.000 -->  00:06:12.000] [SPEAKER_03] Because he wanted to,
+[ 00:06:12.000 -->  00:06:14.000] [SPEAKER_03] after the fight was too long,
+[ 00:06:14.000 -->  00:06:16.000] [SPEAKER_03] they were just tired and left.
+[ 00:06:16.000 -->  00:06:18.000] [SPEAKER_03] So he wrote for us 9.30 a.m.
+[ 00:06:18.000 -->  00:06:20.000] [SPEAKER_03] on the first scene.
+[ 00:06:20.000 -->  00:06:22.000] [SPEAKER_03] And then on the last one,
+[ 00:06:22.000 -->  00:06:24.000] [SPEAKER_03] it was like 11 p.m.
+[ 00:06:24.000 -->  00:06:26.000] [SPEAKER_03] [Joe] Long fight.
+[ 00:06:26.000 -->  00:06:28.000] [SPEAKER_03] [Patricia] This was Jayden?
+[ 00:06:28.000 -->  00:06:30.000] [SPEAKER_03] Yes.
+[ 00:06:30.000 -->  00:06:32.000] [SPEAKER_03] And then when I told him
+[ 00:06:32.000 -->  00:06:34.000] [SPEAKER_03] that he will have to have
+[ 00:06:34.000 -->  00:06:36.000] [SPEAKER_03] he just went to the last one,
+[ 00:06:36.000 -->  00:06:38.000] [SPEAKER_03] he erased the time
+[ 00:06:38.000 -->  00:06:40.000] [SPEAKER_03] and put 10 a.m.
+[ 00:06:40.000 -->  00:06:42.000] [SPEAKER_03] I said, no, 30 minutes.
+[ 00:06:42.000 -->  00:06:44.000] [SPEAKER_04] Realistic.
+[ 00:06:44.000 -->  00:06:46.000] [SPEAKER_06] I think they'll figure out
+[ 00:06:46.000 -->  00:06:48.000] [SPEAKER_06] part of the photographing,
+[ 00:06:48.000 -->  00:06:50.000] [SPEAKER_06] capturing the animation process
+[ 00:06:50.000 -->  00:06:52.000] [SPEAKER_06] is going to be changing their models
+[ 00:06:52.000 -->  00:06:54.000] [SPEAKER_06] still to make it work.
+[ 00:06:54.000 -->  00:06:56.000] [SPEAKER_06] Even if that means
+[ 00:06:56.000 -->  00:06:58.000] [SPEAKER_06] they transform throughout.
+[ 00:06:58.000 -->  00:07:00.000] [SPEAKER_06] That's okay.
+[ 00:07:00.000 -->  00:07:02.000] [SPEAKER_04] There's a lot of detail.
+[ 00:07:02.000 -->  00:07:04.000] [SPEAKER_04] It's interesting to see
+[ 00:07:04.000 -->  00:07:06.000] [SPEAKER_04] who focused on what.
+[ 00:07:06.000 -->  00:07:08.000] [SPEAKER_04] He was like,
+[ 00:07:08.000 -->  00:07:10.000] [SPEAKER_04] I need to do the buttons.
+[ 00:07:10.000 -->  00:07:12.000] [SPEAKER_04] He was looking for all these colors.
+[ 00:07:12.000 -->  00:07:14.000] [SPEAKER_04] I'm not going to do it anymore
+[ 00:07:14.000 -->  00:07:16.000] [SPEAKER_04] because I don't have my colors.
+[ 00:07:16.000 -->  00:07:18.000] [SPEAKER_04] It was interesting because
+[ 00:07:18.000 -->  00:07:20.000] [SPEAKER_04] there was a lot of learning too
+[ 00:07:20.000 -->  00:07:22.000] [SPEAKER_04] in terms of sharing and asking for things.
+[ 00:07:22.000 -->  00:07:24.000] [SPEAKER_04] Because I think it's one thing
+[ 00:07:24.000 -->  00:07:26.000] [SPEAKER_04] he particularly also struggles with.
+[ 00:07:26.000 -->  00:07:28.000] [SPEAKER_04] Everyone does.
+[ 00:07:28.000 -->  00:07:30.000] [SPEAKER_04] Just walking around
+[ 00:07:30.000 -->  00:07:32.000] [SPEAKER_04] holding his hand,
+[ 00:07:32.000 -->  00:07:34.000] [SPEAKER_04] look for it, find the person,
+[ 00:07:34.000 -->  00:07:36.000] [SPEAKER_04] ask them if they have anything left.
+[ 00:07:36.000 -->  00:07:38.000] [SPEAKER_04] [Patricia] Like colors.
+[ 00:07:38.000 -->  00:07:40.000] [SPEAKER_04] There was very little.
+[ 00:07:40.000 -->  00:07:42.000] [SPEAKER_04] Use what you can with what you have.
+[ 00:07:42.000 -->  00:07:44.000] [SPEAKER_05] Did we run out of clay?
+[ 00:07:44.000 -->  00:07:46.000] [SPEAKER_05] No.
+[ 00:07:46.000 -->  00:07:48.000] [SPEAKER_04] Because a lot of the kids
+[ 00:07:48.000 -->  00:07:50.000] [SPEAKER_04] made a huge...
+[ 00:07:50.000 -->  00:07:52.000] [SPEAKER_07] [?] They wanted specific colors.
+[ 00:07:52.000 -->  00:07:54.000] [SPEAKER_05] I gave my son some bottles.
+[ 00:07:56.000 -->  00:07:58.000] [SPEAKER_05] He mixed everything together
+[ 00:07:58.000 -->  00:08:00.000] [SPEAKER_05] and he made a big box
+[ 00:08:00.000 -->  00:08:02.000] [SPEAKER_05] that has different layers.
+[ 00:08:02.000 -->  00:08:04.000] [SPEAKER_05] He cut it in half.
+[ 00:08:04.000 -->  00:08:06.000] [SPEAKER_05] This is like a piece of art.
+[ 00:08:06.000 -->  00:08:08.000] [SPEAKER_05] It looks beautiful.
+[ 00:08:08.000 -->  00:08:10.000] [SPEAKER_05] They just love the amount.
+[ 00:08:10.000 -->  00:08:12.000] [SPEAKER_05] Layers is like the earth,
+[ 00:08:12.000 -->  00:08:14.000] [SPEAKER_05] but it looks beautiful.
+[ 00:08:14.000 -->  00:08:16.000] [SPEAKER_06] I have to tell Keisha
+[ 00:08:16.000 -->  00:08:18.000] [SPEAKER_06] I like what it looks like,
+[ 00:08:18.000 -->  00:08:20.000] [SPEAKER_06] but you're using a lot of Play-Doh
+[ 00:08:20.000 -->  00:08:22.000] [SPEAKER_06] to make it.
+[ 00:08:22.000 -->  00:08:24.000] [SPEAKER_05] You have to privilege
+[ 00:08:24.000 -->  00:08:26.000] [SPEAKER_05] the artistic process, Joe,
+[ 00:08:26.000 -->  00:08:28.000] [SPEAKER_05] and the creation.
+[ 00:08:28.000 -->  00:08:30.000] [SPEAKER_06] Of course, yeah, I just didn't want us to run out of
+[ 00:08:30.000 -->  00:08:32.000] [SPEAKER_06] any certain colors for other students.
+[ 00:08:32.000 -->  00:08:34.000] [SPEAKER_04] She shared in the end.
+[ 00:08:34.000 -->  00:08:36.000] [SPEAKER_04] She made more, of course,
+[ 00:08:36.000 -->  00:08:38.000] [SPEAKER_04] because she used colors.
+[ 00:08:38.000 -->  00:08:40.000] [SPEAKER_04] She came and she was asking.
+[ 00:08:40.000 -->  00:08:42.000] [SPEAKER_04] She was asking,
+[ 00:08:42.000 -->  00:08:44.000] [SPEAKER_04] can I take a little bit of that
+[ 00:08:44.000 -->  00:08:46.000] [SPEAKER_04] to balance?
+[ 00:08:46.000 -->  00:08:48.000] [SPEAKER_04] I think there was a lot of learning
+[ 00:08:48.000 -->  00:08:50.000] [SPEAKER_04] in that sense,
+[ 00:08:50.000 -->  00:08:52.000] [SPEAKER_04] asking someone for it.
+[ 00:08:52.000 -->  00:08:54.000] [SPEAKER_04] That's learning in itself.
+[ 00:08:54.000 -->  00:08:56.000] [SPEAKER_04] He didn't cry.
+[ 00:08:56.000 -->  00:08:58.000] [SPEAKER_04] He was like, ah.
+[ 00:08:58.000 -->  00:09:00.000] [SPEAKER_04] But then he was fine.
+[ 00:09:00.000 -->  00:09:02.000] [SPEAKER_04] In two minutes he got up
+[ 00:09:02.000 -->  00:09:04.000] [SPEAKER_04] and was like, yeah, let's walk around.
+[ 00:09:04.000 -->  00:09:06.000] [SPEAKER_04] I think that there was a little bit of that.
+[ 00:09:06.000 -->  00:09:08.000] [SPEAKER_03] [Belen] I was thinking that
+[ 00:09:08.000 -->  00:09:10.000] [SPEAKER_03] when we have less colors,
+[ 00:09:10.000 -->  00:09:12.000] [SPEAKER_03] they have to think
+[ 00:09:12.000 -->  00:09:14.000] [SPEAKER_03] how to create colors.
+[ 00:09:14.000 -->  00:09:16.000] [SPEAKER_03] Like, if I put this one
+[ 00:09:16.000 -->  00:09:18.000] [SPEAKER_03] with this one.
+[ 00:09:18.000 -->  00:09:20.000] [SPEAKER_03] I was not thinking of that,
+[ 00:09:20.000 -->  00:09:22.000] [SPEAKER_03] but I was thinking if they get to that part,
+[ 00:09:22.000 -->  00:09:24.000] [SPEAKER_03] I'm out of X color.
+[ 00:09:24.000 -->  00:09:26.000] [SPEAKER_03] Do they mix well?
+[ 00:09:26.000 -->  00:09:28.000] [SPEAKER_03] Yeah, they mix.
+[ 00:09:28.000 -->  00:09:30.000] [SPEAKER_03] Actually, at the end,
+[ 00:09:30.000 -->  00:09:32.000] [SPEAKER_03] Jayden was mixing
+[ 00:09:32.000 -->  00:09:34.000] [SPEAKER_03] pink and yellow
+[ 00:09:34.000 -->  00:09:36.000] [SPEAKER_03] and he realized it was orange.
+[ 00:09:36.000 -->  00:09:38.000] [SPEAKER_03] So he was like, oh.
+[ 00:09:38.000 -->  00:09:40.000] [SPEAKER_06] At one point, Dylan
+[ 00:09:40.000 -->  00:09:42.000] [SPEAKER_06] came over and grabbed brown.
+[ 00:09:42.000 -->  00:09:44.000] [SPEAKER_06] He said, this is the color of my dad's skin.
+[ 00:09:44.000 -->  00:09:46.000] [SPEAKER_06] He said, I need orange, too.
+[ 00:09:46.000 -->  00:09:48.000] [SPEAKER_06] He needed a little orange, I guess.
+[ 00:09:48.000 -->  00:09:50.000] [SPEAKER_06] At one point,
+[ 00:09:50.000 -->  00:09:52.000] [SPEAKER_01] Isabel was mixing orange and white
+[ 00:09:52.000 -->  00:09:54.000] [SPEAKER_01] to make a peach color.
+[ 00:09:54.000 -->  00:09:56.000] [SPEAKER_01] She made it and said, oh, this kind of looks like your skin color.
+[ 00:09:56.000 -->  00:09:58.000] [SPEAKER_01] I'm not sure.
+[ 00:09:58.000 -->  00:10:00.000] [SPEAKER_01] And then Dylan comes over
+[ 00:10:00.000 -->  00:10:02.000] [SPEAKER_01] with a bunch of...
+[ 00:10:02.000 -->  00:10:04.000] [SPEAKER_01] I think right before or after
+[ 00:10:04.000 -->  00:10:06.000] [SPEAKER_01] he went to get that brown from you.
+[ 00:10:06.000 -->  00:10:08.000] [SPEAKER_01] He was like, I've got too much orange
+[ 00:10:08.000 -->  00:10:10.000] [None] and I'm going to look like Donald Trump.
+[ 00:10:10.000 -->  00:10:12.000] [None] That's so funny.
+[ 00:10:12.000 -->  00:10:14.000] [SPEAKER_01] That's funny.
+[ 00:10:14.000 -->  00:10:16.000] [SPEAKER_01] It was really funny.
+[ 00:10:16.000 -->  00:10:18.000] [SPEAKER_01] It was also really interesting to hear them talk about...
+[ 00:10:18.000 -->  00:10:20.000] [SPEAKER_01] He does look orange.
+[ 00:10:20.000 -->  00:10:22.000] [SPEAKER_01] He does look orange.
+[ 00:10:22.000 -->  00:10:24.000] [SPEAKER_01] I was like, you're not wrong, Dylan.
+[ 00:10:24.000 -->  00:10:26.000] [SPEAKER_01] You don't want that.
+[ 00:10:26.000 -->  00:10:28.000] [SPEAKER_01] Whatever cream you're using is not working.
+[ 00:10:28.000 -->  00:10:30.000] [SPEAKER_01] I don't know.
+[ 00:10:30.000 -->  00:10:32.000] [SPEAKER_01] Hearing them make those connections
+[ 00:10:32.000 -->  00:10:34.000] [SPEAKER_01] and also
+[ 00:10:34.000 -->  00:10:36.000] [SPEAKER_01] talking about
+[ 00:10:36.000 -->  00:10:38.000] [SPEAKER_01] like you were saying, Angela,
+[ 00:10:38.000 -->  00:10:40.000] [SPEAKER_01] figuring out what to do with what they had.
+[ 00:10:40.000 -->  00:10:42.000] [SPEAKER_01] The only person
+[ 00:10:42.000 -->  00:10:44.000] [SPEAKER_01] who didn't make it to
+[ 00:10:44.000 -->  00:10:46.000] [SPEAKER_01] building with clay, I think,
+[ 00:10:46.000 -->  00:10:48.000] [SPEAKER_01] was Jaylene,
+[ 00:10:48.000 -->  00:10:50.000] [SPEAKER_01] who was really focused on her drawing.
+[ 00:10:50.000 -->  00:10:52.000] [SPEAKER_01] But when I asked her about it,
+[ 00:10:52.000 -->  00:10:54.000] [SPEAKER_01] it was really sweet.
+[ 00:10:54.000 -->  00:10:56.000] [SPEAKER_01] She had drawn
+[ 00:10:56.000 -->  00:10:58.000] [SPEAKER_01] her, her mom,
+[ 00:10:58.000 -->  00:11:00.000] [SPEAKER_01] Janina,
+[ 00:11:00.000 -->  00:11:02.000] [SPEAKER_01] and then the baby
+[ 00:11:02.000 -->  00:11:04.000] [SPEAKER_01] siblings that she, her mom,
+[ 00:11:04.000 -->  00:11:06.000] [SPEAKER_01] I guess recently had twins.
+[ 00:11:08.000 -->  00:11:10.000] [SPEAKER_01] And she wanted her story to be
+[ 00:11:10.000 -->  00:11:12.000] [SPEAKER_01] her at the hospital meeting them.
+[ 00:11:12.000 -->  00:11:14.000] [SPEAKER_01] [Group] Aww.
+[ 00:11:14.000 -->  00:11:16.000] [SPEAKER_01] And I was like, okay, so what's your
+[ 00:11:16.000 -->  00:11:18.000] [SPEAKER_01] conflict in the story? What's the problem?
+[ 00:11:18.000 -->  00:11:20.000] [SPEAKER_01] What happens when you're in your story?
+[ 00:11:20.000 -->  00:11:22.000] [SPEAKER_01] And she was like, well, the doctor didn't let us go inside.
+[ 00:11:22.000 -->  00:11:24.000] [SPEAKER_01] I was like, oh my gosh, this is a great story.
+[ 00:11:24.000 -->  00:11:26.000] [SPEAKER_01] The doctor didn't even feel like you're still in there.
+[ 00:11:26.000 -->  00:11:28.000] [SPEAKER_01] The story's taking place outside the hospital.
+[ 00:11:28.000 -->  00:11:30.000] [SPEAKER_01] She had to wait outside.
+[ 00:11:30.000 -->  00:11:32.000] [SPEAKER_01] I don't know, I just wanted to share that.
+[ 00:11:32.000 -->  00:11:34.000] [SPEAKER_01] That is fantastic.
+[ 00:11:34.000 -->  00:11:36.000] [SPEAKER_01] She spent so much time.
+[ 00:11:36.000 -->  00:11:38.000] [SPEAKER_01] She was really working so hard on making the drawings
+[ 00:11:38.000 -->  00:11:40.000] [SPEAKER_01] really nice.
+[ 00:11:40.000 -->  00:11:42.000] [SPEAKER_01] This isn't really the end goal.
+[ 00:11:42.000 -->  00:11:44.000] [SPEAKER_01] She didn't want to stop you.
+[ 00:11:44.000 -->  00:11:46.000] [SPEAKER_02] I just wanted to let her.
+[ 00:11:46.000 -->  00:11:48.000] [SPEAKER_02] Gerdane was the same.
+[ 00:11:48.000 -->  00:11:50.000] [SPEAKER_02] He's doing Mario, the Mario movie.
+[ 00:11:50.000 -->  00:11:52.000] [SPEAKER_02] There's no way out of it.
+[ 00:11:52.000 -->  00:11:54.000] [SPEAKER_02] But he was saying
+[ 00:11:54.000 -->  00:11:56.000] [SPEAKER_02] the princess is going to join them.
+[ 00:11:56.000 -->  00:11:58.000] [SPEAKER_02] And he said they're not going to rescue
+[ 00:11:58.000 -->  00:12:00.000] [SPEAKER_02] the princess because the princess has been
+[ 00:12:00.000 -->  00:12:02.000] [SPEAKER_02] training very hard so she's going to fight with them.
+[ 00:12:02.000 -->  00:12:04.000] [SPEAKER_02] Yeah.
+[ 00:12:04.000 -->  00:12:06.000] [SPEAKER_02] That's probably what happened in the movie.
+[ 00:12:06.000 -->  00:12:08.000] [SPEAKER_02] Yeah, but he was like
+[ 00:12:08.000 -->  00:12:10.000] [SPEAKER_02] just mentioning
+[ 00:12:10.000 -->  00:12:12.000] [SPEAKER_02] being clear about
+[ 00:12:12.000 -->  00:12:14.000] [SPEAKER_02] nobody needs to rescue the princess.
+[ 00:12:14.000 -->  00:12:16.000] [SPEAKER_02] She can fight with them.
+[ 00:12:16.000 -->  00:12:18.000] [SPEAKER_02] I think that was it.
+[ 00:12:18.000 -->  00:12:20.000] [SPEAKER_02] And he was very happy drawing.
+[ 00:12:20.000 -->  00:12:22.000] [SPEAKER_02] He's very good.
+[ 00:12:22.000 -->  00:12:24.000] [SPEAKER_05] He draws it.
+[ 00:12:24.000 -->  00:12:26.000] [SPEAKER_05] There is a princess in the Mario
+[ 00:12:26.000 -->  00:12:28.000] [SPEAKER_06] video game.
+[ 00:12:28.000 -->  00:12:30.000] [SPEAKER_06] Usually she's just getting rescued.
+[ 00:12:30.000 -->  00:12:32.000] [SPEAKER_06] It's good that he could discern
+[ 00:12:32.000 -->  00:12:34.000] [SPEAKER_02] the message.
+[ 00:12:34.000 -->  00:12:36.000] [SPEAKER_02] Yeah.
+[ 00:12:36.000 -->  00:12:38.000] [SPEAKER_02] Another one that wanted every detail
+[ 00:12:38.000 -->  00:12:40.000] [SPEAKER_02] of the Mario.
+[ 00:12:40.000 -->  00:12:42.000] [SPEAKER_05] And then I told him
+[ 00:12:42.000 -->  00:12:44.000] [SPEAKER_05] with Crayon it might be difficult to...
+[ 00:12:44.000 -->  00:12:46.000] [SPEAKER_05] So you don't need to spend so much time.
+[ 00:12:46.000 -->  00:12:48.000] [SPEAKER_02] I mean I thought that
+[ 00:12:48.000 -->  00:12:50.000] [SPEAKER_02] he was enjoying doing the drawing process
+[ 00:12:50.000 -->  00:12:52.000] [SPEAKER_02] and that he would feel
+[ 00:12:52.000 -->  00:12:54.000] [None] when he gets to ...
+[ 00:12:54.000 -->  00:12:56.000] [SPEAKER_05] how to make it work.
+[ 00:12:56.000 -->  00:12:58.000] [SPEAKER_05] It's this balance I think between
+[ 00:12:58.000 -->  00:13:00.000] [SPEAKER_05] moving them forward.
+[ 00:13:00.000 -->  00:13:02.000] [SPEAKER_05] Like you said, if you tell me
+[ 00:13:02.000 -->  00:13:04.000] [SPEAKER_05] make the head lighter
+[ 00:13:04.000 -->  00:13:06.000] [SPEAKER_05] then it will hold.
+[ 00:13:06.000 -->  00:13:08.000] [SPEAKER_05] So that they learn it on their own.
+[ 00:13:08.000 -->  00:13:10.000] [SPEAKER_05] Letting them explore the artistic
+[ 00:13:10.000 -->  00:13:12.000] [SPEAKER_05] part. He spent most
+[ 00:13:12.000 -->  00:13:14.000] [SPEAKER_05] of the session in this one square.
+[ 00:13:14.000 -->  00:13:16.000] [SPEAKER_05] Drawing.
+[ 00:13:16.000 -->  00:13:18.000] [SPEAKER_03] But by the end
+[ 00:13:18.000 -->  00:13:20.000] [SPEAKER_03] I asked him
+[ 00:13:20.000 -->  00:13:22.000] [SPEAKER_03] if he wanted to try
+[ 00:13:22.000 -->  00:13:24.000] [SPEAKER_03] to do one of the parts.
+[ 00:13:24.000 -->  00:13:26.000] [SPEAKER_03] So he got to
+[ 00:13:26.000 -->  00:13:28.000] [SPEAKER_03] start to planning.
+[ 00:13:28.000 -->  00:13:30.000] [SPEAKER_03] He was like
+[ 00:13:30.000 -->  00:13:32.000] [SPEAKER_03] looking at the clay like...
+[ 00:13:32.000 -->  00:13:34.000] [SPEAKER_03] Mmm...
+[ 00:13:34.000 -->  00:13:36.000] [SPEAKER_05] It's such a different...
+[ 00:13:36.000 -->  00:13:38.000] [SPEAKER_05] But that's the beauty that it's not replicating it.
+[ 00:13:38.000 -->  00:13:40.000] [SPEAKER_05] It's making something new.
+[ 00:13:40.000 -->  00:13:42.000] [SPEAKER_05] Inspired by whatever thinking you've done before.
+[ 00:13:42.000 -->  00:13:44.000] [SPEAKER_05] It's a translation.
+[ 00:13:44.000 -->  00:13:46.000] [SPEAKER_05] It's transmediation.
+[ 00:13:46.000 -->  00:13:48.000] [SPEAKER_05] It's not mere replication.
+[ 00:13:48.000 -->  00:13:50.000] [SPEAKER_01] I wonder also
+[ 00:13:50.000 -->  00:13:52.000] [SPEAKER_01] for a kid like Giordani
+[ 00:13:52.000 -->  00:13:54.000] [SPEAKER_01] if we just let him
+[ 00:13:54.000 -->  00:13:56.000] [SPEAKER_01] with the drawing.
+[ 00:13:56.000 -->  00:13:58.000] [SPEAKER_01] Is the clay...
+[ 00:13:58.000 -->  00:14:00.000] [SPEAKER_01] I don't know. Maybe the clay is the goal.
+[ 00:14:00.000 -->  00:14:02.000] [SPEAKER_01] Maybe pushing the clay.
+[ 00:14:02.000 -->  00:14:04.000] [SPEAKER_05] Hi!
+[ 00:14:04.000 -->  00:14:06.000] [SPEAKER_05] Hi, Navina?
+[ 00:14:06.000 -->  00:14:08.000] [SPEAKER_05] Marin.
+[ 00:14:08.000 -->  00:14:10.000] [SPEAKER_05] No, Novani.
+[ 00:14:10.000 -->  00:14:12.000] [SPEAKER_05] I've made friends with Navina.
+[ 00:14:12.000 -->  00:14:14.000] [SPEAKER_05] I don't remember her name.
+[ 00:14:14.000 -->  00:14:16.000] [SPEAKER_05] I don't remember her much
+[ 00:14:16.000 -->  00:14:18.000] [SPEAKER_05] because she hasn't come yet.
+[ 00:14:20.000 -->  00:14:22.000] [SPEAKER_01] Sorry.
+[ 00:14:22.000 -->  00:14:24.000] [SPEAKER_01] I wonder if...
+[ 00:14:24.000 -->  00:14:26.000] [SPEAKER_01] If he should do it with the drawing.
+[ 00:14:26.000 -->  00:14:28.000] [SPEAKER_01] Do it with the drawing.
+[ 00:14:28.000 -->  00:14:30.000] [SPEAKER_01] Like with drawing and cutting out.
+[ 00:14:30.000 -->  00:14:32.000] [SPEAKER_01] Like we did before.
+[ 00:14:32.000 -->  00:14:34.000] [SPEAKER_06] I think we should open it up to that.
+[ 00:14:34.000 -->  00:14:36.000] [SPEAKER_05] And then to address the 3D
+[ 00:14:36.000 -->  00:14:38.000] [SPEAKER_05] he could put some stand
+[ 00:14:38.000 -->  00:14:40.000] [SPEAKER_05] like a little piece of something to hold it up.
+[ 00:14:40.000 -->  00:14:42.000] [SPEAKER_02] Or whatever he comes up with.
+[ 00:14:42.000 -->  00:14:44.000] [SPEAKER_02] Maybe we can...
+[ 00:14:44.000 -->  00:14:46.000] [SPEAKER_03] That would be great.
+[ 00:14:46.000 -->  00:14:48.000] [SPEAKER_03] Make pieces of white paper.
+[ 00:14:48.000 -->  00:14:50.000] [SPEAKER_01] Yes, it's a possibility.
+[ 00:14:50.000 -->  00:14:52.000] [SPEAKER_01] I feel like...
+[ 00:14:52.000 -->  00:14:54.000] [SPEAKER_05] Why not let him run with it?
+[ 00:14:54.000 -->  00:14:56.000] [SPEAKER_05] If he only wants that.
+[ 00:14:56.000 -->  00:14:58.000] [SPEAKER_05] It should be his decision to choose.
+[ 00:14:58.000 -->  00:15:00.000] [SPEAKER_05] And then do whatever he wants.
+[ 00:15:00.000 -->  00:15:02.000] [SPEAKER_03] That would be great to see what happens.
+[ 00:15:02.000 -->  00:15:04.000] [SPEAKER_03] But probably give him the option.
+[ 00:15:04.000 -->  00:15:06.000] [SPEAKER_03] If you want to.
+[ 00:15:06.000 -->  00:15:08.000] [SPEAKER_03] We can make the accommodations.
+[ 00:15:10.000 -->  00:15:12.000] [SPEAKER_03] I don't want clay.
+[ 00:15:12.000 -->  00:15:14.000] [SPEAKER_03] But he was trying to do Donkey Kong
+[ 00:15:14.000 -->  00:15:16.000] [SPEAKER_03] with the clay.
+[ 00:15:16.000 -->  00:15:18.000] [SPEAKER_03] Oh, he had no practice
+[ 00:15:18.000 -->  00:15:20.000] [SPEAKER_02] to help to say...
+[ 00:15:20.000 -->  00:15:22.000] [SPEAKER_02] DK.
+[ 00:15:22.000 -->  00:15:24.000] [SPEAKER_06] He didn't like when I called him DK.
+[ 00:15:24.000 -->  00:15:26.000] [SPEAKER_06] But that's what I remember.
+[ 00:15:26.000 -->  00:15:28.000] [SPEAKER_06] Donkey Kong, yeah?
+[ 00:15:28.000 -->  00:15:30.000] [SPEAKER_05] Donkey Kong.
+[ 00:15:30.000 -->  00:15:32.000] [SPEAKER_05] So we have the artistic process.
+[ 00:15:34.000 -->  00:15:36.000] [SPEAKER_05] Someone mentioned the story.
+[ 00:15:36.000 -->  00:15:38.000] [SPEAKER_05] Like Cristina said.
+[ 00:15:38.000 -->  00:15:40.000] [SPEAKER_05] What's the problem?
+[ 00:15:40.000 -->  00:15:42.000] [SPEAKER_05] What's the main action in the story?
+[ 00:15:42.000 -->  00:15:44.000] [SPEAKER_05] I was trying to ask
+[ 00:15:44.000 -->  00:15:46.000] [SPEAKER_05] what's the message?
+[ 00:15:46.000 -->  00:15:48.000] [SPEAKER_05] What are you trying to tell in the story?
+[ 00:15:48.000 -->  00:15:50.000] [SPEAKER_05] What is the story?
+[ 00:15:50.000 -->  00:15:52.000] [SPEAKER_05] It's that you want the...
+[ 00:15:52.000 -->  00:15:54.000] [SPEAKER_05] But I couldn't get to that.
+[ 00:15:54.000 -->  00:15:56.000] [SPEAKER_05] That's another goal that we had.
+[ 00:15:56.000 -->  00:15:58.000] [SPEAKER_05] To maybe think about inferring.
+[ 00:15:58.000 -->  00:16:00.000] [SPEAKER_05] What is it that they want us
+[ 00:16:00.000 -->  00:16:02.000] [SPEAKER_05] to infer from the story?
+[ 00:16:02.000 -->  00:16:04.000] [SPEAKER_05] It's kind of the opposite way of inferring.
+[ 00:16:04.000 -->  00:16:06.000] [SPEAKER_05] Because they are creating something for us to infer.
+[ 00:16:06.000 -->  00:16:08.000] [SPEAKER_05] Or I guess we will make
+[ 00:16:08.000 -->  00:16:10.000] [SPEAKER_05] whatever meaning we want
+[ 00:16:10.000 -->  00:16:12.000] [SPEAKER_05] with their stories.
+[ 00:16:12.000 -->  00:16:14.000] [SPEAKER_05] But I was asking them
+[ 00:16:14.000 -->  00:16:16.000] [SPEAKER_05] to explore that a little bit.
+[ 00:16:16.000 -->  00:16:18.000] [SPEAKER_05] Did you ask them
+[ 00:16:18.000 -->  00:16:20.000] [SPEAKER_05] any of that?
+[ 00:16:20.000 -->  00:16:22.000] [SPEAKER_05] What were your questions about the story?
+[ 00:16:22.000 -->  00:16:24.000] [SPEAKER_03] I was working with Jada
+[ 00:16:24.000 -->  00:16:26.000] [SPEAKER_03] because the story was about fighting
+[ 00:16:26.000 -->  00:16:28.000] [SPEAKER_03] and then getting tired
+[ 00:16:28.000 -->  00:16:30.000] [SPEAKER_03] and leaving.
+[ 00:16:30.000 -->  00:16:32.000] [SPEAKER_03] So I was trying to perhaps
+[ 00:16:32.000 -->  00:16:34.000] [SPEAKER_03] think a little bit more about
+[ 00:16:34.000 -->  00:16:36.000] [SPEAKER_03] a more positive ending.
+[ 00:16:36.000 -->  00:16:38.000] [SPEAKER_03] So we were talking about
+[ 00:16:38.000 -->  00:16:40.000] [SPEAKER_03] what really happens
+[ 00:16:40.000 -->  00:16:42.000] [SPEAKER_03] when you fight with a friend.
+[ 00:16:42.000 -->  00:16:44.000] [SPEAKER_03] So I asked him, when you fight with your friend
+[ 00:16:44.000 -->  00:16:46.000] [SPEAKER_03] do you just go away?
+[ 00:16:46.000 -->  00:16:48.000] [SPEAKER_03] Or do you try to
+[ 00:16:48.000 -->  00:16:50.000] [SPEAKER_03] be friends again?
+[ 00:16:50.000 -->  00:16:52.000] [SPEAKER_03] So he was like,
+[ 00:16:52.000 -->  00:16:54.000] [SPEAKER_03] yeah, but I think that he
+[ 00:16:54.000 -->  00:16:56.000] [SPEAKER_03] finds funny
+[ 00:16:56.000 -->  00:16:58.000] [SPEAKER_03] the ending.
+[ 00:16:58.000 -->  00:17:00.000] [SPEAKER_03] But that's fine.
+[ 00:17:00.000 -->  00:17:02.000] [SPEAKER_05] The end is that they remain angry.
+[ 00:17:02.000 -->  00:17:04.000] [SPEAKER_05] Yeah, it was not that they were angry.
+[ 00:17:04.000 -->  00:17:06.000] [SPEAKER_03] He had resistance to
+[ 00:17:06.000 -->  00:17:08.000] [SPEAKER_03] a happy ending.
+[ 00:17:08.000 -->  00:17:10.000] [SPEAKER_03] He doesn't say that
+[ 00:17:10.000 -->  00:17:12.000] [SPEAKER_03] they were angry, but they were tired.
+[ 00:17:12.000 -->  00:17:14.000] [SPEAKER_03] They were tired.
+[ 00:17:14.000 -->  00:17:16.000] [SPEAKER_03] So does he see it as
+[ 00:17:16.000 -->  00:17:18.000] [SPEAKER_06] playing mostly?
+[ 00:17:18.000 -->  00:17:20.000] [SPEAKER_06] Does it seem like?
+[ 00:17:20.000 -->  00:17:22.000] [SPEAKER_03] The story is that
+[ 00:17:22.000 -->  00:17:24.000] [SPEAKER_03] he is with Isis in a park
+[ 00:17:24.000 -->  00:17:26.000] [SPEAKER_03] and
+[ 00:17:26.000 -->  00:17:28.000] [SPEAKER_03] Isis punches him first
+[ 00:17:28.000 -->  00:17:30.000] [SPEAKER_03] and then he
+[ 00:17:30.000 -->  00:17:32.000] [SPEAKER_03] punches back
+[ 00:17:32.000 -->  00:17:34.000] [SPEAKER_03] and then they punch for a
+[ 00:17:34.000 -->  00:17:36.000] [SPEAKER_03] moment in time
+[ 00:17:36.000 -->  00:17:38.000] [SPEAKER_03] and then they get tired and they leave.
+[ 00:17:38.000 -->  00:17:40.000] [SPEAKER_05] But he did say
+[ 00:17:40.000 -->  00:17:42.000] [SPEAKER_05] this was Isis' story.
+[ 00:17:42.000 -->  00:17:44.000] [SPEAKER_05] She created, like, I have no
+[ 00:17:44.000 -->  00:17:46.000] [SPEAKER_05] ownership in this.
+[ 00:17:46.000 -->  00:17:48.000] [SPEAKER_03] No, because he has missed
+[ 00:17:48.000 -->  00:17:50.000] [SPEAKER_03] the two last sessions.
+[ 00:17:50.000 -->  00:17:52.000] [SPEAKER_03] So he kind of took over
+[ 00:17:52.000 -->  00:17:54.000] [SPEAKER_03] the story.
+[ 00:17:54.000 -->  00:17:56.000] [SPEAKER_03] When he was working with Isis
+[ 00:17:56.000 -->  00:17:58.000] [SPEAKER_03] the story got to the part that
+[ 00:17:58.000 -->  00:18:00.000] [SPEAKER_03] they were in the park and
+[ 00:18:00.000 -->  00:18:02.000] [SPEAKER_03] they were angry.
+[ 00:18:02.000 -->  00:18:04.000] [SPEAKER_03] So that's a bit...
+[ 00:18:04.000 -->  00:18:06.000] [SPEAKER_03] But the other part
+[ 00:18:06.000 -->  00:18:08.000] [SPEAKER_03] where they punch themselves
+[ 00:18:08.000 -->  00:18:10.000] [SPEAKER_03] and they are tired and leave.
+[ 00:18:10.000 -->  00:18:12.000] [SPEAKER_03] All of that is Jaden's.
+[ 00:18:12.000 -->  00:18:14.000] [SPEAKER_05] Some of them are very violent
+[ 00:18:14.000 -->  00:18:16.000] [SPEAKER_05] and dramatic.
+[ 00:18:16.000 -->  00:18:18.000] [SPEAKER_05] In that group, they were going to jail.
+[ 00:18:18.000 -->  00:18:20.000] [SPEAKER_05] They were a target
+[ 00:18:20.000 -->  00:18:22.000] [SPEAKER_05] and they were stealing.
+[ 00:18:22.000 -->  00:18:24.000] [SPEAKER_05] The push, what is it called?
+[ 00:18:24.000 -->  00:18:26.000] [SPEAKER_05] If you steal, you're going to jail.
+[ 00:18:26.000 -->  00:18:28.000] [SPEAKER_05] But then
+[ 00:18:28.000 -->  00:18:30.000] [SPEAKER_05] Chloe was the police
+[ 00:18:30.000 -->  00:18:32.000] [SPEAKER_05] woman
+[ 00:18:32.000 -->  00:18:34.000] [SPEAKER_05] because they wouldn't want her stealing too.
+[ 00:18:36.000 -->  00:18:38.000] [SPEAKER_05] They let them go to
+[ 00:18:38.000 -->  00:18:40.000] [SPEAKER_05] live with Gwaius
+[ 00:18:40.000 -->  00:18:42.000] [SPEAKER_05] but then they called the parents.
+[ 00:18:42.000 -->  00:18:44.000] [SPEAKER_05] And the mom is so angry that she doesn't want to pick them up.
+[ 00:18:44.000 -->  00:18:46.000] [SPEAKER_05] So they spent seven years in jail.
+[ 00:18:46.000 -->  00:18:48.000] [SPEAKER_06] That was so sad.
+[ 00:18:48.000 -->  00:18:50.000] [SPEAKER_06] That's a good long story. It's got some ups and downs.
+[ 00:18:50.000 -->  00:18:52.000] [SPEAKER_05] It took me some time to get that out.
+[ 00:18:52.000 -->  00:18:54.000] [SPEAKER_05] Yeah, does Kelsey say sorry?
+[ 00:18:54.000 -->  00:18:56.000] [SPEAKER_05] Except for... because they're creating it
+[ 00:18:56.000 -->  00:18:58.000] [SPEAKER_05] as we're asking them.
+[ 00:18:58.000 -->  00:19:00.000] [SPEAKER_05] I don't think they've got any story.
+[ 00:19:00.000 -->  00:19:02.000] [SPEAKER_03] Let's make it up for this lady that is asking.
+[ 00:19:02.000 -->  00:19:04.000] [SPEAKER_03] This is the story that Kelsey told me.
+[ 00:19:04.000 -->  00:19:06.000] [SPEAKER_03] Yeah, it's the exact same story.
+[ 00:19:06.000 -->  00:19:08.000] [SPEAKER_05] Oh, they didn't have this story before.
+[ 00:19:08.000 -->  00:19:10.000] [SPEAKER_05] And it's remembering it maybe.
+[ 00:19:10.000 -->  00:19:12.000] [SPEAKER_05] Now another thing that we were focusing on
+[ 00:19:12.000 -->  00:19:14.000] [SPEAKER_05] is the community.
+[ 00:19:14.000 -->  00:19:16.000] [SPEAKER_05] I was trying to ask them, so what's the background?
+[ 00:19:16.000 -->  00:19:18.000] [SPEAKER_05] Where is this happening? And that's where Target came from.
+[ 00:19:18.000 -->  00:19:20.000] [SPEAKER_05] And then someone... Sears?
+[ 00:19:20.000 -->  00:19:22.000] [SPEAKER_05] Someone told me about Sears.
+[ 00:19:22.000 -->  00:19:24.000] [SPEAKER_05] They like Sears.
+[ 00:19:24.000 -->  00:19:26.000] [SPEAKER_05] Is Scandi there?
+[ 00:19:26.000 -->  00:19:28.000] [SPEAKER_05] I don't know where it was.
+[ 00:19:28.000 -->  00:19:30.000] [SPEAKER_01] The locker.
+[ 00:19:30.000 -->  00:19:32.000] [SPEAKER_01] The park came up a lot at my table.
+[ 00:19:32.000 -->  00:19:34.000] [SPEAKER_06] The cake shop.
+[ 00:19:34.000 -->  00:19:36.000] [SPEAKER_06] I know.
+[ 00:19:36.000 -->  00:19:38.000] [SPEAKER_06] Eliana is doing one at the cake shop.
+[ 00:19:38.000 -->  00:19:40.000] [SPEAKER_06] The game.
+[ 00:19:40.000 -->  00:19:42.000] [SPEAKER_05] Cake.
+[ 00:19:42.000 -->  00:19:44.000] [SPEAKER_06] The bakery.
+[ 00:19:44.000 -->  00:19:46.000] [SPEAKER_03] That's the word.
+[ 00:19:46.000 -->  00:19:48.000] [SPEAKER_03] Dariel said no.
+[ 00:19:48.000 -->  00:19:50.000] [SPEAKER_03] Because everything is happening in the beach.
+[ 00:19:50.000 -->  00:19:52.000] [SPEAKER_04] That was locked two weeks ago.
+[ 00:19:52.000 -->  00:19:54.000] [SPEAKER_06] But that is also...
+[ 00:19:54.000 -->  00:19:56.000] [SPEAKER_06] I'm sure he's talking about it.
+[ 00:19:56.000 -->  00:19:58.000] [SPEAKER_06] Could be talking about it.
+[ 00:19:58.000 -->  00:20:00.000] [SPEAKER_02] And Giovanni?
+[ 00:20:00.000 -->  00:20:02.000] [SPEAKER_02] Oh, Giovanni doesn't want the community either.
+[ 00:20:02.000 -->  00:20:04.000] [SPEAKER_04] What if we lose?
+[ 00:20:04.000 -->  00:20:06.000] [SPEAKER_04] He didn't use the Mario world.
+[ 00:20:06.000 -->  00:20:08.000] [SPEAKER_04] Yeah, Giovanni too.
+[ 00:20:08.000 -->  00:20:10.000] [SPEAKER_02] Jayden picked the
+[ 00:20:10.000 -->  00:20:12.000] [SPEAKER_03] target mural
+[ 00:20:12.000 -->  00:20:14.000] [SPEAKER_03] that we saw.
+[ 00:20:14.000 -->  00:20:16.000] [SPEAKER_03] I think it's kind of in a park.
+[ 00:20:16.000 -->  00:20:18.000] [SPEAKER_03] So he chose that.
+[ 00:20:18.000 -->  00:20:20.000] [SPEAKER_03] Who?
+[ 00:20:20.000 -->  00:20:22.000] [SPEAKER_03] Jayden.
+[ 00:20:22.000 -->  00:20:24.000] [SPEAKER_05] So did we get a lot of photos selected?
+[ 00:20:24.000 -->  00:20:26.000] [SPEAKER_06] I can just select a few more
+[ 00:20:26.000 -->  00:20:28.000] [SPEAKER_06] that are good.
+[ 00:20:28.000 -->  00:20:30.000] [SPEAKER_03] Just print them out.
+[ 00:20:30.000 -->  00:20:32.000] [SPEAKER_03] In the group network,
+[ 00:20:32.000 -->  00:20:34.000] [SPEAKER_03] Jayden chose a picture.
+[ 00:20:34.000 -->  00:20:36.000] [SPEAKER_03] We're like, no.
+[ 00:20:36.000 -->  00:20:38.000] [SPEAKER_03] It doesn't work.
+[ 00:20:38.000 -->  00:20:40.000] [SPEAKER_05] But they can use extras.
+[ 00:20:40.000 -->  00:20:42.000] [SPEAKER_05] They could just choose from the ones we have printed.
+[ 00:20:42.000 -->  00:20:44.000] [SPEAKER_05] It might be helpful to do
+[ 00:20:44.000 -->  00:20:46.000] [SPEAKER_05] this size in Walgreens.
+[ 00:20:46.000 -->  00:20:48.000] [SPEAKER_05] Because this one
+[ 00:20:48.000 -->  00:20:50.000] [SPEAKER_05] sometimes is too big.
+[ 00:20:50.000 -->  00:20:52.000] [SPEAKER_06] Or they could cut.
+[ 00:20:52.000 -->  00:20:54.000] [SPEAKER_06] I thought we were just going to do paper.
+[ 00:20:54.000 -->  00:20:56.000] [SPEAKER_06] Because we don't want it to be reflective.
+[ 00:20:56.000 -->  00:20:58.000] [SPEAKER_06] And we want it to take up the whole back of the...
+[ 00:20:58.000 -->  00:21:00.000] [SPEAKER_05] Oh, not photographic like in Walgreens.
+[ 00:21:00.000 -->  00:21:02.000] [SPEAKER_06] No, I don't think we have
+[ 00:21:02.000 -->  00:21:04.000] [SPEAKER_06] the time or money.
+[ 00:21:04.000 -->  00:21:06.000] [SPEAKER_06] The reflective part
+[ 00:21:06.000 -->  00:21:08.000] [SPEAKER_01] would be a problem as well.
+[ 00:21:08.000 -->  00:21:10.000] [SPEAKER_01] I was going to say, I think regular paper is better anyway.
+[ 00:21:10.000 -->  00:21:12.000] [SPEAKER_04] It's also easier to cut if you need to adjust things.
+[ 00:21:12.000 -->  00:21:14.000] [SPEAKER_06] Can we do
+[ 00:21:14.000 -->  00:21:16.000] [SPEAKER_06] color?
+[ 00:21:16.000 -->  00:21:18.000] [SPEAKER_06] I can try to print in color at the office I work at.
+[ 00:21:18.000 -->  00:21:20.000] [SPEAKER_06] In the office,
+[ 00:21:20.000 -->  00:21:22.000] [SPEAKER_05] we're not doing very well
+[ 00:21:22.000 -->  00:21:24.000] [SPEAKER_05] with coloring.
+[ 00:21:24.000 -->  00:21:26.000] [SPEAKER_06] I can try at the office I work at.
+[ 00:21:26.000 -->  00:21:28.000] [SPEAKER_04] We can print it at TC.
+[ 00:21:28.000 -->  00:21:30.000] [SPEAKER_04] Ashley got a new computer.
+[ 00:21:30.000 -->  00:21:32.000] [SPEAKER_05] It doesn't connect with one color printer.
+[ 00:21:32.000 -->  00:21:34.000] [SPEAKER_06] We can print them in color
+[ 00:21:34.000 -->  00:21:36.000] [SPEAKER_06] at TC.
+[ 00:21:36.000 -->  00:21:38.000] [SPEAKER_08] For me to pay.
+[ 00:21:38.000 -->  00:21:40.000] [SPEAKER_06] I'll try to go without paying.
+[ 00:21:42.000 -->  00:21:44.000] [SPEAKER_05] Just give me the receipt.
+[ 00:21:44.000 -->  00:21:46.000] [SPEAKER_05] We need them.
+[ 00:21:46.000 -->  00:21:48.000] [SPEAKER_05] If you don't.
+[ 00:21:48.000 -->  00:21:50.000] [SPEAKER_05] If I can't get it for free.
+[ 00:21:50.000 -->  00:21:52.000] [SPEAKER_05] That's what I was trying to say.
+[ 00:21:52.000 -->  00:21:54.000] [SPEAKER_03] And then choose the target.
+[ 00:21:54.000 -->  00:21:56.000] [SPEAKER_03] But they can just draw in mural.
+[ 00:21:56.000 -->  00:21:58.000] [SPEAKER_03] David was very happy drawing just this.
+[ 00:21:58.000 -->  00:22:00.000] [SPEAKER_06] I guess I got overly concerned
+[ 00:22:00.000 -->  00:22:02.000] [SPEAKER_06] with the time that all of this is going to take.
+[ 00:22:04.000 -->  00:22:06.000] [SPEAKER_01] Yeah, maybe it's the barrier
+[ 00:22:06.000 -->  00:22:08.000] [SPEAKER_01] by the computer to work.
+[ 00:22:08.000 -->  00:22:10.000] [SPEAKER_05] It's going to take some time.
+[ 00:22:10.000 -->  00:22:12.000] [SPEAKER_05] This is what we're going to do until the end of the year.
+[ 00:22:12.000 -->  00:22:14.000] [SPEAKER_05] I'm just worried
+[ 00:22:14.000 -->  00:22:16.000] [SPEAKER_06] about them not finishing.
+[ 00:22:16.000 -->  00:22:18.000] [SPEAKER_06] If they don't finish, and some others do.
+[ 00:22:18.000 -->  00:22:20.000] [SPEAKER_06] They want to keep working on it, but we're not coming anymore.
+[ 00:22:20.000 -->  00:22:22.000] [SPEAKER_06] I don't know.
+[ 00:22:22.000 -->  00:22:24.000] [SPEAKER_06] That's what I'm worried about.
+[ 00:22:24.000 -->  00:22:26.000] [SPEAKER_06] It'll be okay, I guess.
+[ 00:22:26.000 -->  00:22:28.000] [SPEAKER_03] We're gone to make them finish.
+[ 00:22:28.000 -->  00:22:30.000] [SPEAKER_04] That'll be fine.
+[ 00:22:30.000 -->  00:22:32.000] [SPEAKER_04] A lot of the kids
+[ 00:22:32.000 -->  00:22:34.000] [SPEAKER_04] are finishing with their play.
+[ 00:22:34.000 -->  00:22:36.000] [SPEAKER_04] Once we get through the movie,
+[ 00:22:36.000 -->  00:22:38.000] [SPEAKER_04] they can help other kids finish.
+[ 00:22:38.000 -->  00:22:40.000] [SPEAKER_04] We all have to make the movie.
+[ 00:22:40.000 -->  00:22:42.000] [SPEAKER_05] Not only Joe, this time around.
+[ 00:22:42.000 -->  00:22:44.000] [SPEAKER_05] That's what we're going to do.
+[ 00:22:44.000 -->  00:22:46.000] [SPEAKER_05] That's going to be much faster.
+[ 00:22:46.000 -->  00:22:48.000] [SPEAKER_05] We have the tripods.
+[ 00:22:48.000 -->  00:22:50.000] [SPEAKER_05] But I think Angela and Andrea
+[ 00:22:50.000 -->  00:22:52.000] [SPEAKER_05] didn't get to see them, right?
+[ 00:22:52.000 -->  00:22:54.000] [SPEAKER_05] They were there.
+[ 00:22:54.000 -->  00:22:56.000] [SPEAKER_07] They're pretty simple.
+[ 00:22:56.000 -->  00:22:58.000] [SPEAKER_05] They're not very complicated.
+[ 00:22:58.000 -->  00:23:00.000] [SPEAKER_05] But just so you know, we have tripods.
+[ 00:23:00.000 -->  00:23:02.000] [SPEAKER_03] Mini tripods.
+[ 00:23:02.000 -->  00:23:04.000] [SPEAKER_03] Did they taste them?
+[ 00:23:04.000 -->  00:23:06.000] [SPEAKER_05] On Friday, it was fine to shoot.
+[ 00:23:06.000 -->  00:23:08.000] [SPEAKER_06] This Friday.
+[ 00:23:08.000 -->  00:23:10.000] [SPEAKER_05] This Friday, we'll talk about that.
+[ 00:23:10.000 -->  00:23:12.000] [SPEAKER_06] Even though we're starting to shoot them tomorrow.
+[ 00:23:12.000 -->  00:23:14.000] [SPEAKER_02] We set up today.
+[ 00:23:14.000 -->  00:23:16.000] [SPEAKER_02] We don't have those tripods with us.
+[ 00:23:16.000 -->  00:23:18.000] [SPEAKER_03] We don't have them.
+[ 00:23:18.000 -->  00:23:20.000] [SPEAKER_03] Go with the flow.
+[ 00:23:20.000 -->  00:23:22.000] [SPEAKER_06] It's pretty easy.
+[ 00:23:22.000 -->  00:23:24.000] [SPEAKER_06] Download the app on your phone.
+[ 00:23:24.000 -->  00:23:26.000] [SPEAKER_06] If you haven't already.
+[ 00:23:26.000 -->  00:23:28.000] [SPEAKER_06] It's called Stop Motion.
+[ 00:23:28.000 -->  00:23:30.000] [SPEAKER_06] It's like a blue icon
+[ 00:23:30.000 -->  00:23:32.000] [SPEAKER_06] on the video camera.
+[ 00:23:32.000 -->  00:23:34.000] [SPEAKER_05] Is it in Play Store or Mac Store?
+[ 00:23:34.000 -->  00:23:36.000] [SPEAKER_03] Just for you, Joe.
+[ 00:23:36.000 -->  00:23:38.000] [SPEAKER_03] It's for the kids.
+[ 00:23:38.000 -->  00:23:40.000] [SPEAKER_03] 64 years.
+[ 00:23:40.000 -->  00:23:42.000] [SPEAKER_05] Hannah.
+[ 00:23:42.000 -->  00:23:44.000] [SPEAKER_00] Do you see...
+[ 00:23:44.000 -->  00:23:46.000] [SPEAKER_00] Sorry, go ahead.
+[ 00:23:46.000 -->  00:23:48.000] [SPEAKER_00] No, you speak.
+[ 00:23:48.000 -->  00:23:50.000] [SPEAKER_00] I was also thinking
+[ 00:23:50.000 -->  00:23:52.000] [SPEAKER_00] just to tie it into the class
+[ 00:23:52.000 -->  00:23:54.000] [SPEAKER_00] and what they do during the day.
+[ 00:23:54.000 -->  00:23:56.000] [SPEAKER_00] I guess it's all covered right now.
+[ 00:23:56.000 -->  00:23:58.000] [SPEAKER_00] As we mentioned before,
+[ 00:23:58.000 -->  00:24:00.000] [SPEAKER_00] we have these values
+[ 00:24:00.000 -->  00:24:02.000] [SPEAKER_00] like perseverance
+[ 00:24:02.000 -->  00:24:04.000] [SPEAKER_00] and craftsmanship
+[ 00:24:04.000 -->  00:24:06.000] [SPEAKER_00] and things that we focus on.
+[ 00:24:06.000 -->  00:24:08.000] [SPEAKER_00] If you see someone
+[ 00:24:08.000 -->  00:24:10.000] [SPEAKER_00] who is persevering
+[ 00:24:10.000 -->  00:24:12.000] [SPEAKER_00] specifically because
+[ 00:24:12.000 -->  00:24:14.000] [SPEAKER_00] we were talking about
+[ 00:24:14.000 -->  00:24:16.000] [SPEAKER_00] a lot of the learning that's happening
+[ 00:24:16.000 -->  00:24:18.000] [SPEAKER_00] is in that
+[ 00:24:18.000 -->  00:24:20.000] [SPEAKER_00] challenging yourself.
+[ 00:24:20.000 -->  00:24:22.000] [SPEAKER_06] Yeah, exactly.
+[ 00:24:22.000 -->  00:24:24.000] [SPEAKER_00] Collaborating.
+[ 00:24:24.000 -->  00:24:26.000] [SPEAKER_00] All of those things
+[ 00:24:26.000 -->  00:24:28.000] [SPEAKER_00] are good to highlight
+[ 00:24:28.000 -->  00:24:30.000] [SPEAKER_00] especially they know
+[ 00:24:30.000 -->  00:24:32.000] [SPEAKER_00] all the vocabulary, they know what they mean.
+[ 00:24:32.000 -->  00:24:34.000] [SPEAKER_00] Also,
+[ 00:24:34.000 -->  00:24:36.000] [SPEAKER_00] part of our lesson plans
+[ 00:24:36.000 -->  00:24:38.000] [SPEAKER_00] at the school,
+[ 00:24:38.000 -->  00:24:40.000] [SPEAKER_00] we mentioned this before too,
+[ 00:24:40.000 -->  00:24:42.000] [SPEAKER_00] but the anticipated
+[ 00:24:42.000 -->  00:24:44.000] [SPEAKER_00] misconceptions and then also
+[ 00:24:44.000 -->  00:24:46.000] [SPEAKER_00] at the end, a debrief
+[ 00:24:46.000 -->  00:24:48.000] [SPEAKER_00] to talk about
+[ 00:24:48.000 -->  00:24:50.000] [SPEAKER_00] maybe highlighting a student who
+[ 00:24:50.000 -->  00:24:52.000] [SPEAKER_00] was persevering or
+[ 00:24:52.000 -->  00:24:54.000] [SPEAKER_00] who showed a strategy
+[ 00:24:54.000 -->  00:24:56.000] [SPEAKER_00] for this play.
+[ 00:24:56.000 -->  00:24:58.000] [SPEAKER_00] Show a strategy that
+[ 00:24:58.000 -->  00:25:00.000] [SPEAKER_00] really worked that they can come up
+[ 00:25:00.000 -->  00:25:02.000] [SPEAKER_00] and show the whole class
+[ 00:25:02.000 -->  00:25:04.000] [SPEAKER_00] and maybe review it the next time
+[ 00:25:04.000 -->  00:25:06.000] [SPEAKER_07] in the bottle.
+[ 00:25:06.000 -->  00:25:08.000] [SPEAKER_00] I think all these things
+[ 00:25:08.000 -->  00:25:10.000] [SPEAKER_00] can be good to tie together
+[ 00:25:10.000 -->  00:25:12.000] [SPEAKER_00] and give
+[ 00:25:12.000 -->  00:25:14.000] [SPEAKER_00] shine to
+[ 00:25:14.000 -->  00:25:16.000] [SPEAKER_00] specific students who are doing
+[ 00:25:18.000 -->  00:25:20.000] [SPEAKER_00] really good work in those areas
+[ 00:25:20.000 -->  00:25:22.000] [SPEAKER_00] or just in a
+[ 00:25:22.000 -->  00:25:24.000] [SPEAKER_00] technique that can help
+[ 00:25:24.000 -->  00:25:26.000] [SPEAKER_00] the kids with their play.
+[ 00:25:28.000 -->  00:25:30.000] [SPEAKER_05] Today we would have had
+[ 00:25:30.000 -->  00:25:32.000] [SPEAKER_05] a closing, we would have highlighted
+[ 00:25:32.000 -->  00:25:34.000] [SPEAKER_05] some people look at each other's work.
+[ 00:25:34.000 -->  00:25:36.000] [SPEAKER_05] It's just that we haven't planned for it
+[ 00:25:36.000 -->  00:25:38.000] [SPEAKER_05] because we know how to the end.
+[ 00:25:38.000 -->  00:25:40.000] [SPEAKER_00] Yeah, I know that's not always
+[ 00:25:40.000 -->  00:25:42.000] [SPEAKER_00] a priority.
+[ 00:25:42.000 -->  00:25:44.000] [SPEAKER_06] We could do it tomorrow.
+[ 00:25:44.000 -->  00:25:46.000] [SPEAKER_06] With my demonstration, I could be like
+[ 00:25:46.000 -->  00:25:48.000] [SPEAKER_06] who was it
+[ 00:25:48.000 -->  00:25:50.000] [SPEAKER_06] who today was it that
+[ 00:25:50.000 -->  00:25:52.000] [SPEAKER_06] immediately went to doing things
+[ 00:25:52.000 -->  00:25:54.000] [SPEAKER_06] so they could stand up.
+[ 00:25:54.000 -->  00:25:56.000] [SPEAKER_01] Isabel a little bit did,
+[ 00:25:56.000 -->  00:25:58.000] [SPEAKER_01] but also did some flat.
+[ 00:26:00.000 -->  00:26:02.000] [SPEAKER_04] Marine.
+[ 00:26:02.000 -->  00:26:04.000] [SPEAKER_06] I could ask them too
+[ 00:26:04.000 -->  00:26:06.000] [SPEAKER_06] when I get here tomorrow.
+[ 00:26:06.000 -->  00:26:08.000] [SPEAKER_01] Because they wait next to each other.
+[ 00:26:08.000 -->  00:26:10.000] [SPEAKER_01] And Dylan too.
+[ 00:26:10.000 -->  00:26:12.000] [SPEAKER_01] Dylan made a car immediately
+[ 00:26:12.000 -->  00:26:14.000] [SPEAKER_01] that was like 3D and not flat.
+[ 00:26:14.000 -->  00:26:16.000] [SPEAKER_01] He was struggling to get it to stay.
+[ 00:26:16.000 -->  00:26:18.000] [SPEAKER_01] Who was that?
+[ 00:26:18.000 -->  00:26:20.000] [SPEAKER_01] Dylan.
+[ 00:26:20.000 -->  00:26:22.000] [SPEAKER_01] He made wheels and he was trying to
+[ 00:26:22.000 -->  00:26:24.000] [SPEAKER_01] put a piece of play dough and get it to stay on top.
+[ 00:26:24.000 -->  00:26:26.000] [SPEAKER_01] But maybe tomorrow
+[ 00:26:26.000 -->  00:26:28.000] [SPEAKER_05] by the end of the session
+[ 00:26:28.000 -->  00:26:30.000] [SPEAKER_02] they are all doing it.
+[ 00:26:30.000 -->  00:26:32.000] [SPEAKER_02] I like just 3D because
+[ 00:26:32.000 -->  00:26:34.000] [SPEAKER_02] I know that that kind of
+[ 00:26:34.000 -->  00:26:36.000] [SPEAKER_02] pushes.
+[ 00:26:36.000 -->  00:26:38.000] [SPEAKER_02] The 2D which
+[ 00:26:38.000 -->  00:26:40.000] [SPEAKER_02] maybe we want them to do 3D
+[ 00:26:40.000 -->  00:26:42.000] [SPEAKER_02] but I feel like there's still a lot of
+[ 00:26:42.000 -->  00:26:44.000] [SPEAKER_02] good things happening in 2D.
+[ 00:26:44.000 -->  00:26:46.000] [SPEAKER_02] Yes, but suggesting this is
+[ 00:26:46.000 -->  00:26:48.000] [SPEAKER_02] another way.
+[ 00:26:48.000 -->  00:26:50.000] [SPEAKER_02] I feel like we're just picking those examples
+[ 00:26:50.000 -->  00:26:52.000] [SPEAKER_02] so maybe we have one example that is
+[ 00:26:52.000 -->  00:26:54.000] [SPEAKER_02] 3D and another one
+[ 00:26:54.000 -->  00:26:56.000] [SPEAKER_02] that is showing something else that is not necessarily 3D.
+[ 00:26:56.000 -->  00:26:58.000] [SPEAKER_06] With the clay stuff.
+[ 00:26:58.000 -->  00:27:00.000] [SPEAKER_06] With the play dough stuff.
+[ 00:27:00.000 -->  00:27:02.000] [SPEAKER_06] In 2D.
+[ 00:27:02.000 -->  00:27:04.000] [SPEAKER_04] Without saying you need to do it.
+[ 00:27:04.000 -->  00:27:06.000] [SPEAKER_04] The interesting ones I think with a lot of
+[ 00:27:06.000 -->  00:27:08.000] [SPEAKER_04] detail.
+[ 00:27:08.000 -->  00:27:10.000] [SPEAKER_05] It would be good to hear what they say.
+[ 00:27:10.000 -->  00:27:12.000] [SPEAKER_05] I imagine that being flat is harder
+[ 00:27:12.000 -->  00:27:14.000] [SPEAKER_05] to move them.
+[ 00:27:14.000 -->  00:27:16.000] [SPEAKER_05] Some of them are really pushing them to the paper.
+[ 00:27:16.000 -->  00:27:18.000] [SPEAKER_05] It's like stuck to the paper.
+[ 00:27:18.000 -->  00:27:20.000] [SPEAKER_05] They will have to peel it up.
+[ 00:27:20.000 -->  00:27:22.000] [SPEAKER_05] I don't know how they are going to move them.
+[ 00:27:22.000 -->  00:27:24.000] [SPEAKER_05] They might realize on their own
+[ 00:27:24.000 -->  00:27:26.000] [SPEAKER_05] that the 3D option
+[ 00:27:26.000 -->  00:27:28.000] [SPEAKER_05] which is what we want. We want them to realize
+[ 00:27:28.000 -->  00:27:30.000] [SPEAKER_05] that maybe the 3D is a better option
+[ 00:27:30.000 -->  00:27:32.000] [SPEAKER_05] because you can move it spatially.
+[ 00:27:32.000 -->  00:27:34.000] [SPEAKER_05] We'll tell them that they said that.
+[ 00:27:34.000 -->  00:27:36.000] [SPEAKER_05] They can discover it.
+[ 00:27:36.000 -->  00:27:38.000] [SPEAKER_05] I think Nobani
+[ 00:27:38.000 -->  00:27:40.000] [SPEAKER_05] started doing the 3D
+[ 00:27:40.000 -->  00:27:42.000] [SPEAKER_05] because she saw Marie.
+[ 00:27:42.000 -->  00:27:44.000] [SPEAKER_03] They learned from each other.
+[ 00:27:44.000 -->  00:27:46.000] [SPEAKER_03] Maybe they come up with a solution.
+[ 00:27:46.000 -->  00:27:48.000] [SPEAKER_03] Like with the clay.
+[ 00:27:48.000 -->  00:27:50.000] [SPEAKER_03] Maybe they come up with another solution.
+[ 00:27:50.000 -->  00:27:52.000] [SPEAKER_05] And that is
+[ 00:27:52.000 -->  00:27:54.000] [SPEAKER_05] capturing that is
+[ 00:27:54.000 -->  00:27:56.000] [SPEAKER_05] wonderful.
+[ 00:27:56.000 -->  00:27:58.000] [SPEAKER_05] At the beginning of session tomorrow.
+[ 00:27:58.000 -->  00:28:00.000] [SPEAKER_06] If we wanted to ask
+[ 00:28:00.000 -->  00:28:02.000] [SPEAKER_06] whoever is willing that
+[ 00:28:02.000 -->  00:28:04.000] [SPEAKER_06] we think is a good idea.
+[ 00:28:04.000 -->  00:28:06.000] [SPEAKER_04] If we come up early, whoever comes up early needs to play the game
+[ 00:28:06.000 -->  00:28:08.000] [SPEAKER_04] we started today.
+[ 00:28:08.000 -->  00:28:10.000] [SPEAKER_01] Yes. I wrote down the list of names
+[ 00:28:10.000 -->  00:28:12.000] [SPEAKER_01] who went today.
+[ 00:28:12.000 -->  00:28:14.000] [SPEAKER_01] Because I was like I'm not going to remember this unless I write it down.
+[ 00:28:14.000 -->  00:28:16.000] [SPEAKER_01] Yeah.
+[ 00:28:16.000 -->  00:28:18.000] [SPEAKER_03] And some of you kids
+[ 00:28:18.000 -->  00:28:20.000] [SPEAKER_03] might come.
+[ 00:28:22.000 -->  00:28:24.000] [SPEAKER_05] We were all in the same classroom
+[ 00:28:24.000 -->  00:28:26.000] [SPEAKER_05] today.
+[ 00:28:28.000 -->  00:28:30.000] [SPEAKER_03] To avoid the
+[ 00:28:30.000 -->  00:28:32.000] [SPEAKER_05] mess.
+[ 00:28:32.000 -->  00:28:34.000] [SPEAKER_05] And we had not too many.
+[ 00:28:34.000 -->  00:28:36.000] [SPEAKER_05] Because it was so many.
+[ 00:28:36.000 -->  00:28:38.000] [SPEAKER_03] It was fun.
+[ 00:28:38.000 -->  00:28:40.000] [SPEAKER_03] The room is displaying a certain way
+[ 00:28:40.000 -->  00:28:42.000] [SPEAKER_03] because of the tests.
+[ 00:28:42.000 -->  00:28:44.000] [SPEAKER_02] It might be better not to touch.
+[ 00:28:44.000 -->  00:28:46.000] [SPEAKER_02] I did say that maybe we just stay here.
+[ 00:28:46.000 -->  00:28:48.000] [SPEAKER_02] Yeah.
+[ 00:28:48.000 -->  00:28:50.000] [SPEAKER_02] Good idea for the testing.
+[ 00:28:50.000 -->  00:28:52.000] [SPEAKER_02] Because I didn't take pictures.
+[ 00:28:52.000 -->  00:28:54.000] [SPEAKER_02] Sorry.
+[ 00:28:54.000 -->  00:28:56.000] [SPEAKER_02] No. She's not coming tomorrow.
+[ 00:28:56.000 -->  00:28:58.000] [SPEAKER_02] What?
+[ 00:28:58.000 -->  00:29:00.000] [SPEAKER_05] Oh, so we did this
+[ 00:29:00.000 -->  00:29:02.000] [SPEAKER_05] for Andrea now.
+[ 00:29:02.000 -->  00:29:04.000] [SPEAKER_05] She's not allowing us in her room.
+[ 00:29:04.000 -->  00:29:06.000] [SPEAKER_06] Oh, is it just you?
+[ 00:29:06.000 -->  00:29:08.000] [SPEAKER_02] What?
+[ 00:29:08.000 -->  00:29:10.000] [SPEAKER_02] No, but they need to send that.
+[ 00:29:10.000 -->  00:29:12.000] [SPEAKER_02] They don't have to be a sub.
+[ 00:29:12.000 -->  00:29:14.000] [SPEAKER_02] I mean not a sub.
+[ 00:29:14.000 -->  00:29:16.000] [SPEAKER_02] It has to be a teacher.
+[ 00:29:16.000 -->  00:29:18.000] [SPEAKER_01] It's like I can't be
+[ 00:29:18.000 -->  00:29:20.000] [SPEAKER_01] one of my teachers
+[ 00:29:20.000 -->  00:29:22.000] [SPEAKER_01] is also absent tomorrow.
+[ 00:29:22.000 -->  00:29:24.000] [SPEAKER_01] And they were like I can't be the sub because
+[ 00:29:24.000 -->  00:29:26.000] [SPEAKER_01] you have to be a certified teacher
+[ 00:29:26.000 -->  00:29:28.000] [SPEAKER_01] for the test.
+[ 00:29:28.000 -->  00:29:30.000] [SPEAKER_05] It's very serious.
+[ 00:29:30.000 -->  00:29:32.000] [SPEAKER_05] Hannah, were you going to say anything else?
+[ 00:29:32.000 -->  00:29:34.000] [SPEAKER_05] Sorry. About the connections that you see
+[ 00:29:34.000 -->  00:29:36.000] [SPEAKER_05] with the classroom. For us it's very important.
+[ 00:29:38.000 -->  00:29:40.000] [SPEAKER_00] Things we can emphasize.
+[ 00:29:42.000 -->  00:29:44.000] [SPEAKER_05] With the anticipated misconception
+[ 00:29:44.000 -->  00:29:46.000] [SPEAKER_05] what do you see for this context?
+[ 00:29:48.000 -->  00:29:50.000] [SPEAKER_05] Do you have any suggestions for them?
+[ 00:29:50.000 -->  00:29:52.000] [SPEAKER_00] Well, I guess it was just like
+[ 00:29:52.000 -->  00:29:54.000] [SPEAKER_00] if the purpose, like I don't know
+[ 00:29:54.000 -->  00:29:56.000] [SPEAKER_00] exactly what
+[ 00:29:56.000 -->  00:29:58.000] [SPEAKER_00] how much you want to restrict
+[ 00:29:58.000 -->  00:30:00.000] [SPEAKER_00] or if there is any misconceptions
+[ 00:30:00.000 -->  00:30:02.000] [SPEAKER_00] in this sort of case
+[ 00:30:02.000 -->  00:30:04.000] [SPEAKER_00] as there might be with a typical lesson.
+[ 00:30:06.000 -->  00:30:08.000] [SPEAKER_00] If you're trying to discourage them
+[ 00:30:08.000 -->  00:30:10.000] [SPEAKER_00] from doing the 2D
+[ 00:30:10.000 -->  00:30:12.000] [SPEAKER_00] or from doing
+[ 00:30:12.000 -->  00:30:14.000] [SPEAKER_00] I don't know, like the violin
+[ 00:30:14.000 -->  00:30:16.000] [SPEAKER_00] or whatever it is
+[ 00:30:16.000 -->  00:30:18.000] [SPEAKER_00] that you think is like
+[ 00:30:20.000 -->  00:30:22.000] [SPEAKER_00] like this restriction should be
+[ 00:30:22.000 -->  00:30:24.000] [SPEAKER_00] just to address them
+[ 00:30:24.000 -->  00:30:26.000] [SPEAKER_00] in the beginning or in the
+[ 00:30:26.000 -->  00:30:28.000] [SPEAKER_00] times where you're like highlighting
+[ 00:30:28.000 -->  00:30:30.000] [SPEAKER_00] oh, why did you do this?
+[ 00:30:30.000 -->  00:30:32.000] [SPEAKER_00] Or like what did you do and why?
+[ 00:30:34.000 -->  00:30:36.000] [SPEAKER_05] Yeah, I understand that.
+[ 00:30:36.000 -->  00:30:38.000] [SPEAKER_05] Like if we want them to have a message
+[ 00:30:38.000 -->  00:30:40.000] [SPEAKER_05] in their story
+[ 00:30:40.000 -->  00:30:42.000] [SPEAKER_05] how are we going to get them
+[ 00:30:42.000 -->  00:30:44.000] [SPEAKER_05] to the message?
+[ 00:30:44.000 -->  00:30:46.000] [SPEAKER_05] Tell them you have to have a message.
+[ 00:30:46.000 -->  00:30:48.000] [SPEAKER_05] Like what is
+[ 00:30:48.000 -->  00:30:50.000] [SPEAKER_05] your story telling about?
+[ 00:30:50.000 -->  00:30:52.000] [SPEAKER_05] What do you want me as your audience
+[ 00:30:52.000 -->  00:30:54.000] [SPEAKER_05] to get from your story?
+[ 00:30:54.000 -->  00:30:56.000] [SPEAKER_05] Because you should have a purpose
+[ 00:30:56.000 -->  00:30:58.000] [SPEAKER_05] with your story.
+[ 00:30:58.000 -->  00:31:00.000] [SPEAKER_05] And I hope
+[ 00:31:00.000 -->  00:31:02.000] [SPEAKER_05] it's not we should all steal and go to jail.
+[ 00:31:02.000 -->  00:31:04.000] [SPEAKER_05] That's true.
+[ 00:31:04.000 -->  00:31:06.000] [SPEAKER_05] Like we can think about
+[ 00:31:06.000 -->  00:31:08.000] [SPEAKER_05] we could have pushed a little bit more
+[ 00:31:08.000 -->  00:31:10.000] [SPEAKER_05] toward more community building
+[ 00:31:10.000 -->  00:31:12.000] [SPEAKER_05] because we are experiencing
+[ 00:31:12.000 -->  00:31:14.000] [SPEAKER_05] community or how do we behave
+[ 00:31:14.000 -->  00:31:16.000] [SPEAKER_05] in a community?
+[ 00:31:16.000 -->  00:31:18.000] [SPEAKER_05] I guess, I don't know.
+[ 00:31:18.000 -->  00:31:20.000] [SPEAKER_05] They were having fun with the jail.
+[ 00:31:20.000 -->  00:31:22.000] [SPEAKER_05] And it's not real.
+[ 00:31:22.000 -->  00:31:24.000] [SPEAKER_05] It's not like
+[ 00:31:24.000 -->  00:31:26.000] [SPEAKER_05] it's just their imaginations.
+[ 00:31:26.000 -->  00:31:28.000] [SPEAKER_05] So there wasn't any violence
+[ 00:31:28.000 -->  00:31:30.000] [SPEAKER_05] either in that one.
+[ 00:31:30.000 -->  00:31:32.000] [SPEAKER_05] They were not shooting each other.
+[ 00:31:32.000 -->  00:31:34.000] [SPEAKER_06] In the stealing one?
+[ 00:31:34.000 -->  00:31:36.000] [SPEAKER_05] Thankfully. They were just stealing.
+[ 00:31:36.000 -->  00:31:38.000] [SPEAKER_05] But it was very fun. They were stealing these beautiful little animals.
+[ 00:31:38.000 -->  00:31:40.000] [SPEAKER_06] And I don't think, even though they put themselves in the role
+[ 00:31:40.000 -->  00:31:42.000] [SPEAKER_06] of the
+[ 00:31:42.000 -->  00:31:44.000] [SPEAKER_06] bad actors in the community
+[ 00:31:44.000 -->  00:31:46.000] [SPEAKER_06] they're still like
+[ 00:31:46.000 -->  00:31:48.000] [SPEAKER_06] understanding how the community functions
+[ 00:31:48.000 -->  00:31:50.000] [SPEAKER_05] and they're showing us that.
+[ 00:31:50.000 -->  00:31:52.000] [SPEAKER_05] Yeah, there was a consequence.
+[ 00:31:52.000 -->  00:31:54.000] [SPEAKER_05] But they also got out and they
+[ 00:31:54.000 -->  00:31:56.000] [SPEAKER_05] sent them to exercise, which is interesting
+[ 00:31:56.000 -->  00:31:58.000] [SPEAKER_05] because they could see
+[ 00:31:58.000 -->  00:32:00.000] [SPEAKER_06] something productive.
+[ 00:32:00.000 -->  00:32:02.000] [SPEAKER_06] Yeah, taking care of themselves.
+[ 00:32:02.000 -->  00:32:04.000] [SPEAKER_02] But I was saying that when they were doing the story
+[ 00:32:04.000 -->  00:32:06.000] [SPEAKER_02] they said that they
+[ 00:32:06.000 -->  00:32:08.000] [SPEAKER_02] would want to go to jail
+[ 00:32:08.000 -->  00:32:10.000] [SPEAKER_03] because they got an exercise.
+[ 00:32:10.000 -->  00:32:12.000] [SPEAKER_03] Yes, the story
+[ 00:32:12.000 -->  00:32:14.000] [SPEAKER_03] was that they were going to
+[ 00:32:14.000 -->  00:32:16.000] [SPEAKER_03] target, they were going to steal
+[ 00:32:16.000 -->  00:32:18.000] [SPEAKER_03] something and they were
+[ 00:32:18.000 -->  00:32:20.000] [SPEAKER_03] going to get caught
+[ 00:32:20.000 -->  00:32:22.000] [SPEAKER_03] so they would have to go to jail
+[ 00:32:22.000 -->  00:32:24.000] [SPEAKER_03] for, back then
+[ 00:32:24.000 -->  00:32:26.000] [SPEAKER_03] it was six years.
+[ 00:32:26.000 -->  00:32:28.000] [SPEAKER_03] 97.
+[ 00:32:28.000 -->  00:32:30.000] [SPEAKER_03] Yeah.
+[ 00:32:30.000 -->  00:32:32.000] [SPEAKER_03] And then I asked them
+[ 00:32:32.000 -->  00:32:34.000] [SPEAKER_03] but you know you're going
+[ 00:32:34.000 -->  00:32:36.000] [SPEAKER_03] to be there for so long.
+[ 00:32:36.000 -->  00:32:38.000] [SPEAKER_03] What are you going to do?
+[ 00:32:38.000 -->  00:32:40.000] [SPEAKER_03] And then she came up with the idea that
+[ 00:32:40.000 -->  00:32:42.000] [SPEAKER_03] during that time she would exercise
+[ 00:32:42.000 -->  00:32:44.000] [SPEAKER_03] and get fit.
+[ 00:32:44.000 -->  00:32:46.000] [SPEAKER_03] There was something
+[ 00:32:46.000 -->  00:32:48.000] [SPEAKER_05] with the sequence that didn't work.
+[ 00:32:48.000 -->  00:32:50.000] [SPEAKER_05] Because they
+[ 00:32:50.000 -->  00:32:52.000] [SPEAKER_05] the mother was involved
+[ 00:32:52.000 -->  00:32:54.000] [SPEAKER_05] she didn't want them, so they seven years in there
+[ 00:32:54.000 -->  00:32:56.000] [SPEAKER_05] but then they sent us to exercise
+[ 00:32:56.000 -->  00:32:58.000] [SPEAKER_05] they let us go and sent us to exercise
+[ 00:32:58.000 -->  00:33:00.000] [SPEAKER_05] like the sequence didn't work for me in my head.
+[ 00:33:00.000 -->  00:33:02.000] [SPEAKER_05] But I see that you had it
+[ 00:33:02.000 -->  00:33:04.000] [SPEAKER_03] Yeah, and they were going
+[ 00:33:04.000 -->  00:33:06.000] [SPEAKER_03] to stay there to get
+[ 00:33:06.000 -->  00:33:08.000] [SPEAKER_03] fit during those years so when they
+[ 00:33:08.000 -->  00:33:10.000] [SPEAKER_03] leave jail
+[ 00:33:10.000 -->  00:33:12.000] [SPEAKER_03] they will
+[ 00:33:12.000 -->  00:33:14.000] [SPEAKER_04] be stronger.
+[ 00:33:14.000 -->  00:33:16.000] [SPEAKER_04] I'm not even surprised of your story
+[ 00:33:16.000 -->  00:33:18.000] [SPEAKER_04] look at the media we have, they probably watch Netflix at home
+[ 00:33:18.000 -->  00:33:20.000] [SPEAKER_04] and they all watch Wednesday
+[ 00:33:20.000 -->  00:33:22.000] [SPEAKER_06] and it's so terribly violent
+[ 00:33:22.000 -->  00:33:24.000] [SPEAKER_06] Speaking of that
+[ 00:33:24.000 -->  00:33:26.000] [SPEAKER_06] Jordani commented on my glasses
+[ 00:33:26.000 -->  00:33:28.000] [SPEAKER_06] saying that I look like Jeffrey Dahmer
+[ 00:33:28.000 -->  00:33:30.000] [SPEAKER_06] I was like, have you seen that?
+[ 00:33:30.000 -->  00:33:32.000] [SPEAKER_06] He was like, yeah, he takes showers
+[ 00:33:32.000 -->  00:33:34.000] [SPEAKER_06] and eats people, takes showers
+[ 00:33:34.000 -->  00:33:36.000] [SPEAKER_06] and blood and eats people. I was like, I didn't know that.
+[ 00:33:36.000 -->  00:33:38.000] [SPEAKER_06] That's terrible.
+[ 00:33:38.000 -->  00:33:40.000] [SPEAKER_06] Jordani, I think he's watched the show
+[ 00:33:40.000 -->  00:33:42.000] [SPEAKER_04] It's just
+[ 00:33:42.000 -->  00:33:44.000] [SPEAKER_04] there's nothing we can do
+[ 00:33:44.000 -->  00:33:46.000] [SPEAKER_04] to stop whatever happens
+[ 00:33:46.000 -->  00:33:48.000] [SPEAKER_04] when they have their kids in their home
+[ 00:33:48.000 -->  00:33:50.000] [SPEAKER_04] or their parents or grown ups
+[ 00:33:50.000 -->  00:33:52.000] [SPEAKER_04] We can't hurt them, make sense
+[ 00:33:52.000 -->  00:33:54.000] [SPEAKER_04] Yeah, and we can help them understand
+[ 00:33:54.000 -->  00:33:56.000] [SPEAKER_04] and I know we push for community
+[ 00:33:56.000 -->  00:33:58.000] [SPEAKER_04] I think we all tried
+[ 00:33:58.000 -->  00:34:00.000] [SPEAKER_04] but some kids were very adamant
+[ 00:34:00.000 -->  00:34:02.000] [SPEAKER_04] about no, no, no, we're going to the beach
+[ 00:34:02.000 -->  00:34:04.000] [SPEAKER_04] or we're going to jail
+[ 00:34:04.000 -->  00:34:06.000] [SPEAKER_04] and that's fine, I think my only question
+[ 00:34:06.000 -->  00:34:08.000] [SPEAKER_04] is for that story
+[ 00:34:08.000 -->  00:34:10.000] [SPEAKER_04] how are we going to make that stop motion
+[ 00:34:10.000 -->  00:34:12.000] [SPEAKER_04] because it's going to require a lot of scenes
+[ 00:34:12.000 -->  00:34:14.000] [SPEAKER_07] A lot of scenes, yeah
+[ 00:34:14.000 -->  00:34:16.000] [SPEAKER_07] A lot of time
+[ 00:34:16.000 -->  00:34:18.000] [SPEAKER_05] They would realize that they have to do something about that
+[ 00:34:18.000 -->  00:34:20.000] [SPEAKER_05] And they will have to trim their story
+[ 00:34:20.000 -->  00:34:22.000] [SPEAKER_06] Or make more scenery
+[ 00:34:22.000 -->  00:34:24.000] [SPEAKER_06] Right now they just need
+[ 00:34:24.000 -->  00:34:26.000] [SPEAKER_04] No, no, no, the jail one
+[ 00:34:26.000 -->  00:34:28.000] [SPEAKER_02] Oh, the jail one
+[ 00:34:28.000 -->  00:34:30.000] [SPEAKER_02] The one that they're going to the beach
+[ 00:34:30.000 -->  00:34:32.000] [SPEAKER_04] Just the moving to steal something
+[ 00:34:32.000 -->  00:34:34.000] [SPEAKER_04] is going to take at least
+[ 00:34:34.000 -->  00:34:36.000] [SPEAKER_04] say, 30 frames
+[ 00:34:36.000 -->  00:34:38.000] [SPEAKER_06] And if they get tired
+[ 00:34:38.000 -->  00:34:40.000] [SPEAKER_06] and they say, I'm done
+[ 00:34:40.000 -->  00:34:42.000] [SPEAKER_06] which is what happened last time, they had long stories
+[ 00:34:42.000 -->  00:34:44.000] [SPEAKER_06] that they didn't fully finish
+[ 00:34:44.000 -->  00:34:46.000] [SPEAKER_06] That's that, I guess
+[ 00:34:46.000 -->  00:34:48.000] [SPEAKER_03] So probably it will be a stealing and going to jail
+[ 00:34:48.000 -->  00:34:50.000] [SPEAKER_05] They will get tired before going to jail
+[ 00:34:50.000 -->  00:34:52.000] [SPEAKER_05] And in their mind they've made the story
+[ 00:34:52.000 -->  00:34:54.000] [SPEAKER_05] Yeah, they've made the story
+[ 00:34:54.000 -->  00:34:56.000] [SPEAKER_06] In a different form
+[ 00:34:56.000 -->  00:34:58.000] [SPEAKER_05] They might choose to only show
+[ 00:34:58.000 -->  00:35:00.000] [SPEAKER_05] one piece that they really like
+[ 00:35:00.000 -->  00:35:02.000] [SPEAKER_05] or something weird
+[ 00:35:02.000 -->  00:35:04.000] [SPEAKER_04] Or maybe something that will help them
+[ 00:35:06.000 -->  00:35:08.000] [SPEAKER_02] We just have next week
+[ 00:35:10.000 -->  00:35:12.000] [SPEAKER_03] Tomorrow and next week
+[ 00:35:14.000 -->  00:35:16.000] [SPEAKER_03] So support
+[ 00:35:16.000 -->  00:35:18.000] [SPEAKER_06] I'll bring the tripod tomorrow
+[ 00:35:18.000 -->  00:35:20.000] [SPEAKER_05] The story making is
+[ 00:35:20.000 -->  00:35:22.000] [SPEAKER_05] good, right Hanna?
+[ 00:35:22.000 -->  00:35:24.000] [SPEAKER_05] Oh yeah
+[ 00:35:24.000 -->  00:35:26.000] [SPEAKER_05] You see connections with the day school
+[ 00:35:26.000 -->  00:35:28.000] [SPEAKER_05] I know you're in kindergarten
+[ 00:35:28.000 -->  00:35:30.000] [SPEAKER_06] Oh, go ahead
+[ 00:35:30.000 -->  00:35:32.000] [SPEAKER_06] If they were in school, would they have been redirected
+[ 00:35:32.000 -->  00:35:34.000] [SPEAKER_06] from the stories that we're talking about here?
+[ 00:35:34.000 -->  00:35:36.000] [SPEAKER_06] Like no stealing?
+[ 00:35:36.000 -->  00:35:38.000] [SPEAKER_06] Yeah
+[ 00:35:38.000 -->  00:35:40.000] [SPEAKER_06] So, they get to be free
+[ 00:35:40.000 -->  00:35:42.000] [SPEAKER_06] in our program
+[ 00:35:42.000 -->  00:35:44.000] [SPEAKER_04] Maybe you could try to redirect them tomorrow
+[ 00:35:44.000 -->  00:35:46.000] [SPEAKER_07] Yeah, I don't know
+[ 00:35:46.000 -->  00:35:48.000] [SPEAKER_07] I don't think we need to
+[ 00:35:52.000 -->  00:35:54.000] [SPEAKER_06] I don't think we need to, I don't know
+[ 00:35:54.000 -->  00:35:56.000] [SPEAKER_06] I think what we're trying to do here is
+[ 00:35:56.000 -->  00:35:58.000] [SPEAKER_06] let them express
+[ 00:35:58.000 -->  00:36:00.000] [SPEAKER_06] how they understand their community
+[ 00:36:00.000 -->  00:36:02.000] [SPEAKER_04] Is it Kelsey?
+[ 00:36:02.000 -->  00:36:04.000] [SPEAKER_03] Kelsey, Kaylee, Chloe
+[ 00:36:04.000 -->  00:36:06.000] [SPEAKER_03] Chloe tambien
+[ 00:36:06.000 -->  00:36:08.000] [SPEAKER_03] They dragged Chloe because Chloe had a different story
+[ 00:36:08.000 -->  00:36:10.000] [SPEAKER_03] And Lucas is in that table
+[ 00:36:12.000 -->  00:36:14.000] [SPEAKER_05] Chloe, yeah, they erased her name
+[ 00:36:14.000 -->  00:36:16.000] [SPEAKER_05] but now she's the policewoman
+[ 00:36:16.000 -->  00:36:18.000] [SPEAKER_03] Yeah, because Chloe had another story
+[ 00:36:18.000 -->  00:36:20.000] [SPEAKER_03] A nice story
+[ 00:36:20.000 -->  00:36:22.000] [SPEAKER_03] Yeah, that they were together
+[ 00:36:22.000 -->  00:36:24.000] [SPEAKER_03] and it was
+[ 00:36:24.000 -->  00:36:26.000] [SPEAKER_03] her, Isis
+[ 00:36:26.000 -->  00:36:28.000] [SPEAKER_03] and Kelsey and Kaylee
+[ 00:36:28.000 -->  00:36:30.000] [SPEAKER_03] going to Gracie's
+[ 00:36:30.000 -->  00:36:32.000] [SPEAKER_03] or something like that
+[ 00:36:32.000 -->  00:36:34.000] [SPEAKER_03] like a name of a store
+[ 00:36:34.000 -->  00:36:36.000] [SPEAKER_03] and they were going to buy some
+[ 00:36:36.000 -->  00:36:38.000] [SPEAKER_03] makeup
+[ 00:36:38.000 -->  00:36:40.000] [SPEAKER_03] and some tavers
+[ 00:36:40.000 -->  00:36:42.000] [SPEAKER_03] or something like that
+[ 00:36:42.000 -->  00:36:44.000] [SPEAKER_03] and then they are going to
+[ 00:36:44.000 -->  00:36:46.000] [SPEAKER_03] get back to Will's
+[ 00:36:46.000 -->  00:36:48.000] [SPEAKER_03] That was the story
+[ 00:36:48.000 -->  00:36:50.000] [SPEAKER_03] But that was Chloe's story
+[ 00:36:50.000 -->  00:36:52.000] [SPEAKER_05] But then as they were telling me the story
+[ 00:36:52.000 -->  00:36:54.000] [SPEAKER_05] she was like, oh, I'm also there stealing
+[ 00:36:54.000 -->  00:36:56.000] [SPEAKER_05] And they said, no, you can't be there
+[ 00:36:56.000 -->  00:36:58.000] [SPEAKER_05] We already said it's only the three of us
+[ 00:36:58.000 -->  00:37:00.000] [SPEAKER_05] Too many people
+[ 00:37:00.000 -->  00:37:02.000] [SPEAKER_05] So I think it was me suggesting maybe she can be the police
+[ 00:37:02.000 -->  00:37:04.000] [SPEAKER_05] And they loved that
+[ 00:37:04.000 -->  00:37:06.000] [SPEAKER_05] And you're the policewoman
+[ 00:37:06.000 -->  00:37:08.000] [SPEAKER_03] Yeah, because Chloe didn't like originally
+[ 00:37:08.000 -->  00:37:10.000] [SPEAKER_03] the story of stealing
+[ 00:37:10.000 -->  00:37:12.000] [SPEAKER_03] So she wanted to go buy stuff
+[ 00:37:12.000 -->  00:37:14.000] [SPEAKER_03] and get back to Will's
+[ 00:37:14.000 -->  00:37:16.000] [SPEAKER_03] So yeah, that fits her character
+[ 00:37:16.000 -->  00:37:18.000] [SPEAKER_03] And the same with Isis
+[ 00:37:18.000 -->  00:37:20.000] [SPEAKER_03] who was not here last week
+[ 00:37:20.000 -->  00:37:22.000] [SPEAKER_03] I asked her about
+[ 00:37:22.000 -->  00:37:24.000] [SPEAKER_03] Because she was also
+[ 00:37:24.000 -->  00:37:26.000] [SPEAKER_03] put on the story of stealing
+[ 00:37:26.000 -->  00:37:28.000] [SPEAKER_03] And Isis said, uh-uh
+[ 00:37:28.000 -->  00:37:30.000] [SPEAKER_03] I love Isis
+[ 00:37:30.000 -->  00:37:32.000] [SPEAKER_03] You said, uh-uh, I don't do that
+[ 00:37:32.000 -->  00:37:34.000] [SPEAKER_03] No, no, no, you have to put me out of that
+[ 00:37:34.000 -->  00:37:36.000] [SPEAKER_03] She didn't want to be included
+[ 00:37:36.000 -->  00:37:38.000] [SPEAKER_03] on the story of stealing
+[ 00:37:38.000 -->  00:37:40.000] [SPEAKER_04] Isis
+[ 00:37:40.000 -->  00:37:42.000] [SPEAKER_04] Yeah
+[ 00:37:42.000 -->  00:37:44.000] [SPEAKER_04] Maybe we can ask them some questions about
+[ 00:37:44.000 -->  00:37:46.000] [SPEAKER_04] as they're working, what are you taking away from the story?
+[ 00:37:46.000 -->  00:37:48.000] [SPEAKER_04] So it looks more like a story
+[ 00:37:48.000 -->  00:37:50.000] [SPEAKER_02] And maybe also
+[ 00:37:50.000 -->  00:37:52.000] [SPEAKER_02] I would say
+[ 00:37:52.000 -->  00:37:54.000] [SPEAKER_02] not to make it funny
+[ 00:37:54.000 -->  00:37:56.000] [SPEAKER_02] I feel like it still
+[ 00:37:56.000 -->  00:37:58.000] [SPEAKER_02] fits in the idea of community
+[ 00:37:58.000 -->  00:38:00.000] [SPEAKER_02] Because they're acknowledging
+[ 00:38:00.000 -->  00:38:02.000] [SPEAKER_02] the dynamic in the community
+[ 00:38:02.000 -->  00:38:04.000] [SPEAKER_02] But maybe not make it
+[ 00:38:04.000 -->  00:38:06.000] [SPEAKER_02] like, oh, this is so funny
+[ 00:38:06.000 -->  00:38:08.000] [SPEAKER_02] You're going to jail and then you're going to wake up
+[ 00:38:08.000 -->  00:38:10.000] [SPEAKER_01] I also wonder if
+[ 00:38:10.000 -->  00:38:12.000] [SPEAKER_01] maybe
+[ 00:38:12.000 -->  00:38:14.000] [SPEAKER_01] we push them to think about
+[ 00:38:14.000 -->  00:38:16.000] [SPEAKER_01] why is it that this is the story?
+[ 00:38:16.000 -->  00:38:18.000] [SPEAKER_01] Because if it's
+[ 00:38:18.000 -->  00:38:20.000] [SPEAKER_01] They might respond
+[ 00:38:20.000 -->  00:38:22.000] [SPEAKER_01] and be like, oh, I did this because I thought it would be funny
+[ 00:38:22.000 -->  00:38:24.000] [SPEAKER_01] Or they might respond and be like, this is what I feel like
+[ 00:38:24.000 -->  00:38:26.000] [SPEAKER_01] This is what I see
+[ 00:38:26.000 -->  00:38:28.000] [SPEAKER_01] Or like, this is what I
+[ 00:38:28.000 -->  00:38:30.000] [SPEAKER_01] You know what I mean? And I think
+[ 00:38:30.000 -->  00:38:32.000] [SPEAKER_01] one way or another, right, then that questioning
+[ 00:38:32.000 -->  00:38:34.000] [SPEAKER_01] also pushes them to that criticality
+[ 00:38:34.000 -->  00:38:36.000] [SPEAKER_05] of why is it that you feel like it's the story
+[ 00:38:36.000 -->  00:38:38.000] [SPEAKER_05] I asked one of them
+[ 00:38:40.000 -->  00:38:42.000] [SPEAKER_05] Kelsey, maybe
+[ 00:38:42.000 -->  00:38:44.000] [SPEAKER_05] Kaylee
+[ 00:38:44.000 -->  00:38:46.000] [SPEAKER_05] Because they said
+[ 00:38:46.000 -->  00:38:48.000] [SPEAKER_05] Oh, then when I'm in jail
+[ 00:38:48.000 -->  00:38:50.000] [SPEAKER_05] they're going to do me something
+[ 00:38:50.000 -->  00:38:52.000] [SPEAKER_05] They were going to do to them something
+[ 00:38:52.000 -->  00:38:54.000] [SPEAKER_05] but that was realistic
+[ 00:38:54.000 -->  00:38:56.000] [SPEAKER_05] that happens
+[ 00:38:56.000 -->  00:38:58.000] [SPEAKER_05] And I said
+[ 00:38:58.000 -->  00:39:00.000] [SPEAKER_05] Oh, why is that happening in jail?
+[ 00:39:00.000 -->  00:39:02.000] [SPEAKER_05] And she said, well, that's what happens in jail
+[ 00:39:02.000 -->  00:39:04.000] [SPEAKER_05] And I asked her, how do you know?
+[ 00:39:04.000 -->  00:39:06.000] [SPEAKER_05] To see if she knew more
+[ 00:39:06.000 -->  00:39:08.000] [SPEAKER_05] I wanted to see if this jail connection had anything
+[ 00:39:08.000 -->  00:39:10.000] [SPEAKER_05] to do with real life
+[ 00:39:10.000 -->  00:39:12.000] [SPEAKER_05] But
+[ 00:39:12.000 -->  00:39:14.000] [SPEAKER_05] But no, she didn't reveal anything
+[ 00:39:14.000 -->  00:39:16.000] [SPEAKER_05] I think it's just imagination
+[ 00:39:16.000 -->  00:39:18.000] [SPEAKER_06] I think they're just playing
+[ 00:39:18.000 -->  00:39:20.000] [SPEAKER_06] All over pop culture
+[ 00:39:20.000 -->  00:39:22.000] [SPEAKER_05] But I'd rather get that
+[ 00:39:22.000 -->  00:39:24.000] [SPEAKER_05] Take that
+[ 00:39:24.000 -->  00:39:26.000] [SPEAKER_05] The imagination, pop culture
+[ 00:39:26.000 -->  00:39:28.000] [SPEAKER_06] It's also in a lot of people's personal lives
+[ 00:39:28.000 -->  00:39:30.000] [SPEAKER_05] Maybe
+[ 00:39:30.000 -->  00:39:32.000] [SPEAKER_07] She didn't mention anything
+[ 00:39:32.000 -->  00:39:34.000] [SPEAKER_03] I'm just wondering
+[ 00:39:34.000 -->  00:39:36.000] [SPEAKER_03] if Kelsey
+[ 00:39:36.000 -->  00:39:38.000] [SPEAKER_03] has been so detailed and pushy
+[ 00:39:38.000 -->  00:39:40.000] [SPEAKER_03] about this story because she heard
+[ 00:39:40.000 -->  00:39:42.000] [SPEAKER_03] not that it's come of
+[ 00:39:42.000 -->  00:39:44.000] [SPEAKER_03] her imagination
+[ 00:39:44.000 -->  00:39:46.000] [SPEAKER_03] but she actually heard the story
+[ 00:39:46.000 -->  00:39:48.000] [SPEAKER_03] from an adult
+[ 00:39:48.000 -->  00:39:50.000] [SPEAKER_03] when she saw it in a movie
+[ 00:39:50.000 -->  00:39:52.000] [SPEAKER_03] and now, I don't know
+[ 00:39:52.000 -->  00:39:54.000] [SPEAKER_03] because she's been very pushy
+[ 00:39:54.000 -->  00:39:56.000] [SPEAKER_05] We see this in movies all the time
+[ 00:39:56.000 -->  00:39:58.000] [SPEAKER_03] But she's been very pushy about this story
+[ 00:39:58.000 -->  00:40:00.000] [SPEAKER_03] because I asked her the first time
+[ 00:40:00.000 -->  00:40:02.000] [SPEAKER_03] she explained
+[ 00:40:02.000 -->  00:40:04.000] [SPEAKER_03] Don't you think that spending
+[ 00:40:04.000 -->  00:40:06.000] [SPEAKER_03] six years in jail
+[ 00:40:06.000 -->  00:40:08.000] [SPEAKER_03] Seven
+[ 00:40:08.000 -->  00:40:10.000] [SPEAKER_03] You will be 13 when you get out of there
+[ 00:40:10.000 -->  00:40:12.000] [SPEAKER_03] So, don't you think that
+[ 00:40:12.000 -->  00:40:14.000] [SPEAKER_03] it will be like
+[ 00:40:14.000 -->  00:40:16.000] [SPEAKER_03] you will be missing out things
+[ 00:40:16.000 -->  00:40:18.000] [SPEAKER_03] And she was like, no
+[ 00:40:18.000 -->  00:40:20.000] [SPEAKER_03] It doesn't matter because I will exercise
+[ 00:40:20.000 -->  00:40:22.000] [SPEAKER_05] You know, let them
+[ 00:40:22.000 -->  00:40:24.000] [SPEAKER_05] try it out
+[ 00:40:24.000 -->  00:40:26.000] [SPEAKER_05] Take that identity of
+[ 00:40:26.000 -->  00:40:28.000] [SPEAKER_05] I'm in jail and
+[ 00:40:28.000 -->  00:40:30.000] [SPEAKER_05] They're exploring and playing with that
+[ 00:40:30.000 -->  00:40:32.000] [SPEAKER_05] It allows them to imagine
+[ 00:40:32.000 -->  00:40:34.000] [SPEAKER_05] Right back here, you have consequences
+[ 00:40:34.000 -->  00:40:36.000] [SPEAKER_05] Yeah
+[ 00:40:36.000 -->  00:40:38.000] [SPEAKER_06] It could be
+[ 00:40:38.000 -->  00:40:40.000] [SPEAKER_05] There are limits in the school
+[ 00:40:40.000 -->  00:40:42.000] [SPEAKER_05] We could ask some questions
+[ 00:40:42.000 -->  00:40:44.000] [SPEAKER_05] But at the same time, it's following their own
+[ 00:40:44.000 -->  00:40:46.000] [SPEAKER_05] fashions, right
+[ 00:40:46.000 -->  00:40:48.000] [SPEAKER_06] Sorry, I was just going to say
+[ 00:40:48.000 -->  00:40:50.000] [SPEAKER_06] We could ask some questions during
+[ 00:40:50.000 -->  00:40:52.000] [SPEAKER_06] Do you think that they deserve to be in there
+[ 00:40:52.000 -->  00:40:54.000] [SPEAKER_06] for seven years for stealing something
+[ 00:40:54.000 -->  00:40:56.000] [SPEAKER_06] What are some reasons people
+[ 00:40:56.000 -->  00:40:58.000] [SPEAKER_06] steal things
+[ 00:40:58.000 -->  00:41:00.000] [SPEAKER_05] Criticality
+[ 00:41:00.000 -->  00:41:02.000] [SPEAKER_06] Why did they steal
+[ 00:41:02.000 -->  00:41:04.000] [SPEAKER_06] and why do other people steal
+[ 00:41:04.000 -->  00:41:06.000] [SPEAKER_01] Might be a good question
+[ 00:41:06.000 -->  00:41:08.000] [SPEAKER_01] I'm doing that
+[ 00:41:08.000 -->  00:41:10.000] [SPEAKER_01] I think when we make it clear to them
+[ 00:41:10.000 -->  00:41:12.000] [SPEAKER_01] This is actually a really big thing
+[ 00:41:12.000 -->  00:41:14.000] [SPEAKER_01] This is a big deal
+[ 00:41:14.000 -->  00:41:16.000] [SPEAKER_01] For someone to go to jail
+[ 00:41:16.000 -->  00:41:18.000] [SPEAKER_01] And this happens to people and it changes their lives
+[ 00:41:18.000 -->  00:41:20.000] [SPEAKER_01] Might
+[ 00:41:20.000 -->  00:41:22.000] [SPEAKER_01] push them
+[ 00:41:22.000 -->  00:41:24.000] [SPEAKER_01] I think it would be good for them
+[ 00:41:24.000 -->  00:41:26.000] [SPEAKER_01] to think about this
+[ 00:41:26.000 -->  00:41:28.000] [SPEAKER_01] Think about it in a more serious way
+[ 00:41:28.000 -->  00:41:30.000] [SPEAKER_01] And
+[ 00:41:30.000 -->  00:41:32.000] [SPEAKER_01] slash
+[ 00:41:32.000 -->  00:41:34.000] [SPEAKER_01] Or push them to vocalize
+[ 00:41:34.000 -->  00:41:36.000] [SPEAKER_01] What are we thinking about in making this
+[ 00:41:36.000 -->  00:41:38.000] [SPEAKER_01] And then it's also not
+[ 00:41:38.000 -->  00:41:40.000] [SPEAKER_01] And then we can kind of like
+[ 00:41:40.000 -->  00:41:42.000] [SPEAKER_01] Maybe
+[ 00:41:42.000 -->  00:41:44.000] [SPEAKER_01] That will make more space for it to be
+[ 00:41:44.000 -->  00:41:46.000] [SPEAKER_01] More of a conversation
+[ 00:41:46.000 -->  00:41:48.000] [SPEAKER_01] What is this that you're thinking about
+[ 00:41:48.000 -->  00:41:50.000] [SPEAKER_01] And why are you thinking about it
+[ 00:41:50.000 -->  00:41:52.000] [SPEAKER_01] And how can we think about it in a critical way
+[ 00:41:52.000 -->  00:41:54.000] [SPEAKER_08] Versus like
+[ 00:41:54.000 -->  00:41:56.000] [SPEAKER_08] I see this on TV
+[ 00:41:56.000 -->  00:41:58.000] [SPEAKER_01] And I want to replicate it
+[ 00:41:58.000 -->  00:42:00.000] [SPEAKER_01] I don't know
+[ 00:42:00.000 -->  00:42:02.000] [SPEAKER_05] I kind of want
+[ 00:42:02.000 -->  00:42:04.000] [SPEAKER_05] The step
+[ 00:42:04.000 -->  00:42:06.000] [SPEAKER_05] The next step right from what we did
+[ 00:42:06.000 -->  00:42:08.000] [SPEAKER_05] With the two dimensional
+[ 00:42:08.000 -->  00:42:10.000] [SPEAKER_05] Apart from the artistic process which is very different
+[ 00:42:10.000 -->  00:42:12.000] [SPEAKER_05] With the clay, the box
+[ 00:42:12.000 -->  00:42:14.000] [SPEAKER_05] The smaller device
+[ 00:42:14.000 -->  00:42:16.000] [SPEAKER_05] All that is very different
+[ 00:42:16.000 -->  00:42:18.000] [SPEAKER_05] In the reading
+[ 00:42:18.000 -->  00:42:20.000] [SPEAKER_05] In the literal CPs
+[ 00:42:20.000 -->  00:42:22.000] [SPEAKER_05] It's criticality, connections to the community
+[ 00:42:22.000 -->  00:42:24.000] [SPEAKER_05] What's the message
+[ 00:42:24.000 -->  00:42:26.000] [SPEAKER_05] Where are we hearing from your story
+[ 00:42:26.000 -->  00:42:28.000] [SPEAKER_05] Those pieces of the more traditional
+[ 00:42:28.000 -->  00:42:30.000] [SPEAKER_05] Right, Hannah, do you think
+[ 00:42:30.000 -->  00:42:32.000] [SPEAKER_05] Those are the pieces that we could
+[ 00:42:32.000 -->  00:42:34.000] [SPEAKER_05] Explore more
+[ 00:42:34.000 -->  00:42:36.000] [SPEAKER_05] That you value more in the regular curriculum
+[ 00:42:36.000 -->  00:42:38.000] [SPEAKER_05] For literacy learning, right
+[ 00:42:38.000 -->  00:42:40.000] [SPEAKER_05] Yeah
+[ 00:42:40.000 -->  00:42:42.000] [SPEAKER_05] So finding the balance that we want with the school
+[ 00:42:44.000 -->  00:42:46.000] [SPEAKER_05] Maybe a different thing for each child
+[ 00:42:46.000 -->  00:42:48.000] [SPEAKER_05] So for the jail group
+[ 00:42:48.000 -->  00:42:50.000] [SPEAKER_05] It might be that criticality
+[ 00:42:50.000 -->  00:42:52.000] [SPEAKER_05] Do you see this in your community
+[ 00:42:52.000 -->  00:42:54.000] [SPEAKER_05] Why are you connecting to that
+[ 00:42:54.000 -->  00:42:56.000] [SPEAKER_05] Or is this something
+[ 00:42:56.000 -->  00:42:58.000] [SPEAKER_05] Or should you go to jail for stealing
+[ 00:42:58.000 -->  00:43:00.000] [SPEAKER_05] A stuffed animal for seven years
+[ 00:43:00.000 -->  00:43:02.000] [SPEAKER_05] And you're underage
+[ 00:43:02.000 -->  00:43:04.000] [SPEAKER_06] They recognize you're underage
+[ 00:43:04.000 -->  00:43:06.000] [SPEAKER_06] How should the world work
+[ 00:43:08.000 -->  00:43:10.000] [SPEAKER_06] Encourage them to share their opinions
+[ 00:43:10.000 -->  00:43:12.000] [SPEAKER_05] Some children do go to jail for a long time
+[ 00:43:12.000 -->  00:43:14.000] [SPEAKER_05] Yeah
+[ 00:43:14.000 -->  00:43:16.000] [SPEAKER_05] I think they
+[ 00:43:16.000 -->  00:43:18.000] [SPEAKER_01] I had that
+[ 00:43:18.000 -->  00:43:20.000] [SPEAKER_01] Coincidentally with my fourth graders
+[ 00:43:20.000 -->  00:43:22.000] [SPEAKER_01] What was your problem
+[ 00:43:22.000 -->  00:43:24.000] [SPEAKER_01] They
+[ 00:43:24.000 -->  00:43:26.000] [SPEAKER_01] I always sit in the front of the bus
+[ 00:43:26.000 -->  00:43:28.000] [SPEAKER_01] On field trips because I get car sick
+[ 00:43:28.000 -->  00:43:30.000] [SPEAKER_01] And one of the other kids also gets car sick
+[ 00:43:30.000 -->  00:43:32.000] [SPEAKER_01] So we sit together
+[ 00:43:32.000 -->  00:43:34.000] [SPEAKER_01] And
+[ 00:43:34.000 -->  00:43:36.000] [SPEAKER_01] It's kind of become a thing now
+[ 00:43:36.000 -->  00:43:38.000] [SPEAKER_01] That they will ask me a lot of questions
+[ 00:43:38.000 -->  00:43:40.000] [SPEAKER_01] On the bus
+[ 00:43:40.000 -->  00:43:42.000] [SPEAKER_01] And we somehow got on the topic of economics
+[ 00:43:42.000 -->  00:43:44.000] [SPEAKER_01] And like
+[ 00:43:44.000 -->  00:43:46.000] [SPEAKER_01] Why is it that things cost so much money
+[ 00:43:46.000 -->  00:43:48.000] [SPEAKER_01] And how is that fair
+[ 00:43:48.000 -->  00:43:50.000] [SPEAKER_01] That you have to pay for food
+[ 00:43:50.000 -->  00:43:52.000] [SPEAKER_01] When food is something that you need
+[ 00:43:52.000 -->  00:43:54.000] [SPEAKER_01] You know
+[ 00:43:54.000 -->  00:43:56.000] [SPEAKER_01] I have an example of Jean-Paul Jean
+[ 00:43:56.000 -->  00:43:58.000] [SPEAKER_01] From Les Mis of stealing a baguette
+[ 00:43:58.000 -->  00:44:00.000] [SPEAKER_01] And you know
+[ 00:44:00.000 -->  00:44:02.000] [SPEAKER_01] People being killed over the fact that
+[ 00:44:02.000 -->  00:44:04.000] [SPEAKER_01] They're going to jail for a very long time
+[ 00:44:04.000 -->  00:44:06.000] [SPEAKER_01] Because they're stealing a baguette
+[ 00:44:06.000 -->  00:44:08.000] [SPEAKER_01] Because they're hungry
+[ 00:44:08.000 -->  00:44:10.000] [SPEAKER_01] And it's like is that fair
+[ 00:44:10.000 -->  00:44:12.000] [SPEAKER_01] That was just my field trip
+[ 00:44:12.000 -->  00:44:14.000] [SPEAKER_01] Well he didn't name Jean-Paul Jean
+[ 00:44:14.000 -->  00:44:16.000] [SPEAKER_01] It was like the French story
+[ 00:44:16.000 -->  00:44:18.000] [SPEAKER_01] Of the guy who steals the baguette
+[ 00:44:18.000 -->  00:44:20.000] [SPEAKER_01] And I was like I think I know where you got this from
+[ 00:44:20.000 -->  00:44:22.000] [SPEAKER_01] I don't know how you got this from
+[ 00:44:22.000 -->  00:44:24.000] [SPEAKER_01] But somehow
+[ 00:44:24.000 -->  00:44:26.000] [SPEAKER_01] Somehow you've encountered Les Mis
+[ 00:44:28.000 -->  00:44:30.000] [SPEAKER_06] I was going to share
+[ 00:44:30.000 -->  00:44:32.000] [SPEAKER_06] Darielle was asking me the other day
+[ 00:44:32.000 -->  00:44:34.000] [SPEAKER_06] We were talking
+[ 00:44:34.000 -->  00:44:36.000] [SPEAKER_06] When we were in the cafeteria
+[ 00:44:36.000 -->  00:44:38.000] [SPEAKER_06] And said slavery had come up
+[ 00:44:38.000 -->  00:44:40.000] [SPEAKER_06] In some form
+[ 00:44:40.000 -->  00:44:42.000] [SPEAKER_06] And he was like oh that doesn't exist anymore
+[ 00:44:42.000 -->  00:44:44.000] [SPEAKER_06] I know all about that
+[ 00:44:44.000 -->  00:44:46.000] [SPEAKER_06] And he told me something about Abraham Lincoln
+[ 00:44:46.000 -->  00:44:48.000] [SPEAKER_06] And I was like yeah
+[ 00:44:48.000 -->  00:44:50.000] [SPEAKER_06] I wanted to like
+[ 00:44:50.000 -->  00:44:52.000] [SPEAKER_06] I wanted to read the text to get into it more
+[ 00:44:52.000 -->  00:44:54.000] [SPEAKER_06] But I was like actually you know that it still happens
+[ 00:44:54.000 -->  00:44:56.000] [SPEAKER_06] In prisons and he was like I didn't know that
+[ 00:44:56.000 -->  00:44:58.000] [SPEAKER_06] Like he wanted to know more
+[ 00:44:58.000 -->  00:45:00.000] [SPEAKER_06] But we didn't have a lot of time
+[ 00:45:00.000 -->  00:45:02.000] [SPEAKER_06] Before we went upstairs
+[ 00:45:02.000 -->  00:45:04.000] [SPEAKER_05] Yeah and there's still people that have to work
+[ 00:45:04.000 -->  00:45:06.000] [SPEAKER_05] For other people for no money
+[ 00:45:06.000 -->  00:45:08.000] [SPEAKER_05] It's a form of slavery
+[ 00:45:08.000 -->  00:45:10.000] [SPEAKER_05] Yeah no it's literally according to the constitution
+[ 00:45:10.000 -->  00:45:12.000] [SPEAKER_05] It is slavery
+[ 00:45:12.000 -->  00:45:14.000] [SPEAKER_05] And it's legal
+[ 00:45:14.000 -->  00:45:16.000] [SPEAKER_05] It's modern forms of slavery
+[ 00:45:16.000 -->  00:45:18.000] [SPEAKER_05] That is pretty critical
+[ 00:45:18.000 -->  00:45:20.000] [SPEAKER_06] No I know that's why I didn't like bring it up again
+[ 00:45:20.000 -->  00:45:22.000] [SPEAKER_06] With him later because I didn't want to be like
+[ 00:45:22.000 -->  00:45:24.000] [SPEAKER_06] I don't know pushing something very intense
+[ 00:45:24.000 -->  00:45:26.000] [SPEAKER_06] On him
+[ 00:45:26.000 -->  00:45:28.000] [SPEAKER_03] That was the day I was carrying the rope
+[ 00:45:28.000 -->  00:45:30.000] [SPEAKER_03] Is that how it came out?
+[ 00:45:30.000 -->  00:45:32.000] [SPEAKER_03] Yeah because I think you or I
+[ 00:45:32.000 -->  00:45:34.000] [SPEAKER_03] Told him
+[ 00:45:34.000 -->  00:45:36.000] [SPEAKER_03] That we're going to
+[ 00:45:36.000 -->  00:45:38.000] [SPEAKER_03] If there were misbehavior
+[ 00:45:38.000 -->  00:45:40.000] [SPEAKER_06] They were asking why you had the rope
+[ 00:45:40.000 -->  00:45:42.000] [SPEAKER_03] And you made a joke
+[ 00:45:42.000 -->  00:45:44.000] [SPEAKER_05] He said yeah
+[ 00:45:44.000 -->  00:45:46.000] [SPEAKER_05] We have to close here1

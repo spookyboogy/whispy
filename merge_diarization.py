@@ -1,5 +1,6 @@
 import os
 from pyannote.core import Segment, Timeline, Annotation
+import csv
 
 
 def read_file(transcript_or_diarization_file):
@@ -131,25 +132,84 @@ def write_to_txt(spk_sent, file):
             fp.write(line)
 
 
+
+def convert_txt_to_csv(f_in):
+    """
+    Converts a diarized transcript from .txt to .csv. Input should
+    have a timestamp of some format and a name enclosed in '[ ]', else name
+    is None. 
+    Tested on format: 
+        "[ 00:00:06.120 -->  00:00:09.760] [Speaker_00] '...'"
+    Currently chopping off decimals of timestamps for readability
+    
+    for future:
+        csv format could allow for inclusion of columns containing the other
+        speakers returned by pyannote.core.Annotation.crop(Segment).
+        Annotation.crop(Segment).argmax() is currently being used to pick a single speaker,
+        but having these columns could make it easier to manually check/edit.
+    """
+
+    seps = ['--->','-->','->']
+    rows = [('Start', 'End', 'Speaker', 'Text'),]
+    with open(f_in, 'r') as f:
+        for line in f.read().splitlines():
+            row = []
+            sep_test = [i in line for i in seps]
+            separator = seps[sep_test.index(max(sep_test))] if sum(sep_test) > 0 else None
+            if not separator:
+                # line isn't a transcript dialogue line 
+                if line.strip().startswith('Finished'):
+                    break
+                continue
+            if '[' in line and ']' in line:
+                # Assuming times come before (optional) names 
+                i, j = line.index('['), line.index(']')
+                times = [t.strip() for t in line[i+1:j].split(separator)]
+                times = [t.split(':') for t in times]
+                # fix this for when dealing with transcripts longer than an hour!
+                for t in times:
+                    hrs = '0'
+                    mins = t[1]
+                    secs = t[2].split('.')[0]
+                    time = ':'.join([hrs, mins, secs])
+                    row += [time]
+                line = line[j+1:]
+            if '[' in line and ']' in line:
+                # Assuming a speaker name is here
+                i, j = line.index('['), line.index(']')
+                speaker = line[i+1:j]
+                row += [speaker]
+                line = line[j+1:]
+            else:
+                row += [None]
+            row += [line.strip()]
+            rows += [row]
+            
+    
+    f_out = os.path.splitext(f_in)[0] + '.csv'
+    with open(f_out, 'w', newline='') as f:
+        csvwriter = csv.writer(f)
+        csvwriter.writerows(rows)
+
+
 if __name__ == "__main__":
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test2\\"
-    script = folder + "test2_full_transcript.txt"
-    diary = folder + "test2_full_diarization.txt"
 
-    segscript = transcript_to_segments(script)
-    #print('\n'.join(repr(i) for i in segscript))
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
+    # script = folder + "0418_meeting_fin.txt"
+    # diary = folder + "apr_18_meeting--diarization.txt"
 
-    spk_segs, annotation = reconstruct_diarization(diary)
-    #print('\n'.join(repr(i) for i in spk_segs))
+    # segscript = transcript_to_segments(script)
+    # #print('\n'.join(repr(i) for i in segscript))
+    # spk_segs, annotation = reconstruct_diarization(diary)
+    # #print('\n'.join(repr(i) for i in spk_segs))
+    # merger = add_speaker_info_to_text(segscript, annotation)
+    # #print('\n'.join(repr(i) for i in tst))
 
-    timeline1 = Timeline(i[0] for i in segscript)
-    timeline2 = Timeline(i[0] for i in spk_segs)
+    # with open(folder + 'merged_diarization.txt', 'w') as f:
+    #     for seg, spk, txt in merger:
+    #         f.write(f"{str(seg)} [{spk}] {txt}\n")
 
-    merger = add_speaker_info_to_text(segscript, annotation)
-    #print('\n'.join(repr(i) for i in tst))
-
-    with open(folder + 'full_res.txt', 'w') as f:
-        for seg, spk, txt in merger:
-            f.write(f"{str(seg)} [{spk}] {txt}\n")
-
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
+    csv_file = folder + "merged_diarization.txt"
+    convert_txt_to_csv(csv_file)

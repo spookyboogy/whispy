@@ -1,6 +1,6 @@
 import os
 import datetime
-
+import csv
 
 def add_lines(path):
     """ accidentally saved some transcripts without line separation """
@@ -80,9 +80,6 @@ def convert_weirdstamp(path, time_divider='-->'):
     with open(f_out, 'w') as f:
         for line in newscript:
             f.write(f'{line}\n')
-    for i in newscript:
-        print(i)    
-    return newscript
 
 
 def convert_weirderstamp(path, remove_line_nums=True):
@@ -114,9 +111,7 @@ def convert_weirderstamp(path, remove_line_nums=True):
     with open(f_out, 'w') as f:
         for line in newscript:
             f.write(f'{line}\n')
-    for i in newscript:
-        print(i)    
-    return newscript
+
 
 def fix_offset(path, offset=10):
     """
@@ -147,9 +142,6 @@ def fix_offset(path, offset=10):
     with open(f_out, 'w') as f:
         for line in fixes:
             f.write(f'{line}\n')
-    for i in fixes:
-        print(i)    
-    return fixes
 
 
 def remove_line_numbers(path):
@@ -167,6 +159,8 @@ def remove_line_numbers(path):
     with open(f_out, 'w') as f:
         for line in newscript:
             f.write(f'{line}\n')
+
+
 
 
 if __name__ == "__main__":

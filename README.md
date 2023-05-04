@@ -42,6 +42,7 @@ Checklist:
         - [ ] merge transcripts with diarization
         - [ ] handle mixed language
         - [ ] listen/check/finalize
+        - [ ] convert to csv
     - [ ] Session with kids
         - [x] transcripts
             * [x] en 
