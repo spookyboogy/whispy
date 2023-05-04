@@ -33,13 +33,22 @@ Checklist:
     - [ ] handle mixed language
     - [ ] listen/check/finalize
 - [ ] apr_18 
-    - [x] transcripts
-        * [x] en 
-        * [x] es
-    - [x] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
+    - [ ] Meeting with teachers
+        - [x] transcripts
+            * [x] en 
+            * [x] es
+        - [ ] diarization
+        - [ ] merge transcripts with diarization
+        - [ ] handle mixed language
+        - [ ] listen/check/finalize
+    - [ ] Session with kids
+        - [x] transcripts
+            * [x] en 
+            * [x] es
+        - [x] diarization
+        - [ ] merge transcripts with diarization
+        - [ ] handle mixed language
+        - [ ] listen/check/finalize
 
 
 Todo: 
