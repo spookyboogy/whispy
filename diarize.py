@@ -62,12 +62,6 @@ def main(path, testing=True, write_to_file=True):
     print(f'timeline:{diarization.get_timeline()}')
     _timeline = diarization.get_timeline()
 
-    if testing:
-        for i in _overlap:
-            print(type(i), i)
-        for i in _timeline:
-            print(type(i), i)
-
     if write_to_file:
         f_out = os.path.splitext(path)[0] + '--diarization.txt'
         with open(f_out, 'w') as f:
@@ -95,11 +89,17 @@ if __name__ == '__main__':
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
     f_in = "test_0207.wav"
-    path = os.path.join(path, f_in)
+    path = os.path.join(folder, f_in)
     print(f'\nfile: {path}\n')
     main(path)
+
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
+    # f_in = "test_0207.wav"
+    # path = os.path.join(folder, f_in)
+    # print(f'\nfile: {path}\n')
+    # main(path)
 
     # path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\"
     # f_in = "april_18_session.wav"
