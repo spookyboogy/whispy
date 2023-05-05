@@ -251,7 +251,7 @@ if __name__ == "__main__":
         _start = str(timedelta(seconds=int(times[0])))
         _end = str(timedelta(seconds=int(times[1])))
         speaker, text = line[1], line[2]
-        print(f'\n{_start}, {_end}, {speaker}, \n\t{text}')
+        # print(f'\n{_start}, {_end}, {speaker}, \n\t{text}')
         csv_container += [[_start, _end, speaker, text]]
 
     f_out = folder + "020723_meeting--joined.csv"
