@@ -177,8 +177,8 @@ if __name__ == "__main__":
     #     for seg, spk, txt in merger:
     #         f.write(f"{str(seg)} [{spk}] {txt}\n")
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
-    f_in = folder + "041823_meeting.csv"
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\feb_07\\"
+    f_in = folder + "020723_meeting.csv"
     script = cleanscript.read_csv(f_in)
     # for i in script: print(i)
     for i in range(len(script)):
@@ -244,6 +244,7 @@ if __name__ == "__main__":
             condensed += [[Segment(_start, _end), cur_speaker, long_line]]
         i += 1
 
+    csv_container = [['Start', 'End', 'Speaker', 'Text']]
     for i in range(len(condensed)):
         line = condensed[i]
         times = [f'{line[0].start:.0f}', f'{line[0].end:.0f}']
@@ -251,11 +252,13 @@ if __name__ == "__main__":
         _end = str(timedelta(seconds=int(times[1])))
         speaker, text = line[1], line[2]
         print(f'\n{_start}, {_end}, {speaker}, \n\t{text}')
+        csv_container += [[_start, _end, speaker, text]]
 
-
-
+    f_out = folder + "020723_meeting--joined.csv"
+    with open(f_out, 'w', newline='') as f:
+        csvwriter = csv.writer(f)
+        csvwriter.writerows(csv_container)
 
 
     # res_processed = merge_sentence(newscript)
     # for i in res_processed: print(i)
-    #convert_txt_to_csv(f_in)
