@@ -38,11 +38,12 @@ Checklist:
         - [x] transcripts
             * [x] en 
             * [x] es
-        - [ ] diarization
-        - [ ] merge transcripts with diarization
-        - [ ] handle mixed language
-        - [ ] listen/check/finalize
-        - [ ] convert to csv
+        - [x] diarization
+        - [x] merge transcripts with diarization
+        - [x] handle mixed language
+        - [x] listen/check/finalize 
+            * not technically 100% human check but >75% checked
+        - [x] convert to csv
     - [ ] Session with kids
         - [x] transcripts
             * [x] en 
