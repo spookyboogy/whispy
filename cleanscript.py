@@ -1,6 +1,7 @@
 import os
 import datetime
 import csv
+from pyannote.core import Segment
 
 def add_lines(path):
     """ accidentally saved some transcripts without line separation """
@@ -161,62 +162,46 @@ def remove_line_numbers(path):
             f.write(f'{line}\n')
 
 
+def read_csv(csv_file):
+    """
+    Takes a csv of a diarized transcript (timestamps and names), and converts
+    it such that long comments by a single speaker are condensed into one line.
+
+    nvm just reading it in for now
+    """
+
+    script = []
+    with open(csv_file, 'r') as f:
+        f = f.read().splitlines()[1:]
+        for row in f:
+            start = row[:row.index(',')]
+            row = row[row.index(',')+1:]
+            end = row[:row.index(',')]
+            row = row[row.index(',')+1:]
+            name = row[:row.index(',')]
+            text = row[row.index(',')+1:]
+            script += [[start, end, name, text]]
+    return script
+
+    # name = None
+    # line_buffer = []
+    # newscript = []
+    # for r in range(len(script)):
+    #     row = script[r]
+
+
+def write_csv(rows, precision = 0):
+    pass
 
 
 if __name__ == "__main__":
 
     pass
-
     # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
-    # txt = folder + "0418_meeting_en_script.txt"
-    # txt2 = folder + "0418_meeting_es_script.txt"
-    # txt3 = folder + "0418_meeting_fin.txt"
-    # # convert_timestamps(txt)
-    # # convert_timestamps(txt2)
-    # convert_timestamps(txt3)
+    # f_in = folder + "041823_meeting.csv"
+    # condense_csv(f_in)
 
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
-    # txt = "032123_meeting_en_transcript.txt"
-    # txt2 = "032123_meeting_es_transcript.txt"
-    # path1 = os.path.join(folder, txt)
-    # path2 = os.path.join(folder, txt2)
-    # print(f'\nFile : {path1}\n')
-    # convert_weirderstamp(path1)
-    # print(f'\nFile : {path2}\n')
-    # convert_weirderstamp(path2)
+
     
-
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\con_ninos\\"
-    # txt = "0418_session_con_ninos_en_transcript.txt"
-    # full_path = os.path.join(folder, txt)
-    # convert_timestamps(full_path)
-
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\"
-    # txt = "apr_18_pt2-transcript.txt"
-    # full_path = os.path.join(folder, txt)
-    # print(f'\nFile : {full_path}\n')
-    # convert_weirdstamp(full_path)
-    
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\con_ninos\\"
-    # txt = "0418_session_con_ninos.txt"
-    # full_path = os.path.join(folder, txt)
-    # print(f'\nFile : {full_path}\n')
-    # convert_timestamps(full_path)
-
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\"
-    # txt = "0418_session_with_kids_merged.txt"
-    # full_path = os.path.join(folder, txt)
-    # print(f'\nFile : {full_path}\n')
-    # fix_offset(full_path)
-    
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
-    # txt = "030723_meeting_es_transcript.txt"
-    # txt2 = "030723_meeting_en_transcript.txt"
-    # path1 = os.path.join(folder, txt)
-    # path2 = os.path.join(folder, txt2)
-    # print(f'\nFile : {path1}\n')
-    # convert_weirderstamp(path1)
-    # print(f'\nFile : {path2}\n')
-    # convert_weirderstamp(path2)
 
 

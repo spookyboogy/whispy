@@ -1,7 +1,8 @@
 import os
 from pyannote.core import Segment, Timeline, Annotation
 import csv
-
+import cleanscript 
+from datetime import timedelta
 
 def read_file(transcript_or_diarization_file):
     """
@@ -93,36 +94,7 @@ def add_speaker_info_to_text(timestamp_texts, ann, quiet=True):
     return spk_text
 
 
-def merge_cache(text_cache):
-    sentence = ''.join([item[-1] for item in text_cache])
-    spk = text_cache[0][1]
-    start = text_cache[0][0].start
-    end = text_cache[-1][0].end
-    return Segment(start, end), spk, sentence
-
 PUNC_SENT_END = ['.', '?', '!']
-
-def merge_sentence(spk_text):
-    merged_spk_text = []
-    pre_spk = None
-    text_cache = []
-    for seg, spk, text in spk_text:
-        if spk != pre_spk and pre_spk is not None and len(text_cache) > 0:
-            merged_spk_text.append(merge_cache(text_cache))
-            text_cache = [(seg, spk, text)]
-            pre_spk = spk
-
-        elif text[-1] in PUNC_SENT_END:
-            text_cache.append((seg, spk, text))
-            merged_spk_text.append(merge_cache(text_cache))
-            text_cache = []
-            pre_spk = spk
-        else:
-            text_cache.append((seg, spk, text))
-            pre_spk = spk
-    if len(text_cache) > 0:
-        merged_spk_text.append(merge_cache(text_cache))
-    return merged_spk_text
 
 
 def write_to_txt(spk_sent, file):
@@ -184,7 +156,6 @@ def convert_txt_to_csv(f_in):
                 row += [None]
             row += [line.strip()]
             rows += [row]
-            
     
     f_out = os.path.splitext(f_in)[0] + '.csv'
     with open(f_out, 'w', newline='') as f:
@@ -194,22 +165,97 @@ def convert_txt_to_csv(f_in):
 
 if __name__ == "__main__":
 
-
     # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
     # script = folder + "0418_meeting_fin.txt"
     # diary = folder + "apr_18_meeting--diarization.txt"
 
     # segscript = transcript_to_segments(script)
-    # #print('\n'.join(repr(i) for i in segscript))
     # spk_segs, annotation = reconstruct_diarization(diary)
-    # #print('\n'.join(repr(i) for i in spk_segs))
     # merger = add_speaker_info_to_text(segscript, annotation)
-    # #print('\n'.join(repr(i) for i in tst))
 
     # with open(folder + 'merged_diarization.txt', 'w') as f:
     #     for seg, spk, txt in merger:
     #         f.write(f"{str(seg)} [{spk}] {txt}\n")
 
     folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
-    csv_file = folder + "merged_diarization.txt"
-    convert_txt_to_csv(csv_file)
+    f_in = folder + "041823_meeting.csv"
+    script = cleanscript.read_csv(f_in)
+    # for i in script: print(i)
+    for i in range(len(script)):
+        times = [convert_to_seconds(script[i][0]), convert_to_seconds(script[i][1])]
+        time_segment = Segment(times[0], times[1])
+        script[i] = [time_segment, script[i][2], script[i][3]]
+
+    condensed = []
+    cache = []
+    def merge(cache):
+        punct = ['.', '...', '!', '?']
+        text = [cache[i][-1].strip() for i in range(len(cache))]
+        if text[0][0] == '"' and text[0][-1] == '"':
+            text[0] = text[0][1:-1] 
+        res = str(text[0][0].upper() + text[0][1:])
+        for i in range(len(text)-1):
+            s1, s2 = text[i], text[i+1]
+            if s2[0] == '"' and s2[-1] == '"':
+                s2 = s2[1:-1]  
+            if s1[-1].islower() and s2[0].islower():
+                res += ' ' + s2
+                continue
+            if s1[-1].islower() and s2[0].isupper() and s1[-1] != 'I':
+                # avoiding the worst case where a new line causes
+                # a capitalization
+                # might want to try comma or period
+                res += ' ' + s2[0].lower() + s2[1:]
+                continue
+            if s1[-1] in punct and s2[0] not in punct:
+                # capitalize what we assume is a new sentence
+                # unless it's an ellipsis (favors run-ons)
+                # caution ¡ and ¿
+                if s1[-2:] == '..':
+                    res += ' ' + s2[0].lower() + s2[1:]
+                else:
+                    res += ' ' + s2[0].upper() + s2[1:]
+                continue
+            res += ' ' + s2
+        return res
+
+    cur_speaker = None
+    i, eof = 0, len(script)
+    while i < eof:
+        seg, speaker, txt = script[i]
+        if speaker and cur_speaker == None:
+            cur_speaker = speaker
+
+        if speaker != cur_speaker and cur_speaker != None:
+            # add current cache to condensed container
+            _start, _end = cache[0][0].start, cache[-1][0].end
+            long_line = merge(cache)
+            condensed += [[Segment(_start, _end), cur_speaker, long_line]]
+            #refresh cache with new speaker first line
+            cache = [script[i]]
+            #change current speaker to speaker
+            cur_speaker = speaker
+        elif speaker == cur_speaker:
+            cache += [script[i]]
+        
+        if i+1 == eof and cache:
+            _start, _end = cache[0][0].start, cache[-1][0].end
+            long_line = merge(cache)
+            condensed += [[Segment(_start, _end), cur_speaker, long_line]]
+        i += 1
+
+    for i in range(len(condensed)):
+        line = condensed[i]
+        times = [f'{line[0].start:.0f}', f'{line[0].end:.0f}']
+        _start = str(timedelta(seconds=int(times[0])))
+        _end = str(timedelta(seconds=int(times[1])))
+        speaker, text = line[1], line[2]
+        print(f'\n{_start}, {_end}, {speaker}, \n\t{text}')
+
+
+
+
+
+    # res_processed = merge_sentence(newscript)
+    # for i in res_processed: print(i)
+    #convert_txt_to_csv(f_in)
