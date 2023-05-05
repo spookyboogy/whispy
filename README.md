@@ -7,7 +7,7 @@ Checklist:
     - [x] diarization
     - [x] merge transcripts with diarization
     - [x] handle mixed language (none, 'en' script)
-    - [ ] convert to csv
+    - [x] convert to csv
     - [ ] listen/check/correct/finalize
 - [ ] mar_07 
     - [x] transcripts
