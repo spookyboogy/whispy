@@ -44,7 +44,7 @@ Checklist:
         - [x] listen/check/finalize 
             * not technically 100% human check but >75% checked
         - [x] convert to csv
-    - [ ] Session with kids
+    - [ ] Session with kids (con ninos)
         - [x] transcripts
             * [x] en 
             * [x] es
