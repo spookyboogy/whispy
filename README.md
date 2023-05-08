@@ -33,6 +33,7 @@ Checklist:
     - [ ] merge transcripts with diarization
     - [ ] handle mixed language
     - [ ] listen/check/finalize
+
 - [ ] apr_18 
     - [ ] Meeting with teachers
         - [x] transcripts
@@ -52,6 +53,26 @@ Checklist:
         - [ ] merge transcripts with diarization
         - [ ] handle mixed language
         - [ ] listen/check/finalize
+
+- [ ] apr_25 
+    - [ ] transcripts
+        * [ ] en 
+        * [ ] es
+    - [ ] diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
+    - [ ] listen/check/finalize
+    - [ ] convert to csv
+
+- [ ] may_02
+    - [ ] transcripts
+        * [ ] en 
+        * [ ] es
+    - [ ] diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
+    - [ ] listen/check/finalize
+    - [ ] convert to csv
 
 
 Todo: 

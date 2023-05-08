@@ -94,17 +94,6 @@ def add_speaker_info_to_text(timestamp_texts, ann, quiet=True):
     return spk_text
 
 
-PUNC_SENT_END = ['.', '?', '!']
-
-
-def write_to_txt(spk_sent, file):
-    with open(file, 'w') as fp:
-        for seg, spk, sentence in spk_sent:
-            line = f'{seg.start:.2f} {seg.end:.2f} {spk} {sentence}\n'
-            fp.write(line)
-
-
-
 def convert_txt_to_csv(f_in):
     """
     Converts a diarized transcript from .txt to .csv. Input should
