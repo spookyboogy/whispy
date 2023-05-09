@@ -79,7 +79,7 @@ Checklist:
         - [x] transcripts
             * [x] en 
             * [x] es
-        - [ ] diarization
+        - [x] diarization
         - [ ] merge transcripts with diarization
         - [ ] handle mixed language
         - [ ] listen/check/finalize
