@@ -94,7 +94,8 @@ Todo:
 - [ ] test num_speakers and other diarization hyperparameters
 - [ ] test differnt beam_search values for transcriptions
 
-- [ ] write method for joining transcripts and diarizations (strip parts from yinrui_rip) 
+- [x] write method for joining transcripts and diarizations (strip parts from yinrui_rip) 
+- [ ] write a pipeline which applies whispy/diarization/merging to an audio file (ez_mode)
 
 - [ ] test translation task for dealing with mixed language
 - [ ] find fast way to get language verification for audio segments
