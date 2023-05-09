@@ -26,6 +26,9 @@ def transcript_to_segments(transcript_file):
     """
     Reads a transcript file and returns a list of transcript lines
     where the timestamps has been converted into pyannote Segments.
+
+    Currently assumes transcript lines in the following format (should be expanded):
+    * [HH:MM:SS -> HH:MM:SS] "    "
     """
 
     transcript = read_file(transcript_file)
@@ -55,12 +58,27 @@ def convert_to_seconds(timestamp):
     t = [float(i) for i in timestamp.split(':')]
     return t[0]**60 + t[1]*60 + t[2]
 
+def convert_segment_to_hms(segment):
+    """
+    takes a pyannote.core.Segment object whose str() format is as follows:
+        [ 00:00:02.219 -->  00:00:02.320] to 
+    Returns a list of two H:MM:SS formatted strings.
+    Another method: use/convert segment.start and segment.end 
+    """
+    s = str(segment).strip('[').strip(']').split('-->')
+    l = [i.split('.')[0].strip() for i in s]
+    l = [i[1:] for i in l]
+    return l
+
 
 def reconstruct_diarization(diarization_file):
     """
     Reads a diarization file and returns a list of (Segment, speaker_id) tuples
     and a reconstruction of the original pyannote Annotation object.
 
+    Example format of a diarization.txt line:
+        [ 00:00:02.219 -->  00:00:02.320] A SPEAKER_00 
+    
     A more flexible approach would be possible if the 'raw' results of the 
     diarization pipeline were handled immediately after they're generated instead
     of doing it this way, post-diarization, because the pipeline offers additional methods.
@@ -152,63 +170,72 @@ def convert_txt_to_csv(f_in):
         csvwriter.writerows(rows)
 
 
-if __name__ == "__main__":
+def merge_sentences(cache):
+    """ 
+    cache -> [[Segment(start,end), speaker, text]] 
+    Returns the text of all cache items joined into one string.
 
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
-    # script = folder + "0418_meeting_fin.txt"
-    # diary = folder + "apr_18_meeting--diarization.txt"
-
-    # segscript = transcript_to_segments(script)
-    # spk_segs, annotation = reconstruct_diarization(diary)
-    # merger = add_speaker_info_to_text(segscript, annotation)
-
-    # with open(folder + 'merged_diarization.txt', 'w') as f:
-    #     for seg, spk, txt in merger:
-    #         f.write(f"{str(seg)} [{spk}] {txt}\n")
-
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\feb_07\\"
-    f_in = folder + "020723_meeting.csv"
-    script = cleanscript.read_csv(f_in)
-    # for i in script: print(i)
-    for i in range(len(script)):
-        times = [convert_to_seconds(script[i][0]), convert_to_seconds(script[i][1])]
-        time_segment = Segment(times[0], times[1])
-        script[i] = [time_segment, script[i][2], script[i][3]]
-
-    condensed = []
-    cache = []
-    def merge(cache):
-        punct = ['.', '...', '!', '?']
-        text = [cache[i][-1].strip() for i in range(len(cache))]
-        if text[0][0] == '"' and text[0][-1] == '"':
-            text[0] = text[0][1:-1] 
-        res = str(text[0][0].upper() + text[0][1:])
-        for i in range(len(text)-1):
-            s1, s2 = text[i], text[i+1]
-            if s2[0] == '"' and s2[-1] == '"':
-                s2 = s2[1:-1]  
-            if s1[-1].islower() and s2[0].islower():
-                res += ' ' + s2
-                continue
-            if s1[-1].islower() and s2[0].isupper() and s1[-1] != 'I':
-                # avoiding the worst case where a new line causes
-                # a capitalization
-                # might want to try comma or period
-                res += ' ' + s2[0].lower() + s2[1:]
-                continue
-            if s1[-1] in punct and s2[0] not in punct:
-                # capitalize what we assume is a new sentence
-                # unless it's an ellipsis (favors run-ons)
-                # caution ¡ and ¿
-                if s1[-2:] == '..':
-                    res += ' ' + s2[0].lower() + s2[1:]
-                else:
-                    res += ' ' + s2[0].upper() + s2[1:]
-                continue
+    Needs to be updated to better handle empty dialogue lines
+    """
+    # print(cache)
+    punct = ['.', '...', '!', '?']
+    text = [cache[i][-1].strip() for i in range(len(cache))]
+    # print(f'text:{text}')
+    if text[0][0] == '"' and text[0][-1] == '"':
+        text[0] = text[0][1:-1] 
+    res = str(text[0][0].upper() + text[0][1:])
+    for i in range(len(text)-1):
+        s1, s2 = text[i], text[i+1]
+        # print(f's1: {s1}\ns2: {s2}')
+        if not s2:
+            continue
+        if s2[0] == '"' and s2[-1] == '"':
+            s2 = s2[1:-1]  
+        if s1[-1].islower() and s2[0].islower():
             res += ' ' + s2
-        return res
+            continue
+        if s1[-1].islower() and s2[0].isupper() and s1[-1] != 'I':
+            # avoiding the worst case where a new line causes
+            # a capitalization
+            # might want to try comma or period
+            res += ' ' + s2[0].lower() + s2[1:]
+            continue
+        if s1[-1] in punct and s2[0] not in punct:
+            # capitalize what we assume is a new sentence
+            # unless it's an ellipsis (favors run-ons)
+            # caution ¡ and ¿
+            if s1[-2:] == '..':
+                res += ' ' + s2[0].lower() + s2[1:]
+            else:
+                res += ' ' + s2[0].upper() + s2[1:]
+            continue
+        res += ' ' + s2
+    return res
 
-    cur_speaker = None
+
+def condense_csv_lines(csv_file, f_name=None):
+    """
+    Reads a csv file of a diarized transcript and creates a new converted version
+    where multiple-line segments with a single given speaker are put on a single line.
+
+    If not reading from file, input may be provided as a list of [seg, spk, txt] lists
+    csv_file -> [[Segment(start,end), speaker_id, text], ...]
+    In that case, specify the name of the URI by setting f_name.
+    """
+
+    if type(csv_file) != list:
+        # Read in the diarized transcript csv file
+        script = cleanscript.read_csv(csv_file)
+        # Convert the timestamps into seconds and replace them with a single Segment object 
+        for i in range(len(script)):
+            times = [convert_to_seconds(script[i][0]), convert_to_seconds(script[i][1])]
+            time_segment = Segment(times[0], times[1])
+            script[i] = [time_segment, script[i][2], script[i][3]]
+    else:
+        script = csv_file
+
+    # Create container to hold condensed transcript, set loop variables
+    condensed, cache, cur_speaker = [], [], None
     i, eof = 0, len(script)
     while i < eof:
         seg, speaker, txt = script[i]
@@ -218,21 +245,25 @@ if __name__ == "__main__":
         if speaker != cur_speaker and cur_speaker != None:
             # add current cache to condensed container
             _start, _end = cache[0][0].start, cache[-1][0].end
-            long_line = merge(cache)
+            # merge sentences in cache into single string
+            long_line = merge_sentences(cache)
             condensed += [[Segment(_start, _end), cur_speaker, long_line]]
             #refresh cache with new speaker first line
             cache = [script[i]]
             #change current speaker to speaker
             cur_speaker = speaker
         elif speaker == cur_speaker:
+            # keep adding to cur_speaker's cache
             cache += [script[i]]
         
         if i+1 == eof and cache:
+            # flush cache at end of file
             _start, _end = cache[0][0].start, cache[-1][0].end
-            long_line = merge(cache)
+            long_line = merge_sentences(cache)
             condensed += [[Segment(_start, _end), cur_speaker, long_line]]
         i += 1
 
+    # Create and fill new csv container, convert timestamps back to human readable format
     csv_container = [['Start', 'End', 'Speaker', 'Text']]
     for i in range(len(condensed)):
         line = condensed[i]
@@ -240,14 +271,77 @@ if __name__ == "__main__":
         _start = str(timedelta(seconds=int(times[0])))
         _end = str(timedelta(seconds=int(times[1])))
         speaker, text = line[1], line[2]
-        # print(f'\n{_start}, {_end}, {speaker}, \n\t{text}')
         csv_container += [[_start, _end, speaker, text]]
 
-    f_out = folder + "020723_meeting--joined.csv"
+    # Write to file
+    if f_name:
+        f_out = os.path.splitext(f_name)[0] + "--joined.csv"
+    else:
+        f_out = os.path.splitext(csv_file)[0] + "--joined.csv"
+
     with open(f_out, 'w', newline='') as f:
         csvwriter = csv.writer(f)
         csvwriter.writerows(csv_container)
 
 
-    # res_processed = merge_sentence(newscript)
-    # for i in res_processed: print(i)
+def diarize_transcript(transcript_file, diarization_file):
+    """
+    transcript_file -> txt file of transcript
+    diarization_file -> txt file of diarization
+
+    file formats : see transcript_to_segments and reconstruct_diarization
+
+    - Reads a transcript in, converts timestamps to pyannote.core.Segment objects 
+    - Reads a diarization in, Reconstructs a pyannote.core.Annotation (diarization) object
+        and a simple [(Segment, speaker_id),] container
+    - Goes through transcript timeline (intervals set by whisper) and uses the Annotation
+        argmax method to get the highest likelihood speaker for the given cropped segment,
+        building a diarized transcript along the way
+    - Writes to file "yourfile--merged.txt"
+    - Converts and writes to csv "yourfile--merged.csv" 
+    - Writes condensed dialogue version of script to csv "yourfile--merged--joined.csv"
+
+    Returns None (for now)
+    """
+
+    segscript = transcript_to_segments(transcript_file)
+    spk_segs, annotation = reconstruct_diarization(diarization_file)
+    merger = add_speaker_info_to_text(segscript, annotation)
+
+    formatted_merger = []
+    for seg, spk, txt in merger:
+        times = convert_segment_to_hms(seg)
+        formatted_merger += [[times[0], times[1], spk, txt]]
+    # Write to txt and csv
+    f_name = os.path.splitext(transcript_file)[0]
+    txt_out = f_name + "--merged.txt"
+    with open(txt_out, 'w') as f:
+        # todo: write header
+        for t0, t1, spk, txt in formatted_merger:
+            f.write(f'[{t0} -> {t1}] [{spk}] {txt}\n')
+    # These should be wrapped into their own functions bc it reoccurs in other functions, 
+    # But format checking and standard formatting haven't been fully implemented
+    csv_out = f_name + "--merged.csv"
+    csv_header = ['Start', 'End', 'Speaker', 'Text']
+    with open(csv_out, 'w', newline='') as f:
+        csvwriter = csv.writer(f)
+        csvwriter.writerow(csv_header)
+        csvwriter.writerows(formatted_merger)
+
+    # Write an additional csv with joined (condensed) dialogue lines
+    condensed_csv_out = os.path.splitext(transcript_file)[0] + "--merged.csv"
+    condense_csv_lines(merger, f_name=condensed_csv_out)
+
+
+if __name__ == "__main__":
+
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\session\\"
+    # script = folder + "041823_transcript_fin.txt"
+    # diary = folder + "april_18_session--diarization.txt"
+
+    # diarize_transcript(script, diary)
+
+
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\session\\"
+    f_in = folder + "041823_fin.csv"
+    condense_csv_lines(f_in)

@@ -41,7 +41,7 @@ def print_timestamp(starting=False, return_HMS=False, return_time=False, quiet=F
         return _time, s
 
 
-def main(path, testing=True, write_to_file=True):
+def main(path, testing=False, write_to_file=True):
 
     print('Loading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
@@ -57,10 +57,11 @@ def main(path, testing=True, write_to_file=True):
     header = f"Audio File : {os.path.sep.join(path.split(os.path.sep)[-3:])}\
              \nPipeline : pyannote/speaker-diarization\n"
     
-    print(f'overlap:{diarization.get_overlap()}')
-    _overlap = diarization.get_overlap()
-    print(f'timeline:{diarization.get_timeline()}')
-    _timeline = diarization.get_timeline()
+    if testing:
+        print(f'overlap:{diarization.get_overlap()}')
+        _overlap = diarization.get_overlap()
+        print(f'timeline:{diarization.get_timeline()}')
+        _timeline = diarization.get_timeline()
 
     if write_to_file:
         f_out = os.path.splitext(path)[0] + '--diarization.txt'
@@ -76,12 +77,12 @@ def main(path, testing=True, write_to_file=True):
                         \nTimeline: \n\t{_timeline}")  
 
     print(diarization)
-    dr = '\n'.join(i for i in dir(diarization) if not i.startswith('__'))
-    print(f'\ndir...\n{dr}')
+    # dr = '\n'.join(i for i in dir(diarization) if not i.startswith('__'))
+    # print(f'\ndir...\n{dr}')
 
-    discrete = diarization.discretize()
-    print(discrete)
-    return diarization
+    # discrete = diarization.discretize()
+    # print(discrete)
+    # return diarization
 
 
 if __name__ == '__main__':

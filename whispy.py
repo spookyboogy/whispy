@@ -2,7 +2,7 @@ import whisper
 import os
 import time
 import datetime
-
+import diarize
 
 def naive_merge(path, en_transcript, es_transcript):
     """ very naive """
@@ -90,21 +90,28 @@ def main(path, langs=['en', 'es'], print_line_nums=True, model_size="large-v2", 
                 f.write(f'{segment}\n')
             f.write(finish_time)
 
-    if len(langs) > 1:
-        naive_merge(path, transcripts['en'], transcripts['es'])
+    # if len(langs) > 1:
+    #     naive_merge(path, transcripts['en'], transcripts['es'])
+    # return transcripts
     
 
 if __name__ == '__main__':
     
 
+    files = ["apr_25\\042523_meeting.wav", 
+             "may_02\\050223_meeting_pt1.wav",
+             "may_02\\050223_meeting_pt2.wav"]
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy 
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    f_in = "test_0207.wav"
-    full_path = os.path.join(path, f_in)
-    print(f'\nfile: {full_path}\n')
-    main(full_path)
+    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
+
+    for uri in files:
+        full_path = os.path.join(path, uri)
+        print(f'\nfile: {full_path}\n')
+        main(full_path)
+        diarize.main(full_path)
+        
 
 
 

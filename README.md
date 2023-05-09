@@ -34,8 +34,8 @@ Checklist:
     - [ ] handle mixed language
     - [ ] listen/check/finalize
 
-- [ ] apr_18 
-    - [ ] Meeting with teachers
+- [x] apr_18 
+    - [x] Meeting with teachers
         - [x] transcripts
             * [x] en 
             * [x] es
@@ -45,7 +45,28 @@ Checklist:
         - [x] listen/check/finalize 
             * not technically 100% human check but >75% checked
         - [x] convert to csv
-    - [ ] Session with kids (con ninos)
+    - [x] Session with kids (con ninos)
+        - [x] transcripts
+            * [x] en 
+            * [x] es
+        - [x] diarization
+        - [x] merge transcripts with diarization
+        - [x] handle mixed language
+        - [x] listen/check/finalize
+        - [x] convert to csv
+
+- [ ] apr_25 
+    - [x] transcripts
+        * [x] en 
+        * [x] es
+    - [x] diarization
+    - [ ] merge transcripts with diarization
+    - [ ] handle mixed language
+    - [ ] listen/check/finalize
+    - [ ] convert to csv
+
+- [ ] may_02
+    - Part 1
         - [x] transcripts
             * [x] en 
             * [x] es
@@ -53,26 +74,16 @@ Checklist:
         - [ ] merge transcripts with diarization
         - [ ] handle mixed language
         - [ ] listen/check/finalize
-
-- [ ] apr_25 
-    - [ ] transcripts
-        * [ ] en 
-        * [ ] es
-    - [ ] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
-    - [ ] convert to csv
-
-- [ ] may_02
-    - [ ] transcripts
-        * [ ] en 
-        * [ ] es
-    - [ ] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
-    - [ ] convert to csv
+        - [ ] convert to csv
+    - Part 2
+        - [x] transcripts
+            * [x] en 
+            * [x] es
+        - [x] diarization
+        - [ ] merge transcripts with diarization
+        - [ ] handle mixed language
+        - [ ] listen/check/finalize
+        - [ ] convert to csv
 
 
 Todo: 
