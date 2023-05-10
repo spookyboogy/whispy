@@ -225,7 +225,7 @@ def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
 
     If not reading from file, input may be provided as a list of [seg, spk, txt] lists
     csv_file -> [[Segment(start,end), speaker_id, text], ...]
-    In that case, specify the name of the URI by setting f_name.
+    In that case, specify the name of the input/ouput file name by setting f_name.
     """
 
     if type(csv_file) != list:
