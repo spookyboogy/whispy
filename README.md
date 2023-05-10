@@ -66,7 +66,7 @@ Checklist:
     - [ ] convert to csv
 
 - [ ] may_02
-    - Part 1
+    - [ ] Part 1
         - [x] transcripts
             * [x] en 
             * [x] es
@@ -75,15 +75,15 @@ Checklist:
         - [ ] handle mixed language
         - [ ] listen/check/finalize
         - [ ] convert to csv
-    - Part 2
+    - [x] Part 2
         - [x] transcripts
             * [x] en 
             * [x] es
         - [x] diarization
-        - [ ] merge transcripts with diarization
-        - [ ] handle mixed language
-        - [ ] listen/check/finalize
-        - [ ] convert to csv
+        - [x] merge transcripts with diarization
+        - [x] handle mixed language
+        - [x] listen/check/finalize
+        - [x] convert to csv
 
 
 Todo: 
