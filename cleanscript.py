@@ -162,7 +162,7 @@ def remove_line_numbers(path):
             f.write(f'{line}\n')
 
 
-def read_csv(csv_file):
+def read_csv(csv_file, encoding='utf-8'):
     """
     Takes a csv of a diarized transcript (timestamps and names), and converts
     it such that long comments by a single speaker are condensed into one line.
@@ -171,7 +171,7 @@ def read_csv(csv_file):
     """
 
     script = []
-    with open(csv_file, 'r') as f:
+    with open(csv_file, 'r', encoding=encoding) as f:
         f = f.read().splitlines()[1:]
         for row in f:
             start = row[:row.index(',')]

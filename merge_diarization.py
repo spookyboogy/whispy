@@ -112,7 +112,7 @@ def add_speaker_info_to_text(timestamp_texts, ann, quiet=True):
     return spk_text
 
 
-def convert_txt_to_csv(f_in):
+def convert_txt_to_csv(f_in, encoding='utf-8'):
     """
     Converts a diarized transcript from .txt to .csv. Input should
     have a timestamp of some format and a name enclosed in '[ ]', else name
@@ -121,16 +121,21 @@ def convert_txt_to_csv(f_in):
         "[ 00:00:06.120 -->  00:00:09.760] [Speaker_00] '...'"
     Currently chopping off decimals of timestamps for readability
     
+    encoding='latin-9' or 'ISO-8859-15' for spanish files
+
     for future:
         csv format could allow for inclusion of columns containing the other
         speakers returned by pyannote.core.Annotation.crop(Segment).
         Annotation.crop(Segment).argmax() is currently being used to pick a single speaker,
         but having these columns could make it easier to manually check/edit.
+
+    todo: 
+        - reconfigure so that the work is done outside of the open() call to simplify encoding 
     """
 
     seps = ['--->','-->','->']
     rows = [('Start', 'End', 'Speaker', 'Text'),]
-    with open(f_in, 'r') as f:
+    with open(f_in, 'r', encoding=encoding) as f:
         for line in f.read().splitlines():
             row = []
             sep_test = [i in line for i in seps]
@@ -165,7 +170,7 @@ def convert_txt_to_csv(f_in):
             rows += [row]
     
     f_out = os.path.splitext(f_in)[0] + '.csv'
-    with open(f_out, 'w', newline='') as f:
+    with open(f_out, 'w', encoding=encoding, newline='') as f:
         csvwriter = csv.writer(f)
         csvwriter.writerows(rows)
 
@@ -213,7 +218,7 @@ def merge_sentences(cache):
     return res
 
 
-def condense_csv_lines(csv_file, f_name=None):
+def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
     """
     Reads a csv file of a diarized transcript and creates a new converted version
     where multiple-line segments with a single given speaker are put on a single line.
@@ -225,7 +230,7 @@ def condense_csv_lines(csv_file, f_name=None):
 
     if type(csv_file) != list:
         # Read in the diarized transcript csv file
-        script = cleanscript.read_csv(csv_file)
+        script = cleanscript.read_csv(csv_file, encoding=encoding)
         # Convert the timestamps into seconds and replace them with a single Segment object 
         for i in range(len(script)):
             times = [convert_to_seconds(script[i][0]), convert_to_seconds(script[i][1])]
@@ -279,7 +284,7 @@ def condense_csv_lines(csv_file, f_name=None):
     else:
         f_out = os.path.splitext(csv_file)[0] + "--joined.csv"
 
-    with open(f_out, 'w', newline='') as f:
+    with open(f_out, 'w', encoding=encoding, newline='') as f:
         csvwriter = csv.writer(f)
         csvwriter.writerows(csv_container)
 
@@ -340,8 +345,19 @@ if __name__ == "__main__":
     # diary = folder + "april_18_session--diarization.txt"
 
     # diarize_transcript(script, diary)
+    
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
+    # todofiles = [["apr_25\\042523_meeting_fin.txt", "apr_25\\042523_meeting--diarization.txt"],
+    #              ["may_02\\050223_meeting_pt1_fin.txt", "may_02\\050223_meeting_pt1--diarization.txt"]]
+    # files = [["may_02\\050223_meeting_pt2_fin.txt", "may_02\\050223_meeting_pt2--diarization.txt"]]
 
+    # for transcript, diarizaiton in files:
+    #     diarize_transcript(transcript, diarizaiton)
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\session\\"
-    f_in = folder + "041823_fin.csv"
-    condense_csv_lines(f_in)
+    # # copy result to a new groundtruth file where manual edits are done and won't be overwritten
+    # # by any scripts. Convert that to csv after some tweaking and manual renaming
+    f_in = "may_02\\050223_meeting_pt2_groundtruth.txt"
+    convert_txt_to_csv(folder + f_in, encoding="ISO-8859-15")
+    # Make condensed version of new csv
+    f_in = "may_02\\050223_meeting_pt2_groundtruth.csv"
+    condense_csv_lines(f_in, encoding="ISO-8859-15")
