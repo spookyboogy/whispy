@@ -4,12 +4,12 @@ import csv
 import cleanscript 
 from datetime import timedelta
 
-def read_file(transcript_or_diarization_file):
+def read_file(transcript_or_diarization_file, encoding='utf-8'):
     """
     Reads in a transcript or diarization and returns a list of relevant lines only.
     """
     container = []
-    with open(transcript_or_diarization_file, 'r') as f:
+    with open(transcript_or_diarization_file, 'r', encoding=encoding) as f:
         for line in f.read().splitlines():
             # naively assume that anything with '[ ->' is a desired line
             if '[' in line and ('->' in line or '-->' in line):
@@ -22,7 +22,7 @@ def read_file(transcript_or_diarization_file):
     return container
 
 
-def transcript_to_segments(transcript_file):
+def transcript_to_segments(transcript_file, encoding='utf-8'):
     """
     Reads a transcript file and returns a list of transcript lines
     where the timestamps has been converted into pyannote Segments.
@@ -31,7 +31,7 @@ def transcript_to_segments(transcript_file):
     * [HH:MM:SS -> HH:MM:SS] "    "
     """
 
-    transcript = read_file(transcript_file)
+    transcript = read_file(transcript_file, encoding=encoding)
     for l in range(len(transcript)):
         line = transcript[l]
         i, j = line.index('['), line.index(']')
@@ -122,6 +122,7 @@ def convert_txt_to_csv(f_in, encoding='utf-8'):
     Currently chopping off decimals of timestamps for readability
     
     encoding='latin-9' or 'ISO-8859-15' for spanish files
+    encoding='latin-1' might actually just be best
 
     for future:
         csv format could allow for inclusion of columns containing the other
@@ -289,7 +290,7 @@ def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
         csvwriter.writerows(csv_container)
 
 
-def diarize_transcript(transcript_file, diarization_file):
+def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     """
     transcript_file -> txt file of transcript
     diarization_file -> txt file of diarization
@@ -309,7 +310,7 @@ def diarize_transcript(transcript_file, diarization_file):
     Returns None (for now)
     """
 
-    segscript = transcript_to_segments(transcript_file)
+    segscript = transcript_to_segments(transcript_file, encoding=encoding)
     spk_segs, annotation = reconstruct_diarization(diarization_file)
     merger = add_speaker_info_to_text(segscript, annotation)
 
@@ -328,36 +329,35 @@ def diarize_transcript(transcript_file, diarization_file):
     # But format checking and standard formatting haven't been fully implemented
     csv_out = f_name + "--merged.csv"
     csv_header = ['Start', 'End', 'Speaker', 'Text']
-    with open(csv_out, 'w', newline='') as f:
+    with open(csv_out, 'w', encoding=encoding, newline='') as f:
         csvwriter = csv.writer(f)
         csvwriter.writerow(csv_header)
         csvwriter.writerows(formatted_merger)
 
     # Write an additional csv with joined (condensed) dialogue lines
     condensed_csv_out = os.path.splitext(transcript_file)[0] + "--merged.csv"
-    condense_csv_lines(merger, f_name=condensed_csv_out)
+    condense_csv_lines(merger, f_name=condensed_csv_out, encoding=encoding)
 
 
 if __name__ == "__main__":
 
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\session\\"
-    # script = folder + "041823_transcript_fin.txt"
-    # diary = folder + "april_18_session--diarization.txt"
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\may_02\\"
+    # transcript_files = ["050223_meeting_pt1_en_transcript.txt",
+    #                     "050223_meeting_pt1_es_transcript.txt",
+    #                     "050223_meeting_pt1_fin.txt"]
+    # transcript_files = [folder + f for f in transcript_files]
+    # diarization_file = folder + "050223_meeting_pt1--diarization.txt"
 
-    # diarize_transcript(script, diary)
-    
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
-    # todofiles = [["apr_25\\042523_meeting_fin.txt", "apr_25\\042523_meeting--diarization.txt"],
-    #              ["may_02\\050223_meeting_pt1_fin.txt", "may_02\\050223_meeting_pt1--diarization.txt"]]
-    # files = [["may_02\\050223_meeting_pt2_fin.txt", "may_02\\050223_meeting_pt2--diarization.txt"]]
-
-    # for transcript, diarizaiton in files:
-    #     diarize_transcript(transcript, diarizaiton)
+    # for transcript in transcript_files:
+    #     diarize_transcript(transcript, diarization_file, encoding="latin-1")
+    #     #diarize_transcript(transcript, diarization_file, encoding="ISO-8859-15")
 
     # # copy result to a new groundtruth file where manual edits are done and won't be overwritten
     # # by any scripts. Convert that to csv after some tweaking and manual renaming
-    f_in = "may_02\\050223_meeting_pt2_groundtruth.txt"
-    convert_txt_to_csv(folder + f_in, encoding="ISO-8859-15")
-    # Make condensed version of new csv
-    f_in = "may_02\\050223_meeting_pt2_groundtruth.csv"
-    condense_csv_lines(f_in, encoding="ISO-8859-15")
+    # f_in = folder + "050223_meeting_pt1_groundtruth.txt"
+    # convert_txt_to_csv(f_in, encoding='latin-1') #, encoding="ISO-8859-15")
+    # # Make condensed version of new csv
+    # f_in = folder + "050223_meeting_pt1_groundtruth.csv"
+    # condense_csv_lines(f_in, encoding="latin-1")
+
+    # latin-1 encoding seems to accomodate both en and es transcripts gracefully

@@ -163,7 +163,7 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  160 [0:06:16 -> 0:06:18] pero otra vez
  161 [0:06:18 -> 0:06:20] ese fue el único problema
  162 [0:06:20 -> 0:06:22] alguien estaba buscando un scream
- 163 [0:06:22 -> 0:06:24] tu lo proporcionas
+ 163 [0:06:22 -> 0:06:24] [english] tu lo proporcionas
  164 [0:06:24 -> 0:06:26] yo pensé en eso mas tarde
  165 [0:06:26 -> 0:06:28] que quieres decir?
  166 [0:06:28 -> 0:06:30] puedes hacer scream
@@ -172,7 +172,7 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  169 [0:06:34 -> 0:06:36] eso es lo que estaba haciendo Jordani
  170 [0:06:36 -> 0:06:38] era como
  171 [0:06:38 -> 0:06:40] su voz
- 172 [0:06:40 -> 0:06:42] era como ruidos
+ 172 [0:06:40 -> 0:06:42] [/english] era como ruidos
  173 [0:06:42 -> 0:06:44] y
  174 [0:06:44 -> 0:06:46] pero
  175 [0:06:46 -> 0:06:48] lo difícil fue que
@@ -192,7 +192,7 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  189 [0:07:14 -> 0:07:16] y a grabar
  190 [0:07:16 -> 0:07:18] pero en iMovie tiene que haber algo que añades
  191 [0:07:18 -> 0:07:20] si, tenemos
- 192 [0:07:20 -> 0:07:22] el iMovie es el que usamos
+ 192 [0:07:20 -> 0:07:22] [belen] [english] el iMovie es el que usamos
  193 [0:07:22 -> 0:07:24] tiene un pequeño micrófono
  194 [0:07:24 -> 0:07:26] si quieres grabar algo
  195 [0:07:26 -> 0:07:28] para agregar fotos
@@ -221,14 +221,14 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  218 [0:08:12 -> 0:08:14] encontré esos
  219 [0:08:14 -> 0:08:16] entonces
  220 [0:08:18 -> 0:08:20] él quería
- 221 [0:08:28 -> 0:08:30] y
+ 221 [0:08:28 -> 0:08:30] y...
  222 [0:08:30 -> 0:08:32] y
  223 [0:08:32 -> 0:08:34] y
  224 [0:08:34 -> 0:08:36] y
- 225 [0:08:36 -> 0:08:38] y
+ 225 [0:08:36 -> 0:08:38] noise
  226 [0:08:38 -> 0:08:40] y
  227 [0:08:40 -> 0:08:42] y
- 228 [0:08:42 -> 0:08:44] y
+ 228 [0:08:42 -> 0:08:44] noise
  229 [0:08:44 -> 0:08:46] y
  230 [0:08:46 -> 0:08:48] y
  231 [0:08:48 -> 0:08:50] y
@@ -273,7 +273,7 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  270 [0:10:06 -> 0:10:08] ningún sonido
  271 [0:10:08 -> 0:10:10] porque esta persona iba a la tienda
  272 [0:10:10 -> 0:10:12] y luego se quedó en la tienda con el videojuego
- 273 [0:10:12 -> 0:10:14] y luego se fue a casa a jugar al videojuego
+ 273 [0:10:12 -> 0:10:14] [english still] y luego se fue a casa a jugar al videojuego
  274 [0:10:14 -> 0:10:16] ¿Sólo pensaba en el diálogo como sonido?
  275 [0:10:16 -> 0:10:18] porque podías hacer pasos
  276 [0:10:18 -> 0:10:20] o cosas así
@@ -286,8 +286,8 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  283 [0:10:32 -> 0:10:34] después de verlos
  284 [0:10:34 -> 0:10:36] voy a decir, si quieren
  285 [0:10:36 -> 0:10:38] si quieren, no sé cómo decir
- 286 [0:10:38 -> 0:10:40] descargar su aplicación
- 287 [0:10:40 -> 0:10:42] ¿bajar?
+ 286 [0:10:38 -> 0:10:40] [end english] descargar su aplicación
+ 287 [0:10:40 -> 0:10:42] [spanish] ¿bajar?
  288 [0:10:42 -> 0:10:44] ¿una aplicación?
  289 [0:10:44 -> 0:10:46] ¿es gratis?
  290 [0:10:46 -> 0:10:48] ¿podríamos mandarle a cada papá su aplicación por whatsapp?
@@ -344,8 +344,8 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  341 [0:12:28 -> 0:12:30] paramos un momento y digo
  342 [0:12:30 -> 0:12:32] y ahora qué pasa
  343 [0:12:32 -> 0:12:34] ahora tengo que destruir Mario
- 344 [0:12:34 -> 0:12:36] pero no dudó
- 345 [0:12:36 -> 0:12:38] parte del plan
+ 344 [0:12:34 -> 0:12:36] [end spanish] pero no dudó
+ 345 [0:12:36 -> 0:12:38] [start english] parte del plan
  346 [0:12:38 -> 0:12:40] sí, parte del plan
  347 [0:12:40 -> 0:12:42] fue que había un balón que cayó
  348 [0:12:42 -> 0:12:44] en Mario
@@ -356,7 +356,7 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  353 [0:12:52 -> 0:12:54] el balón viene y destruye a Mario
  354 [0:12:54 -> 0:12:56] pero luego el cabello se mueve
  355 [0:12:56 -> 0:12:58] por sí mismo
- 356 [0:12:58 -> 0:13:00] muy bueno
+ 356 [0:12:58 -> 0:13:00] [end english] muy bueno
  357 [0:13:00 -> 0:13:02] él dice que
  358 [0:13:02 -> 0:13:04] la razón por la que
  359 [0:13:04 -> 0:13:06] Mario estaba un poco dañado al principio
@@ -447,7 +447,7 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  444 [0:16:46 -> 0:16:48] sí, aquí era muy
  445 [0:16:50 -> 0:16:52] porque había muchos
  446 [0:16:52 -> 0:16:54] Aleana no estaba
- 447 [0:16:54 -> 0:16:56] sí, ella estaba enferma
+ 447 [0:16:54 -> 0:16:56] sí, cuando estaba enferma
  448 [0:16:56 -> 0:16:58] en la cimitacruz
  449 [0:16:58 -> 0:17:00] sí
  450 [0:17:00 -> 0:17:02] estaban así Israel y Jordán
@@ -461,10 +461,10 @@ Audio File : whispy\may_02\050223_meeting_pt1.wav
  458 [0:17:16 -> 0:17:18] ¿cómo se ven sus lentes?
  459 [0:17:18 -> 0:17:20] ¿cómo se ven Marín? ¿de qué color son?
  460 [0:17:20 -> 0:17:22] ¿de qué color son?
- 461 [0:17:22 -> 0:17:24] ¿están en una caja?
- 462 [0:17:24 -> 0:17:26] ¿están en una caja?
- 463 [0:17:26 -> 0:17:28] no, estaban
- 464 [0:17:28 -> 0:17:30] solos
+ 461 [0:17:22 -> 0:17:24] Were they in a box?
+ 462 [0:17:24 -> 0:17:26] Were they in a box?
+ 463 [0:17:26 -> 0:17:28] No, they were
+ 464 [0:17:28 -> 0:17:30] alone
  465 [0:17:30 -> 0:17:32] no, no
  466 [0:17:32 -> 0:17:34] cuéntanos que te ayudamos a encontrarlos
  467 [0:17:34 -> 0:17:36] ella estaba buscando algo
