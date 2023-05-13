@@ -352,12 +352,12 @@ if __name__ == "__main__":
     #     diarize_transcript(transcript, diarization_file, encoding="latin-1")
     #     #diarize_transcript(transcript, diarization_file, encoding="ISO-8859-15")
 
-    # # copy result to a new groundtruth file where manual edits are done and won't be overwritten
-    # # by any scripts. Convert that to csv after some tweaking and manual renaming
-    # f_in = folder + "042523_meeting_groundtruth.txt"
-    # convert_txt_to_csv(f_in, encoding='latin-1')
-    # # Make condensed version of new csv
-    # f_in = folder + "050223_meeting_pt1_groundtruth.csv"
-    # condense_csv_lines(f_in, encoding="latin-1")
+    # copy result to a new groundtruth file where manual edits are done and won't be overwritten
+    # by any scripts. Convert that to csv after some tweaking and manual renaming
+    f_in = folder + "042523_meeting_groundtruth.txt"
+    convert_txt_to_csv(f_in, encoding='latin-1')
+    # Make condensed version of new csv
+    f_in = folder + "042523_meeting_groundtruth.csv"
+    condense_csv_lines(f_in, encoding="latin-1")
 
     # latin-1 encoding seems to accomodate both en and es transcripts gracefully
