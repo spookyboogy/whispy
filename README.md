@@ -43,7 +43,6 @@ Checklist:
         - [x] merge transcripts with diarization
         - [x] handle mixed language
         - [x] listen/check/finalize 
-            * not technically 100% human check but >75% checked
         - [x] convert to csv
     - [x] Session with kids (con ninos)
         - [x] transcripts
@@ -55,15 +54,15 @@ Checklist:
         - [x] listen/check/finalize
         - [x] convert to csv
 
-- [ ] apr_25 
+- [x] apr_25 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
-    - [ ] convert to csv
+    - [x] merge transcripts with diarization
+    - [x] handle mixed language (next to none, 99% eng)
+    - [x] listen/check/finalize
+    - [x] convert to csv, joined
 
 - [x] may_02
     - [x] Part 1
