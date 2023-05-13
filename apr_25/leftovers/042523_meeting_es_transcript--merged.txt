@@ -1,0 +1,1421 @@
+[0:00:00 -> 0:00:04] [SPEAKER_04] Pero estoy muy emocionada porque no he hablado mucho hoy.
+[0:00:04 -> 0:00:05] [SPEAKER_04] ¿Qué te parece?
+[0:00:05 -> 0:00:07] [SPEAKER_04] ¿Qué te parece?
+[0:00:07 -> 0:00:08] [None] No sé.
+[0:00:08 -> 0:00:10] [None] Eso es gracioso.
+[0:00:10 -> 0:00:12] [None] No, no, está bien.
+[0:00:12 -> 0:00:17] [SPEAKER_04] Sí, así que tenemos a nuestro visitante hoy aquí, Dr. Baird Hobbit.
+[0:00:17 -> 0:00:21] [SPEAKER_04] ¿Te gustaría decir algo sobre su trabajo?
+[0:00:21 -> 0:00:29] [SPEAKER_06] Estoy en la infancia, en la universidad de Brooklyn, y estoy enseñando en el centro de graduación en el programa de edad urbana.
+[0:00:29 -> 0:00:35] [SPEAKER_06] Es un programa de profesoría y he leído sobre él, así que fue muy divertido verlo.
+[0:00:35 -> 0:00:40] [SPEAKER_06] Y Patricia y yo estamos en la sala de comentarios, así que estamos interesados en ello,
+[0:00:40 -> 0:00:44] [SPEAKER_06] aunque estemos en diferentes áreas prácticas.
+[0:00:44 -> 0:00:48] [SPEAKER_06] Estoy en la infancia, pero tenemos este intercambio de teorías.
+[0:00:48 -> 0:00:49] [SPEAKER_04] Gracias por venir.
+[0:00:49 -> 0:00:53] [SPEAKER_04] Sí, ambos usamos teorías culturales históricas.
+[0:00:53 -> 0:00:57] [SPEAKER_04] Baygosky y, tú sabes, los sistemas de actividades.
+[0:00:57 -> 0:00:59] [SPEAKER_04] Están muy familiares con la teoría.
+[0:00:59 -> 0:01:02] [SPEAKER_04] Algunos de ellos la usaron para el proyecto de la igualdad.
+[0:01:02 -> 0:01:05] [SPEAKER_04] Hicimos un proyecto de igualdad con estudios de investigación.
+[0:01:05 -> 0:01:06] [SPEAKER_04] ¿Cierto?
+[0:01:06 -> 0:01:07] [SPEAKER_04] Déjame pensar.
+[0:01:07 -> 0:01:10] [SPEAKER_04] No, Andrea usó fans de la identidad.
+[0:01:10 -> 0:01:14] [SPEAKER_04] Mauricio Escobar, que trabaja.
+[0:01:14 -> 0:01:18] [SPEAKER_04] Y, sí, Cristina también hizo identidad.
+[0:01:19 -> 0:01:23] [SPEAKER_04] Ángela, ¿qué usas? ¿Estás en literatura? ¿Estás estudiando literatura?
+[0:01:23 -> 0:01:30] [SPEAKER_07] No, no estudio literatura, pero me enfoco en la traducción y la literatura.
+[0:01:30 -> 0:01:34] [SPEAKER_07] Las lecciones, uso un contexto muy específico.
+[0:01:34 -> 0:01:41] [SPEAKER_04] Sí, estaban leyendo el mismo libro, un día en español y otro día en inglés.
+[0:01:41 -> 0:01:42] [SPEAKER_04] Pero el mismo libro.
+[0:01:42 -> 0:01:45] [SPEAKER_07] Sí, muy interesante.
+[0:01:45 -> 0:01:47] [SPEAKER_07] Ophelia García.
+[0:01:47 -> 0:01:49] [SPEAKER_07] Sí, Ophelia García.
+[0:01:49 -> 0:01:51] [SPEAKER_07] Hice un montón de...
+[0:01:51 -> 0:01:54] [SPEAKER_07] Hay un artículo que hicieron en el último curso,
+[0:01:54 -> 0:01:58] [SPEAKER_07] pero lo hicieron en lenguaje de traducción como una estrategia de la lección.
+[0:01:58 -> 0:02:01] [SPEAKER_07] Entonces, se refiere a mucho de eso.
+[0:02:01 -> 0:02:02] [SPEAKER_04] Sí.
+[0:02:02 -> 0:02:08] [SPEAKER_04] Así que, tú sabes, Beth ha hecho mucho trabajo en teoría cultural y histórica.
+[0:02:08 -> 0:02:13] [SPEAKER_04] Y su trabajo se centra en el juego, diría yo.
+[0:02:13 -> 0:02:15] [SPEAKER_06] Es todo en el juego.
+[0:02:15 -> 0:02:18] [SPEAKER_06] Y el desarrollo de la identidad a través del juego.
+[0:02:18 -> 0:02:21] [SPEAKER_06] Un concepto llamado Perja Vaya,
+[0:02:21 -> 0:02:25] [SPEAKER_06] que trata de las formas en que se desarrolla tu identidad en esos momentos
+[0:02:25 -> 0:02:30] [SPEAKER_06] cuando te metes en muy difíciles transiciones en tu vida.
+[0:02:30 -> 0:02:34] [SPEAKER_06] Pero estudiándolo con los hijos de los profesores,
+[0:02:34 -> 0:02:40] [SPEAKER_06] los co-researchers, la idea del juego es que si me pongo en el costumbre
+[0:02:40 -> 0:02:47] [SPEAKER_06] y entro en el juego, y mis estudiantes y los profesores entran en el costumbre,
+[0:02:47 -> 0:02:52] [SPEAKER_06] entonces podemos comunicarnos con los niños para estudiar muchas cosas diferentes.
+[0:02:52 -> 0:02:55] [SPEAKER_06] Y entonces los niños nos pueden dar ideas.
+[0:02:55 -> 0:02:58] [SPEAKER_06] Es realmente una investigación participativa y diseñadora,
+[0:02:58 -> 0:03:02] [SPEAKER_06] así que los niños nos están proponiendo formas de que podamos estudiar mejor
+[0:03:02 -> 0:03:05] [SPEAKER_06] cosas complicadas como el desarrollo de la identidad.
+[0:03:05 -> 0:03:08] [SPEAKER_04] Muchos niños muy jóvenes, es la infancia.
+[0:03:09 -> 0:03:15] [SPEAKER_04] Es hermoso ver, visité su programa en Brooklyn.
+[0:03:15 -> 0:03:20] [SPEAKER_04] Es Playworld, así que los niños están en este mundo de juego,
+[0:03:20 -> 0:03:25] [SPEAKER_04] aprendiendo sobre su identidad, y están intentando diferentes identidades.
+[0:03:25 -> 0:03:28] [SPEAKER_04] Tienen a este papeteer que viene facilitado.
+[0:03:28 -> 0:03:30] [SPEAKER_04] Creo que te lo dije.
+[0:03:30 -> 0:03:32] [SPEAKER_06] Fue el mejor programa.
+[0:03:32 -> 0:03:36] [SPEAKER_06] Estamos todos visitando. Es la noche de las 9.40.
+[0:03:36 -> 0:03:41] [SPEAKER_06] Y ahora tenemos a un gato y una feria,
+[0:03:41 -> 0:03:45] [SPEAKER_06] que son dos profesores que visitan las árboles.
+[0:03:45 -> 0:03:48] [SPEAKER_06] Y estamos muy interesados en traer administración,
+[0:03:48 -> 0:03:52] [SPEAKER_06] porque cuanto más traemos administración, más nos van a apoyar, ¿verdad?
+[0:03:52 -> 0:03:57] [SPEAKER_06] Así que invitamos al profesor a las árboles para que le ponga un costumbre.
+[0:03:58 -> 0:04:01] [SPEAKER_06] Está en una escuela pública,
+[0:04:01 -> 0:04:06] [SPEAKER_06] pero una escuela pública que está bien influida por Central Park East
+[0:04:06 -> 0:04:10] [SPEAKER_06] y las escuelas de la coalición, que trabajan en el asesoramiento
+[0:04:10 -> 0:04:13] [SPEAKER_06] basado en las actuaciones y en los portfolios.
+[0:04:13 -> 0:04:16] [SPEAKER_06] Y durante mucho tiempo, se han enfocado en la arte,
+[0:04:16 -> 0:04:20] [SPEAKER_06] y les han acogido, así que les presentamos a los niños.
+[0:04:20 -> 0:04:23] [SPEAKER_04] Es un contexto muy progresista,
+[0:04:23 -> 0:04:26] [SPEAKER_04] así que eso ayuda en hacer ese tipo de trabajo.
+[0:04:26 -> 0:04:29] [SPEAKER_06] No, yo he buscado muchos lugares.
+[0:04:29 -> 0:04:34] [SPEAKER_06] No hay tantas escuelas que estén interesadas en tener a sus profesores
+[0:04:34 -> 0:04:37] [SPEAKER_06] en costumbre durante un buen parte del año.
+[0:04:38 -> 0:04:42] [SPEAKER_06] Y incluso donde estamos ahora, solo lo hacemos en el kindergarten.
+[0:04:42 -> 0:04:46] [SPEAKER_06] Aunque en los países escandinavos lo hacen todo el tiempo.
+[0:04:46 -> 0:04:50] [SPEAKER_04] Sí, sí. Tenemos un contexto muy diferente aquí.
+[0:04:50 -> 0:04:52] [SPEAKER_04] Trabajamos con la administración.
+[0:04:52 -> 0:04:54] [SPEAKER_04] Tenemos acceso a la escuela,
+[0:04:54 -> 0:04:57] [SPEAKER_04] y trabajamos con estos maravillosos profesores.
+[0:04:57 -> 0:04:59] [SPEAKER_04] Tenemos tres profesores de servicio, Jada.
+[0:04:59 -> 0:05:02] [SPEAKER_04] Jada, cuarta o tercera edad.
+[0:05:02 -> 0:05:04] [SPEAKER_04] ¿Cuál edad tienes?
+[0:05:04 -> 0:05:06] [SPEAKER_04] Tengo la tercera edad.
+[0:05:06 -> 0:05:09] [SPEAKER_04] En el clasro de ICT.
+[0:05:09 -> 0:05:11] [SPEAKER_04] Ella trabaja con dos profesores de colectivo.
+[0:05:11 -> 0:05:14] [SPEAKER_04] Tienen hijos con discapacidad en el clasro.
+[0:05:14 -> 0:05:16] [SPEAKER_04] Y este es su clasro.
+[0:05:16 -> 0:05:18] [SPEAKER_06] Es genial que le pusieron un extra 5.
+[0:05:18 -> 0:05:21] [SPEAKER_06] Es un regalo de los profesores que trabajan allí.
+[0:05:21 -> 0:05:24] [SPEAKER_06] Estamos muy felices de tenerlos.
+[0:05:24 -> 0:05:27] [SPEAKER_04] Paulina, que conociste antes en el segundo clasro.
+[0:05:27 -> 0:05:29] [SPEAKER_02] Hago la segunda edad de ICT.
+[0:05:29 -> 0:05:31] [SPEAKER_02] Estoy tratando de brindar algo de alegría.
+[0:05:31 -> 0:05:35] [SPEAKER_02] Porque siempre digo que los clasros más bajos han perdido
+[0:05:35 -> 0:05:39] [SPEAKER_02] la alegría tanto, la rigidez.
+[0:05:39 -> 0:05:43] [SPEAKER_02] Me siento que estamos pidiendo más y más de los pequeños.
+[0:05:43 -> 0:05:48] [SPEAKER_02] Incluso sus manos no están listas para lo que les estamos pidiendo.
+[0:05:49 -> 0:05:55] [SPEAKER_06] ¿Sabe la Asociación para el Estudio de Juego?
+[0:05:55 -> 0:05:57] [SPEAKER_06] Es una conferencia internacional.
+[0:05:57 -> 0:06:00] [SPEAKER_06] Estará en Manhattan el próximo mes.
+[0:06:00 -> 0:06:04] [SPEAKER_06] Puede ir casi gratis como profesora.
+[0:06:04 -> 0:06:07] [SPEAKER_06] Y mucho de eso es sobre la escolarización.
+[0:06:07 -> 0:06:08] [SPEAKER_06] ¿Dónde está?
+[0:06:08 -> 0:06:10] [SPEAKER_06] Creo que está en BMCC.
+[0:06:10 -> 0:06:12] [SPEAKER_06] Tienes que mirarlo.
+[0:06:12 -> 0:06:14] [SPEAKER_04] La Asociación para el Estudio de Juego.
+[0:06:14 -> 0:06:16] [SPEAKER_04] Suena fantástico.
+[0:06:16 -> 0:06:18] [SPEAKER_06] Porque no es tan fácil estar en Nueva York.
+[0:06:18 -> 0:06:21] [SPEAKER_06] La última vez que vine aquí fue hace 10 años.
+[0:06:21 -> 0:06:23] [SPEAKER_04] Trabajamos en diferentes mundos.
+[0:06:23 -> 0:06:25] [SPEAKER_04] Estaba en una reunión esta mañana
+[0:06:25 -> 0:06:28] [SPEAKER_04] para ser la editora de Excepción a Children.
+[0:06:28 -> 0:06:30] [SPEAKER_04] Otra obra de Excepción a Children.
+[0:06:30 -> 0:06:33] [SPEAKER_04] Y la gente que nos reunía
+[0:06:33 -> 0:06:37] [SPEAKER_04] nos dijo que alguien nos envió un papel de origami
+[0:06:37 -> 0:06:40] [SPEAKER_04] y otro nos envió un papel de tabla de tenis.
+[0:06:40 -> 0:06:43] [SPEAKER_04] Y tuvimos que rechazar porque ¿qué tiene esto que ver con el aprendizaje?
+[0:06:43 -> 0:06:45] [SPEAKER_04] Y yo dije, bueno, hacemos origami.
+[0:06:45 -> 0:06:47] [SPEAKER_04] ¿Me lo puedo hacer?
+[0:06:47 -> 0:06:53] [SPEAKER_04] La única valoración cuantitativa, básicamente, históricamente,
+[0:06:53 -> 0:06:56] [SPEAKER_04] este libro y el campo de especialización,
+[0:06:56 -> 0:06:59] [SPEAKER_04] son niveles de lección cuantitativas
+[0:06:59 -> 0:07:02] [SPEAKER_04] y conocimientos muy instrumentales.
+[0:07:02 -> 0:07:04] [SPEAKER_04] Por lo tanto, desafortunadamente...
+[0:07:04 -> 0:07:06] [SPEAKER_04] Todo es basado en datos, lo cual es bien.
+[0:07:06 -> 0:07:08] [SPEAKER_02] Necesitas aprender a enseñarte de alguna manera.
+[0:07:08 -> 0:07:11] [SPEAKER_02] Pero, sabes, todavía puedes medir otras cosas
+[0:07:11 -> 0:07:14] [SPEAKER_02] y encontrar otras maneras de comunicar,
+[0:07:14 -> 0:07:18] [SPEAKER_02] de leer, en lugar de escribir los parágrafos.
+[0:07:18 -> 0:07:21] [SPEAKER_04] En esta escuela, el principal principio,
+[0:07:21 -> 0:07:23] [SPEAKER_04] hay un principio para todo,
+[0:07:23 -> 0:07:25] [SPEAKER_04] y luego hay muchos principios de asistencia
+[0:07:25 -> 0:07:27] [SPEAKER_04] en una escuela muy grande.
+[0:07:27 -> 0:07:29] [SPEAKER_04] Hay cuatro AP.
+[0:07:29 -> 0:07:32] [SPEAKER_04] Y el principal principio es muy data-driven.
+[0:07:32 -> 0:07:34] [SPEAKER_04] Cuando hablas con él,
+[0:07:34 -> 0:07:38] [SPEAKER_04] es como, oh, estamos teniendo mucho tiempo en el programa,
+[0:07:38 -> 0:07:40] [SPEAKER_04] esto es lo que los niños están haciendo,
+[0:07:40 -> 0:07:42] [SPEAKER_04] esto es lo que dicen, y ellos son como,
+[0:07:42 -> 0:07:43] [SPEAKER_04] oh, ¿tienes algún dato?
+[0:07:43 -> 0:07:45] [SPEAKER_04] Y yo digo, oh, este es el dato.
+[0:07:45 -> 0:07:47] [SPEAKER_04] Y las conversaciones son muy rápidas.
+[0:07:47 -> 0:07:49] [SPEAKER_02] Es interesante, porque es como un niño grande.
+[0:07:49 -> 0:07:52] [SPEAKER_02] Es el primero que aparece en su aula de pijama.
+[0:07:52 -> 0:07:55] [SPEAKER_02] Y mi hija, que es de los niveles más bajos,
+[0:07:55 -> 0:07:58] [SPEAKER_02] no se veste, no nos dejará vestir.
+[0:07:58 -> 0:08:00] [SPEAKER_02] Es como...
+[0:08:00 -> 0:08:01] [SPEAKER_02] Carne.
+[0:08:01 -> 0:08:02] [SPEAKER_02] Trabajo.
+[0:08:02 -> 0:08:04] [SPEAKER_02] Carne, pijama, yo no sé.
+[0:08:04 -> 0:08:06] [SPEAKER_04] Especialmente después de la pandemia,
+[0:08:06 -> 0:08:08] [SPEAKER_04] la gente está en modo de pánico.
+[0:08:08 -> 0:08:11] [SPEAKER_04] La pérdida de aprendizaje,
+[0:08:11 -> 0:08:13] [SPEAKER_04] especialmente con las comunidades.
+[0:08:15 -> 0:08:17] [SPEAKER_04] Y nuestra próxima maestra,
+[0:08:17 -> 0:08:19] [SPEAKER_04] maestra de servicios es Hannah.
+[0:08:19 -> 0:08:20] [SPEAKER_04] Hannah es...
+[0:08:20 -> 0:08:23] [SPEAKER_04] Sí, soy maestra de la Ciudad de Nueva York.
+[0:08:23 -> 0:08:25] [SPEAKER_04] También trabaja en una clase.
+[0:08:25 -> 0:08:27] [SPEAKER_04] Los tres de ellos están en las clases de la ciudad de Nueva York,
+[0:08:27 -> 0:08:29] [SPEAKER_04] con niños con discapacidad.
+[0:08:29 -> 0:08:31] [SPEAKER_04] Algunos de los niños que tenemos aquí
+[0:08:31 -> 0:08:34] [SPEAKER_04] son de las clases que les recomiendan a los niños.
+[0:08:34 -> 0:08:36] [SPEAKER_04] Y otros maestros aquí,
+[0:08:36 -> 0:08:37] [SPEAKER_04] los programas,
+[0:08:37 -> 0:08:39] [SPEAKER_04] o los niños les dicen a los otros niños
+[0:08:39 -> 0:08:41] [SPEAKER_04] y ellos quieren enloquecer.
+[0:08:41 -> 0:08:43] [SPEAKER_04] Entonces tenemos a algunos niños que se quedaron,
+[0:08:43 -> 0:08:45] [SPEAKER_04] a algunos niños que se unieron.
+[0:08:45 -> 0:08:47] [SPEAKER_04] Hay una fluidez.
+[0:08:47 -> 0:08:49] [SPEAKER_04] Los maestros permanecen.
+[0:08:50 -> 0:08:52] [SPEAKER_04] Desde el principio hasta el final.
+[0:08:52 -> 0:08:55] [SPEAKER_04] Y luego todos los demás son estudiantes graduados
+[0:08:55 -> 0:08:57] [SPEAKER_04] de la escuela de maestros
+[0:08:57 -> 0:08:59] [SPEAKER_04] que están haciendo enseñanza a pleno tiempo.
+[0:08:59 -> 0:09:02] [SPEAKER_04] Casi enseñanza a pleno tiempo, algunos de ellos.
+[0:09:02 -> 0:09:04] [SPEAKER_04] También hacen enseñanza a pleno tiempo a algunos de ellos.
+[0:09:04 -> 0:09:08] [SPEAKER_04] Como Angela, Andrea y Cristina
+[0:09:08 -> 0:09:10] [SPEAKER_04] hacen enseñanza a pleno tiempo.
+[0:09:10 -> 0:09:12] [SPEAKER_04] Tres veces y media.
+[0:09:12 -> 0:09:14] [SPEAKER_04] Tres días y media.
+[0:09:14 -> 0:09:15] [SPEAKER_04] Durante el día y luego...
+[0:09:15 -> 0:09:16] [SPEAKER_04] Cuatro, realmente.
+[0:09:16 -> 0:09:19] [SPEAKER_04] Los dos de ellos en esta escuela.
+[0:09:19 -> 0:09:22] [SPEAKER_04] ¿Quieres decir algo sobre ti misma?
+[0:09:23 -> 0:09:24] [SPEAKER_00] Claro.
+[0:09:25 -> 0:09:26] [SPEAKER_00] Soy Cristina.
+[0:09:27 -> 0:09:28] [SPEAKER_00] Ahora mismo estoy enseñando a pleno tiempo
+[0:09:28 -> 0:09:31] [SPEAKER_00] a todos los niños en la clase de la cuarta clase de ICT.
+[0:09:33 -> 0:09:37] [SPEAKER_00] Y en mi último año de maestros en educación bilingüe.
+[0:09:38 -> 0:09:39] [SPEAKER_00] ¡Muchas gracias!
+[0:09:41 -> 0:09:42] [SPEAKER_00] ¿En el mar?
+[0:09:42 -> 0:09:44] [SPEAKER_04] Sí. Y no sé qué más.
+[0:09:45 -> 0:09:47] [SPEAKER_04] ¿Eres de origen? ¿Tus familias...?
+[0:09:47 -> 0:09:49] [SPEAKER_04] Mi familia es cubana.
+[0:09:49 -> 0:09:52] [SPEAKER_00] Creí en Washington, D.C.
+[0:09:52 -> 0:09:53] [SPEAKER_00] Mi familia es cubana.
+[0:09:55 -> 0:09:56] [SPEAKER_09] Soy Andrea.
+[0:09:57 -> 0:10:00] [SPEAKER_09] También estoy enseñando aquí en la clase
+[0:10:00 -> 0:10:03] [SPEAKER_09] de la cuarta clase de ICT.
+[0:10:04 -> 0:10:07] [SPEAKER_09] También estoy en mi clase de maestros.
+[0:10:08 -> 0:10:09] [SPEAKER_09] Cristina y Angela.
+[0:10:10 -> 0:10:11] [SPEAKER_09] Soy de Ecuador.
+[0:10:12 -> 0:10:14] [SPEAKER_09] Crecé en Ecuador.
+[0:10:16 -> 0:10:17] [SPEAKER_04] ¡Genial!
+[0:10:17 -> 0:10:18] [SPEAKER_04] Gracias, Andrea.
+[0:10:18 -> 0:10:19] [SPEAKER_04] ¡Muchas gracias!
+[0:10:19 -> 0:10:20] [SPEAKER_04] Y están trabajando...
+[0:10:21 -> 0:10:23] [SPEAKER_04] Están trabajando en la educación bilingüe
+[0:10:23 -> 0:10:25] [SPEAKER_04] y en la educación de los niños.
+[0:10:25 -> 0:10:28] [SPEAKER_04] En la educación bilingüe de los niños.
+[0:10:29 -> 0:10:31] [SPEAKER_04] ¿Están haciendo la extensión de la escuela de medio?
+[0:10:31 -> 0:10:32] [SPEAKER_04] ¿Alguien?
+[0:10:32 -> 0:10:33] [SPEAKER_04] No.
+[0:10:33 -> 0:10:34] [SPEAKER_04] Está ocupado.
+[0:10:34 -> 0:10:35] [SPEAKER_04] ¡Muchas gracias!
+[0:10:37 -> 0:10:38] [SPEAKER_06] ¿Tú eres doctor?
+[0:10:39 -> 0:10:40] [SPEAKER_06] No.
+[0:10:40 -> 0:10:41] [SPEAKER_06] ¿Tú eres doctor?
+[0:10:41 -> 0:10:43] [SPEAKER_04] Bueno, Belén es...
+[0:10:43 -> 0:10:44] [SPEAKER_04] Estoy en el EDM.
+[0:10:44 -> 0:10:45] [SPEAKER_04] EDM.
+[0:10:46 -> 0:10:47] [SPEAKER_04] Maestros de educación.
+[0:10:48 -> 0:10:50] [SPEAKER_04] En medio de los maestros y el trabajo de doctorado.
+[0:10:51 -> 0:10:53] [SPEAKER_04] Manuel está aplicando a programas de doctorado en este momento.
+[0:10:53 -> 0:10:54] [SPEAKER_04] Manuel es diferente.
+[0:10:54 -> 0:10:56] [SPEAKER_04] Él viene de un programa diferente.
+[0:10:56 -> 0:10:57] [SPEAKER_04] ¿El programa de psicología?
+[0:10:57 -> 0:10:59] [SPEAKER_05] Sí, el programa de psicología clínica.
+[0:11:01 -> 0:11:03] [SPEAKER_05] Pero sí, me pareció interesante venir a trabajar con los niños.
+[0:11:03 -> 0:11:06] [SPEAKER_05] Y ya que también quiero trabajar con los jóvenes hispanos,
+[0:11:06 -> 0:11:07] [SPEAKER_05] jóvenes, jóvenes, etc.
+[0:11:07 -> 0:11:08] [SPEAKER_05] con mi propio estudio,
+[0:11:08 -> 0:11:11] [SPEAKER_02] pensé que sería interesante venir a trabajar aquí.
+[0:11:11 -> 0:11:14] [SPEAKER_02] Y además de eso, soy de Puerto Rico.
+[0:11:15 -> 0:11:16] [SPEAKER_04] ¿De dónde eres?
+[0:11:16 -> 0:11:17] [SPEAKER_04] De Puerto Rico.
+[0:11:17 -> 0:11:18] [SPEAKER_04] Tenemos mucha diversidad aquí.
+[0:11:18 -> 0:11:21] [SPEAKER_04] Es una gran experiencia para todos estos países.
+[0:11:22 -> 0:11:25] [SPEAKER_04] Caribe, Latinoamérica, Europa.
+[0:11:25 -> 0:11:26] [SPEAKER_04] Es muy interesante.
+[0:11:26 -> 0:11:28] [None] Me encantó la respuesta de la maestra.
+[0:11:34 -> 0:11:35] [SPEAKER_04] Sí, el nivel de trabajo.
+[0:11:35 -> 0:11:36] [SPEAKER_04] Es muy radical.
+[0:11:37 -> 0:11:38] [SPEAKER_04] Sí, hacen mucha investigación.
+[0:11:39 -> 0:11:40] [SPEAKER_04] Es un trabajo muy teorético.
+[0:11:41 -> 0:11:43] [SPEAKER_04] Bueno, y Andrea estaba conmigo en el ARA.
+[0:11:43 -> 0:11:45] [SPEAKER_04] Tenemos un papel en el ARA.
+[0:11:45 -> 0:11:46] [SPEAKER_04] Todos fuimos a...
+[0:11:46 -> 0:11:49] [SPEAKER_04] Muchos de los maestros aquí fueron a Naisabe.
+[0:11:49 -> 0:11:53] [SPEAKER_04] Con Belén y yo tuvimos un papel juntos en Naisabe.
+[0:11:53 -> 0:11:55] [SPEAKER_04] Y terminamos el papel, pero tuvimos una presentación.
+[0:11:56 -> 0:11:57] [SPEAKER_04] Fue divertido, ¿no?
+[0:11:58 -> 0:11:59] [SPEAKER_04] La experiencia de Naisabe.
+[0:12:01 -> 0:12:02] [SPEAKER_04] Belén es de Chile.
+[0:12:04 -> 0:12:05] [SPEAKER_08] Sí, también estoy terminando...
+[0:12:07 -> 0:12:08] [SPEAKER_04] El ADM.
+[0:12:08 -> 0:12:10] [SPEAKER_04] Está terminando su proyecto de Inquil.
+[0:12:10 -> 0:12:11] [SPEAKER_04] Proyecto de IVP.
+[0:12:11 -> 0:12:13] [SPEAKER_04] Sí, estoy haciendo mi proyecto de...
+[0:12:13 -> 0:12:14] [SPEAKER_06] de las prácticas de cuerpo.
+[0:12:15 -> 0:12:16] [SPEAKER_06] De las prácticas de cuerpo.
+[0:12:19 -> 0:12:20] [SPEAKER_08] Y todo lo que...
+[0:12:20 -> 0:12:21] [SPEAKER_04] Todo lo que...
+[0:12:22 -> 0:12:25] [SPEAKER_04] Sí, trabaja como tecnólogo en un colegio de estudios.
+[0:12:25 -> 0:12:27] [SPEAKER_04] Así que tiene una experiencia en tecnología.
+[0:12:30 -> 0:12:32] [SPEAKER_04] Ambos su marido y su mujer son educadores.
+[0:12:32 -> 0:12:34] [SPEAKER_04] Así que nos gusta mucho tenerlos aquí.
+[0:12:39 -> 0:12:40] [SPEAKER_04] Él nos ayuda mucho.
+[0:12:40 -> 0:12:41] [SPEAKER_04] Mutualmente.
+[0:12:42 -> 0:12:43] [SPEAKER_04] Ángela, ¿quieres decirle hola?
+[0:12:44 -> 0:12:46] [None] Sí, o sea, nos escuchamos todos tus...
+[0:12:46 -> 0:12:47] [None] ...todos tus videos.
+[0:12:48 -> 0:12:50] [SPEAKER_07] Yo creo que los niños están mostrando.
+[0:12:52 -> 0:12:54] [SPEAKER_07] Sí, estoy en el mismo programa.
+[0:12:55 -> 0:12:57] [SPEAKER_07] Este semestre estoy en la escuela de Castlebridge.
+[0:12:58 -> 0:12:59] [SPEAKER_07] Porque ese lugar es...
+[0:13:01 -> 0:13:02] [SPEAKER_07] ...el lugar donde...
+[0:13:03 -> 0:13:05] [SPEAKER_07] Vi a uno de los profesores que trabajaba en Castlebridge.
+[0:13:05 -> 0:13:07] [SPEAKER_07] Y él trabaja extensivamente en esta escuela.
+[0:13:07 -> 0:13:09] [SPEAKER_07] Creo que se ha retirado de sus hijos.
+[0:13:11 -> 0:13:12] [SPEAKER_07] Es un hombre muy...
+[0:13:12 -> 0:13:17] [SPEAKER_07] Y me dijo que aprendieron a montar bicicletas en el salón de la escuela.
+[0:13:18 -> 0:13:19] [SPEAKER_06] ¿Es eso?
+[0:13:19 -> 0:13:22] [SPEAKER_06] El profesor se retiró recientemente después de estar aquí mucho tiempo.
+[0:13:22 -> 0:13:24] [SPEAKER_06] Sí, se retiró hace un año o dos.
+[0:13:24 -> 0:13:25] [SPEAKER_06] Sí, de Alebrook.
+[0:13:26 -> 0:13:28] [SPEAKER_06] Y ella realmente amaba los bicicletas.
+[0:13:28 -> 0:13:29] [SPEAKER_06] Así que ella compró bicicletas para todos.
+[0:13:29 -> 0:13:31] [SPEAKER_06] Y ellos compraron la calle en frente.
+[0:13:31 -> 0:13:32] [SPEAKER_06] Así que les enseñaron a todos.
+[0:13:33 -> 0:13:35] [SPEAKER_06] Ellos montan sus bicicletas en recesiones.
+[0:13:36 -> 0:13:37] [SPEAKER_07] Son bicicletas.
+[0:13:37 -> 0:13:38] [SPEAKER_07] He oído que en Castlebridge no...
+[0:13:39 -> 0:13:40] [SPEAKER_06] Sí, y se mueven cada semana.
+[0:13:40 -> 0:13:41] [SPEAKER_06] Cada semana.
+[0:13:41 -> 0:13:43] [SPEAKER_06] Sí, eso es lo que he oído de Brooklyn.
+[0:13:43 -> 0:13:44] [SPEAKER_06] Sí, hemos estado bailando.
+[0:13:44 -> 0:13:45] [SPEAKER_06] Y escalando.
+[0:13:47 -> 0:13:48] [SPEAKER_06] Es genial.
+[0:13:48 -> 0:13:54] [SPEAKER_07] Sí, y ha sido mucho aprender porque es un tipo de currículum diferente.
+[0:13:55 -> 0:13:58] [SPEAKER_07] Mucho de lo que hemos experimentado aquí.
+[0:13:59 -> 0:14:03] [SPEAKER_07] Y sí, ha sido muy interesante estar en ese contexto.
+[0:14:04 -> 0:14:05] [SPEAKER_04] Sí, en Castlebridge.
+[0:14:05 -> 0:14:07] [SPEAKER_04] Tú caminas desde Castlebridge.
+[0:14:07 -> 0:14:08] [SPEAKER_04] Es también cerca.
+[0:14:08 -> 0:14:09] [SPEAKER_04] Sí, es muy bueno.
+[0:14:09 -> 0:14:10] [SPEAKER_04] Es un camino de 15 minutos.
+[0:14:11 -> 0:14:12] [SPEAKER_04] Sí, sí, unos minutos.
+[0:14:12 -> 0:14:13] [SPEAKER_06] No, nunca lo he visitado.
+[0:14:13 -> 0:14:15] [SPEAKER_06] Solo he oído mucho de ella desde la escuela musical.
+[0:14:15 -> 0:14:17] [SPEAKER_06] Y sigo intentando visitarla.
+[0:14:17 -> 0:14:19] [SPEAKER_04] Sí, Angela sabe mucho sobre la comunidad.
+[0:14:19 -> 0:14:20] [SPEAKER_04] Ella fue una de las...
+[0:14:20 -> 0:14:23] [SPEAKER_07] Aparentemente, ellos hacían un poco de actitud y de trabajo de actitud.
+[0:14:23 -> 0:14:24] [SPEAKER_07] Sí, eso es lo que hicimos.
+[0:14:24 -> 0:14:25] [SPEAKER_07] Creo que hemos parado con la pandemia.
+[0:14:25 -> 0:14:27] [SPEAKER_07] Y hemos vuelto a eso de la pandemia.
+[0:14:27 -> 0:14:31] [SPEAKER_07] No sé, probablemente, si vieron las actividades y todo eso.
+[0:14:31 -> 0:14:33] [SPEAKER_02] No, porque tienen la comunidad cantando.
+[0:14:33 -> 0:14:36] [SPEAKER_02] Cada martes, todos se unen a cantar en el cafeterío.
+[0:14:36 -> 0:14:39] [SPEAKER_02] Como padres y familias, se unen a los niños.
+[0:14:39 -> 0:14:40] [SPEAKER_02] Todos se quedaron.
+[0:14:40 -> 0:14:42] [SPEAKER_02] El profesor de música tocó el teclado.
+[0:14:42 -> 0:14:44] [SPEAKER_02] Todos proyectaron las letras de las canciones.
+[0:14:44 -> 0:14:46] [SPEAKER_02] Algunos niños tocaban instrumentos.
+[0:14:46 -> 0:14:49] [SPEAKER_02] Y todos cantaban, como, K-5.
+[0:14:50 -> 0:14:51] [SPEAKER_02] Eso todavía sucede.
+[0:14:51 -> 0:14:52] [SPEAKER_02] Eso es lo que pasa.
+[0:14:52 -> 0:14:54] [SPEAKER_07] Pero creo que en la escuela de primero y secundario,
+[0:14:54 -> 0:14:56] [SPEAKER_07] ellos tenían actitud y actividad.
+[0:14:57 -> 0:14:59] [SPEAKER_02] Sí, yo estaba en el cuarto y quinto.
+[0:14:59 -> 0:15:01] [SPEAKER_07] Yo estaba en el cuarto y quinto de Castlebridge.
+[0:15:01 -> 0:15:03] [SPEAKER_07] Pero no lo veo más.
+[0:15:03 -> 0:15:07] [SPEAKER_02] Pero seguramente hay escuelas progresivas cerca.
+[0:15:07 -> 0:15:10] [SPEAKER_02] Y las escuelas bilingües son las más progresivas.
+[0:15:11 -> 0:15:14] [SPEAKER_04] Sí, las escuelas bilingües parecen ser más tradicionales.
+[0:15:14 -> 0:15:17] [SPEAKER_04] Creo que es la única escuela bilingüe que es progresiva.
+[0:15:19 -> 0:15:21] [SPEAKER_04] Julie estaba más en el lado progresivo.
+[0:15:23 -> 0:15:25] [SPEAKER_04] Pero el financiamiento, había mucho financiamiento para las escuelas bilingües.
+[0:15:25 -> 0:15:27] [SPEAKER_04] Entonces ella se abrió a las bilingües.
+[0:15:27 -> 0:15:29] [SPEAKER_02] Entonces ella vino de CP3.
+[0:15:29 -> 0:15:30] [SPEAKER_02] Sí, de Centro de Bailes.
+[0:15:30 -> 0:15:31] [SPEAKER_02] Sí, de Centro de Bailes.
+[0:15:31 -> 0:15:32] [SPEAKER_04] Esa es la escuela progresiva.
+[0:15:33 -> 0:15:34] [SPEAKER_04] Ella es genial.
+[0:15:34 -> 0:15:36] [SPEAKER_04] Ella presentó a la semana pasada.
+[0:15:36 -> 0:15:38] [SPEAKER_04] Este año la invitaron.
+[0:15:38 -> 0:15:40] [SPEAKER_04] Ella fue una de las presentadoras.
+[0:15:40 -> 0:15:42] [SPEAKER_04] El día antes de que fuéramos.
+[0:15:44 -> 0:15:45] [SPEAKER_04] ¿Y Joe?
+[0:15:45 -> 0:15:46] [SPEAKER_01] Hola, soy Joe.
+[0:15:46 -> 0:15:48] [SPEAKER_01] Soy de Massachusetts.
+[0:15:50 -> 0:15:51] [SPEAKER_01] El unicornio, ya sabes.
+[0:15:51 -> 0:15:52] [SPEAKER_01] Sí.
+[0:15:54 -> 0:15:57] [SPEAKER_01] Empecé a aprender español en el segundo grado.
+[0:15:58 -> 0:16:00] [SPEAKER_01] Y me detuvo a estudiar en la universidad.
+[0:16:00 -> 0:16:02] [SPEAKER_01] Pero ahora todo está de vuelta.
+[0:16:03 -> 0:16:06] [SPEAKER_01] Aprendí en Manchester, New Hampshire el año pasado.
+[0:16:06 -> 0:16:08] [SPEAKER_01] Como profesor de asistencia pública.
+[0:16:09 -> 0:16:11] [SPEAKER_01] Y fue un año muy divertido.
+[0:16:12 -> 0:16:13] [SPEAKER_01] Y luego el programa de artes escuelas.
+[0:16:13 -> 0:16:14] [SPEAKER_01] Terminé mi primer año.
+[0:16:15 -> 0:16:16] [SPEAKER_01] Y mi maestría.
+[0:16:20 -> 0:16:22] [SPEAKER_04] Me gusta experimentar con tecnología.
+[0:16:22 -> 0:16:23] [SPEAKER_04] Tecnología y arte.
+[0:16:23 -> 0:16:24] [SPEAKER_04] Sí.
+[0:16:24 -> 0:16:25] [SPEAKER_04] Es mi foco.
+[0:16:25 -> 0:16:26] [SPEAKER_04] Ha sido un gran asunto.
+[0:16:28 -> 0:16:29] [SPEAKER_07] ¿Todo el mundo te ama?
+[0:16:29 -> 0:16:30] [SPEAKER_01] No.
+[0:16:30 -> 0:16:31] [SPEAKER_01] Es mi favorito.
+[0:16:31 -> 0:16:34] [SPEAKER_01] ¿Fuiste hoy cuando dijimos que solo teníamos cuatro sesiones?
+[0:16:34 -> 0:16:35] [SPEAKER_01] Isabel me dijo.
+[0:16:35 -> 0:16:36] [SPEAKER_01] Sabía que estaba mejorando.
+[0:16:36 -> 0:16:37] [SPEAKER_01] Pero ella dijo,
+[0:16:37 -> 0:16:39] [SPEAKER_01] la única que voy a perder aquí es Joe.
+[0:16:41 -> 0:16:42] [SPEAKER_00] Ella dijo, estoy tan emocionada.
+[0:16:42 -> 0:16:43] [SPEAKER_00] En el quinto grado no te veo más.
+[0:16:43 -> 0:16:44] [SPEAKER_00] Y yo estaba, gracias por todo.
+[0:16:44 -> 0:16:45] [SPEAKER_00] Eso es tan bueno.
+[0:16:45 -> 0:16:46] [SPEAKER_00] Y ella dijo, lo sé.
+[0:16:46 -> 0:16:47] [SPEAKER_00] No, no, no.
+[0:16:47 -> 0:16:48] [SPEAKER_00] No lo sabes.
+[0:16:48 -> 0:16:49] [None] Sí, no lo sabes.
+[0:16:49 -> 0:16:50] [None] Cuando voy a volver.
+[0:16:52 -> 0:16:53] [SPEAKER_02] Te vas a ver tu maestra el próximo año.
+[0:16:54 -> 0:16:55] [SPEAKER_09] Me hace perder todo.
+[0:16:58 -> 0:17:00] [SPEAKER_04] Sí, muy interesante hoy.
+[0:17:00 -> 0:17:02] [SPEAKER_04] Sé que se siente un poco de presión, ¿verdad?
+[0:17:02 -> 0:17:04] [SPEAKER_04] Porque intentamos mover a los niños hacia adelante
+[0:17:04 -> 0:17:06] [SPEAKER_04] y necesitan mucho apoyo, creo.
+[0:17:06 -> 0:17:07] [SPEAKER_04] Casi uno a uno.
+[0:17:08 -> 0:17:10] [SPEAKER_04] Parte de eso es que están usando nuestros teléfonos.
+[0:17:11 -> 0:17:14] [SPEAKER_04] Y yo estaba usando el teléfono de Belén con Isabela
+[0:17:14 -> 0:17:17] [SPEAKER_04] y luego Belén se fue y el teléfono se mantuvo.
+[0:17:17 -> 0:17:19] [SPEAKER_04] Porque Isabela estaba, ya sabes,
+[0:17:19 -> 0:17:20] [SPEAKER_04] dejando el teléfono y todo eso.
+[0:17:20 -> 0:17:21] [SPEAKER_04] Así que se mantuvo cerrando.
+[0:17:21 -> 0:17:24] [SPEAKER_04] Así que estaba buscando a Belén por todo el lugar.
+[0:17:24 -> 0:17:26] [SPEAKER_04] Y luego me moví el teléfono demasiado
+[0:17:26 -> 0:17:27] [SPEAKER_04] y fue como llamar a la policía.
+[0:17:27 -> 0:17:28] [SPEAKER_04] Y yo, oh Dios mío.
+[0:17:30 -> 0:17:33] [SPEAKER_04] Debe de ser una alarma que tiene un estilo de abuso.
+[0:17:33 -> 0:17:34] [SPEAKER_02] Sí, creo que cinco veces.
+[0:17:36 -> 0:17:38] [SPEAKER_01] Puede que también sea el trípode,
+[0:17:38 -> 0:17:41] [SPEAKER_01] porque si mantienes el poder y el botón de volumen por mucho tiempo,
+[0:17:41 -> 0:17:44] [SPEAKER_01] como la manera en que se agarra y se acaba.
+[0:17:45 -> 0:17:47] [SPEAKER_08] Sí, y ella estaba intentando usarlo
+[0:17:47 -> 0:17:50] [SPEAKER_08] porque tienen control remoto.
+[0:17:50 -> 0:17:53] [SPEAKER_08] Así que ella espera mucho tiempo haciendo eso.
+[0:17:53 -> 0:17:56] [SPEAKER_08] En lugar de simplemente presionar con el dedo,
+[0:17:56 -> 0:17:58] [SPEAKER_08] ella quería usar el control remoto.
+[0:17:59 -> 0:18:01] [SPEAKER_08] Los trípodes vienen con los controles remotos.
+[0:18:01 -> 0:18:02] [SPEAKER_01] Porque puedes...
+[0:18:02 -> 0:18:03] [SPEAKER_00] Oh, sí.
+[0:18:03 -> 0:18:04] [SPEAKER_01] Sí.
+[0:18:04 -> 0:18:05] [SPEAKER_04] Sí.
+[0:18:05 -> 0:18:08] [SPEAKER_04] Puede ser una experiencia de aprendizaje en sí misma
+[0:18:08 -> 0:18:12] [SPEAKER_04] si tuvieramos el tiempo de explorar cómo usar estos remotes,
+[0:18:12 -> 0:18:14] [SPEAKER_04] porque todos los trípodes vienen con estos remotes.
+[0:18:14 -> 0:18:18] [SPEAKER_08] Sí, pero no estaba segura si la batería estaba funcionando
+[0:18:18 -> 0:18:20] [SPEAKER_08] o estaba bien posicionada.
+[0:18:20 -> 0:18:23] [SPEAKER_04] Aparentemente tenemos que descargar algo.
+[0:18:23 -> 0:18:26] [SPEAKER_08] Porque tiene un pequeño...
+[0:18:26 -> 0:18:28] [SPEAKER_08] Sí, puedes encenderlo.
+[0:18:28 -> 0:18:30] [SPEAKER_04] Pero con eso no funcionó.
+[0:18:30 -> 0:18:31] [SPEAKER_04] Creo que tienes que descargar...
+[0:18:31 -> 0:18:34] [SPEAKER_01] Sí, tienes que descargar una aplicación para conectarlo.
+[0:18:34 -> 0:18:36] [SPEAKER_07] Creo que tienes que descargar algo,
+[0:18:36 -> 0:18:38] [SPEAKER_07] pero también creo que funciona a través de Bluetooth.
+[0:18:38 -> 0:18:39] [SPEAKER_04] Sí.
+[0:18:39 -> 0:18:42] [SPEAKER_04] Así que podríamos tener que conectarlo a través de...
+[0:18:43 -> 0:18:44] [SPEAKER_07] Creo que se necesita...
+[0:18:44 -> 0:18:47] [SPEAKER_07] Lo hice a propósito la semana pasada.
+[0:18:48 -> 0:18:49] [SPEAKER_07] Porque yo solo...
+[0:18:49 -> 0:18:50] [SPEAKER_01] ¿Tienes el remoto?
+[0:18:50 -> 0:18:51] [SPEAKER_01] No, no, yo solo...
+[0:18:51 -> 0:18:52] [SPEAKER_01] No, porque...
+[0:18:53 -> 0:18:55] [SPEAKER_04] Isabela se enfocó en el remoto.
+[0:18:55 -> 0:18:57] [SPEAKER_04] Sí, se lo encontró en la caja.
+[0:18:57 -> 0:18:58] [SPEAKER_01] No lo dieron a ella.
+[0:18:58 -> 0:19:00] [SPEAKER_01] Se la encontró en la caja.
+[0:19:00 -> 0:19:03] [SPEAKER_04] Es este equilibrio de seguir lo que quieren
+[0:19:03 -> 0:19:06] [SPEAKER_04] pero al mismo tiempo tener un pequeño filme hecho
+[0:19:06 -> 0:19:10] [SPEAKER_04] porque queremos que tengan algo para mostrar a la familia
+[0:19:10 -> 0:19:11] [SPEAKER_04] cuando lleguen.
+[0:19:11 -> 0:19:12] [SPEAKER_04] Sí, en ese sentido...
+[0:19:13 -> 0:19:15] [SPEAKER_00] En ese sentido, lo hice.
+[0:19:15 -> 0:19:17] [SPEAKER_00] Pasé todo el tiempo con Keremi.
+[0:19:17 -> 0:19:20] [SPEAKER_00] No hicimos nada para la animación.
+[0:19:21 -> 0:19:24] [SPEAKER_00] Pero creo que fue valioso
+[0:19:24 -> 0:19:27] [SPEAKER_00] porque él estaba muy interesado en libros.
+[0:19:28 -> 0:19:31] [SPEAKER_00] Como, nunca había visto a este niño antes.
+[0:19:31 -> 0:19:34] [SPEAKER_00] Expresó tanto interés en libros antes.
+[0:19:35 -> 0:19:37] [SPEAKER_00] Él estaba intentando leer libros en inglés
+[0:19:37 -> 0:19:39] [SPEAKER_00] y me trajo a traducirlos.
+[0:19:39 -> 0:19:42] [SPEAKER_00] Así que leí en alto un libro que había sido escrito en inglés
+[0:19:42 -> 0:19:44] [SPEAKER_00] y estaba traduciendo en español.
+[0:19:44 -> 0:19:45] [SPEAKER_00] ¿En alemán?
+[0:19:45 -> 0:19:46] [SPEAKER_00] Sí.
+[0:19:46 -> 0:19:48] [SPEAKER_00] Le traigo un buen trabajo en traducirlo.
+[0:19:48 -> 0:19:50] [SPEAKER_00] Pero él me ayudó un poco.
+[0:19:50 -> 0:19:53] [SPEAKER_00] Y luego empezó a hablar sobre el espacio exterior
+[0:19:53 -> 0:19:54] [SPEAKER_00] y el sol.
+[0:19:54 -> 0:19:57] [SPEAKER_00] Y me decía que hay algo como un sol azul.
+[0:19:57 -> 0:19:59] [SPEAKER_00] Es como un mayor...
+[0:19:59 -> 0:20:00] [SPEAKER_00] Y así lo miramos.
+[0:20:00 -> 0:20:01] [SPEAKER_00] Es una cosa real.
+[0:20:01 -> 0:20:05] [SPEAKER_00] Hay estos super soles que son azules.
+[0:20:06 -> 0:20:07] [SPEAKER_00] Así que aprendimos de eso.
+[0:20:07 -> 0:20:08] [SPEAKER_00] Y luego leí...
+[0:20:08 -> 0:20:12] [SPEAKER_00] Él empezó a leerme uno de los libros de ciencia no-ficción
+[0:20:12 -> 0:20:14] [SPEAKER_00] sobre el sistema solar.
+[0:20:15 -> 0:20:16] [SPEAKER_00] Fue maravilloso.
+[0:20:16 -> 0:20:17] [SPEAKER_00] Nosotros...
+[0:20:17 -> 0:20:21] [SPEAKER_00] Nunca había visto a él sentarse y leer por tanto tiempo.
+[0:20:21 -> 0:20:22] [SPEAKER_00] Fue genial.
+[0:20:22 -> 0:20:23] [SPEAKER_02] Es posible que sea su libro.
+[0:20:23 -> 0:20:24] [SPEAKER_02] Sí.
+[0:20:24 -> 0:20:26] [SPEAKER_01] Podríamos hacer un gran sol azul.
+[0:20:26 -> 0:20:27] [SPEAKER_01] Un gran sol azul.
+[0:20:27 -> 0:20:28] [SPEAKER_04] Sí.
+[0:20:28 -> 0:20:31] [SPEAKER_04] Eso o fotografías de él leyendo.
+[0:20:31 -> 0:20:34] [SPEAKER_04] Y luego hacer un pequeño filme con sus fotografías leyendo.
+[0:20:34 -> 0:20:37] [SPEAKER_04] Podríamos ser creativos y hacer algo diferente.
+[0:20:38 -> 0:20:40] [SPEAKER_04] Sí, podríamos hacer el sol azul.
+[0:20:40 -> 0:20:41] [SPEAKER_04] Me gusta el sol azul.
+[0:20:41 -> 0:20:43] [SPEAKER_01] No quiero darles la idea, no importa lo que...
+[0:20:43 -> 0:20:45] [SPEAKER_07] En YouTube está buscando.
+[0:20:45 -> 0:20:47] [SPEAKER_07] Él ve muchos videos de YouTube.
+[0:20:47 -> 0:20:49] [SPEAKER_07] Sí, debe haberlos encontrado en YouTube.
+[0:20:49 -> 0:20:51] [SPEAKER_00] Yo estaba como, no lo sabía.
+[0:20:51 -> 0:20:52] [SPEAKER_00] Él era el...
+[0:20:52 -> 0:20:53] [SPEAKER_00] Él era como...
+[0:20:56 -> 0:20:57] [SPEAKER_04] Es interesante...
+[0:20:59 -> 0:21:01] [SPEAKER_04] Para él tenemos que encontrar cómo...
+[0:21:01 -> 0:21:03] [SPEAKER_04] para que tenga algo para mostrar al final.
+[0:21:03 -> 0:21:06] [SPEAKER_04] Pero no tiene que ser lo mismo que los demás.
+[0:21:06 -> 0:21:09] [SPEAKER_04] Y es genial que está leyendo libros en inglés.
+[0:21:09 -> 0:21:11] [SPEAKER_04] Él llegó recientemente a los países.
+[0:21:11 -> 0:21:12] [SPEAKER_04] Sí.
+[0:21:12 -> 0:21:13] [SPEAKER_04] No estaba leyendo...
+[0:21:13 -> 0:21:15] [SPEAKER_00] Él estaba leyendo español muy bien.
+[0:21:15 -> 0:21:16] [SPEAKER_00] No sabía leer inglés.
+[0:21:16 -> 0:21:19] [SPEAKER_00] Pero me pidió leer el inglés y lo tradujo para él.
+[0:21:20 -> 0:21:21] [SPEAKER_00] Incluso eso.
+[0:21:21 -> 0:21:24] [SPEAKER_00] ¿Pero él se veía leyendo con ti?
+[0:21:24 -> 0:21:27] [SPEAKER_01] Sí, y él identificó algunas palabras.
+[0:21:27 -> 0:21:29] [SPEAKER_00] Él podía encontrar a una maestra.
+[0:21:32 -> 0:21:34] [SPEAKER_00] Pero sí, pero fue muy...
+[0:21:34 -> 0:21:35] [SPEAKER_00] No sé, fue muy guay.
+[0:21:36 -> 0:21:38] [SPEAKER_00] Sí, sí, estar interesado en los libros.
+[0:21:38 -> 0:21:39] [SPEAKER_04] Sí, está interesado.
+[0:21:39 -> 0:21:40] [SPEAKER_04] Estaba muy interesado en los libros.
+[0:21:40 -> 0:21:42] [SPEAKER_04] Porque al principio vimos mucha reacción.
+[0:21:42 -> 0:21:43] [SPEAKER_04] Él tenía muchas preguntas para mí.
+[0:21:43 -> 0:21:44] [SPEAKER_00] Y yo estaba como, no, tenemos que verlas.
+[0:21:44 -> 0:21:46] [SPEAKER_00] Así que estamos viendo todas estas cosas.
+[0:21:46 -> 0:21:47] [SPEAKER_00] Y me estaba poniendo nerviosa.
+[0:21:47 -> 0:21:48] [SPEAKER_04] No sé.
+[0:21:48 -> 0:21:49] [SPEAKER_04] Es genial.
+[0:21:49 -> 0:21:50] [SPEAKER_04] Sí, así que estás aprendiendo juntos
+[0:21:50 -> 0:21:51] [SPEAKER_04] cómo capturar eso en el filme.
+[0:21:51 -> 0:21:53] [SPEAKER_04] Tal vez mañana puedas continuar.
+[0:21:53 -> 0:21:54] [SPEAKER_04] Sí.
+[0:21:54 -> 0:21:55] [SPEAKER_02] Focusándote en él.
+[0:21:55 -> 0:21:56] [SPEAKER_02] Es genial para él también.
+[0:21:56 -> 0:21:59] [SPEAKER_02] Porque me acuerdo que durante todo el día
+[0:21:59 -> 0:22:01] [SPEAKER_02] hay tantas veces que tienes que decir no.
+[0:22:01 -> 0:22:04] [SPEAKER_02] Porque él solo quiere ser y hacer.
+[0:22:04 -> 0:22:05] [SPEAKER_02] Sí.
+[0:22:05 -> 0:22:08] [SPEAKER_02] Y el medio en el que puedes hacer lo menos es ser y hacer.
+[0:22:08 -> 0:22:10] [SPEAKER_02] Así que debe haber sido bueno para él.
+[0:22:10 -> 0:22:11] [SPEAKER_02] ¿Podemos leer esto?
+[0:22:11 -> 0:22:12] [SPEAKER_02] Claro.
+[0:22:12 -> 0:22:13] [SPEAKER_02] ¿Podemos hacer esto?
+[0:22:13 -> 0:22:14] [SPEAKER_02] Sí.
+[0:22:14 -> 0:22:17] [SPEAKER_02] Pero también, todo sirve para un objetivo.
+[0:22:17 -> 0:22:20] [SPEAKER_02] No lo sabía, pero fue muy divertido.
+[0:22:20 -> 0:22:23] [SPEAKER_00] Sí, y por eso no quería...
+[0:22:23 -> 0:22:25] [SPEAKER_00] La idea cruzó mi mente.
+[0:22:25 -> 0:22:27] [SPEAKER_00] Hay algo más que debe hacer.
+[0:22:27 -> 0:22:30] [SPEAKER_00] Pero yo estaba como, este niño escucha todo el día.
+[0:22:30 -> 0:22:31] [SPEAKER_00] Y sé que en nuestro programa
+[0:22:31 -> 0:22:33] [SPEAKER_00] se pasa mucho tiempo escuchando
+[0:22:33 -> 0:22:35] [SPEAKER_00] no, tienes que hacer esto.
+[0:22:35 -> 0:22:36] [SPEAKER_00] No, no puedes hacer eso.
+[0:22:36 -> 0:22:37] [SPEAKER_00] Tienes que hacer esto.
+[0:22:37 -> 0:22:40] [SPEAKER_00] Ven aquí porque deberías estar aquí.
+[0:22:40 -> 0:22:43] [SPEAKER_00] Y así que yo estaba como, no quiero...
+[0:22:43 -> 0:22:45] [SPEAKER_00] No sé, es como que es un momento tan bonito
+[0:22:45 -> 0:22:46] [SPEAKER_00] en el que él muestra interés en algo
+[0:22:46 -> 0:22:48] [SPEAKER_00] que podemos explorar.
+[0:22:48 -> 0:22:50] [SPEAKER_00] Y no quería detenerlo.
+[0:22:50 -> 0:22:52] [SPEAKER_00] Fue genial que siguiste esa línea de interés.
+[0:22:52 -> 0:22:53] [SPEAKER_00] Sí.
+[0:22:53 -> 0:22:54] [SPEAKER_00] Lo que yo hice fue lo que hice.
+[0:22:54 -> 0:22:55] [SPEAKER_02] Gracias.
+[0:22:55 -> 0:22:56] [SPEAKER_00] Fue muy divertido.
+[0:22:56 -> 0:22:58] [SPEAKER_02] Así que, pero también gracias chicos,
+[0:22:58 -> 0:23:00] [SPEAKER_00] porque también siento que...
+[0:23:00 -> 0:23:03] [SPEAKER_00] Sí, te vi y quería tomar un foto con ti.
+[0:23:04 -> 0:23:06] [SPEAKER_08] ¿No sabías que los otros que te vi
+[0:23:06 -> 0:23:09] [SPEAKER_08] y los dos de vosotros estaban tan interesados
+[0:23:09 -> 0:23:11] [SPEAKER_08] en un pequeño mundo?
+[0:23:11 -> 0:23:12] [SPEAKER_08] Y fue como, ok.
+[0:23:12 -> 0:23:18] [SPEAKER_08] Pero eso solo puede suceder cuando no hay crisis.
+[0:23:18 -> 0:23:20] [SPEAKER_00] Cuando se toma...
+[0:23:20 -> 0:23:22] [SPEAKER_00] La división de trabajo, ¿verdad?
+[0:23:22 -> 0:23:24] [SPEAKER_00] Cuando se toma cuidado de los demás hijos
+[0:23:24 -> 0:23:25] [SPEAKER_00] y ayudan a los demás.
+[0:23:25 -> 0:23:26] [SPEAKER_04] Puede suceder el martes.
+[0:23:26 -> 0:23:27] [SPEAKER_04] Puede suceder el martes.
+[0:23:27 -> 0:23:29] [SPEAKER_04] Y no es que sea un día muy difícil.
+[0:23:30 -> 0:23:31] [SPEAKER_04] No, fue espontáneo.
+[0:23:31 -> 0:23:35] [SPEAKER_04] Viene de él y te invita a la aventura.
+[0:23:35 -> 0:23:37] [SPEAKER_02] Tengo un recordador de voz normal.
+[0:23:37 -> 0:23:38] [SPEAKER_02] Lo estoy leyendo.
+[0:23:38 -> 0:23:39] [SPEAKER_02] ¡Guau!
+[0:23:39 -> 0:23:40] [SPEAKER_02] Sí, lo agregaré.
+[0:23:42 -> 0:23:45] [SPEAKER_00] Tengo que usar los recorderes crocodiles.
+[0:23:47 -> 0:23:48] [SPEAKER_00] Lo tengo en mi casa.
+[0:23:48 -> 0:23:49] [SPEAKER_00] Lo recuerdo.
+[0:23:49 -> 0:23:50] [SPEAKER_00] Lo tengo en mi casa.
+[0:23:50 -> 0:23:51] [SPEAKER_00] Lo recuerdo.
+[0:23:51 -> 0:23:52] [SPEAKER_01] Lo tengo en mi casa.
+[0:23:52 -> 0:23:53] [SPEAKER_01] Lo recuerdo.
+[0:23:53 -> 0:23:54] [SPEAKER_01] Lo recuerdo.
+[0:23:54 -> 0:23:55] [SPEAKER_01] Lo recuerdo.
+[0:23:55 -> 0:23:56] [SPEAKER_01] Lo recuerdo.
+[0:23:56 -> 0:23:57] [SPEAKER_04] Lo recuerdo.
+[0:23:57 -> 0:23:58] [SPEAKER_04] Lo recuerdo.
+[0:23:59 -> 0:24:05] [SPEAKER_04] Quería pensar un poco sobre la literatura.
+[0:24:05 -> 0:24:10] [SPEAKER_04] ¿Qué significa ser literario en este contexto que estamos trabajando?
+[0:24:10 -> 0:24:12] [SPEAKER_04] ¿Qué necesitamos saber?
+[0:24:12 -> 0:24:15] [SPEAKER_04] ¿Cuál es el sentido de hacer y el proceso que seguimos
+[0:24:15 -> 0:24:19] [SPEAKER_04] para expresar algo a través de este modo que estamos haciendo?
+[0:24:19 -> 0:24:21] [SPEAKER_04] Leímos algo...
+[0:24:21 -> 0:24:23] [SPEAKER_04] Los profesores no estaban ahí,
+[0:24:23 -> 0:24:25] [SPEAKER_04] pero el viernes leímos un artículo
+[0:24:25 -> 0:24:32] [SPEAKER_04] que se enfocaba en la transmediación.
+[0:24:32 -> 0:24:35] [SPEAKER_04] Usan un término diferente de Chris,
+[0:24:35 -> 0:24:38] [SPEAKER_04] pero básicamente la transmediación,
+[0:24:38 -> 0:24:40] [SPEAKER_04] moviendo de modo a modo,
+[0:24:40 -> 0:24:43] [SPEAKER_04] con un significado similar,
+[0:24:43 -> 0:24:46] [SPEAKER_04] pero desde la tabla de historia que dibujaron y escribieron
+[0:24:46 -> 0:24:48] [SPEAKER_04] y las ideas que tienen en sus mentes,
+[0:24:48 -> 0:24:52] [SPEAKER_04] también basadas en su experiencia anterior con la versión de la película,
+[0:24:52 -> 0:24:54] [SPEAKER_04] a ahora crear este 3D.
+[0:24:54 -> 0:24:59] [SPEAKER_04] No sé si tienes alguna idea de lo que significa ser literario en este contexto
+[0:24:59 -> 0:25:01] [SPEAKER_04] y también de ese proceso de transmediación.
+[0:25:01 -> 0:25:04] [SPEAKER_01] No tanto el proceso de transmediación,
+[0:25:04 -> 0:25:08] [SPEAKER_01] pero como para usar la cámara hoy,
+[0:25:08 -> 0:25:11] [SPEAKER_01] Isabel estaba ayudando mucho con la asistencia
+[0:25:11 -> 0:25:13] [SPEAKER_01] y haciendo este proyecto.
+[0:25:13 -> 0:25:17] [SPEAKER_01] Le estaba pidiendo que le expliquese por qué seguía moviendo la cámara.
+[0:25:17 -> 0:25:22] [SPEAKER_01] Como, ok, ¿por qué estamos mirando abajo ahora?
+[0:25:22 -> 0:25:24] [SPEAKER_01] Y ella lo explicó en términos de,
+[0:25:24 -> 0:25:26] [SPEAKER_01] bueno, eso es lo que quiero que veas.
+[0:25:26 -> 0:25:30] [SPEAKER_01] Y siento que, no sé, parece un ejemplo simple,
+[0:25:30 -> 0:25:35] [SPEAKER_01] pero está hablando de la lengua de movimiento de la cámara,
+[0:25:35 -> 0:25:39] [SPEAKER_01] como literatura de cómo operar una cámara
+[0:25:39 -> 0:25:43] [SPEAKER_01] y entender lo que está intentado por algo
+[0:25:43 -> 0:25:45] [SPEAKER_01] cuando la cámara se mueve en el escenario.
+[0:25:45 -> 0:25:47] [SPEAKER_01] Estás tratando de ponerle un punto a algo más.
+[0:25:47 -> 0:25:51] [SPEAKER_04] Sí, creo que queremos que ella se cuente esta historia
+[0:25:51 -> 0:25:54] [SPEAKER_04] moviendo las piezas de cera, ¿no?
+[0:25:54 -> 0:25:56] [SPEAKER_04] Crear esta historia de esa manera.
+[0:25:56 -> 0:25:58] [SPEAKER_04] Ella quiere contar esta historia con la cámara,
+[0:25:58 -> 0:26:00] [SPEAKER_04] como moviendo la cámara alrededor.
+[0:26:00 -> 0:26:03] [SPEAKER_04] Entonces hay una tensión ahí, porque estaba tratando de decirle
+[0:26:03 -> 0:26:08] [SPEAKER_04] que no movamos la cámara, porque el punto del trípode
+[0:26:08 -> 0:26:11] [SPEAKER_04] es para que la cámara esté silenciada y tú muevas el resto.
+[0:26:11 -> 0:26:14] [SPEAKER_04] Pero ella había colgado sus piezas.
+[0:26:14 -> 0:26:16] [SPEAKER_04] Entonces en un momento nos dijimos, ok, ahora
+[0:26:16 -> 0:26:19] [SPEAKER_04] hagamos esta historia a través del movimiento de las piezas.
+[0:26:20 -> 0:26:24] [SPEAKER_04] Pero ella dijo, no puedo mover nada porque es todo en azul.
+[0:26:24 -> 0:26:27] [SPEAKER_04] Entonces dije, bueno, vamos a deshacer algunos de estos.
+[0:26:27 -> 0:26:30] [SPEAKER_04] En realidad, se retiró la bola y se movía,
+[0:26:30 -> 0:26:33] [SPEAKER_04] pero no quería ver sus dedos allí,
+[0:26:33 -> 0:26:35] [SPEAKER_04] así que había mucho aprendizaje.
+[0:26:35 -> 0:26:39] [SPEAKER_04] Entonces, en realidad, usé mi lápiz, lo colgué en la bola
+[0:26:39 -> 0:26:41] [SPEAKER_04] y ella estaba capturando de esta manera.
+[0:26:41 -> 0:26:43] [SPEAKER_04] Y la capturó de esta manera, pero luego regresó a...
+[0:26:43 -> 0:26:46] [SPEAKER_04] Ok, ahora quiero que este personaje diga hola.
+[0:26:46 -> 0:26:49] [SPEAKER_04] Ella escribió hola y luego se movió la cámara para capturar el hola.
+[0:26:49 -> 0:26:52] [SPEAKER_01] La última vez que la escribió, la primera vez que la grabamos,
+[0:26:52 -> 0:26:56] [SPEAKER_01] escribió algún mensaje final, como...
+[0:26:56 -> 0:26:59] [SPEAKER_01] No sé, como si fuera todo un...
+[0:26:59 -> 0:27:03] [SPEAKER_01] una frase final y la trajo a la cámara como un mensaje final.
+[0:27:03 -> 0:27:05] [SPEAKER_02] ¿Ya terminó?
+[0:27:05 -> 0:27:07] [SPEAKER_01] Este fue el otro, no, meses atrás.
+[0:27:07 -> 0:27:09] [SPEAKER_01] No creo que haya terminado con este.
+[0:27:09 -> 0:27:11] [SPEAKER_04] Tenemos un film.
+[0:27:11 -> 0:27:13] [SPEAKER_04] Tenemos un film con la bola.
+[0:27:13 -> 0:27:15] [SPEAKER_03] Podemos pasarlo.
+[0:27:15 -> 0:27:19] [SPEAKER_02] He visto estos videos en TikTok de alguien que graba una pintura,
+[0:27:19 -> 0:27:22] [SPEAKER_02] una pintura clásica, y hace un diálogo divertido.
+[0:27:22 -> 0:27:26] [SPEAKER_02] Y el movimiento se centra en cada personaje en la pintura,
+[0:27:26 -> 0:27:28] [SPEAKER_02] zoomando fuera y adentro.
+[0:27:28 -> 0:27:30] [SPEAKER_02] Así que tal vez tiene un sentimiento.
+[0:27:30 -> 0:27:34] [SPEAKER_02] Puede poner voces y estar concentrado y mover la cámara.
+[0:27:34 -> 0:27:36] [SPEAKER_00] Tal vez esa es su visión.
+[0:27:36 -> 0:27:38] [SPEAKER_02] Así que es como, hola, y luego ves a alguien,
+[0:27:38 -> 0:27:40] [SPEAKER_02] como si el perro en el corno estaba hablando.
+[0:27:40 -> 0:27:42] [SPEAKER_02] Y luego puedes ir a...
+[0:27:42 -> 0:27:44] [SPEAKER_02] Y luego puedes ir a...
+[0:27:46 -> 0:27:48] [SPEAKER_01] Y ese movimiento de la cámara es como su propio...
+[0:27:48 -> 0:27:51] [SPEAKER_01] parte del idioma del film.
+[0:27:51 -> 0:27:54] [SPEAKER_01] No nos enseñamos o nos presentamos,
+[0:27:54 -> 0:27:57] [SPEAKER_01] pero descubrimos eso por nosotros mismos.
+[0:27:57 -> 0:28:00] [SPEAKER_07] Está en TikTok todo el tiempo, estoy segura.
+[0:28:00 -> 0:28:02] [SPEAKER_07] Y recuerdo el primer proyecto que hizo.
+[0:28:02 -> 0:28:05] [SPEAKER_07] Fue muy a la guardia de mamá, diría yo.
+[0:28:05 -> 0:28:07] [SPEAKER_01] Sí, ponía su mesa, como...
+[0:28:07 -> 0:28:11] [SPEAKER_01] No sé si viste el set de plexiglas que tenemos en el museo de las heridas hoy,
+[0:28:11 -> 0:28:13] [SPEAKER_01] y se metió la cabeza en el.
+[0:28:13 -> 0:28:15] [SPEAKER_01] Y hoy, de nuevo, ella estaba como,
+[0:28:15 -> 0:28:17] [SPEAKER_00] bien, ¿cuál es el final de esto?
+[0:28:17 -> 0:28:19] [SPEAKER_01] Y Isis estaba como, bien,
+[0:28:19 -> 0:28:21] [SPEAKER_01] y no le gustó la foto, así que después la hicieron.
+[0:28:21 -> 0:28:23] [SPEAKER_07] Ella rompió la cuarta pared,
+[0:28:23 -> 0:28:25] [SPEAKER_07] que es muy no tradicional,
+[0:28:25 -> 0:28:27] [SPEAKER_01] pero es muy...
+[0:28:27 -> 0:28:29] [SPEAKER_01] Es muy avant-garde.
+[0:28:29 -> 0:28:33] [SPEAKER_01] La cuarta pared es cuando se trata del filmista en el filme.
+[0:28:33 -> 0:28:35] [SPEAKER_07] Cuando se trata del audiencia.
+[0:28:35 -> 0:28:40] [SPEAKER_05] Cuando un personaje se trata del audiencia en un filme,
+[0:28:40 -> 0:28:42] [SPEAKER_05] es como romper la cuarta pared.
+[0:28:42 -> 0:28:44] [SPEAKER_01] Si has visto Deadpool.
+[0:28:44 -> 0:28:46] [SPEAKER_01] Sí, todo el tiempo.
+[0:28:46 -> 0:28:48] [SPEAKER_04] Los niños...
+[0:28:48 -> 0:28:50] [SPEAKER_04] Sí, pero esto es su...
+[0:28:50 -> 0:28:52] [SPEAKER_04] Ellos han visto esto, esta es su experiencia,
+[0:28:52 -> 0:28:54] [SPEAKER_04] ellos han visto esto en los películas.
+[0:28:54 -> 0:28:56] [SPEAKER_01] Y tienen esa lengua.
+[0:28:56 -> 0:29:00] [SPEAKER_01] Otra idea sobre los ejemplos de letra de hoy.
+[0:29:00 -> 0:29:04] [SPEAKER_01] Como en cuanto a manipular el clay.
+[0:29:06 -> 0:29:08] [SPEAKER_06] ¿Cómo lo hago?
+[0:29:08 -> 0:29:10] [SPEAKER_01] Me estoy equivocando.
+[0:29:10 -> 0:29:12] [SPEAKER_00] Lo siento.
+[0:29:12 -> 0:29:16] [SPEAKER_01] Cuando Aliyah manipulaba el clay en su historia,
+[0:29:16 -> 0:29:18] [SPEAKER_01] alguien estaba comiendo cake.
+[0:29:18 -> 0:29:20] [SPEAKER_01] Y la vi muy...
+[0:29:20 -> 0:29:22] [SPEAKER_01] en particular, tomando un pedazo de la...
+[0:29:22 -> 0:29:24] [SPEAKER_01] de la bolsa de clay que era el cake,
+[0:29:24 -> 0:29:26] [SPEAKER_01] porque alguien tenía una pizca,
+[0:29:26 -> 0:29:28] [SPEAKER_01] y lo estaba poniendo en la cara de la gente,
+[0:29:28 -> 0:29:30] [SPEAKER_01] mientras lo comían.
+[0:29:30 -> 0:29:32] [SPEAKER_01] Y...
+[0:29:32 -> 0:29:34] [SPEAKER_01] No sé.
+[0:29:34 -> 0:29:36] [SPEAKER_01] Pensé que era un buen ejemplo de la minucia,
+[0:29:36 -> 0:29:38] [SPEAKER_01] de los detalles que se manipulan
+[0:29:38 -> 0:29:40] [SPEAKER_01] para contar una historia.
+[0:29:40 -> 0:29:42] [SPEAKER_01] Aunque, en la verdad,
+[0:29:42 -> 0:29:44] [SPEAKER_01] en las fotos no puedes decirlo.
+[0:29:44 -> 0:29:46] [SPEAKER_01] Hay un pequeño pedazo que se le ha tomado,
+[0:29:46 -> 0:29:48] [SPEAKER_01] pero le importaba a ella hacer eso
+[0:29:48 -> 0:29:50] [SPEAKER_01] como parte de la historia.
+[0:29:50 -> 0:29:52] [SPEAKER_04] Sí, a veces no se captura
+[0:29:52 -> 0:29:54] [SPEAKER_04] con la tecnología que tenemos, ¿verdad?
+[0:29:54 -> 0:29:56] [SPEAKER_04] El mensaje que queremos comunicar.
+[0:29:56 -> 0:29:58] [SPEAKER_04] No creo que pueda leer el libro que Isabela escribió,
+[0:29:58 -> 0:30:00] [SPEAKER_04] aunque ella tomó la cámara y...
+[0:30:00 -> 0:30:02] [SPEAKER_04] El foco, quizás.
+[0:30:02 -> 0:30:04] [SPEAKER_04] Porque está en verde, está en cartón,
+[0:30:04 -> 0:30:06] [SPEAKER_04] y no creo que pueda verlo.
+[0:30:06 -> 0:30:08] [SPEAKER_01] Pero si tuvieras un largo
+[0:30:08 -> 0:30:10] [SPEAKER_01] serie de lecciones sobre esto,
+[0:30:10 -> 0:30:12] [SPEAKER_01] ellos verían sus animaciones
+[0:30:12 -> 0:30:14] [SPEAKER_01] y luego dirían, ok, la próxima vez
+[0:30:14 -> 0:30:16] [SPEAKER_01] necesito asegurarme de que esté en foco
+[0:30:16 -> 0:30:18] [SPEAKER_01] y en el cuadro cuando tenga un libro.
+[0:30:18 -> 0:30:20] [SPEAKER_04] Sí.
+[0:30:20 -> 0:30:22] [SPEAKER_04] Es un proceso de aprendizaje.
+[0:30:22 -> 0:30:24] [SPEAKER_04] Lo siento, Cristina.
+[0:30:24 -> 0:30:26] [SPEAKER_00] André me estaba diciendo que
+[0:30:26 -> 0:30:28] [SPEAKER_00] también me hacía decir
+[0:30:28 -> 0:30:30] [SPEAKER_00] algunas cosas a ella
+[0:30:30 -> 0:30:32] [SPEAKER_00] sobre las cosas que están sucediendo en casa.
+[0:30:32 -> 0:30:34] [SPEAKER_00] Cuando estábamos comiendo
+[0:30:34 -> 0:30:36] [SPEAKER_09] en el snack downstairs,
+[0:30:36 -> 0:30:38] [SPEAKER_09] él estaba muy triste
+[0:30:38 -> 0:30:40] [SPEAKER_09] y me dijo que algo había pasado en mi casa.
+[0:30:40 -> 0:30:42] [SPEAKER_09] Y luego él compartió
+[0:30:42 -> 0:30:44] [SPEAKER_09] que estaba feliz de haber
+[0:30:44 -> 0:30:46] [SPEAKER_09] tenido una atención una a una.
+[0:30:46 -> 0:30:48] [SPEAKER_09] Él dijo que la mamá y el papá
+[0:30:48 -> 0:30:50] [SPEAKER_09] estaban peleando y
+[0:30:50 -> 0:30:52] [SPEAKER_09] el papá estaba golpeando a la mamá.
+[0:30:52 -> 0:30:54] [SPEAKER_09] Y luego ella estaba tratando de defenderse
+[0:30:54 -> 0:30:56] [SPEAKER_09] y tomó algo con la sangre
+[0:30:56 -> 0:30:58] [SPEAKER_09] y lo golpeó. Y ahora no puede caminar.
+[0:30:58 -> 0:31:00] [SPEAKER_09] Él dijo algo como,
+[0:31:00 -> 0:31:02] [SPEAKER_09] ¿Por qué no lo estimó?
+[0:31:02 -> 0:31:04] [SPEAKER_09] Y ella dijo que
+[0:31:04 -> 0:31:06] [SPEAKER_09] estaba sintiéndose muy...
+[0:31:06 -> 0:31:08] [SPEAKER_09] No, ella dijo que
+[0:31:08 -> 0:31:10] [SPEAKER_09] golpeó a él en la espalda.
+[0:31:10 -> 0:31:12] [SPEAKER_09] Porque se sentía
+[0:31:12 -> 0:31:14] [SPEAKER_09] como...
+[0:31:14 -> 0:31:16] [SPEAKER_09] No, no, no, no.
+[0:31:16 -> 0:31:18] [SPEAKER_09] Como en la espalda.
+[0:31:18 -> 0:31:20] [SPEAKER_09] Pero ahora, ella dijo que
+[0:31:20 -> 0:31:22] [SPEAKER_09] fue en la espalda.
+[0:31:22 -> 0:31:24] [SPEAKER_04] No es el papá.
+[0:31:24 -> 0:31:26] [SPEAKER_09] No, creo que es el...
+[0:31:26 -> 0:31:28] [SPEAKER_09] No, creo que es el padre de la mujer.
+[0:31:28 -> 0:31:30] [SPEAKER_09] Sí, y...
+[0:31:30 -> 0:31:32] [SPEAKER_09] o el padre, o lo que sea.
+[0:31:32 -> 0:31:34] [SPEAKER_09] Y él dijo que estaba asustado
+[0:31:34 -> 0:31:36] [SPEAKER_09] y que
+[0:31:36 -> 0:31:38] [SPEAKER_09] lo que hizo fue preguntarle
+[0:31:38 -> 0:31:40] [SPEAKER_09] si él estaba bien
+[0:31:40 -> 0:31:42] [SPEAKER_09] y que él estaba muy triste.
+[0:31:42 -> 0:31:44] [SPEAKER_09] Y luego sus ojos...
+[0:31:44 -> 0:31:46] [SPEAKER_09] Era como que
+[0:31:46 -> 0:31:48] [SPEAKER_09] él iba a llorar y me abrazó
+[0:31:48 -> 0:31:50] [SPEAKER_09] y yo lo abrazé y luego
+[0:31:50 -> 0:31:52] [SPEAKER_09] él rempartió su cosa y nos fuimos a la escala.
+[0:31:52 -> 0:31:54] [SPEAKER_09] Pero estoy contenta de que...
+[0:31:54 -> 0:31:56] [SPEAKER_09] Eso fue en el principio.
+[0:31:56 -> 0:31:58] [SPEAKER_09] Sí, él...
+[0:31:58 -> 0:32:00] [SPEAKER_09] Cuando estábamos esperando porque él todavía tenía comida,
+[0:32:00 -> 0:32:02] [SPEAKER_09] él simplemente
+[0:32:02 -> 0:32:04] [SPEAKER_09] trajo la información.
+[0:32:04 -> 0:32:06] [SPEAKER_09] Me sentí como que
+[0:32:06 -> 0:32:08] [SPEAKER_09] él solo tenía que decirle a alguien.
+[0:32:08 -> 0:32:10] [SPEAKER_09] Y como nadie más estaba en la mesa,
+[0:32:10 -> 0:32:12] [SPEAKER_09] me sentí como que él solo lo encontró.
+[0:32:12 -> 0:32:14] [SPEAKER_09] Y él estaba listo para continuar.
+[0:32:14 -> 0:32:16] [SPEAKER_04] Estoy contenta de que él tuviera ese tiempo
+[0:32:16 -> 0:32:18] [SPEAKER_04] con Cristina.
+[0:32:18 -> 0:32:20] [SPEAKER_02] Sí, de esos reporteros mandados.
+[0:32:20 -> 0:32:22] [SPEAKER_02] Sí, yo también.
+[0:32:22 -> 0:32:24] [SPEAKER_02] Porque
+[0:32:24 -> 0:32:26] [SPEAKER_02] yo siento que una vez que
+[0:32:26 -> 0:32:28] [SPEAKER_02] tienes esa información,
+[0:32:28 -> 0:32:30] [SPEAKER_02] como...
+[0:32:30 -> 0:32:32] [SPEAKER_02] ¿Qué haces con ella?
+[0:32:32 -> 0:32:34] [SPEAKER_02] Voy a enviar un e-mail.
+[0:32:34 -> 0:32:36] [SPEAKER_02] Creo que es algo que deberíamos seguir.
+[0:32:36 -> 0:32:38] [SPEAKER_02] Y luego tener una conversación con Corpino.
+[0:32:38 -> 0:32:40] [SPEAKER_11] Sí.
+[0:32:40 -> 0:32:42] [SPEAKER_11] Yo simplemente voy a enviar un e-mail
+[0:32:42 -> 0:32:44] [SPEAKER_11] hoy, esta noche
+[0:32:44 -> 0:32:46] [SPEAKER_11] y luego voy a parar por ahí.
+[0:32:46 -> 0:32:48] [SPEAKER_04] Hacer que él esté seguro.
+[0:32:48 -> 0:32:50] [SPEAKER_04] Sí.
+[0:32:50 -> 0:32:52] [SPEAKER_04] No sé si nadie más estaba involucrado, pero si están enojando a uno al otro...
+[0:32:52 -> 0:32:54] [SPEAKER_04] Porque su historia es como
+[0:32:54 -> 0:32:56] [SPEAKER_02] si su mamá ya hubiera salido de una relación así
+[0:32:56 -> 0:32:58] [SPEAKER_02] y él era el que
+[0:32:58 -> 0:33:00] [SPEAKER_02] iba a ayudarla.
+[0:33:00 -> 0:33:02] [SPEAKER_11] Sí.
+[0:33:02 -> 0:33:04] [SPEAKER_09] Pero es...
+[0:33:04 -> 0:33:06] [SPEAKER_09] Es muy interesante para mí
+[0:33:06 -> 0:33:08] [SPEAKER_09] que al principio
+[0:33:08 -> 0:33:10] [SPEAKER_09] recuerdo que él decía
+[0:33:10 -> 0:33:12] [SPEAKER_09] que no era mi padre y ahora
+[0:33:12 -> 0:33:14] [SPEAKER_09] él es mi padre
+[0:33:14 -> 0:33:16] [SPEAKER_09] y él estaba enojado con él.
+[0:33:16 -> 0:33:18] [SPEAKER_09] Él me dijo
+[0:33:18 -> 0:33:20] [SPEAKER_09] que lo que hice fue preguntarle si él estaba bien.
+[0:33:20 -> 0:33:22] [SPEAKER_09] Y yo dije que sí.
+[0:33:22 -> 0:33:24] [SPEAKER_04] ¡Guau!
+[0:33:24 -> 0:33:26] [SPEAKER_04] Entonces él se acercó a él.
+[0:33:26 -> 0:33:28] [SPEAKER_09] No sé si se acercó a él, pero él estaba preocupado.
+[0:33:28 -> 0:33:30] [SPEAKER_07] Cuando ese hombre
+[0:33:30 -> 0:33:32] [SPEAKER_07] viene a recogerlo,
+[0:33:32 -> 0:33:34] [SPEAKER_07] sí, se acerca.
+[0:33:34 -> 0:33:36] [SPEAKER_04] No hace eso más porque su padre está enojado.
+[0:33:36 -> 0:33:38] [SPEAKER_04] Sí.
+[0:33:38 -> 0:33:40] [SPEAKER_04] Él fue el que vino a una
+[0:33:40 -> 0:33:42] [SPEAKER_05] sesión.
+[0:33:42 -> 0:33:44] [None] Sí, recuerdo.
+[0:33:44 -> 0:33:46] [SPEAKER_07] Nos hemos conocido un par de veces.
+[0:33:46 -> 0:33:48] [SPEAKER_00] Sí, es cierto.
+[0:33:48 -> 0:33:50] [SPEAKER_00] Pero sí, él vino a las sesiones
+[0:33:50 -> 0:33:52] [SPEAKER_00] cuando invitaron a sus padres.
+[0:33:52 -> 0:33:54] [SPEAKER_04] Sí, sí, sí. Él estaba aquí.
+[0:33:54 -> 0:33:56] [SPEAKER_04] Pero, ¿sabes? Hay mucho estrés
+[0:33:56 -> 0:33:58] [SPEAKER_04] en las familias que
+[0:33:58 -> 0:34:00] [SPEAKER_04] han llegado a los Estados Unidos,
+[0:34:00 -> 0:34:02] [SPEAKER_04] no tienen un hogar estable,
+[0:34:02 -> 0:34:04] [SPEAKER_04] así que esto crea la falta de apoyo.
+[0:34:04 -> 0:34:06] [SPEAKER_04] No tienen recursos.
+[0:34:06 -> 0:34:08] [SPEAKER_04] Esto va a crear situaciones en casa.
+[0:34:08 -> 0:34:10] [SPEAKER_04] Así que es bueno para nosotros
+[0:34:10 -> 0:34:12] [SPEAKER_04] saber que esto está sucediendo y ver
+[0:34:12 -> 0:34:14] [SPEAKER_04] si el abogado puede apoyarlo.
+[0:34:14 -> 0:34:16] [SPEAKER_02] Sí, a riesgo.
+[0:34:16 -> 0:34:18] [SPEAKER_02] ¿Quién es su profesor?
+[0:34:18 -> 0:34:20] [SPEAKER_04] Oh, es su profesor.
+[0:34:20 -> 0:34:22] [SPEAKER_08] Sí, es su profesor.
+[0:34:22 -> 0:34:24] [SPEAKER_11] Ella es una mujer.
+[0:34:24 -> 0:34:26] [SPEAKER_11] Ella ya lo tiene.
+[0:34:26 -> 0:34:28] [SPEAKER_11] Sí, exactamente.
+[0:34:28 -> 0:34:30] [SPEAKER_11] Cuando empezó a hablar con Esther, pensé,
+[0:34:30 -> 0:34:32] [SPEAKER_11] oh Dios mío, probablemente necesitamos
+[0:34:32 -> 0:34:34] [SPEAKER_09] hacer algo.
+[0:34:34 -> 0:34:36] [SPEAKER_09] Y luego fue a la escuela
+[0:34:36 -> 0:34:38] [SPEAKER_09] cuando nos vimos la última semana.
+[0:34:38 -> 0:34:40] [SPEAKER_02] Y tal vez le hemos mencionado
+[0:34:40 -> 0:34:42] [SPEAKER_02] que esto se compartió en confianza,
+[0:34:42 -> 0:34:44] [SPEAKER_02] así que no se siente...
+[0:34:44 -> 0:34:46] [SPEAKER_02] La última cosa que necesita es sentir
+[0:34:46 -> 0:34:48] [SPEAKER_02] que confía en alguien que le confía.
+[0:34:48 -> 0:34:50] [SPEAKER_02] Sí.
+[0:34:50 -> 0:34:52] [SPEAKER_04] Sí, eso es otra...
+[0:34:54 -> 0:34:56] [SPEAKER_04] Es una tensión, porque la familia
+[0:34:56 -> 0:34:58] [SPEAKER_04] puede tener problemas en estos procesos,
+[0:34:58 -> 0:35:00] [SPEAKER_04] pero tenemos que asegurarnos de que está a salvo.
+[0:35:00 -> 0:35:02] [SPEAKER_04] Pero como profesores tenemos una obligación
+[0:35:02 -> 0:35:04] [SPEAKER_04] de...
+[0:35:08 -> 0:35:10] [SPEAKER_04] Tú tomas los entrenamientos
+[0:35:10 -> 0:35:12] [SPEAKER_04] en la escuela de profesores sobre esto,
+[0:35:12 -> 0:35:14] [SPEAKER_04] y los profesores son obligados
+[0:35:14 -> 0:35:16] [SPEAKER_04] a tomar acción.
+[0:35:16 -> 0:35:18] [SPEAKER_04] Ojalá.
+[0:35:18 -> 0:35:20] [SPEAKER_04] ¿Cómo fue aquí, en esta habitación?
+[0:35:20 -> 0:35:22] [SPEAKER_04] Yo estaba en la otra habitación,
+[0:35:22 -> 0:35:24] [SPEAKER_04] o abajo, con las hermanas de Orellana.
+[0:35:26 -> 0:35:28] [SPEAKER_09] Yo trabajé con Lucas.
+[0:35:28 -> 0:35:30] [SPEAKER_09] Y fue muy interesante.
+[0:35:30 -> 0:35:32] [SPEAKER_09] Cuando estábamos hablando
+[0:35:32 -> 0:35:34] [SPEAKER_09] el último viernes,
+[0:35:34 -> 0:35:36] [SPEAKER_09] sobre ellos,
+[0:35:36 -> 0:35:38] [SPEAKER_09] sobre el proceso de aprendizaje
+[0:35:38 -> 0:35:40] [SPEAKER_09] que sucede cuando necesitan
+[0:35:40 -> 0:35:42] [SPEAKER_09] diferentes colores,
+[0:35:42 -> 0:35:44] [SPEAKER_09] y su pieza se rompió.
+[0:35:44 -> 0:35:46] [SPEAKER_09] Así que estaba tratando de encontrar
+[0:35:46 -> 0:35:48] [SPEAKER_09] una manera de unirlo,
+[0:35:48 -> 0:35:50] [SPEAKER_09] y estaba intentando cosas diferentes.
+[0:35:50 -> 0:35:52] [SPEAKER_09] Estaba en ambos lados,
+[0:35:52 -> 0:35:54] [SPEAKER_09] y intentaba unirlo.
+[0:35:54 -> 0:35:56] [SPEAKER_09] Fue muy interesante verlo
+[0:35:56 -> 0:35:58] [SPEAKER_09] encontrar formas de hacer que funcione.
+[0:35:58 -> 0:36:00] [SPEAKER_09] Y luego estaba diciendo
+[0:36:00 -> 0:36:02] [SPEAKER_09] que hizo el color azul,
+[0:36:02 -> 0:36:04] [SPEAKER_09] pero no había más azul.
+[0:36:04 -> 0:36:06] [SPEAKER_09] ¿Debería hacer más?
+[0:36:06 -> 0:36:08] [SPEAKER_09] Y estaba pensando en cómo hacer más.
+[0:36:08 -> 0:36:10] [SPEAKER_09] Y luego se distrajo,
+[0:36:10 -> 0:36:12] [SPEAKER_09] porque estaba hablando con Jordani
+[0:36:12 -> 0:36:14] [SPEAKER_09] sobre el film de Mario.
+[0:36:14 -> 0:36:16] [SPEAKER_09] ¿Sobre qué?
+[0:36:16 -> 0:36:18] [SPEAKER_09] El film de Mario.
+[0:36:18 -> 0:36:20] [SPEAKER_09] Y luego se distrajo por eso.
+[0:36:22 -> 0:36:24] [SPEAKER_09] Oh, el film de Mario.
+[0:36:24 -> 0:36:26] [SPEAKER_08] Yo fui a decirlo.
+[0:36:26 -> 0:36:28] [SPEAKER_08] Yo hablé con Jordani,
+[0:36:28 -> 0:36:30] [SPEAKER_08] y me llamó la atención,
+[0:36:30 -> 0:36:32] [SPEAKER_08] porque se dio cuenta
+[0:36:32 -> 0:36:34] [SPEAKER_08] de que Mario
+[0:36:34 -> 0:36:36] [SPEAKER_08] no estaba en la forma
+[0:36:36 -> 0:36:38] [SPEAKER_08] que quería.
+[0:36:38 -> 0:36:40] [SPEAKER_08] Entonces, él
+[0:36:40 -> 0:36:42] [SPEAKER_08] se dio cuenta de una solución.
+[0:36:42 -> 0:36:44] [SPEAKER_08] Le pregunté,
+[0:36:44 -> 0:36:46] [SPEAKER_08] ¿qué es la historia?
+[0:36:46 -> 0:36:48] [SPEAKER_08] Y él me dijo,
+[0:36:48 -> 0:36:50] [SPEAKER_08] que iba a hacer un gran roca,
+[0:36:50 -> 0:36:52] [SPEAKER_08] y Mario iba a correr
+[0:36:52 -> 0:36:54] [SPEAKER_08] de ese roca,
+[0:36:54 -> 0:36:56] [SPEAKER_08] pero el roca iba a pasar
+[0:36:56 -> 0:36:58] [SPEAKER_08] por Mario.
+[0:36:58 -> 0:37:00] [SPEAKER_01] Y por eso Mario es...
+[0:37:00 -> 0:37:02] [SPEAKER_01] ¿Flechado?
+[0:37:02 -> 0:37:04] [SPEAKER_08] Y yo le dije, sí,
+[0:37:04 -> 0:37:06] [SPEAKER_08] me encanta, hagamoslo.
+[0:37:06 -> 0:37:08] [SPEAKER_01] ¿Era Jordani?
+[0:37:08 -> 0:37:10] [SPEAKER_08] Sí, porque se dio cuenta
+[0:37:10 -> 0:37:12] [SPEAKER_08] de que lo que tenía en mente
+[0:37:12 -> 0:37:14] [SPEAKER_08] no era posible.
+[0:37:14 -> 0:37:16] [SPEAKER_08] Entonces le pregunté,
+[0:37:16 -> 0:37:18] [SPEAKER_08] ¿qué iba a hacer?
+[0:37:18 -> 0:37:20] [SPEAKER_08] Mario tiene la cabeza
+[0:37:20 -> 0:37:22] [SPEAKER_08] y el cuerpo así.
+[0:37:22 -> 0:37:24] [SPEAKER_08] Entonces quería hacer
+[0:37:24 -> 0:37:26] [SPEAKER_08] el roca que se mueve
+[0:37:26 -> 0:37:28] [SPEAKER_08] y pasar por Mario.
+[0:37:28 -> 0:37:30] [SPEAKER_08] Así que Mario iba a ser así.
+[0:37:30 -> 0:37:32] [SPEAKER_01] Pero no empezó todavía.
+[0:37:32 -> 0:37:34] [SPEAKER_08] No, porque
+[0:37:34 -> 0:37:36] [SPEAKER_08] cuando se dio cuenta,
+[0:37:36 -> 0:37:38] [SPEAKER_08] no.
+[0:37:38 -> 0:37:40] [SPEAKER_08] Porque le dije,
+[0:37:40 -> 0:37:42] [SPEAKER_08] tenemos mañana para hacerlo,
+[0:37:42 -> 0:37:44] [SPEAKER_08] así que tienes que hacer algo.
+[0:37:44 -> 0:37:46] [SPEAKER_01] ¿Vamos a hacer el próximo martes?
+[0:37:46 -> 0:37:48] [SPEAKER_01] ¿Dónde vamos a hacer el próximo martes?
+[0:37:48 -> 0:37:50] [SPEAKER_01] Siguimos.
+[0:37:50 -> 0:37:52] [SPEAKER_07] Si pudiéramos añadir...
+[0:37:52 -> 0:37:54] [SPEAKER_04] Si pudiéramos añadir...
+[0:37:54 -> 0:37:56] [SPEAKER_04] Puedo usar mi computadora
+[0:37:56 -> 0:37:58] [SPEAKER_04] para alguien como Isabela,
+[0:37:58 -> 0:38:00] [SPEAKER_04] para añadir algún sonido.
+[0:38:00 -> 0:38:02] [SPEAKER_04] Este tiene un filme.
+[0:38:02 -> 0:38:04] [SPEAKER_04] Tiene que estar en la computadora.
+[0:38:04 -> 0:38:06] [SPEAKER_01] Sí, tengo mi computadora también.
+[0:38:06 -> 0:38:08] [SPEAKER_04] No lo sé.
+[0:38:08 -> 0:38:10] [SPEAKER_04] Porque no tienen independencia.
+[0:38:10 -> 0:38:12] [SPEAKER_04] Los iPads son demasiado viejos
+[0:38:12 -> 0:38:14] [SPEAKER_04] para un filme.
+[0:38:14 -> 0:38:16] [SPEAKER_04] Entonces Jordani
+[0:38:16 -> 0:38:18] [SPEAKER_04] fue uno que sabíamos
+[0:38:18 -> 0:38:20] [SPEAKER_08] que iba a realizar pronto.
+[0:38:20 -> 0:38:22] [SPEAKER_08] Sí, me sorprendió porque me asusté.
+[0:38:22 -> 0:38:24] [SPEAKER_08] Quería ser uno de esos
+[0:38:24 -> 0:38:26] [SPEAKER_08] que se sienten frustrados
+[0:38:26 -> 0:38:28] [SPEAKER_08] porque tenía la idea de hacer un filme de Mario
+[0:38:28 -> 0:38:30] [SPEAKER_08] para el proyecto.
+[0:38:30 -> 0:38:32] [SPEAKER_08] Pero me sentí muy feliz
+[0:38:32 -> 0:38:34] [SPEAKER_08] que él me dio una solución.
+[0:38:34 -> 0:38:36] [SPEAKER_08] Y por eso me dijo,
+[0:38:36 -> 0:38:38] [SPEAKER_08] sí, me encanta, hagamoslo.
+[0:38:38 -> 0:38:40] [SPEAKER_08] Te ayudaré a crear un robo.
+[0:38:40 -> 0:38:42] [SPEAKER_08] Y luego, trabajo con
+[0:38:42 -> 0:38:44] [SPEAKER_08] Noami y Keisha.
+[0:38:44 -> 0:38:46] [SPEAKER_08] Y no sé
+[0:38:46 -> 0:38:48] [SPEAKER_08] si han trabajado
+[0:38:48 -> 0:38:50] [SPEAKER_08] con ambos, pero es muy interesante.
+[0:38:50 -> 0:38:52] [SPEAKER_08] Noami es como,
+[0:38:52 -> 0:38:54] [SPEAKER_08] vamos a divertirnos.
+[0:38:54 -> 0:38:56] [SPEAKER_08] Esto es divertido.
+[0:38:56 -> 0:38:58] [SPEAKER_08] Y Keisha quiere
+[0:38:58 -> 0:39:00] [SPEAKER_08] hacer todo perfecto
+[0:39:00 -> 0:39:02] [SPEAKER_08] y lindo.
+[0:39:02 -> 0:39:04] [SPEAKER_08] Y al final,
+[0:39:04 -> 0:39:06] [SPEAKER_08] les di mi iPad
+[0:39:06 -> 0:39:08] [SPEAKER_08] para hacerlo.
+[0:39:08 -> 0:39:10] [SPEAKER_08] Le pregunto, ¿recuerdas cómo hacerlo?
+[0:39:10 -> 0:39:12] [SPEAKER_08] Sí, sí, sí.
+[0:39:12 -> 0:39:14] [SPEAKER_08] Y en realidad, lo hicieron.
+[0:39:14 -> 0:39:16] [SPEAKER_01] ¿Hicieron el plano?
+[0:39:16 -> 0:39:18] [SPEAKER_08] No, hicieron tres.
+[0:39:18 -> 0:39:20] [SPEAKER_08] Y tienen el filme.
+[0:39:20 -> 0:39:22] [SPEAKER_08] Fiesta de pijamas con Keisha y Noami.
+[0:39:22 -> 0:39:24] [SPEAKER_08] ¿Lo tienes?
+[0:39:24 -> 0:39:26] [SPEAKER_04] Sí.
+[0:39:26 -> 0:39:28] [SPEAKER_07] Y es una buena historia porque
+[0:39:28 -> 0:39:30] [SPEAKER_07] planifican cada paso juntos.
+[0:39:30 -> 0:39:32] [SPEAKER_07] Y hablan de ello.
+[0:39:32 -> 0:39:34] [SPEAKER_07] Y hicieron todos los pasos.
+[0:39:34 -> 0:39:36] [SPEAKER_07] El primer, el pre-plano.
+[0:39:36 -> 0:39:38] [SPEAKER_07] El segundo,
+[0:39:38 -> 0:39:40] [SPEAKER_07] con la tabla de historia.
+[0:39:40 -> 0:39:42] [SPEAKER_07] Entonces, en realidad, ponen mucho pensamiento
+[0:39:42 -> 0:39:44] [SPEAKER_07] en algunos de los niños.
+[0:39:44 -> 0:39:46] [SPEAKER_09] Y en realidad, empezaron antes de la fiesta
+[0:39:46 -> 0:39:48] [SPEAKER_09] cuando estaban planeando
+[0:39:48 -> 0:39:50] [SPEAKER_09] tener la fiesta de pijamas.
+[0:39:50 -> 0:39:52] [SPEAKER_09] Y luego regresaron con la experiencia
+[0:39:52 -> 0:39:54] [SPEAKER_09] y se actualizaron.
+[0:39:54 -> 0:39:56] [SPEAKER_07] Es genial.
+[0:39:56 -> 0:39:58] [SPEAKER_04] Hablamos
+[0:39:58 -> 0:40:00] [SPEAKER_04] el viernes sobre
+[0:40:00 -> 0:40:02] [SPEAKER_04] si es mejor
+[0:40:02 -> 0:40:04] [SPEAKER_04] si tienen un plan muy bien pensado
+[0:40:04 -> 0:40:06] [SPEAKER_04] o
+[0:40:06 -> 0:40:08] [SPEAKER_04] ¿puede ser
+[0:40:08 -> 0:40:10] [SPEAKER_04] mejor empezar
+[0:40:10 -> 0:40:12] [SPEAKER_04] sin ninguna idea?
+[0:40:12 -> 0:40:14] [SPEAKER_04] ¿Empezar a capturar niños?
+[0:40:14 -> 0:40:16] [SPEAKER_04] Hay niños que prefieren hacerlo.
+[0:40:16 -> 0:40:18] [SPEAKER_09] Dylan ha estado aquí.
+[0:40:18 -> 0:40:20] [SPEAKER_09] Me sentí como si no estuviera aquí
+[0:40:20 -> 0:40:22] [SPEAKER_09] la primera semana.
+[0:40:22 -> 0:40:24] [SPEAKER_09] Y hoy se fue temprano.
+[0:40:24 -> 0:40:26] [SPEAKER_09] Pero cuando le pregunté
+[0:40:26 -> 0:40:28] [SPEAKER_09] ¿cuál es la historia que estás trabajando sobre?
+[0:40:28 -> 0:40:30] [SPEAKER_09] Solo se quedó en ese momento.
+[0:40:30 -> 0:40:32] [SPEAKER_09] Y fue genial.
+[0:40:32 -> 0:40:34] [SPEAKER_09] Pretendió que estaba trabajando
+[0:40:34 -> 0:40:36] [SPEAKER_09] en una tienda de grocerías.
+[0:40:36 -> 0:40:38] [SPEAKER_09] Y él me decía
+[0:40:38 -> 0:40:40] [SPEAKER_09] bienvenido a bla bla bla
+[0:40:40 -> 0:40:42] [SPEAKER_09] ¿qué te gustaría pedir?
+[0:40:42 -> 0:40:44] [SPEAKER_09] Y luego...
+[0:40:44 -> 0:40:46] [SPEAKER_09] ¿qué es el menú?
+[0:40:46 -> 0:40:48] [SPEAKER_09] Y él me dijo
+[0:40:48 -> 0:40:50] [SPEAKER_09] muchas opciones.
+[0:40:50 -> 0:40:52] [SPEAKER_09] Y yo le pregunté cosas.
+[0:40:52 -> 0:40:54] [SPEAKER_04] Y él creó.
+[0:40:54 -> 0:40:56] [SPEAKER_04] Es muy interesante.
+[0:40:56 -> 0:40:58] [SPEAKER_04] Es casi un paso más
+[0:40:58 -> 0:41:00] [SPEAKER_04] cuando tienes la pieza de historia
+[0:41:00 -> 0:41:02] [SPEAKER_04] y tienes que dejarlo ir.
+[0:41:02 -> 0:41:04] [SPEAKER_04] Como en Jordani
+[0:41:04 -> 0:41:06] [SPEAKER_04] porque su dibujo era tan perfecto.
+[0:41:06 -> 0:41:08] [SPEAKER_04] Pero en Clay
+[0:41:08 -> 0:41:10] [SPEAKER_04] no puedes crearlo perfecto.
+[0:41:10 -> 0:41:12] [SPEAKER_04] O tienes que adaptarlo.
+[0:41:12 -> 0:41:14] [SPEAKER_07] Y no funciona.
+[0:41:14 -> 0:41:16] [SPEAKER_07] Es un paso más
+[0:41:16 -> 0:41:18] [SPEAKER_04] para adaptarlo.
+[0:41:18 -> 0:41:20] [SPEAKER_08] Sí, se adaptó.
+[0:41:20 -> 0:41:22] [SPEAKER_08] Y la semana pasada
+[0:41:22 -> 0:41:24] [SPEAKER_08] le pregunté
+[0:41:24 -> 0:41:26] [SPEAKER_08] ¿vas a hacer más detalles?
+[0:41:26 -> 0:41:28] [SPEAKER_08] No, no, está listo.
+[0:41:28 -> 0:41:30] [SPEAKER_08] Pero hoy, no sé si vieron otros proyectos
+[0:41:30 -> 0:41:32] [SPEAKER_08] o solo cambiaron de opinión.
+[0:41:32 -> 0:41:34] [SPEAKER_08] Pero ahora quieren hacer un bebé
+[0:41:34 -> 0:41:36] [SPEAKER_08] y los bebesitos
+[0:41:36 -> 0:41:38] [SPEAKER_08] y una mesa
+[0:41:38 -> 0:41:40] [SPEAKER_08] y muchos pequeños detalles.
+[0:41:40 -> 0:41:42] [SPEAKER_08] Y así, sí.
+[0:41:42 -> 0:41:44] [SPEAKER_08] Le pusieron mucho pensamiento.
+[0:41:44 -> 0:41:46] [SPEAKER_08] Es hermoso.
+[0:41:46 -> 0:41:48] [SPEAKER_09] Tengo una pregunta.
+[0:41:48 -> 0:41:50] [SPEAKER_09] ¿Qué decidimos hacer con los niños
+[0:41:50 -> 0:41:52] [SPEAKER_09] que ya están?
+[0:41:52 -> 0:41:54] [SPEAKER_09] Porque hoy tomé a los segundo gradores
+[0:41:54 -> 0:41:56] [SPEAKER_09] y los tengo en el avión.
+[0:41:56 -> 0:41:58] [SPEAKER_09] Pero mañana tendremos más niños.
+[0:41:58 -> 0:42:00] [SPEAKER_09] Y recuerdo que
+[0:42:00 -> 0:42:02] [SPEAKER_09] hablamos de esto en algún momento
+[0:42:02 -> 0:42:04] [SPEAKER_09] pero no recuerdo.
+[0:42:04 -> 0:42:06] [SPEAKER_01] ¿Puedes comentar algo?
+[0:42:06 -> 0:42:08] [SPEAKER_00] Las ideas que hablamos
+[0:42:08 -> 0:42:10] [SPEAKER_00] fueron que o se convierten en ayudas a los maestros
+[0:42:10 -> 0:42:12] [SPEAKER_00] o ayudan a sus compañeros
+[0:42:12 -> 0:42:14] [SPEAKER_00] o pueden seguir
+[0:42:14 -> 0:42:16] [SPEAKER_00] añadiendo música
+[0:42:16 -> 0:42:18] [SPEAKER_00] o...
+[0:42:18 -> 0:42:20] [SPEAKER_04] Pero necesitan que hagamos eso.
+[0:42:20 -> 0:42:22] [SPEAKER_09] Sí, siento que
+[0:42:22 -> 0:42:24] [SPEAKER_09] mañana tendremos demasiados
+[0:42:24 -> 0:42:26] [SPEAKER_09] porque hoy, algunos de ellos
+[0:42:26 -> 0:42:28] [SPEAKER_09] les envié a Isabel
+[0:42:28 -> 0:42:30] [SPEAKER_09] para ser
+[0:42:30 -> 0:42:32] [SPEAKER_09] oh, Marín, le envié a Marín
+[0:42:32 -> 0:42:34] [SPEAKER_09] para ser maestra
+[0:42:34 -> 0:42:36] [SPEAKER_00] pero siento que mañana
+[0:42:36 -> 0:42:38] [SPEAKER_09] oh, Marín es solo Marín
+[0:42:38 -> 0:42:40] [SPEAKER_09] Estoy muy feliz que esto se acabó
+[0:42:40 -> 0:42:42] [SPEAKER_09] No quiero verlos nunca más
+[0:42:42 -> 0:42:44] [SPEAKER_09] Ninguno de ustedes nunca más
+[0:42:44 -> 0:42:46] [SPEAKER_09] Ella tiene momentos increíbles
+[0:42:46 -> 0:42:48] [SPEAKER_09] con muchas atenciones
+[0:42:48 -> 0:42:50] [SPEAKER_01] Ella sigue obteniendo la atención
+[0:42:50 -> 0:42:52] [SPEAKER_01] Ella estaba triste
+[0:42:52 -> 0:42:54] [SPEAKER_01] porque no estábamos haciendo otra
+[0:42:54 -> 0:42:56] [SPEAKER_01] y la hicimos la semana pasada
+[0:42:56 -> 0:42:58] [SPEAKER_01] y quería hacerlo de nuevo
+[0:42:58 -> 0:43:00] [SPEAKER_01] y nos cortamos un poco
+[0:43:00 -> 0:43:02] [SPEAKER_01] pero estaba sentada
+[0:43:02 -> 0:43:04] [SPEAKER_01] y sentía que estaba trabajando con Baleones
+[0:43:04 -> 0:43:06] [SPEAKER_01] y no estaba atento
+[0:43:06 -> 0:43:08] [SPEAKER_01] y ella quería
+[0:43:08 -> 0:43:10] [SPEAKER_01] que yo hiciera la preparación
+[0:43:10 -> 0:43:12] [SPEAKER_01] pero ella quería
+[0:43:12 -> 0:43:14] [SPEAKER_08] hacer la grabación con vos
+[0:43:14 -> 0:43:16] [SPEAKER_08] eso fue el plan
+[0:43:16 -> 0:43:18] [SPEAKER_08] yo era solo su asistente
+[0:43:18 -> 0:43:20] [SPEAKER_08] yo tenía asistente
+[0:43:20 -> 0:43:22] [SPEAKER_03] Sí, fue como
+[0:43:22 -> 0:43:24] [SPEAKER_08] la asistente de escenario
+[0:43:24 -> 0:43:26] [SPEAKER_08] mañana vamos a
+[0:43:26 -> 0:43:28] [SPEAKER_08] sacar los secundarios
+[0:43:28 -> 0:43:30] [SPEAKER_08] y alguien va a llevar los secundarios
+[0:43:30 -> 0:43:32] [SPEAKER_09] también
+[0:43:32 -> 0:43:34] [SPEAKER_09] así que deberíamos pensar
+[0:43:34 -> 0:43:36] [SPEAKER_09] qué podemos hacer con ellos
+[0:43:36 -> 0:43:38] [SPEAKER_09] por toda la hora
+[0:43:38 -> 0:43:40] [SPEAKER_09] porque no tenemos los iPad
+[0:43:40 -> 0:43:42] [SPEAKER_09] para hacer la música
+[0:43:42 -> 0:43:44] [SPEAKER_09] Bueno, algunos de ellos
+[0:43:44 -> 0:43:46] [SPEAKER_08] especialmente Kelsey
+[0:43:46 -> 0:43:48] [SPEAKER_08] me ha pedido que trabajara con el otro escenario
+[0:43:48 -> 0:43:50] [SPEAKER_08] el que se hirve
+[0:43:50 -> 0:43:52] [SPEAKER_08] así que tenemos eso
+[0:43:52 -> 0:43:54] [SPEAKER_08] y
+[0:43:54 -> 0:43:56] [SPEAKER_08] ella realmente quería
+[0:43:56 -> 0:43:58] [SPEAKER_08] sé que ella y Kaley
+[0:43:58 -> 0:44:00] [SPEAKER_08] ambos
+[0:44:00 -> 0:44:02] [SPEAKER_08] querían hacer la grabación
+[0:44:02 -> 0:44:04] [SPEAKER_08] tal vez hiciéramos algo
+[0:44:04 -> 0:44:06] [SPEAKER_08] que jueguen
+[0:44:06 -> 0:44:08] [SPEAKER_08] Puedes escribir un par de promesas
+[0:44:08 -> 0:44:10] [SPEAKER_01] pero también puedes hacer lo que quieras
+[0:44:10 -> 0:44:12] [SPEAKER_01] puedes hacer un self portrait
+[0:44:12 -> 0:44:14] [SPEAKER_01] una figura de ti misma
+[0:44:14 -> 0:44:16] [SPEAKER_01] sé, al menos en la segunda edad
+[0:44:16 -> 0:44:18] [SPEAKER_03] hemos estado trabajando mucho
+[0:44:18 -> 0:44:20] [SPEAKER_02] con trabajo de calidad alta
+[0:44:20 -> 0:44:22] [SPEAKER_02] así que ese ha sido uno de nuestros valores
+[0:44:22 -> 0:44:24] [SPEAKER_02] durante estas semanas
+[0:44:24 -> 0:44:26] [SPEAKER_02] porque estamos preparando
+[0:44:26 -> 0:44:28] [SPEAKER_02] para hacer productos para la exposición
+[0:44:28 -> 0:44:30] [SPEAKER_02] así que trabajo de calidad alta
+[0:44:30 -> 0:44:32] [SPEAKER_02] trabajo de calidad alta
+[0:44:32 -> 0:44:34] [SPEAKER_02] así que siempre puedes llamar a ellos
+[0:44:34 -> 0:44:36] [SPEAKER_02] porque sé
+[0:44:36 -> 0:44:38] [SPEAKER_02] el otro día encontré a una estudiante
+[0:44:38 -> 0:44:40] [SPEAKER_02] y su final
+[0:44:40 -> 0:44:42] [SPEAKER_02] no estaba tan bien
+[0:44:42 -> 0:44:44] [SPEAKER_02] o peor
+[0:44:44 -> 0:44:46] [SPEAKER_02] el primer grafo estaba muy bien
+[0:44:46 -> 0:44:48] [SPEAKER_02] y entonces puedes decirle que se aceleró
+[0:44:48 -> 0:44:50] [SPEAKER_02] para terminar su final
+[0:44:50 -> 0:44:52] [SPEAKER_02] y yo estoy como
+[0:44:52 -> 0:44:54] [SPEAKER_02] este es tu trabajo de calidad alta
+[0:44:54 -> 0:44:56] [SPEAKER_02] y ella no quería hacerlo
+[0:44:56 -> 0:44:58] [SPEAKER_02] y yo estoy como, si me dices que este es tu trabajo de calidad
+[0:44:58 -> 0:45:00] [SPEAKER_02] y ella me dice
+[0:45:00 -> 0:45:02] [SPEAKER_02] este es el mejor que puedes hacer
+[0:45:02 -> 0:45:04] [SPEAKER_02] este es el mejor trabajo de calidad alta que puedes hacer como estudiante
+[0:45:04 -> 0:45:06] [SPEAKER_02] y ella estaba como en lo malo
+[0:45:06 -> 0:45:08] [SPEAKER_02] pero no podía decir sí
+[0:45:08 -> 0:45:10] [SPEAKER_02] así que yo le dije, voy a dejarlo aquí
+[0:45:10 -> 0:45:12] [SPEAKER_02] sé que estás leyendo
+[0:45:12 -> 0:45:14] [SPEAKER_02] tú decides, yo solo quiero ponerlo ahí
+[0:45:14 -> 0:45:16] [SPEAKER_02] esto es realmente genial
+[0:45:16 -> 0:45:18] [SPEAKER_02] ¿te sientes como si esto fuera genial?
+[0:45:18 -> 0:45:20] [SPEAKER_02] si me dices sí
+[0:45:20 -> 0:45:22] [SPEAKER_02] voy a caminar y tú decides
+[0:45:22 -> 0:45:24] [SPEAKER_02] y yo camino y me muero
+[0:45:24 -> 0:45:26] [None] y ella es como
+[0:45:26 -> 0:45:28] [SPEAKER_02] así que
+[0:45:28 -> 0:45:30] [SPEAKER_02] ellos lo intentan
+[0:45:30 -> 0:45:32] [SPEAKER_02] especialmente cuando quieren
+[0:45:32 -> 0:45:34] [SPEAKER_02] terminar, terminar, terminar
+[0:45:34 -> 0:45:36] [SPEAKER_02] mucho de esto es parte del proceso
+[0:45:36 -> 0:45:38] [SPEAKER_02] incluso ir de los detalles de la pintura
+[0:45:38 -> 0:45:40] [SPEAKER_02] a la actuación
+[0:45:40 -> 0:45:42] [SPEAKER_02] me siento que es tan valioso
+[0:45:42 -> 0:45:44] [SPEAKER_02] es parte del aprendizaje también
+[0:45:44 -> 0:45:46] [SPEAKER_02] este medio sirve este propósito
+[0:45:46 -> 0:45:48] [SPEAKER_02] esto es lo que puedes hacer con este otro
+[0:45:48 -> 0:45:50] [SPEAKER_02] medio de expresión
+[0:45:50 -> 0:45:52] [SPEAKER_03] y aprendiendo es bueno
+[0:45:52 -> 0:45:54] [SPEAKER_03] si, no puedes hacer lo mismo
+[0:45:54 -> 0:45:56] [SPEAKER_04] es lo mismo
+[0:45:56 -> 0:45:58] [SPEAKER_01] me gustaría que sabiera el término
+[0:45:58 -> 0:46:00] [SPEAKER_01] de trabajo de calidad alta
+[0:46:00 -> 0:46:02] [SPEAKER_01] porque hoy con la
+[0:46:02 -> 0:46:04] [SPEAKER_01] la ISIS
+[0:46:04 -> 0:46:06] [SPEAKER_01] y la CAIDEN
+[0:46:06 -> 0:46:08] [SPEAKER_01] estaban en el suelo haciendo otras cosas
+[0:46:08 -> 0:46:10] [SPEAKER_01] mientras Isabel terminaba su trabajo
+[0:46:10 -> 0:46:12] [SPEAKER_02] le dirían integridad, perseverancia
+[0:46:12 -> 0:46:14] [SPEAKER_02] y trabajo de calidad alta
+[0:46:14 -> 0:46:16] [SPEAKER_02] esos son los valores
+[0:46:16 -> 0:46:18] [SPEAKER_01] y pueden hacerlo de nuevo mañana
+[0:46:18 -> 0:46:20] [SPEAKER_01] bueno, haremos otro
+[0:46:20 -> 0:46:22] [SPEAKER_04] creo que deberíamos
+[0:46:22 -> 0:46:24] [SPEAKER_04] si sabemos
+[0:46:24 -> 0:46:26] [SPEAKER_04] quien terminó
+[0:46:26 -> 0:46:28] [SPEAKER_04] si tienen algo que les gusta
+[0:46:28 -> 0:46:30] [SPEAKER_04] tenemos que añadir el voz
+[0:46:30 -> 0:46:32] [SPEAKER_04] y la música
+[0:46:32 -> 0:46:34] [SPEAKER_04] pero podemos ponerlos todos
+[0:46:34 -> 0:46:36] [SPEAKER_04] en una mesa con un adulto
+[0:46:36 -> 0:46:38] [SPEAKER_04] y
+[0:46:38 -> 0:46:40] [SPEAKER_04] tal vez hacen algo que muestran
+[0:46:40 -> 0:46:42] [SPEAKER_04] el martes
+[0:46:42 -> 0:46:44] [SPEAKER_04] no sé si queremos hacer el self portrait
+[0:46:44 -> 0:46:46] [SPEAKER_04] o
+[0:46:46 -> 0:46:48] [SPEAKER_04] explicar lo que es el film
+[0:46:48 -> 0:46:50] [SPEAKER_04] para que estén listos para compartirlo
+[0:46:50 -> 0:46:52] [SPEAKER_04] o un dibujo
+[0:46:52 -> 0:46:54] [SPEAKER_01] de cómo pasaron
+[0:46:54 -> 0:46:56] [SPEAKER_04] o cuál fue el mensaje
+[0:46:56 -> 0:46:58] [SPEAKER_04] que intentaron comunicar
+[0:46:58 -> 0:47:00] [SPEAKER_04] o lo que aprendieron
+[0:47:00 -> 0:47:02] [SPEAKER_04] nos interesan
+[0:47:02 -> 0:47:04] [SPEAKER_04] explorar la transición
+[0:47:04 -> 0:47:06] [SPEAKER_04] de la mesa de historia
+[0:47:06 -> 0:47:08] [SPEAKER_04] el dibujo y la escritura
+[0:47:08 -> 0:47:10] [SPEAKER_04] a la clave
+[0:47:10 -> 0:47:12] [SPEAKER_04] a la stop motion
+[0:47:12 -> 0:47:14] [SPEAKER_01] así que quizás
+[0:47:14 -> 0:47:16] [SPEAKER_01] podríamos mostrarlos
+[0:47:16 -> 0:47:18] [SPEAKER_01] y preguntarles
+[0:47:18 -> 0:47:20] [SPEAKER_01] si quieren hacer algo similar
+[0:47:20 -> 0:47:22] [SPEAKER_04] con el guión de adultos
+[0:47:22 -> 0:47:24] [SPEAKER_04] porque algunos son
+[0:47:24 -> 0:47:26] [SPEAKER_04] semi terminados
+[0:47:26 -> 0:47:28] [SPEAKER_04] necesitan el otro paso
+[0:47:28 -> 0:47:30] [SPEAKER_04] pero creo que también es uno en uno
+[0:47:30 -> 0:47:32] [SPEAKER_04] con un adulto, un computador
+[0:47:32 -> 0:47:34] [SPEAKER_04] para añadir el voz
+[0:47:34 -> 0:47:36] [SPEAKER_02] y mañana no lo tenemos
+[0:47:36 -> 0:47:38] [SPEAKER_02] podemos hacerlo el martes
+[0:47:38 -> 0:47:40] [SPEAKER_02] un cartón de índice
+[0:47:40 -> 0:47:42] [SPEAKER_02] lo hicimos
+[0:47:42 -> 0:47:44] [SPEAKER_04] y también tuvieron que presentar su trabajo
+[0:47:44 -> 0:47:46] [SPEAKER_04] así que tuvieron que escribir
+[0:47:46 -> 0:47:48] [SPEAKER_02] y también la presentación
+[0:47:48 -> 0:47:50] [SPEAKER_02] de un cartón
+[0:47:50 -> 0:47:52] [SPEAKER_02] y también escribir el dibujo
+[0:47:52 -> 0:47:54] [SPEAKER_02] y la recopilación
+[0:47:54 -> 0:47:56] [SPEAKER_04] y ese es un momento
+[0:47:56 -> 0:47:58] [SPEAKER_04] para escuchar el nivel de la meta
+[0:47:58 -> 0:48:00] [SPEAKER_04] de lo que querían decir
+[0:48:00 -> 0:48:02] [SPEAKER_04] con este film
+[0:48:02 -> 0:48:04] [SPEAKER_04] cómo ven este proceso
+[0:48:04 -> 0:48:06] [SPEAKER_04] qué falta
+[0:48:06 -> 0:48:08] [SPEAKER_04] qué tenían que cambiar
+[0:48:08 -> 0:48:10] [SPEAKER_07] porque no funcionó
+[0:48:10 -> 0:48:12] [SPEAKER_04] es un momento muy valioso
+[0:48:12 -> 0:48:14] [SPEAKER_04] hemos estado tan ocupados
+[0:48:14 -> 0:48:16] [SPEAKER_04] con la creación
+[0:48:16 -> 0:48:18] [SPEAKER_04] y el proceso
+[0:48:18 -> 0:48:20] [SPEAKER_04] así que ahora siéntense
+[0:48:20 -> 0:48:22] [SPEAKER_05] no sé si Cristina
+[0:48:22 -> 0:48:24] [SPEAKER_05] te interesa
+[0:48:24 -> 0:48:26] [SPEAKER_05] si Jeremy está en esa mesa también
+[0:48:26 -> 0:48:28] [SPEAKER_05] aunque debería tener un film
+[0:48:28 -> 0:48:30] [SPEAKER_05] de alguna manera
+[0:48:30 -> 0:48:32] [SPEAKER_05] incluso si es él
+[0:48:32 -> 0:48:34] [SPEAKER_05] escribiendo
+[0:48:34 -> 0:48:36] [SPEAKER_05] y grabando fotografías de él
+[0:48:36 -> 0:48:38] [SPEAKER_05] y girando las páginas
+[0:48:38 -> 0:48:40] [SPEAKER_01] si está contento con eso
+[0:48:40 -> 0:48:42] [SPEAKER_01] si se siente cómodo
+[0:48:42 -> 0:48:44] [SPEAKER_01] él dijo que no le gustó
+[0:48:44 -> 0:48:46] [SPEAKER_01] pero luego lo miró de cerca
+[0:48:46 -> 0:48:48] [SPEAKER_07] él dijo que era muy lindo
+[0:48:48 -> 0:48:50] [SPEAKER_07] él dijo que no le gustó
+[0:48:50 -> 0:48:52] [SPEAKER_07] pero le gustó
+[0:48:52 -> 0:48:54] [SPEAKER_07] porque cuando todos decían
+[0:48:54 -> 0:48:56] [SPEAKER_07] yo estoy aquí, yo no estoy aquí
+[0:48:56 -> 0:48:58] [SPEAKER_07] él dijo, yo también estoy aquí
+[0:48:58 -> 0:49:00] [SPEAKER_04] él dijo, estoy aprendiendo
+[0:49:00 -> 0:49:02] [SPEAKER_04] esto muestra que estás aprendiendo
+[0:49:06 -> 0:49:08] [SPEAKER_04] eso hemos hecho mucho trabajo
+[0:49:08 -> 0:49:10] [SPEAKER_04] de decir, estamos aprendiendo
+[0:49:10 -> 0:49:12] [SPEAKER_04] y esto es trabajo duro
+[0:49:12 -> 0:49:14] [SPEAKER_04] y no es como en otras escuelas
+[0:49:14 -> 0:49:16] [SPEAKER_04] que solo juegan
+[0:49:16 -> 0:49:18] [SPEAKER_04] que es bien también
+[0:49:18 -> 0:49:20] [SPEAKER_04] ellos van al parque
+[0:49:20 -> 0:49:22] [SPEAKER_04] o hacen trabajo en casa
+[0:49:22 -> 0:49:24] [SPEAKER_04] pero aquí continuamos aprendiendo
+[0:49:24 -> 0:49:26] [SPEAKER_04] así que la persistencia
+[0:49:26 -> 0:49:28] [SPEAKER_04] esa es una idea
+[0:49:28 -> 0:49:30] [SPEAKER_04] porque necesitamos ayudar a las personas
+[0:49:30 -> 0:49:32] [SPEAKER_08] que no tienen nada
+[0:49:32 -> 0:49:34] [SPEAKER_08] yo tengo una actividad
+[0:49:34 -> 0:49:36] [SPEAKER_08] y la voy a compartir en WhatsApp
+[0:49:36 -> 0:49:38] [SPEAKER_08] es una actividad muy corta
+[0:49:38 -> 0:49:40] [SPEAKER_04] para los que han terminado
+[0:49:40 -> 0:49:42] [SPEAKER_08] porque es en inglés
+[0:49:42 -> 0:49:44] [SPEAKER_08] así que voy a ponerlo en español
+[0:49:44 -> 0:49:46] [SPEAKER_08] para ellos
+[0:49:46 -> 0:49:48] [SPEAKER_08] pero es como escribir un poema muy corto
+[0:49:48 -> 0:49:50] [SPEAKER_08] que tienen que completar
+[0:49:50 -> 0:49:52] [SPEAKER_08] tienen el programa
+[0:49:52 -> 0:49:54] [SPEAKER_08] y acaban el programa
+[0:49:54 -> 0:49:56] [SPEAKER_08] relacionado al filme
+[0:49:56 -> 0:49:58] [None] mi nombre es
+[0:49:58 -> 0:50:00] [SPEAKER_08] y tienen que escribir
+[0:50:00 -> 0:50:02] [SPEAKER_08] el nombre
+[0:50:02 -> 0:50:04] [SPEAKER_08] un adjetivo
+[0:50:04 -> 0:50:06] [SPEAKER_08] y hacer una pregunta
+[0:50:06 -> 0:50:08] [SPEAKER_07] y pueden usar el clay
+[0:50:08 -> 0:50:10] [SPEAKER_07] para hacer algo
+[0:50:10 -> 0:50:12] [SPEAKER_07] pero tal vez eso puede venir después de que han practicado
+[0:50:12 -> 0:50:14] [SPEAKER_07] lo que necesitan hablar
+[0:50:14 -> 0:50:16] [SPEAKER_07] tienen un título
+[0:50:32 -> 0:50:34] [SPEAKER_00] como un promto para que
+[0:50:34 -> 0:50:36] [SPEAKER_00] cuando estaba haciendo mi animación
+[0:50:36 -> 0:50:38] [SPEAKER_00] aprendí a leer
+[0:50:38 -> 0:50:40] [SPEAKER_04] mi nombre es
+[0:50:40 -> 0:50:42] [SPEAKER_04] queremos que tengan algo así
+[0:50:42 -> 0:50:44] [SPEAKER_04] para compartir con los padres cuando lleguen el viernes
+[0:50:44 -> 0:50:46] [SPEAKER_04] y sabemos que no tendremos tiempo
+[0:50:46 -> 0:50:48] [SPEAKER_04] si no lo hacemos mañana
+[0:50:48 -> 0:50:50] [SPEAKER_04] si es el domingo
+[0:50:50 -> 0:50:52] [SPEAKER_04] yo tengo cartas de índices
+[0:50:52 -> 0:50:54] [SPEAKER_04] tengo diferentes tamaños y colores
+[0:50:54 -> 0:50:56] [SPEAKER_04] cartas de índices
+[0:50:56 -> 0:50:58] [SPEAKER_04] ¿están ahí?
+[0:50:58 -> 0:51:00] [SPEAKER_04] sí, 7.30 a 1
+[0:51:00 -> 0:51:02] [SPEAKER_04] lo sé
+[0:51:02 -> 0:51:04] [SPEAKER_04] pero eso es todo el tiempo que tenemos
+[0:51:04 -> 0:51:06] [SPEAKER_04] Jada, ¿cómo te sientes?
+[0:51:06 -> 0:51:08] [SPEAKER_04] ¿están trabajando en el aprendizaje?
+[0:51:16 -> 0:51:18] [SPEAKER_10] sí, estoy escuchando
+[0:51:18 -> 0:51:20] [SPEAKER_10] procesando
+[0:51:20 -> 0:51:22] [SPEAKER_10] creo que
+[0:51:22 -> 0:51:24] [SPEAKER_10] la última actividad
+[0:51:24 -> 0:51:26] [SPEAKER_11] será una buena extensión
+[0:51:26 -> 0:51:28] [SPEAKER_11] para que puedan introducir lo que tienen que decir a los padres
+[0:51:28 -> 0:51:30] [SPEAKER_11] gracias
+[0:51:30 -> 0:51:32] [SPEAKER_11] creo que mi pregunta es
+[0:51:32 -> 0:51:34] [SPEAKER_11] ¿también van a hablar
+[0:51:34 -> 0:51:36] [SPEAKER_11] sobre el proceso?
+[0:51:36 -> 0:51:38] [SPEAKER_11] o es solo
+[0:51:38 -> 0:51:40] [SPEAKER_11] si van a hablar sobre el proceso
+[0:51:40 -> 0:51:42] [SPEAKER_11] de lo que ellos
+[0:51:42 -> 0:51:44] [SPEAKER_01] mencionamos algo sobre eso
+[0:51:44 -> 0:51:46] [SPEAKER_07] los desafíos
+[0:51:46 -> 0:51:48] [SPEAKER_04] de la adaptación
+[0:51:48 -> 0:51:50] [SPEAKER_04] de la actividad
+[0:51:52 -> 0:51:54] [SPEAKER_04] porque tenemos esta lección
+[0:51:54 -> 0:51:56] [SPEAKER_04] y ese investigador
+[0:51:56 -> 0:51:58] [SPEAKER_04] está enfocándose en ese proceso
+[0:51:58 -> 0:52:00] [SPEAKER_04] con los niños muy jóvenes
+[0:52:00 -> 0:52:02] [SPEAKER_04] puedo enviar eso a ti
+[0:52:04 -> 0:52:06] [SPEAKER_04] sí, pero planeando algo
+[0:52:06 -> 0:52:08] [SPEAKER_04] porque la última vez que los padres vinieron
+[0:52:08 -> 0:52:10] [SPEAKER_04] fue más espontáneo
+[0:52:10 -> 0:52:12] [SPEAKER_04] pero tal vez esta vez
+[0:52:12 -> 0:52:14] [SPEAKER_04] y eso será dato para nosotros
+[0:52:14 -> 0:52:16] [SPEAKER_02] cómo ven ese proceso
+[0:52:16 -> 0:52:18] [SPEAKER_02] puede ser una entrevista
+[0:52:18 -> 0:52:20] [SPEAKER_02] si no, puede entrevistar a los niños
+[0:52:20 -> 0:52:22] [SPEAKER_02] sobre el programa
+[0:52:22 -> 0:52:24] [SPEAKER_02] y su proceso
+[0:52:24 -> 0:52:26] [SPEAKER_02] ¿de qué perspectiva?
+[0:52:26 -> 0:52:28] [SPEAKER_02] ¿de los niños?
+[0:52:30 -> 0:52:32] [SPEAKER_04] ¿quién quiere guiar a ese grupo mañana?
+[0:52:32 -> 0:52:34] [SPEAKER_04] ¿quién quiere decidir en el whatsapp?
+[0:52:46 -> 0:52:48] [SPEAKER_01] ¿tenemos suficiente gente
+[0:52:48 -> 0:52:50] [SPEAKER_01] para hacer dos tablas con esa actividad?
+[0:52:50 -> 0:52:52] [SPEAKER_04] ¿finalizadas?
+[0:52:52 -> 0:52:54] [SPEAKER_04] no, porque creo que
+[0:52:54 -> 0:52:56] [SPEAKER_01] ¿cuántas personas estaban
+[0:52:56 -> 0:52:58] [SPEAKER_01] ejecutando las animaciones hoy?
+[0:52:58 -> 0:53:00] [SPEAKER_08] yo le di mi teléfono a Isabel
+[0:53:00 -> 0:53:02] [SPEAKER_08] y el iPod
+[0:53:02 -> 0:53:04] [SPEAKER_01] yo estaba monitoreando a Isabel
+[0:53:04 -> 0:53:06] [SPEAKER_09] podemos hacerlo
+[0:53:06 -> 0:53:08] [SPEAKER_09] Cristina y yo podemos
+[0:53:08 -> 0:53:10] [SPEAKER_04] ¿cuántas?
+[0:53:12 -> 0:53:14] [SPEAKER_07] no hay mucho
+[0:53:14 -> 0:53:16] [SPEAKER_01] creo que estamos a medio
+[0:53:16 -> 0:53:18] [SPEAKER_09] creo que
+[0:53:18 -> 0:53:20] [SPEAKER_09] la cosa es que muchos
+[0:53:20 -> 0:53:22] [SPEAKER_07] no están aquí
+[0:53:22 -> 0:53:24] [SPEAKER_08] y algunos de ellos
+[0:53:24 -> 0:53:26] [SPEAKER_08] por ejemplo, Janina y Yaelin
+[0:53:26 -> 0:53:28] [SPEAKER_08] se fueron antes
+[0:53:28 -> 0:53:30] [SPEAKER_08] pero luego regresaron
+[0:53:30 -> 0:53:32] [SPEAKER_08] pero uno de ellos se acabó
+[0:53:32 -> 0:53:34] [SPEAKER_01] pero el otro
+[0:53:34 -> 0:53:36] [SPEAKER_01] el otro es genial, quiero que lo termine
+[0:53:36 -> 0:53:38] [SPEAKER_08] pero sabes qué?
+[0:53:38 -> 0:53:40] [SPEAKER_08] no tiene la parte
+[0:53:40 -> 0:53:42] [SPEAKER_01] de que se levantan
+[0:53:42 -> 0:53:44] [SPEAKER_08] está haciendo una especie de figura
+[0:53:44 -> 0:53:46] [SPEAKER_08] de dios
+[0:53:46 -> 0:53:48] [SPEAKER_08] pero ella lo quiere
+[0:53:48 -> 0:53:50] [SPEAKER_08] yo le estoy dando el teléfono
+[0:53:50 -> 0:53:52] [SPEAKER_08] y ella lo quería de este modo
+[0:53:52 -> 0:53:54] [SPEAKER_08] pero lo está haciendo de este modo
+[0:53:54 -> 0:53:56] [SPEAKER_04] Hanna, disculpe, ¿algunos comentarios finales?
+[0:53:56 -> 0:53:58] [SPEAKER_04] que estén
+[0:53:58 -> 0:54:00] [SPEAKER_04] tal vez estoy
+[0:54:00 -> 0:54:02] [SPEAKER_04] perdiendo tiempo
+[0:54:02 -> 0:54:04] [SPEAKER_04] muchas gracias

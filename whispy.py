@@ -52,7 +52,7 @@ def log_mel(path):
     return res
 
 
-def main(path, langs=['en', 'es'], print_line_nums=True, model_size="large-v2", fp16=False):
+def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False):
 
     print(f'Loading model : {model_size}', end=' ... ')
     model = whisper.load_model(model_size)

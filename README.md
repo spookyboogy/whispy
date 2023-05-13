@@ -97,8 +97,15 @@ Todo:
 - [x] write method for joining transcripts and diarizations (strip parts from yinrui_rip) 
 - [ ] write a pipeline which applies whispy/diarization/merging to an audio file (ez_mode)
 
-- [ ] test translation task for dealing with mixed language
+- [ ] make a multilingual test .wav file for testing multilingual handling  
 - [ ] find fast way to get language verification for audio segments
+        - test whisper transcription by
+            - first diarizing the audio
+            - loading audio using audio=whisper.load_audio(path)
+            - use whisper.pad_or_trim(audio) according to the diarization time segments (joined for efficieny?)
+            - per each segment, try transcribing using
+                - lang=whisper.detect_language(segment)
+                - res = whisper.decode(segment, lang=lang) 
 
 - [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original audio is m4a) 
 - [x] revisit and diarize everything with large-v2 and pyannote/speaker-diarization
