@@ -341,12 +341,12 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
 if __name__ == "__main__":
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\may_02\\"
-    # transcript_files = ["050223_meeting_pt1_en_transcript.txt",
-    #                     "050223_meeting_pt1_es_transcript.txt",
-    #                     "050223_meeting_pt1_fin.txt"]
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_25\\"
+    # transcript_files = ["042523_meeting_en_transcript.txt",
+    #                     "042523_meeting_es_transcript.txt",
+    #                     "042523_meeting_fin.txt"]
     # transcript_files = [folder + f for f in transcript_files]
-    # diarization_file = folder + "050223_meeting_pt1--diarization.txt"
+    # diarization_file = folder + "042523_meeting--diarization.txt"
 
     # for transcript in transcript_files:
     #     diarize_transcript(transcript, diarization_file, encoding="latin-1")
@@ -354,8 +354,8 @@ if __name__ == "__main__":
 
     # # copy result to a new groundtruth file where manual edits are done and won't be overwritten
     # # by any scripts. Convert that to csv after some tweaking and manual renaming
-    # f_in = folder + "050223_meeting_pt1_groundtruth.txt"
-    # convert_txt_to_csv(f_in, encoding='latin-1') #, encoding="ISO-8859-15")
+    # f_in = folder + "042523_meeting_groundtruth.txt"
+    # convert_txt_to_csv(f_in, encoding='latin-1')
     # # Make condensed version of new csv
     # f_in = folder + "050223_meeting_pt1_groundtruth.csv"
     # condense_csv_lines(f_in, encoding="latin-1")
