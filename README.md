@@ -9,14 +9,15 @@ Checklist:
     - [x] handle mixed language (none, 'en' script)
     - [x] convert to csv
     - [ ] listen/check/correct/finalize
-- [ ] mar_07 
+- [x] mar_07 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
+    - [x] merge transcripts with diarization
+    - [x] handle mixed language
+    - [x] listen/check/finalize
+    - [x] make condensed csv
 - [ ] mar_21 
     - [x] transcripts
         * [x] en 
