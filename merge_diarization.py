@@ -344,22 +344,22 @@ if __name__ == "__main__":
     # latin-1 encoding seems to accomodate both en and es transcripts gracefully
 
     encoding = "latin-1"
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
-    # transcript_files = ["030723_meeting_en_transcript.txt",
-    #                     "030723_meeting_es_transcript.txt",
-    #                     "030723_meeting_fin.txt"]
-    # transcript_files = [folder + f for f in transcript_files]
-    # diarization_file = folder + "030723_meeting--diarization.txt"
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_21\\"
+    transcript_files = ["032123_meeting_en_transcript.txt",
+                        "032123_meeting_es_transcript.txt",]
+                        #"032123_meeting_fin.txt"]
+    transcript_files = [folder + f for f in transcript_files]
+    diarization_file = folder + "032123_meeting--diarization.txt"
 
-    # for transcript in transcript_files:
-    #     diarize_transcript(transcript, diarization_file, encoding=encoding)
-    #     #diarize_transcript(transcript, diarization_file, encoding=encoding)
+    for transcript in transcript_files:
+        diarize_transcript(transcript, diarization_file, encoding=encoding)
+        #diarize_transcript(transcript, diarization_file, encoding=encoding)
 
-    # Copy result to a new groundtruth file where manual edits are done
-    # and won't be overwritten by any scripts. 
-    f_in = folder + "030723_meeting_groundtruth.txt"
-    # Convert that to csv after some tweaking and manual renaming
-    convert_txt_to_csv(f_in, encoding=encoding)
-    # Make condensed version of new csv
-    f_in = folder + "030723_meeting_groundtruth.csv"
-    condense_csv_lines(f_in, encoding=encoding)
+    # # Copy result to a new groundtruth file where manual edits are done
+    # # and won't be overwritten by any scripts. 
+    # f_in = folder + "032123_meeting_groundtruth.txt"
+    # # Convert that to csv after some tweaking and manual renaming
+    # convert_txt_to_csv(f_in, encoding=encoding)
+    # # Make condensed version of new csv
+    # f_in = folder + "032123_meeting_groundtruth.csv"
+    # condense_csv_lines(f_in, encoding=encoding)
