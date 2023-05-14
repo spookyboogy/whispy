@@ -106,6 +106,12 @@ Todo:
                 - lang=whisper.detect_language(segment)
                 - res = whisper.decode(segment, lang=lang) 
 
+- [ ] write a method which takes a diarized transcript with 
+        [t0 -> t1] [speaker] [lang /start] and [t2 -> t3] [speaker] [lang /stop]
+        markups which preserves the transcript timeline while substituing the
+        marked section with the equivalent section of the diarized transcript in the indicated language (should try to use consistent/matching names or preserve name of primary transcript) 
+
+
 - [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original audio is m4a) 
 - [x] revisit and diarize everything with large-v2 and pyannote/speaker-diarization
 - [ ] test whisper.cpp

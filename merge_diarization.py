@@ -321,7 +321,7 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     # Write to txt and csv
     f_name = os.path.splitext(transcript_file)[0]
     txt_out = f_name + "--merged.txt"
-    with open(txt_out, 'w') as f:
+    with open(txt_out, 'w', encoding=encoding) as f:
         # todo: write header
         for t0, t1, spk, txt in formatted_merger:
             f.write(f'[{t0} -> {t1}] [{spk}] {txt}\n')
@@ -341,23 +341,25 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
 if __name__ == "__main__":
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_25\\"
-    # transcript_files = ["042523_meeting_en_transcript.txt",
-    #                     "042523_meeting_es_transcript.txt",
-    #                     "042523_meeting_fin.txt"]
+    # latin-1 encoding seems to accomodate both en and es transcripts gracefully
+
+    encoding = "latin-1"
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_07\\"
+    # transcript_files = ["030723_meeting_en_transcript.txt",
+    #                     "030723_meeting_es_transcript.txt",
+    #                     "030723_meeting_fin.txt"]
     # transcript_files = [folder + f for f in transcript_files]
-    # diarization_file = folder + "042523_meeting--diarization.txt"
+    # diarization_file = folder + "030723_meeting--diarization.txt"
 
     # for transcript in transcript_files:
-    #     diarize_transcript(transcript, diarization_file, encoding="latin-1")
-    #     #diarize_transcript(transcript, diarization_file, encoding="ISO-8859-15")
+    #     diarize_transcript(transcript, diarization_file, encoding=encoding)
+    #     #diarize_transcript(transcript, diarization_file, encoding=encoding)
 
-    # copy result to a new groundtruth file where manual edits are done and won't be overwritten
-    # by any scripts. Convert that to csv after some tweaking and manual renaming
-    f_in = folder + "042523_meeting_groundtruth.txt"
-    convert_txt_to_csv(f_in, encoding='latin-1')
+    # Copy result to a new groundtruth file where manual edits are done
+    # and won't be overwritten by any scripts. 
+    f_in = folder + "030723_meeting_groundtruth.txt"
+    # Convert that to csv after some tweaking and manual renaming
+    convert_txt_to_csv(f_in, encoding=encoding)
     # Make condensed version of new csv
-    f_in = folder + "042523_meeting_groundtruth.csv"
-    condense_csv_lines(f_in, encoding="latin-1")
-
-    # latin-1 encoding seems to accomodate both en and es transcripts gracefully
+    f_in = folder + "030723_meeting_groundtruth.csv"
+    condense_csv_lines(f_in, encoding=encoding)
