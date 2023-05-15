@@ -1,4 +1,5 @@
 Checklist:
+
 - [ ] feb_07 
     - [x] transcripts
         * [x] en 
@@ -9,6 +10,7 @@ Checklist:
     - [x] handle mixed language (none, 'en' script)
     - [x] convert to csv
     - [ ] listen/check/correct/finalize
+
 - [x] mar_07 
     - [x] transcripts
         * [x] en 
@@ -17,15 +19,18 @@ Checklist:
     - [x] merge transcripts with diarization
     - [x] handle mixed language
     - [x] listen/check/finalize
-    - [x] make condensed csv
-- [ ] mar_21 
+    - [x] convert to joined csv
+
+- [x] mar_21 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
+    - [x] merge transcripts with diarization
+    - [x] handle mixed language
+    - [x] listen/check/finalize
+    - [x] convert to joined csv
+
 - [ ] mar_28 
     - [x] transcripts
         * [x] en 
