@@ -103,7 +103,7 @@ Todo:
 - [ ] write a pipeline which applies whispy/diarization/merging to an audio file (ez_mode)
 
 - [ ] make a multilingual test .wav file for testing multilingual handling  
-- [ ] find fast way to get language verification for audio segments
+- [ ] find fast way to get language verification for audio segments:
         - test whisper transcription by
             - first diarizing the audio
             - loading audio using audio=whisper.load_audio(path)
