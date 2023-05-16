@@ -97,20 +97,19 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
 
 if __name__ == '__main__':
     
-
-    files = ["apr_25\\042523_meeting.wav", 
-             "may_02\\050223_meeting_pt1.wav",
-             "may_02\\050223_meeting_pt2.wav"]
+    diarizing=False
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
+    files = ["mar_28\\032823_meeting.wav",]
+    files = [os.path.join(folder, file) for file in files]
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
     # and/or check os.getcwd() assuming user is running in /whispy 
-    path = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
 
-    for uri in files:
-        full_path = os.path.join(path, uri)
-        print(f'\nfile: {full_path}\n')
-        main(full_path)
-        diarize.main(full_path)
+    for file in files:
+        print(f'\nfile: {file}\n')
+        main(file, langs=['en'])
+        if diarizing:
+            diarize.main(file)
         
 
 
