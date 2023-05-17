@@ -99,7 +99,7 @@ if __name__ == '__main__':
     
     diarizing=False
     folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
-    files = ["mar_28\\032823_meeting.wav",]
+    files = ["mar_28\\032823_26m50s-27m54s.wav",]
     files = [os.path.join(folder, file) for file in files]
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
@@ -107,9 +107,10 @@ if __name__ == '__main__':
 
     for file in files:
         print(f'\nfile: {file}\n')
-        main(file, langs=['en'])
+        main(file, langs=['es'])
         if diarizing:
             diarize.main(file)
+            #merge diarization after
         
 
 

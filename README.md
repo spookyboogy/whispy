@@ -1,6 +1,6 @@
 Checklist:
 
-- [ ] feb_07 
+- [ ] feb_07
     - [x] transcripts
         * [x] en 
         * [x] es
@@ -100,9 +100,10 @@ Todo:
 - [ ] test differnt beam_search values for transcriptions
 
 - [x] write method for joining transcripts and diarizations (strip parts from yinrui_rip) 
-- [ ] write a pipeline which applies whispy/diarization/merging to an audio file (ez_mode)
+- [ ] write a pipeline/cli which applies whispy/diarization/merging to an audio file (user-facing)
 
-- [ ] make a multilingual test .wav file for testing multilingual handling  
+- [ ] make a good multilingual test .wav file for testing multilingual handling 
+
 - [ ] find fast way to get language verification for audio segments:
         - test whisper transcription by
             - first diarizing the audio
@@ -116,9 +117,12 @@ Todo:
         [t0 -> t1] [speaker] [lang /start] and [t2 -> t3] [speaker] [lang /stop]
         markups which preserves the transcript timeline while substituing the
         marked section with the equivalent section of the diarized transcript in the indicated language (should try to use consistent/matching names or preserve name of primary transcript) 
+s
+- [ ] write a similar method for stitching transcripts up with retranscriptions of inaccurate segments
+        - appropriately offsets times
+        - preserves diarized names (if names)
 
-
-- [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original audio is m4a) 
+- [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original audio is m4a so converting to wav might waste time/space) 
 - [x] revisit and diarize everything with large-v2 and pyannote/speaker-diarization
 - [ ] test whisper.cpp
 - [ ] get a colab (or other) set up to run remotely/on better hardware/multiple at a time

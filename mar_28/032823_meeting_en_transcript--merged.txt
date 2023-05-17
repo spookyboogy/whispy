@@ -165,43 +165,43 @@
 [0:33:42 -> 0:33:54] [SPEAKER_07] it
 [0:34:05 -> 0:34:10] [SPEAKER_09] funny
 [0:34:13 -> 0:34:18] [SPEAKER_09] pero si lo decimos pero no es una mala palabra no no es una mala palabra pero
-[0:34:18 -> 0:34:22] [SPEAKER_07] no confia su mente así pero yo de que estás hablando como muy familiar
+[0:34:18 -> 0:34:22] [SPEAKER_07] no confia su mente asï¿½ pero yo de que estï¿½s hablando como muy familiar
 [0:34:22 -> 0:34:29] [SPEAKER_09] muy vulgar muy de calle y eso es importante saberlo no porque
-[0:34:31 -> 0:34:37] [SPEAKER_09] bueno estaban muy emocionados si sabés que llevar la cámara a casa
-[0:34:37 -> 0:34:42] [SPEAKER_01] casa cuando podía
-[0:34:42 -> 0:34:48] [SPEAKER_09] le dije que es que no que queríamos ver las fotos hoy entonces mañana que como
+[0:34:31 -> 0:34:37] [SPEAKER_09] bueno estaban muy emocionados si sabï¿½s que llevar la cï¿½mara a casa
+[0:34:37 -> 0:34:42] [SPEAKER_01] casa cuando podï¿½a
+[0:34:42 -> 0:34:48] [SPEAKER_09] le dije que es que no que querï¿½amos ver las fotos hoy entonces maï¿½ana que como
 [0:34:48 -> 0:34:54] [SPEAKER_01] seguimos esto bueno yo estaba sacando las fotos
 [0:34:54 -> 0:34:56] [SPEAKER_02] con el wifi
 [0:34:56 -> 0:34:58] [SPEAKER_02] yo voy a hacer la noche
 [0:34:58 -> 0:35:00] [SPEAKER_02] durante mi clase
-[0:35:00 -> 0:35:02] [SPEAKER_02] mi Belén se llevó algunas
+[0:35:00 -> 0:35:02] [SPEAKER_02] mi Belï¿½n se llevï¿½ algunas
 [0:35:02 -> 0:35:04] [SPEAKER_09] durante tu clase
-[0:35:04 -> 0:35:06] [SPEAKER_09] si no sé
-[0:35:06 -> 0:35:08] [SPEAKER_02] Belén tiene
+[0:35:04 -> 0:35:06] [SPEAKER_09] si no sï¿½
+[0:35:06 -> 0:35:08] [SPEAKER_02] Belï¿½n tiene
 [0:35:08 -> 0:35:10] [SPEAKER_00] los otros
-[0:35:10 -> 0:35:12] [SPEAKER_02] Belén tiene algunas
-[0:35:12 -> 0:35:14] [SPEAKER_09] y porque que queríamos
-[0:35:14 -> 0:35:16] [SPEAKER_09] mañana habíamos dicho en el grupo
-[0:35:16 -> 0:35:18] [SPEAKER_09] en los grupos pequeños
+[0:35:10 -> 0:35:12] [SPEAKER_02] Belï¿½n tiene algunas
+[0:35:12 -> 0:35:14] [SPEAKER_09] y porque que querï¿½amos
+[0:35:14 -> 0:35:16] [SPEAKER_09] maï¿½ana habï¿½amos dicho en el grupo
+[0:35:16 -> 0:35:18] [SPEAKER_09] en los grupos pequeï¿½os
 [0:35:18 -> 0:35:20] [SPEAKER_09] verlas
-[0:35:20 -> 0:35:22] [SPEAKER_02] verlas en las cámaras
+[0:35:20 -> 0:35:22] [SPEAKER_02] verlas en las cï¿½maras
 [0:35:22 -> 0:35:24] [SPEAKER_02] porque no tenemos computadoras
 [0:35:24 -> 0:35:26] [SPEAKER_02] por favor
 [0:35:26 -> 0:35:28] [SPEAKER_02] no tenemos suficientes computadoras
-[0:35:28 -> 0:35:30] [SPEAKER_02] no sé si pueden accesar
+[0:35:28 -> 0:35:30] [SPEAKER_02] no sï¿½ si pueden accesar
 [0:35:30 -> 0:35:32] [SPEAKER_02] tal vez pueden usar sus propios
 [0:35:32 -> 0:35:34] [SPEAKER_02] computadoras
 [0:35:34 -> 0:35:36] [SPEAKER_02] como
 [0:35:36 -> 0:35:38] [SPEAKER_10] voy a tener el mio
-[0:35:38 -> 0:35:40] [SPEAKER_08] también
+[0:35:38 -> 0:35:40] [SPEAKER_08] tambiï¿½n
 [0:35:40 -> 0:35:42] [SPEAKER_08] si pero con mi grupo
-[0:35:42 -> 0:35:44] [SPEAKER_08] también puedo usar computadora porque van a estar en google drive
+[0:35:42 -> 0:35:44] [SPEAKER_08] tambiï¿½n puedo usar computadora porque van a estar en google drive
 [0:35:44 -> 0:35:46] [SPEAKER_08] pero
 [0:35:46 -> 0:35:48] [SPEAKER_02] todos van a ser
 [0:35:48 -> 0:35:50] [SPEAKER_02] al mismo tiempo
 [0:35:50 -> 0:35:52] [SPEAKER_02] en grupos
 [0:35:52 -> 0:35:54] [SPEAKER_02] una persona
-[0:35:54 -> 0:35:56] [SPEAKER_02] pequeños
+[0:35:54 -> 0:35:56] [SPEAKER_02] pequeï¿½os
 [0:35:56 -> 0:35:58] [SPEAKER_02] todos van a ser al mismo tiempo
 [0:35:58 -> 0:36:00] [SPEAKER_08] sus amigos
 [0:36:00 -> 0:36:02] [SPEAKER_09] si porque tienen muchas
@@ -216,52 +216,52 @@
 [0:36:18 -> 0:36:20] [SPEAKER_05] cada grupo puede decidir si quieren cambiar
 [0:36:20 -> 0:36:22] [SPEAKER_05] o si quieren quedarse con su grupo
 [0:36:22 -> 0:36:24] [SPEAKER_05] con el grupo que van a ver hoy
-[0:36:24 -> 0:36:26] [SPEAKER_05] por ejemplo, no sé si Manuel va a venir
+[0:36:24 -> 0:36:26] [SPEAKER_05] por ejemplo, no sï¿½ si Manuel va a venir
 [0:36:26 -> 0:36:28] [SPEAKER_10] si solo lo hago
 [0:36:28 -> 0:36:30] [SPEAKER_05] podemos decidir en nuestro grupo
 [0:36:30 -> 0:36:32] [SPEAKER_05] si quieren
-[0:36:34 -> 0:36:36] [SPEAKER_08] y tenemos las cámaras, ellos se encantan de ir a través
+[0:36:34 -> 0:36:36] [SPEAKER_08] y tenemos las cï¿½maras, ellos se encantan de ir a travï¿½s
 [0:36:36 -> 0:36:38] [SPEAKER_08] y han descubierto videos
 [0:36:38 -> 0:36:40] [SPEAKER_08] hay muchos videos
 [0:36:40 -> 0:36:42] [SPEAKER_09] pero hay que capturarlo
 [0:36:42 -> 0:36:44] [SPEAKER_09] los investigadores
 [0:36:44 -> 0:36:46] [SPEAKER_09] o bien
-[0:36:46 -> 0:36:48] [SPEAKER_09] grabarlo con el teléfono
+[0:36:46 -> 0:36:48] [SPEAKER_09] grabarlo con el telï¿½fono
 [0:36:48 -> 0:36:50] [SPEAKER_09] o film notes
 [0:36:50 -> 0:36:52] [SPEAKER_09] tomando film notes
 [0:36:52 -> 0:36:54] [SPEAKER_09] porque se va, se olvida
-[0:36:54 -> 0:36:56] [SPEAKER_09] fíjate hasta hoy, ahora, se van perdiendo detalles
-[0:36:56 -> 0:36:58] [SPEAKER_09] yo tengo que volver a la grabación
-[0:36:58 -> 0:37:00] [SPEAKER_09] para oír algunas cosas que dijeron
-[0:37:00 -> 0:37:02] [SPEAKER_09] si podéis grabar
+[0:36:54 -> 0:36:56] [SPEAKER_09] fï¿½jate hasta hoy, ahora, se van perdiendo detalles
+[0:36:56 -> 0:36:58] [SPEAKER_09] yo tengo que volver a la grabaciï¿½n
+[0:36:58 -> 0:37:00] [SPEAKER_09] para oï¿½r algunas cosas que dijeron
+[0:37:00 -> 0:37:02] [SPEAKER_09] si podï¿½is grabar
 [0:37:02 -> 0:37:04] [SPEAKER_09] o tomar notas
 [0:37:04 -> 0:37:06] [SPEAKER_09] porque es multitasking
-[0:37:06 -> 0:37:08] [SPEAKER_09] has prestado atención a los niños y a las revistas
+[0:37:06 -> 0:37:08] [SPEAKER_09] has prestado atenciï¿½n a los niï¿½os y a las revistas
 [0:37:08 -> 0:37:10] [SPEAKER_10] a veces olvido
 [0:37:10 -> 0:37:12] [SPEAKER_10] lo siento
 [0:37:12 -> 0:37:14] [SPEAKER_07] super importante
-[0:37:14 -> 0:37:16] [SPEAKER_07] perdón, es que estaba
-[0:37:16 -> 0:37:18] [SPEAKER_07] Andrés tenía que responder algo
-[0:37:18 -> 0:37:20] [SPEAKER_07] ¿están hablando de la próxima sesión?
-[0:37:20 -> 0:37:22] [SPEAKER_09] mañana, sí
+[0:37:14 -> 0:37:16] [SPEAKER_07] perdï¿½n, es que estaba
+[0:37:16 -> 0:37:18] [SPEAKER_07] Andrï¿½s tenï¿½a que responder algo
+[0:37:18 -> 0:37:20] [SPEAKER_07] ï¿½estï¿½n hablando de la prï¿½xima sesiï¿½n?
+[0:37:20 -> 0:37:22] [SPEAKER_09] maï¿½ana, sï¿½
 [0:37:22 -> 0:37:24] [SPEAKER_09] porque la idea es
 [0:37:24 -> 0:37:26] [SPEAKER_09] moving forward
 [0:37:26 -> 0:37:28] [SPEAKER_09] is to create stop motion animations
 [0:37:28 -> 0:37:30] [SPEAKER_09] right Joe?
 [0:37:30 -> 0:37:32] [SPEAKER_09] stop motion animations
 [0:37:32 -> 0:37:34] [SPEAKER_07] porque sean mis preguntas como los next steps
-[0:37:34 -> 0:37:36] [SPEAKER_07] después de hoy día
-[0:37:36 -> 0:37:38] [SPEAKER_07] porque también sería buenísimo
+[0:37:34 -> 0:37:36] [SPEAKER_07] despuï¿½s de hoy dï¿½a
+[0:37:36 -> 0:37:38] [SPEAKER_07] porque tambiï¿½n serï¿½a buenï¿½simo
 [0:37:38 -> 0:37:40] [SPEAKER_07] que pudieran escribir un poco
 [0:37:40 -> 0:37:42] [SPEAKER_09] we have a handout
-[0:37:42 -> 0:37:44] [SPEAKER_09] mañana?
-[0:37:44 -> 0:37:46] [SPEAKER_10] sí, creo que sí
+[0:37:42 -> 0:37:44] [SPEAKER_09] maï¿½ana?
+[0:37:44 -> 0:37:46] [SPEAKER_10] sï¿½, creo que sï¿½
 [0:37:46 -> 0:37:48] [SPEAKER_05] we have what?
 [0:37:48 -> 0:37:50] [SPEAKER_05] a handout?
 [0:37:50 -> 0:37:52] [SPEAKER_05] yes, I will print it
 [0:37:52 -> 0:37:54] [SPEAKER_05] con preguntas
 [0:37:54 -> 0:37:56] [SPEAKER_05] van a dibujar en uno de sus cuadros
-[0:37:56 -> 0:37:58] [SPEAKER_05] y Belén tuvo la idea
+[0:37:56 -> 0:37:58] [SPEAKER_05] y Belï¿½n tuvo la idea
 [0:37:58 -> 0:38:00] [SPEAKER_05] de que esos dibujos
 [0:38:00 -> 0:38:02] [SPEAKER_05] vamos a pegar todos en un cartel
 [0:38:02 -> 0:38:04] [SPEAKER_05] explicando su momento favorito

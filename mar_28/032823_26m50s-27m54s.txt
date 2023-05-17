@@ -1,0 +1,39 @@
+Audio File : whispy\mar_28\032823_26m50s-27m54s.wav             
+Model size : large-v2
+
+offset: 26m50s-27m54s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting es transcription...          
+ Time : 15:11:02          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[0:00:00 -> 0:00:03] Fue como bonito también eso, como un poco hablando de...
+[0:00:03 -> 0:00:04] Sí.
+[0:00:05 -> 0:00:16] Yo no sé, a mí que me parecía que estaba un poco... tenía miedo, porque había unos hombres que nos parecían un poco, you know...
+[0:00:16 -> 0:00:17] Sketchy.
+[0:00:17 -> 0:00:18] Drag y sketch.
+[0:00:18 -> 0:00:19] Yeah.
+[0:00:19 -> 0:00:24] Y inmediatamente se distendía y se escondía detrás de alguien o...
+[0:00:24 -> 0:00:28] I know, a mí, I was just hyper alert cuando llegamos y seeing what's up.
+[0:00:28 -> 0:00:29] Ella es como así.
+[0:00:29 -> 0:00:30] Sí.
+[0:00:30 -> 0:00:34] Porque antes pasamos por el edificio donde vive su abuela o...
+[0:00:34 -> 0:00:35] No a mí.
+[0:00:35 -> 0:00:36] Sí, no a mí.
+[0:00:36 -> 0:00:41] Pero cuando llegamos a seeing what's up, ella estaba súper atenta.
+[0:00:41 -> 0:00:43] A lo mejor le han dicho a alguien que le cuida...
+[0:00:43 -> 0:00:45] Sí, sí, creo que sí.
+[0:00:45 -> 0:00:48] Pero estuvo... conocí a dos personas en el camino.
+[0:00:48 -> 0:00:49] Sí, sí.
+[0:00:49 -> 0:00:51] Nos abrazó y estaba en su salsa.
+[0:00:51 -> 0:00:54] Y aquí vive mi abuelita y voy a sacar fotos por aquí, por allá y por el otro lado también.
+[0:00:54 -> 0:00:55] Sí, sí.
+[0:00:55 -> 0:00:59] Y aquí vive mi abuelita, trayendo a todos los niños, venir, venir.
+[0:00:59 -> 0:01:04] Y luego la tiendita en la que entramos, también fue una tiendita de dulces.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished es transcription...          
+ Time : 15:22:14          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

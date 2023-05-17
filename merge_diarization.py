@@ -345,7 +345,7 @@ if __name__ == "__main__":
 
     encoding = "latin-1"
     folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_28\\"
-    transcript_files = ["032823_meeting_en_transcript.txt",]
+    transcript_files = ["032823_retranscribe_segment_es_transcript.txt",]
                         #"032123_meeting_es_transcript.txt",]
                         #"032123_meeting_fin.txt"]
     transcript_files = [folder + f for f in transcript_files]

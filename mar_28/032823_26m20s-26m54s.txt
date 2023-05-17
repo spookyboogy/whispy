@@ -1,0 +1,36 @@
+Audio File : whispy\mar_28\032823_retranscribe_segment.wav             
+Model size : large-v2
+
+original audio time : 26m20s-26m54s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting es transcription...          
+ Time : 14:14:25          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+offset - 26m20s-26m54s
+
+[0:00:00 -> 0:00:04] y estaba como, ahora, ahora, ahora, como parando como que...
+[0:00:04 -> 0:00:09] porque iba a dar revés, porque había este coche, estaba mal aparcado, no?
+[0:00:09 -> 0:00:11] Sí, porque tal vez porque...
+[0:00:11 -> 0:00:13] Estaba comprando, ahí, en una de las cosas.
+[0:00:13 -> 0:00:15] Sí, creo que el manejador estaba comprando en la...
+[0:00:15 -> 0:00:20] Y dije, este va a echar para atrás, y nosotros cruzamos, y un hombre, no, no, venga, venga, venga, como ahí, no iba hablando.
+[0:00:20 -> 0:00:22] Sí, fue muy divertido.
+[0:00:22 -> 0:00:25] Tomaron fotos de eso.
+[0:00:25 -> 0:00:27] Como, esto parecía un chabón de caballo en el real.
+[0:00:27 -> 0:00:31] Estábamos un poco preocupados de que estuvieran seguros los niños.
+[0:00:31 -> 0:00:34] Estaba pensando que, ¿están locos, Washington Heights?
+[0:00:34 -> 0:00:38] Como que, es como que hay una percepción de peligro permanente.
+[0:00:38 -> 0:00:44] Uno nunca sabe dónde alguien va a doblar, alguien va a salir corriendo, alguien va a salir persiguiendo, viene algo.
+[0:00:44 -> 0:00:50] Y en ese sentido, todo el mundo como que estaba súper consciente de que había niños en el camino.
+[0:00:50 -> 0:00:52] Y los niños, no se toman.
+[0:00:52 -> 0:01:01] Entonces, como que fue una cosa medio rara de sentir, por un lado, como una extrema seguridad en un contexto de plena locura.
+[0:01:01 -> 0:01:04] Fue como bonito también eso, como un poco hablando de...
+[0:01:04 -> 0:01:05] Sí.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished es transcription...          
+ Time : 14:21:27          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
