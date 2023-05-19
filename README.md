@@ -31,14 +31,14 @@ Checklist:
     - [x] listen/check/finalize
     - [x] convert to joined csv
 
-- [ ] mar_28 
+- [x] mar_28 
     - [x] transcripts
         * [x] en 
         * [x] es
     - [x] diarization
-    - [ ] merge transcripts with diarization
-    - [ ] handle mixed language
-    - [ ] listen/check/finalize
+    - [x] merge transcripts with diarization
+    - [x] handle mixed language
+    - [x] listen/check/finalize
 
 - [x] apr_18 
     - [x] Meeting with teachers
