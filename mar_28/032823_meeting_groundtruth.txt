@@ -5,51 +5,51 @@
 [0:00:14 -> 0:00:16] [Cristina] I know, con la mano! (music)
 [0:00:30 -> 0:00:32] [SPEAKER_07] Es Jaden
 [0:00:34 -> 0:00:36] [SPEAKER_07] que lo como con papas
-[0:00:40 -> 0:00:42] [Belén] Nathan decía yo voy cada semana
-[0:00:42 -> 0:00:44] [SPEAKER_07] Chick file es mas caro que yo
-[0:00:44 -> 0:00:46] [SPEAKER_07] mira
-[0:00:46 -> 0:00:48] [SPEAKER_07] y de ahí quería ir a Mc Donalds
+[0:00:40 -> 0:00:42] [Belén] Nathan decía, chick file, yo voy cada semana
+[0:00:42 -> 0:00:44] [SPEAKER_07] Chick file es mas caro que yo...
+[0:00:44 -> 0:00:46] [SPEAKER_07] mira...
+[0:00:46 -> 0:00:48] [SPEAKER_07] y de ahí quería ir a McDonalds
 [0:00:48 -> 0:00:50] [SPEAKER_07] y dije no, muy lejos
 [0:00:50 -> 0:00:52] [SPEAKER_05] Jaden quería cruzar el puente
 [0:00:52 -> 0:00:54] [SPEAKER_05] y ahora vamos a cruzar el puente
 [0:00:54 -> 0:00:56] [SPEAKER_07] a la casa de mi abuelita
-[0:00:58 -> 0:01:00] [SPEAKER_05] que? (noise)
-[0:01:00 -> 0:01:02] [None] (noise)
+[0:00:58 -> 0:01:00] [None] que? (music)
+[0:01:00 -> 0:01:02] [None] que? (music)
 [0:01:02 -> 0:01:04] [None] (noise)
 [0:01:06 -> 0:01:08] [SPEAKER_07] había que cruzar la calle
-[0:01:08 -> 0:01:10] [SPEAKER_07] esperando a Paulina 
-[0:01:10 -> 0:01:12] [SPEAKER_07] Andrea y Agostina
+[0:01:08 -> 0:01:10] [Patricia] esperando a Paulina
+[0:01:10 -> 0:01:12] [Patricia] Andrea y Agostina
 [0:01:12 -> 0:01:14] [SPEAKER_07] también de repente yo no había, me di cuenta
 [0:01:14 -> 0:01:16] [SPEAKER_07] pero todo ahí también la ropa, también han comprado ropa
-[0:01:16 -> 0:01:18] [SPEAKER_05] ahí
+[0:01:16 -> 0:01:18] [Cristina] Si...
 [0:01:18 -> 0:01:20] [SPEAKER_05] y Nathan decía esos son los zapatos de gallo
 [0:01:20 -> 0:01:22] [SPEAKER_05] ah es verdad?
-[0:01:22 -> 0:01:24] [SPEAKER_05] yo pensé si quería decir gallo
-[0:01:24 -> 0:01:26] [SPEAKER_05] que quería decir con gallo
-[0:01:26 -> 0:01:28] [SPEAKER_05] nunca has visto un gallo?
-[0:01:30 -> 0:01:32] [SPEAKER_05] un gallo o el animal
-[0:01:32 -> 0:01:34] [SPEAKER_05] un gusto así
-[0:01:34 -> 0:01:36] [SPEAKER_05] cuando te pones esos zapatos
-[0:01:36 -> 0:01:38] [SPEAKER_05] pareces gallo
+[0:01:22 -> 0:01:24] [SPEAKER_05] yo pensé que quería decir gallo,
+[0:01:24 -> 0:01:26] [SPEAKER_05] que quería decir con gallo.
+[0:01:26 -> 0:01:28] [SPEAKER_05] Nunca has visto un gallo?
+[0:01:30 -> 0:01:32] [SPEAKER_05] Un gallo o el animal?
+[0:01:32 -> 0:01:34] [SPEAKER_05] Sí, pero decia,
+[0:01:34 -> 0:01:36] [SPEAKER_05] "Cuando te pones esos zapatos
+[0:01:36 -> 0:01:38] [SPEAKER_05] pareces gallo." (laughter)
 [0:01:40 -> 0:01:42] [Patricia] hay unos que tienen algo verdad?
-[0:01:42 -> 0:01:44] [SPEAKER_05] no, no, el solo
-[0:01:44 -> 0:01:46] [SPEAKER_05] eso, la cola
+[0:01:42 -> 0:01:44] [SPEAKER_05] no, no, solo... (noise)
+[0:01:44 -> 0:01:46] [SPEAKER_05] eso, la cola (noise)
 [0:01:46 -> 0:01:48] [Cristina] como open-toed
 [0:01:48 -> 0:01:50] [SPEAKER_05] si
 [0:01:50 -> 0:01:52] [SPEAKER_05] eso de ahí
 [0:01:52 -> 0:01:54] [SPEAKER_05] a cual?
 [0:01:54 -> 0:01:56] [SPEAKER_05] ante
-[0:01:56 -> 0:01:58] [SPEAKER_07] ah, esos son los wedges de gallo
+[0:01:56 -> 0:01:58] [SPEAKER_05] ah, esos son los wedges de gallo
 [0:01:58 -> 0:02:00] [SPEAKER_07] digo, como se llama?
-[0:02:00 -> 0:02:02] [Cristina] los wedges
+[0:02:00 -> 0:02:02] [Cristina] Los wedges
 [0:02:02 -> 0:02:04] [SPEAKER_07] quien conoce UPS?
 [0:02:04 -> 0:02:06] [SPEAKER_07] y Lizbeth dijo, mi mamá viene todo el tiempo
 [0:02:06 -> 0:02:08] [SPEAKER_07] y ahora me acabo de dar cuenta, su mamá tiene un negocio
-[0:02:08 -> 0:02:10] [SPEAKER_07] tiene como
+[0:02:08 -> 0:02:10] [SPEAKER_07] tiene como,
 [0:02:10 -> 0:02:12] [SPEAKER_07] hace como, tiene un cricket
 [0:02:12 -> 0:02:14] [SPEAKER_07] de esas máquinas
 [0:02:14 -> 0:02:16] [SPEAKER_07] y hace como invitaciones y cosas
-[0:02:16 -> 0:02:18] [Patricia] las mamá de? 
+[0:02:16 -> 0:02:18] [Patricia] la mamá de?
 [0:02:18 -> 0:02:20] [SPEAKER_07] Lizbeth. Entonces seguro ella tiene un Etsy store
 [0:02:20 -> 0:02:22] [SPEAKER_07] o un algo store, entonces me imagino que
 [0:02:22 -> 0:02:24] [SPEAKER_07] tiene que mandar cosas
@@ -79,13 +79,13 @@
 [0:03:12 -> 0:03:14] [Patricia] pero con los niños
 [0:03:14 -> 0:03:16] [Patricia] aquí, como que los valoran
 [0:03:16 -> 0:03:18] [Patricia] de una manera especial
-[0:03:18 -> 0:03:20] [SPEAKER_04] esa gente tenía el libro de Lola
+[0:03:18 -> 0:03:20] [SPEAKER_04] Te acuerdas esa gente tenía el libro de Lola
 [0:03:20 -> 0:03:22] [Patricia] el libro de Lola
 [0:03:22 -> 0:03:24] [SPEAKER_04] el libro de Lola
 [0:03:24 -> 0:03:26] [SPEAKER_04] que leímos al principio
-[0:03:26 -> 0:03:28] [Patricia] no lo leímos en esta
-[0:03:28 -> 0:03:30] [SPEAKER_04] pero Cristina hizo
-[0:03:30 -> 0:03:32] [SPEAKER_04] para hacer el conversación
+[0:03:26 -> 0:03:28] [Patricia] no lo leímos en esta...
+[0:03:28 -> 0:03:30] [SPEAKER_04] no pero Cristina hizo
+[0:03:30 -> 0:03:32] [SPEAKER_04] para hacer el conversation
 [0:03:32 -> 0:03:34] [SPEAKER_04] si hablamos de las imágenes
 [0:03:34 -> 0:03:36] [SPEAKER_04] puso la imagen, dijo que ven
 [0:03:36 -> 0:03:38] [SPEAKER_04] para hablar de la imagen
@@ -97,34 +97,34 @@
 [0:03:48 -> 0:03:50] [SPEAKER_07] dijo eso?
 [0:03:50 -> 0:03:52] [SPEAKER_04] si y me recuerda a esto
 [0:03:52 -> 0:03:54] [SPEAKER_04] las imágenes con música
-[0:03:54 -> 0:03:56] [Cristina] es esto
-[0:03:56 -> 0:03:58] [Cristina] It is
+[0:03:54 -> 0:03:56] [Cristina] es esto, yeah.
+[0:03:56 -> 0:03:58] [Cristina] It is. Es esto.
 [0:03:58 -> 0:04:00] [SPEAKER_05] la mamá de Isabel
 [0:04:00 -> 0:04:02] [SPEAKER_05] que llegó tarde
 [0:04:02 -> 0:04:04] [SPEAKER_05] y que nos cruzamos
-[0:04:04 -> 0:04:06] [SPEAKER_01] cuando fue a la iglesia
+[0:04:04 -> 0:04:06] [Patricia] cuando fue a la iglesia
 [0:04:06 -> 0:04:08] [SPEAKER_05] como que no la vi nunca
 [0:04:08 -> 0:04:10] [SPEAKER_05] pues si fue
 [0:04:10 -> 0:04:12] [SPEAKER_07] la encontramos dismisa
-[0:04:12 -> 0:04:14] [SPEAKER_06] aquí abajo
+[0:04:12 -> 0:04:14] [SPEAKER_07] aquí abajo
 [0:04:14 -> 0:04:16] [SPEAKER_05] yo estaba llamándole
 [0:04:16 -> 0:04:18] [SPEAKER_05] a Angela para ver donde estaban
 [0:04:18 -> 0:04:20] [SPEAKER_05] porque ella quería encontrarle a alguien
-[0:04:20 -> 0:04:22] [SPEAKER_05] perfecto porque salimos tarde
+[0:04:20 -> 0:04:22] [SPEAKER_08] perfecto porque salimos tarde
 [0:04:22 -> 0:04:24] [SPEAKER_05] y ahí le dije que estaban saliendo
 [0:04:24 -> 0:04:26] [SPEAKER_05] y para encontrarles
 [0:04:28 -> 0:04:30] [SPEAKER_08] She's such a godsend.
 [0:04:30 -> 0:04:32] [SPEAKER_08] She's so sweet.
 [0:04:32 -> 0:04:34] [Patricia] estaba contándonos
-[0:04:34 -> 0:04:36] [Patricia] los niños, nos falta uno y yo
+[0:04:34 -> 0:04:36] [Patricia] los niños, nos falta uno "waaahhhh"
 [0:04:36 -> 0:04:38] [Patricia] pero no, no faltaba
-[0:04:38 -> 0:04:40] [Patricia] y ella estaba como waaaaahhhh
-[0:04:40 -> 0:04:42] [Belén] se sentía súper mal
-[0:04:42 -> 0:04:44] [Belén] porque dijo yo le ofrecí venir
-[0:04:44 -> 0:04:46] [Belén] y había mucho tráfico y le dije que iba a estar
-[0:04:46 -> 0:04:48] [Belén] a las 4 y son las 4 y cuarto
-[0:04:48 -> 0:04:50] [Belén] por eso le dije... y habia mucho trafico, entonces le dije,
-[0:04:50 -> 0:04:52] [Belén] espérese, ya, ya, ya, mucho
+[0:04:38 -> 0:04:40] [Patricia] y ella estaba como "waaaaahhhh"
+[0:04:40 -> 0:04:42] [SPEAKER_05] se sentía súper mal
+[0:04:42 -> 0:04:44] [SPEAKER_05] porque dijo yo le ofrecí venir
+[0:04:44 -> 0:04:46] [SPEAKER_05] y había mucho tráfico y le dije que iba a estar
+[0:04:46 -> 0:04:48] [SPEAKER_05] a las 4 y son las 4 y cuarto
+[0:04:48 -> 0:04:50] [SPEAKER_05] por eso le dije... y habia mucho trafico, entonces le dije,
+[0:04:50 -> 0:04:52] [SPEAKER_05] espérese, ya, ya, ya, mucho
 [0:04:52 -> 0:04:54] [Patricia] porque la otra vez
 [0:04:54 -> 0:04:56] [Patricia] yo no contacté con la mamá de Isabel por algo
 [0:04:56 -> 0:04:58] [Patricia] creo que dejé el mensaje y no había nadie
@@ -162,12 +162,12 @@
 [0:06:02 -> 0:06:04] [Patricia] yo a mi preguntar eso
 [0:06:04 -> 0:06:06] [SPEAKER_07] eso no preguntamos
 [0:06:06 -> 0:06:08] [SPEAKER_05] pero nosotros nos basamos
-[0:06:08 -> 0:06:10] [SPEAKER_05] en la comida loca
+[0:06:08 -> 0:06:10] [SPEAKER_05] en la vida loca
 [0:06:10 -> 0:06:12] [Patricia] viviendo la vida loca
-[0:06:12 -> 0:06:14] [Belén] es que ellos decían
-[0:06:14 -> 0:06:16] [Belén] toda la comida que conocen de todos los lugares
-[0:06:16 -> 0:06:18] [SPEAKER_05] un tour culinario
-[0:06:18 -> 0:06:20] [SPEAKER_05] de la cuadra
+[0:06:12 -> 0:06:14] [SPEAKER_05] es que ellos decían
+[0:06:14 -> 0:06:16] [SPEAKER_05] toda la comida que conocen de todos los lugares
+[0:06:16 -> 0:06:18] [SPEAKER_07] un tour culinario
+[0:06:18 -> 0:06:20] [SPEAKER_07] de la cuadra
 [0:06:24 -> 0:06:26] [Patricia] pasamos también nosotros por un sitio
 [0:06:26 -> 0:06:28] [Patricia] que estaba al aire libre
 [0:06:28 -> 0:06:30] [Patricia] y estaban vendiendo unos zapatillos
@@ -175,22 +175,22 @@
 [0:06:32 -> 0:06:34] [Patricia] como estas que se ponen para el agua
 [0:06:34 -> 0:06:36] [Patricia] Those... clocks?
 [0:06:36 -> 0:06:38] [Cristina] crocs
-[0:06:38 -> 0:06:40] [SPEAKER_07] pero no son crocs
+[0:06:38 -> 0:06:40] [SPEAKER_08] pero no son crocs
 [0:06:40 -> 0:06:42] [Patricia] pero les encantaba esto
 [0:06:42 -> 0:06:44] [SPEAKER_07] parecen como extraterrestres
 [0:06:44 -> 0:06:46] [SPEAKER_07] unas que son como así
 [0:06:46 -> 0:06:48] [Patricia] son como rarísimos
-[0:06:48 -> 0:06:50] [mar_07] son carísimos
+[0:06:48 -> 0:06:50] [SPEAKER_07] son carísimos
 [0:06:50 -> 0:06:52] [Patricia] son de plástico
 [0:06:52 -> 0:06:54] [SPEAKER_07] son hechas por
-[0:06:54 -> 0:06:56] [Patricia] el diseño
+[0:06:54 -> 0:06:56] [SPEAKER_07] el diseño
 [0:06:56 -> 0:06:58] [Patricia] de un músico
 [0:06:58 -> 0:07:00] [SPEAKER_07] Si, un rapero
 [0:07:00 -> 0:07:02] [SPEAKER_07] que tiene una línea de ropa y todo
 [0:07:02 -> 0:07:04] [SPEAKER_07] la original es de costar una fortuna
 [0:07:04 -> 0:07:06] [SPEAKER_07] pero esa
-[0:07:06 -> 0:07:08] [mar_07] nuestro profesional tiene un par
-[0:07:08 -> 0:07:10] [mar_07] la primera es que llevo fútbol
+[0:07:06 -> 0:07:08] [SPEAKER_07] nuestro profesional tiene un par
+[0:07:08 -> 0:07:10] [SPEAKER_07] la primera es que llevo fútbol
 [0:07:10 -> 0:07:12] [Patricia] ¿y vienes con ellos a la escuela?
 [0:07:12 -> 0:07:14] [Patricia] pero vas descalzo metido en eso
 [0:07:14 -> 0:07:16] [Patricia] un calcetín
@@ -222,7 +222,7 @@
 [0:08:06 -> 0:08:08] [Patricia] pero no, era todo cilantro
 [0:08:08 -> 0:08:10] [Patricia] y luego dijo
 [0:08:10 -> 0:08:12] [SPEAKER_04] porque hay cilantro y culantro
-[0:08:12 -> 0:08:14] [Belén] es el cual que yo dije
+[0:08:12 -> 0:08:14] [SPEAKER_05] es el cual que yo dije
 [0:08:14 -> 0:08:16] [Patricia] yo pensé que tal vez equivocada
 [0:08:16 -> 0:08:18] [Patricia] no, no, no
 [0:08:18 -> 0:08:20] [Patricia] no sabe de cilantro
@@ -234,14 +234,14 @@
 [0:08:30 -> 0:08:32] [Cristina] ¿no?
 [0:08:32 -> 0:08:34] [Cristina] Aren't they?
 [0:08:34 -> 0:08:36] [SPEAKER_07] sí, es de Kanye
-[0:08:36 -> 0:08:38] [SPEAKER_06] ya cambió el nombre tan tarde
+[0:08:36 -> 0:08:38] [SPEAKER_07] ya cambió el nombre tan tarde
 [0:08:38 -> 0:08:40] [SPEAKER_07] no, porque le digo
 [0:08:40 -> 0:08:42] [SPEAKER_07] por llamarse algo parecido como yeezys
 [0:08:42 -> 0:08:44] [SPEAKER_07] pero como de Jesus
 [0:08:44 -> 0:08:46] [SPEAKER_07] porque le digo que él era como
 [0:08:46 -> 0:08:48] [Cristina] es porque él le llama
 [0:08:48 -> 0:08:50] [Cristina] Like, he calls himself that
-[0:08:50 -> 0:08:52] [Joe] Jesus
+[0:08:50 -> 0:08:52] [Joe] Yesus
 [0:08:52 -> 0:08:54] [Cristina] él se cambió el nombre
 [0:08:54 -> 0:08:56] [Cristina] Right?
 [0:08:56 -> 0:08:58] [Cristina] Sí, porque he's a narcisisto
@@ -259,7 +259,7 @@
 [0:09:20 -> 0:09:22] [Patricia] fue muy bonita
 [0:09:22 -> 0:09:24] [SPEAKER_04] ¿quieren pasarnos por?
 [0:09:24 -> 0:09:26] [SPEAKER_04] tengo una muy mona de las
-[0:09:26 -> 0:09:28] [SPEAKER_07] de las congo
+[0:09:26 -> 0:09:28] [SPEAKER_07] de las congo?
 [0:09:28 -> 0:09:30] [Patricia] ¿quieres compartir?
 [0:09:30 -> 0:09:32] [SPEAKER_07] ¿me dan activar algo?
 [0:09:32 -> 0:09:34] [Group] no, no (laughter)
@@ -272,67 +272,67 @@
 [0:09:46 -> 0:09:48] [Cristina] y Miss Red
 [0:09:48 -> 0:09:50] [Patricia] qué bueno, tuvimos tres adultos en cada grupo
 [0:09:50 -> 0:09:52] [Patricia] fue muy bueno
-[0:09:52 -> 0:09:54] [Patricia] en el nuestro más, pero por la mamá
+[0:09:52 -> 0:09:54] [Patricia] en el nuestro más, con la mamá
 [0:09:54 -> 0:09:56] [Cristina] sí, también teníamos la mamá de Jordani
 [0:09:56 -> 0:09:58] [Cristina] la mamá de Jordani
 [0:09:58 -> 0:10:00] [Cristina] en nuestro grupo también
 [0:10:00 -> 0:10:02] [Patricia] fueron esas dos mamás que vinieron
-[0:10:02 -> 0:10:04] [Patricia] la de Jordani y la de Isabel
+[0:10:02 -> 0:10:04] [Patricia] la de Jordani y la de Isabel. Me encanta la mama de Jordani.
 [0:10:04 -> 0:10:06] [Cristina] y también Miss Red con Israel
 [0:10:06 -> 0:10:08] [Cristina] Yeah, it was sweet.
-[0:10:08 -> 0:10:10] [Cristina] [start english] cuando fuimos al piso
-[0:10:10 -> 0:10:12] [Cristina] y él vio a su mamá, él estaba como
-[0:10:12 -> 0:10:14] [Cristina] estábamos esperando por el piso
-[0:10:14 -> 0:10:16] [Cristina] para que Israel viera el elevador
-[0:10:16 -> 0:10:18] [Cristina] y él me miraba y me decía
-[0:10:18 -> 0:10:20] [Cristina] ¿puedo dar un abrazo a mi mamá?
-[0:10:20 -> 0:10:22] [Cristina] y yo estaba como, sí?
-[0:10:22 -> 0:10:24] [Cristina] y él salió, salió de las escaleras
-[0:10:24 -> 0:10:26] [Cristina] salió de la puerta y me dijo
-[0:10:26 -> 0:10:28] [Cristina] Jordani, ¿puedo dar un abrazo a mi mamá?
-[0:10:28 -> 0:10:30] [Cristina] y yo estaba como, sí, no voy a decir no a eso
-[0:10:30 -> 0:10:32] [Angela] [end english] And she came?
+[0:10:08 -> 0:10:10] [Cristina] When we went downstairs
+[0:10:10 -> 0:10:12] [Cristina] and he saw his mom, he was like
+[0:10:12 -> 0:10:14] [Cristina] we were waiting, like by the staircase,
+[0:10:14 -> 0:10:16] [Cristina] for Israel to come in the elevator,
+[0:10:16 -> 0:10:18] [Cristina] and he looks and me and goes,
+[0:10:18 -> 0:10:20] [Cristina] "Can I go give my mom a hug?"
+[0:10:20 -> 0:10:22] [Cristina] And I was like, yeah?
+[0:10:22 -> 0:10:24] [Cristina] So he ran down the stairs
+[0:10:24 -> 0:10:26] [Cristina] ran out the door
+[0:10:26 -> 0:10:28] [Cristina] Jordani, he's like, can I go give my mom a hug?
+[0:10:28 -> 0:10:30] [Cristina] And I was yeah, I'm not going to say no to that!
+[0:10:30 -> 0:10:32] [SPEAKER_08] And she came?
 [0:10:32 -> 0:10:34] [Patricia] pero Isabel le agarró la mano a la mamá
 [0:10:34 -> 0:10:36] [Patricia] y la mamá le dijo
-[0:10:36 -> 0:10:38] [Patricia] espera hija, déjame porque tengo que arribar
-[0:10:38 -> 0:10:40] [Patricia] no, no
-[0:10:40 -> 0:10:42] [SPEAKER_08] [start english] podríamos haberlo puesto
-[0:10:42 -> 0:10:44] [SPEAKER_08] Isabel y Isabel juntos
-[0:10:44 -> 0:10:46] [SPEAKER_08] si sabiéramos que ambos eran mamás
+[0:10:36 -> 0:10:38] [Patricia] "espera hija, déjame porque tengo que ayudar."
+[0:10:38 -> 0:10:40] [SPEAKER_05] oh no...
+[0:10:40 -> 0:10:42] [SPEAKER_08] We could have
+[0:10:42 -> 0:10:44] [SPEAKER_08] Isabel y Isabel together if we had known that both
+[0:10:44 -> 0:10:46] [SPEAKER_08] if we had known that both their moms were coming.
 [0:10:46 -> 0:10:48] [Patricia] sí, sí
 [0:10:48 -> 0:10:50] [Cristina] I know
 [0:11:00 -> 0:11:02] [Cristina] It was really sweet.
 [0:11:03 -> 0:11:10] [Group] (noisy chatter)
-[0:11:12 -> 0:11:14] [Cristina] [end english] They were yelling.
+[0:11:12 -> 0:11:14] [Cristina] They were yelling.
 [0:11:14 -> 0:11:16] [Cristina] Like
 [0:11:16 -> 0:11:18] [SPEAKER_05] Oh cuando los vieron
 [0:11:18 -> 0:11:20] [SPEAKER_05] en la esquina igual
 [0:11:20 -> 0:11:22] [SPEAKER_05] como waaaaahhhh
 [0:11:22 -> 0:11:24] [Patricia] Si como normal eh.
-[0:11:24 -> 0:11:26] [Belén] como cuatro
+[0:11:24 -> 0:11:26] [SPEAKER_05] como cuatro
 [0:11:26 -> 0:11:28] [SPEAKER_05] se encontraron en grupo, se abrazaron
-[0:11:28 -> 0:11:30] [SPEAKER_07] como si no estuvieran
-[0:11:30 -> 0:11:32] [SPEAKER_07] en un año
+[0:11:28 -> 0:11:30] [Patricia] como si no estuvieran
+[0:11:30 -> 0:11:32] [Patricia] en un año
 [0:11:32 -> 0:11:34] [Cristina] como que no existen fuera de este edificio
 [0:11:34 -> 0:11:36] [Cristina] Like...
 [0:11:36 -> 0:11:38] [Patricia] Belinda, Cristina y Joe
 [0:11:38 -> 0:11:40] [Patricia] ¿cómo fue el paseo?
 [0:11:40 -> 0:11:42] [Patricia] ¿qué aprendiste?
 [0:11:44 -> 0:11:46] [Joe] muchos
-[0:11:46 -> 0:11:48] [Joe] tienen
+[0:11:46 -> 0:11:48] [Joe] tienen (inaudible)
 [0:11:48 -> 0:11:50] [Joe] como su madre
 [0:11:50 -> 0:11:52] [Joe] su padre
 [0:11:52 -> 0:11:54] [Joe] ¿quién padre fue..?
-[0:11:54 -> 0:11:56] [Patricia] Jordani
+[0:11:54 -> 0:11:56] [Cristina] Jordani
 [0:11:56 -> 0:11:58] [Patricia] la madre de Jordani
 [0:11:58 -> 0:12:00] [Joe] no, el padre
-[0:12:00 -> 0:12:02] [Cristina] de Jordani
+[0:12:00 -> 0:12:02] [Cristina] de Novani
 [0:12:02 -> 0:12:04] [Cristina] fuimos a los gigantes
 [0:12:04 -> 0:12:06] [SPEAKER_08] ¿fuiste a los gigantes?
 [0:12:06 -> 0:12:08] [Cristina] sí, sí
 [0:12:08 -> 0:12:10] [Patricia] estaba Giordani con vosotros
 [0:12:10 -> 0:12:12] [Cristina] sí, no, pero es el papá de Novani
-[0:12:12 -> 0:12:14] [Cristina] el papá de Novani
+[0:12:12 -> 0:12:14] [Patricia] el papá de Novani
 [0:12:14 -> 0:12:16] [Cristina] Novani
 [0:12:16 -> 0:12:18] [Cristina] entonces
 [0:12:18 -> 0:12:20] [Cristina] sí, él salió para darle un abrazo
@@ -344,8 +344,8 @@
 [0:12:30 -> 0:12:32] [Cristina] porque no sabían
 [0:12:32 -> 0:12:34] [Cristina] porque estábamos allá en la ventana
 [0:12:34 -> 0:12:36] [Patricia] ¿y no ayudaron?
-[0:12:36 -> 0:12:38] [SPEAKER_08] sí, sí
-[0:12:38 -> 0:12:40] [SPEAKER_08] ah, llegaron a la barbería!
+[0:12:36 -> 0:12:38] [Cristina] sí, sí
+[0:12:38 -> 0:12:40] [SPEAKER_08] ah, llegaron a la barbería! Que bien.
 [0:12:40 -> 0:12:42] [Cristina] sí,sí, los gigantes
 [0:12:42 -> 0:12:44] [Patricia] ¿los gigantes? ¿esa es la que estaba el letrero?
 [0:12:44 -> 0:12:46] [Patricia] aquel que no sabíamos descifrar
@@ -359,62 +359,62 @@
 [0:13:02 -> 0:13:04] [Cristina] no, no entrábamos
 [0:13:04 -> 0:13:06] [SPEAKER_07] pero el papá, esto fue un éxito
 [0:13:06 -> 0:13:08] [SPEAKER_07] Kelsey dijo
-[0:13:08 -> 0:13:10] [SPEAKER_07] "My other after school doesn't take us outside when I'm playing"
+[0:13:08 -> 0:13:10] [SPEAKER_07] "My other after school don't take us outside when I'm playing"
 [0:13:10 -> 0:13:12] [SPEAKER_07]  when I'm playing"
 [0:13:12 -> 0:13:14] [SPEAKER_07] And I'm like, "we're the best"
 [0:13:14 -> 0:13:16] [SPEAKER_07] And she was like, "yeah".
-[0:13:16 -> 0:13:18] [SPEAKER_07] We're the best
+[0:13:16 -> 0:13:18] [SPEAKER_07] We're the funnest.
 [0:13:18 -> 0:13:20] [SPEAKER_07] Yeah
 [0:13:20 -> 0:13:22] [SPEAKER_04] Yeah!
 [0:13:22 -> 0:13:24] [Patricia] Yeah, pero Cristina cuenta
 [0:13:24 -> 0:13:26] [Patricia] bueno, vimos mucho
-[0:13:26 -> 0:13:28] [Patricia] Raisling encontró mucho
-[0:13:28 -> 0:13:30] [Patricia] está haciendo fotos de manicuras
+[0:13:26 -> 0:13:28] [SPEAKER_05] Raisling encontró mucho
+[0:13:28 -> 0:13:30] [SPEAKER_05] está haciendo fotos de manicuras
 [0:13:30 -> 0:13:32] [Cristina] cada lugar
 [0:13:32 -> 0:13:34] [Cristina] cada lugar donde
 [0:13:34 -> 0:13:36] [Cristina] hacen manicuras
 [0:13:36 -> 0:13:38] [Cristina] Ella tenía que sacar una foto de cada manicura
 [0:13:38 -> 0:13:40] [Patricia] ¿quién?
 [0:13:40 -> 0:13:42] [Cristina] Raisling
-[0:13:42 -> 0:13:44] [Patricia] ¿pero sabes que hay mucha?
+[0:13:42 -> 0:13:44] [Patricia] ¿pero saben que hay muchas?
 [0:13:44 -> 0:13:46] [SPEAKER_07] sí, y lo mismo de Faja
 [0:13:46 -> 0:13:48] [SPEAKER_07] se va a morir de la risa
 [0:13:48 -> 0:13:50] [SPEAKER_07] Jayden, íbamos caminando por la tienda en Faja
-[0:13:50 -> 0:13:52] [SPEAKER_07] y Jaden dice, "ay, no!"
-[0:13:52 -> 0:13:54] [SPEAKER_07] no sé si dijo, "ay god",
-[0:13:54 -> 0:13:56] [SPEAKER_07] o "ay no",
+[0:13:50 -> 0:13:52] [SPEAKER_07] y Jaden dice, "ay, no!" (laughter)
+[0:13:52 -> 0:13:54] [SPEAKER_07] No sé si dijo, "ay god",
+[0:13:54 -> 0:13:56] [SPEAKER_07] o "ay no!",
 [0:13:56 -> 0:13:58] [SPEAKER_07] pero uno de los dos era
 [0:13:58 -> 0:14:00] [SPEAKER_07] pero pasó así
-[0:14:00 -> 0:14:02] [SPEAKER_07] después se reía
+[0:14:00 -> 0:14:02] [SPEAKER_07] después se reía (laughter)
 [0:14:02 -> 0:14:04] [Patricia] debe ser una cosa de varones
 [0:14:04 -> 0:14:06] [Patricia] cuando fuimos al paseo la semana pasada
 [0:14:06 -> 0:14:08] [Patricia] también me dijo, ay si vemos algo inapropiado
-[0:14:08 -> 0:14:10] [Patricia] como eso
+[0:14:08 -> 0:14:10] [Patricia] como eso (laughter)
 [0:14:10 -> 0:14:12] [SPEAKER_07] Joe está en otra
 [0:14:12 -> 0:14:14] [SPEAKER_07] no encachan nada
 [0:14:14 -> 0:14:16] [Patricia] la tienda de las Fajas
 [0:14:16 -> 0:14:18] [SPEAKER_08] no sé, ¿cómo se llama en inglés?
 [0:14:18 -> 0:14:20] [Cristina] Spanx
-[0:14:20 -> 0:14:22] [Group] Shapewear
+[0:14:20 -> 0:14:22] [Group] Shapewear (chatter)
 [0:14:28 -> 0:14:30] [Cristina] pero en inglés de verdad
 [0:14:30 -> 0:14:32] [Cristina] se dice Spanx
 [0:14:32 -> 0:14:34] [Cristina] Como es la marca
 [0:14:34 -> 0:14:36] [Cristina] el tema del
 [0:14:36 -> 0:14:38] [Cristina] es una cosa de varones
 [0:14:38 -> 0:14:40] [Cristina] sí, yo creo que le llaman
-[0:14:40 -> 0:14:42] [SPEAKER_07] en el caso de Spanx porque
-[0:14:42 -> 0:14:44] [SPEAKER_07] literalmente por ser
-[0:14:44 -> 0:14:46] [Cristina] bueno, sí, tal vez por ser
-[0:14:46 -> 0:14:48] [Cristina] es que creo que
-[0:14:48 -> 0:14:50] [Cristina] no hay cosas como
-[0:14:50 -> 0:14:52] [Cristina] lo mismo exacto
-[0:14:52 -> 0:14:54] [Cristina] It's not like, a good translation.
-[0:14:54 -> 0:14:56] [Cristina] pero sí, shapewear
-[0:14:56 -> 0:14:58] [Joe] Gorilla
-[0:14:58 -> 0:15:00] [Patricia] ¿Gorilla?
-[0:15:00 -> 0:15:02] [Group] pero
-[0:15:02 -> 0:15:04] [Group] no fue fútbol
-[0:15:04 -> 0:15:06] [Group] había un gorilla
+[0:14:40 -> 0:14:42] [SPEAKER_07] en el caso de Spanx porque  (noisy)
+[0:14:42 -> 0:14:44] [SPEAKER_07] literalmente por ser (noisy)
+[0:14:44 -> 0:14:46] [Cristina] bueno, sí, tal vez por ser (noisy)
+[0:14:46 -> 0:14:48] [Cristina] es que creo que (noisy)
+[0:14:48 -> 0:14:50] [Cristina] no hay cosas como (noisy)
+[0:14:50 -> 0:14:52] [Cristina] lo mismo exacto (noisy)
+[0:14:52 -> 0:14:54] [Cristina] It's not like, a good translation. (noisy)
+[0:14:54 -> 0:14:56] [Cristina] pero sí, shapewear (noisy)
+[0:14:56 -> 0:14:58] [Joe] Gorilla (noisy)
+[0:14:58 -> 0:15:00] [Patricia] ¿Gorilla? (noisy)
+[0:15:00 -> 0:15:02] [Group] pero (noisy)
+[0:15:02 -> 0:15:04] [Group] no fue fútbol (noisy)
+[0:15:04 -> 0:15:06] [Group] había un gorilla (noisy)
 [0:15:06 -> 0:15:08] [SPEAKER_06] siempre así
 [0:15:08 -> 0:15:10] [SPEAKER_06] te juro que la entendí la mitad del paseo
 [0:15:10 -> 0:15:12] [SPEAKER_06] y yo me la quité
@@ -473,7 +473,7 @@
 [0:17:00 -> 0:17:02] [Cristina] pero es interesante eso también
 [0:17:02 -> 0:17:04] [Cristina] esa cultura de estar
 [0:17:04 -> 0:17:06] [Cristina] afuera, en la calle
-[0:17:06 -> 0:17:08] [Cristina] You know? Like -- 
+[0:17:06 -> 0:17:08] [Cristina] You know? Like --
 [0:17:08 -> 0:17:10] [Patricia] ¿crankeando?
 [0:17:10 -> 0:17:12] [Cristina] y creo que por eso
 [0:17:12 -> 0:17:14] [Cristina] las tiendas de barbershop son muy importantes
@@ -511,20 +511,21 @@
 [0:18:18 -> 0:18:20] [Cristina] ¡si!
 [0:18:20 -> 0:18:22] [Cristina] y giraba
 [0:18:22 -> 0:18:24] [Patricia] ¿quien era? Israel?
-[0:18:24 -> 0:18:26] [Cristina] Israel, porque tiene como
+[0:18:24 -> 0:18:26] [Cristina] Israel, porque tiene como...
 [0:18:26 -> 0:18:28] [Cristina] diseño aquí
 [0:18:28 -> 0:18:30] [SPEAKER_03] Sorry
 [0:18:30 -> 0:18:32] [Patricia] ¿todo bien?
-[0:18:32 -> 0:18:34] [SPEAKER_08] [start english] ¿Puedo comentar que
-[0:18:34 -> 0:18:36] [SPEAKER_08] él y yo nos hemos metido dos veces
-[0:18:36 -> 0:18:38] [SPEAKER_08] y él se fue
-[0:18:38 -> 0:18:40] [SPEAKER_08] y claro, hay dos historias que son
-[0:18:40 -> 0:18:42] [SPEAKER_08] marihuana y...
-[0:18:42 -> 0:18:44] [SPEAKER_08] ¿lo viste?
-[0:18:44 -> 0:18:46] [SPEAKER_08] yo...
-[0:18:46 -> 0:18:48] [SPEAKER_08] me divertí
-[0:18:48 -> 0:18:50] [SPEAKER_08] porque había dos tijeras de fuego en camino
-[0:19:14 -> 0:19:16] [SPEAKER_07] [end english] y la profesora le dijo, ¿si?
+[0:18:32 -> 0:18:34] [SPEAKER_08] Can I just comment that Naomi
+[0:18:34 -> 0:18:36] [SPEAKER_08] stopped twice, like she ran up,
+[0:18:36 -> 0:18:38] [SPEAKER_08] but of course there were these
+[0:18:38 -> 0:18:40] [SPEAKER_08] two stores that were like, Marijuana
+[0:18:40 -> 0:18:42] [SPEAKER_08] Marijuana
+[0:18:42 -> 0:18:44] [SPEAKER_08] Did you see that?
+[0:18:44 -> 0:18:46] [SPEAKER_08] And I was like
+[0:18:46 -> 0:18:48] [SPEAKER_08] ...!
+[0:18:48 -> 0:18:50] [SPEAKER_08] Twice, because there were two smoke shops on the way.
+[0:18:51 -> 0:18:53] [Patricia] Bueno es legal ahora, la marijuana...
+[0:18:58 -> 0:19:16] [group] (noisy, retranscribe)
 [0:19:16 -> 0:19:18] [SPEAKER_07] porque todos nos tiramos el pelo
 [0:19:18 -> 0:19:20] [SPEAKER_06] mi papá me tiró a mi también
 [0:19:20 -> 0:19:22] [SPEAKER_07] mi papá le decía, yo me tiro a Pedro, mi papá le dice a Pedro
@@ -541,33 +542,33 @@
 [0:19:42 -> 0:19:44] [Patricia] fuera de las tiendas que estábamos hablando
 [0:19:44 -> 0:19:46] [Patricia] sobre todo alrededor de las barberías
 [0:19:46 -> 0:19:48] [Cristina] sí, y es interesante porque
-[0:19:48 -> 0:19:50] [Cristina] también una de mis amigas
-[0:19:50 -> 0:19:52] [Cristina] es de Bronx
-[0:19:52 -> 0:19:54] [Cristina] y como de Arthur Ave
-[0:19:54 -> 0:19:56] [Cristina] es muy italiano
-[0:19:56 -> 0:19:58] [Cristina] y como
-[0:19:58 -> 0:20:00] [Cristina] su abuela tiene
-[0:20:00 -> 0:20:02] [Cristina] una panadería
-[0:20:02 -> 0:20:04] [Cristina] y ella como
-[0:20:04 -> 0:20:06] [Cristina] casi tiene
-[0:20:06 -> 0:20:08] [Cristina] 90 años pero cada día está sentada
-[0:20:08 -> 0:20:10] [Cristina] frente de su panadería
-[0:20:10 -> 0:20:12] [Cristina] y personas pasan
-[0:20:12 -> 0:20:14] [Cristina] le dicen hola
-[0:20:14 -> 0:20:16] [Cristina] y me hizo pensar en esto
-[0:20:16 -> 0:20:18] [Cristina] que es
-[0:20:18 -> 0:20:20] [Cristina] no sé, esa cultura
-[0:20:20 -> 0:20:22] [Cristina] de simplemente estar afuera
-[0:20:22 -> 0:20:24] [SPEAKER_04] en Puerto Rico también
+[0:19:48 -> 0:19:50] [Cristina] también una de mis amigas,
+[0:19:50 -> 0:19:52] [Cristina] es de Bronx,
+[0:19:52 -> 0:19:54] [Cristina] y como de Arthur Ave,
+[0:19:54 -> 0:19:56] [Cristina] es muy italiano,
+[0:19:56 -> 0:19:58] [Cristina] y como,
+[0:19:58 -> 0:20:00] [Cristina] su abuela tiene,
+[0:20:00 -> 0:20:02] [Cristina] una panadería,
+[0:20:02 -> 0:20:04] [Cristina] y ella como,
+[0:20:04 -> 0:20:06] [Cristina] casi tiene,
+[0:20:06 -> 0:20:08] [Cristina] 90 años pero cada día está sentada,
+[0:20:08 -> 0:20:10] [Cristina] frente de su panadería,
+[0:20:10 -> 0:20:12] [Cristina] y personas pasan,
+[0:20:12 -> 0:20:14] [Cristina] le dicen hola,
+[0:20:14 -> 0:20:16] [Cristina] y me hizo pensar en esto,
+[0:20:16 -> 0:20:18] [Cristina] que es,
+[0:20:18 -> 0:20:20] [Cristina] no sé, esa cultura,
+[0:20:20 -> 0:20:22] [Cristina] de simplemente estar afuera.
+[0:20:22 -> 0:20:24] [SPEAKER_04] En Puerto Rico también
 [0:20:24 -> 0:20:26] [SPEAKER_04] hay sillas
 [0:20:26 -> 0:20:28] [SPEAKER_04] de comercio
 [0:20:28 -> 0:20:30] [SPEAKER_04] y luego hay una mesita como aquí en la esquina
 [0:20:30 -> 0:20:32] [SPEAKER_04] hay dos sillas
 [0:20:32 -> 0:20:34] [SPEAKER_04] y la gente
-[0:20:34 -> 0:20:36] [SPEAKER_04] se sienta ahí a pasar la tarde
-[0:20:36 -> 0:20:38] [SPEAKER_04] a hablar
-[0:20:38 -> 0:20:40] [SPEAKER_07] a jugar dominó
-[0:20:40 -> 0:20:42] [SPEAKER_07] y la radio
+[0:20:34 -> 0:20:36] [SPEAKER_04] se sienta ahí a pasar la tarde,
+[0:20:36 -> 0:20:38] [SPEAKER_04] a hablar,
+[0:20:38 -> 0:20:40] [SPEAKER_04] a jugar dominó,
+[0:20:40 -> 0:20:42] [SPEAKER_07] y la radio,
 [0:20:42 -> 0:20:44] [SPEAKER_04] pero que bonito
 [0:20:44 -> 0:20:46] [SPEAKER_04] para nosotros
 [0:20:46 -> 0:20:48] [SPEAKER_04] que no
@@ -591,7 +592,7 @@
 [0:21:22 -> 0:21:24] [Patricia] el programa
 [0:21:24 -> 0:21:26] [Patricia] Ángela también, porque ella viene caminando
 [0:21:26 -> 0:21:28] [Patricia] desde Castle Bridge
-[0:21:28 -> 0:21:30] [Patricia] pero ¿qué pasó con Belén?
+[0:21:28 -> 0:21:30] [SPEAKER_07] pero ¿qué pasó con Belén?
 [0:21:30 -> 0:21:32] [Patricia] se tenía que ir
 [0:21:32 -> 0:21:34] [Patricia] pero no es que se fue al programa
 [0:21:34 -> 0:21:36] [Patricia] no, no, no, no
@@ -599,18 +600,18 @@
 [0:21:38 -> 0:21:40] [Patricia] si, como que la vi
 [0:21:40 -> 0:21:42] [Patricia] aquí nadie abandona
 [0:21:42 -> 0:21:44] [Patricia] y Manuel es tan hermoso
-[0:21:44 -> 0:21:46] [SPEAKER_06] nadie salta de este buque
+[0:21:44 -> 0:21:46] [Cristina] nadie salta de este buque
 [0:21:48 -> 0:21:50] [SPEAKER_05] no a estas alturas
 [0:21:52 -> 0:21:54] [Cristina] si, si, estaba hablando
 [0:21:54 -> 0:21:56] [Cristina] con Belén
 [0:21:56 -> 0:21:58] [Cristina] después de regresar
 [0:21:58 -> 0:22:00] [Cristina] que fue muy
 [0:22:00 -> 0:22:02] [Cristina] me hizo sentir
-[0:22:02 -> 0:22:04] [Cristina] muy feliz
+[0:22:02 -> 0:22:04] [Cristina] muy feliz que...
 [0:22:04 -> 0:22:06] [Cristina] ver los estudiantes
 [0:22:06 -> 0:22:08] [Cristina] hablando y tomando fotos
 [0:22:08 -> 0:22:10] [Cristina] tan emocionantes, especialmente
-[0:22:10 -> 0:22:12] [Cristina] a Raisli
+[0:22:10 -> 0:22:12] [Cristina] a Raisling
 [0:22:12 -> 0:22:14] [Cristina] porque ella tiene
 [0:22:14 -> 0:22:16] [Cristina] no sé que tiene en su IP
 [0:22:16 -> 0:22:18] [Cristina] pero alguna dificultad
@@ -624,26 +625,26 @@
 [0:22:32 -> 0:22:34] [Cristina] como que cuando cuenta un cuento
 [0:22:34 -> 0:22:36] [Cristina] es difícil seguirla
 [0:22:36 -> 0:22:38] [Cristina] pero cuando estaba
-[0:22:38 -> 0:22:40] [Cristina] en la calle
-[0:22:40 -> 0:22:42] [Cristina] estaba hablando tanto
-[0:22:42 -> 0:22:44] [Cristina] y como
-[0:22:44 -> 0:22:46] [Cristina] no veo en la clase
-[0:22:46 -> 0:22:48] [Cristina] fue entonces
-[0:22:48 -> 0:22:50] [Cristina] no sé
-[0:22:50 -> 0:22:52] [Cristina] fue muy agradable verla
-[0:22:52 -> 0:22:54] [Cristina] en ese
-[0:22:54 -> 0:22:56] [Cristina] otro contexto
-[0:22:56 -> 0:22:58] [Cristina] y como ella
-[0:22:58 -> 0:23:00] [Cristina] como
-[0:23:00 -> 0:23:02] [Cristina] creo que en un espacio más relajado
-[0:23:02 -> 0:23:04] [Cristina] como se sintió más cómoda
-[0:23:04 -> 0:23:06] [Cristina] para ser realmente
-[0:23:06 -> 0:23:08] [Cristina] mucho más verbal
-[0:23:08 -> 0:23:10] [Cristina] ¿qué estaba diciendo?
-[0:23:10 -> 0:23:12] [Cristina] como lo que ella estaba viendo
-[0:23:12 -> 0:23:14] [Cristina] tomando fotos
-[0:23:14 -> 0:23:16] [Cristina] fue como, oh Dios, la iglesia, oh Dios
-[0:23:16 -> 0:23:18] [Cristina] los manicures, oh Dios
+[0:22:38 -> 0:22:40] [Cristina] en la calle, como...
+[0:22:40 -> 0:22:42] [Cristina] estaba hablando tanto,
+[0:22:42 -> 0:22:44] [Cristina] y como,
+[0:22:44 -> 0:22:46] [Cristina] como no veo en la clase.
+[0:22:46 -> 0:22:48] [Cristina] fue... Entonces
+[0:22:48 -> 0:22:50] [Cristina] no sé, just that...
+[0:22:50 -> 0:22:52] [Cristina] It was just really nice
+[0:22:52 -> 0:22:54] [Cristina] to see her in like,
+[0:22:54 -> 0:22:56] [Cristina] that other context,
+[0:22:56 -> 0:22:58] [Cristina] and, like, how she...
+[0:22:58 -> 0:23:00] [Cristina] You know...
+[0:23:00 -> 0:23:02] [Cristina] I guess just how in a more relaxed space,
+[0:23:02 -> 0:23:04] [Cristina] how she felt way more comfortable
+[0:23:04 -> 0:23:06] [Cristina] to like, really, be
+[0:23:06 -> 0:23:08] [Cristina] so much more verabl.
+[0:23:08 -> 0:23:10] [Patricia] What was she saying?
+[0:23:10 -> 0:23:12] [Cristina] Like what she was seeing,
+[0:23:12 -> 0:23:14] [Cristina] what she was taking photos of...
+[0:23:14 -> 0:23:16] [Cristina] It was like, oh my god, the church, oh my god
+[0:23:16 -> 0:23:18] [Cristina] the manicures, oh my god.
 [0:23:18 -> 0:23:20] [SPEAKER_04] no es de iglesias
 [0:23:20 -> 0:23:22] [SPEAKER_04] es de Jesús
 [0:23:22 -> 0:23:24] [SPEAKER_04] no dos Jesús
@@ -651,36 +652,36 @@
 [0:23:26 -> 0:23:28] [Patricia] hubo cosas religiosas
 [0:23:28 -> 0:23:30] [Patricia] Jeremy se subió
 [0:23:30 -> 0:23:32] [Patricia] unas escaleras
-[0:23:32 -> 0:23:34] [SPEAKER_11] y estaba haciendo fotos a los candados
-[0:23:34 -> 0:23:36] [SPEAKER_11] y al bajar me dijo
-[0:23:36 -> 0:23:38] [SPEAKER_11] le digo, ¿de qué estabas capturando?
-[0:23:38 -> 0:23:40] [SPEAKER_11] estaba capturando los candados
-[0:23:40 -> 0:23:42] [SPEAKER_11] y me dijo también
-[0:23:42 -> 0:23:44] [SPEAKER_11] ¿qué dijo Jesús?
-[0:23:44 -> 0:23:46] [SPEAKER_11] Jesúsillo, Jesús
-[0:23:46 -> 0:23:48] [SPEAKER_11] ¿quién estaba conmigo?
+[0:23:32 -> 0:23:34] [Patricia] y estaba haciendo fotos a los candados
+[0:23:34 -> 0:23:36] [Patricia] y al bajar me dijo
+[0:23:36 -> 0:23:38] [Patricia] le digo, ¿de qué estabas capturando?
+[0:23:38 -> 0:23:40] [Patricia] estaba capturando los candados
+[0:23:40 -> 0:23:42] [Patricia] y me dijo también
+[0:23:42 -> 0:23:44] [Patricia] ¿qué dijo Jesús?
+[0:23:44 -> 0:23:46] [Patricia] Jesúsito, Jesús
+[0:23:46 -> 0:23:48] [Patricia] ¿quién estaba conmigo?
 [0:23:48 -> 0:23:50] [Patricia] era Belén
 [0:23:50 -> 0:23:52] [Patricia] no me acuerdo, tengo que volver al recording
 [0:23:52 -> 0:23:54] [Patricia] para saber qué palabra dijo
 [0:23:54 -> 0:23:56] [Patricia] Jesús, pero como
-[0:23:56 -> 0:23:58] [SPEAKER_07] y es que había algo de Navidad
+[0:23:56 -> 0:23:58] [Patricia] y es que había algo de Navidad
 [0:23:58 -> 0:24:00] [SPEAKER_07] ¿qué tal estuvo afuera?
 [0:24:00 -> 0:24:02] [SPEAKER_07] Andrea tenía sus apreciaciones
 [0:24:02 -> 0:24:04] [SPEAKER_05] y decíamos que
-[0:24:04 -> 0:24:06] [SPEAKER_05] quería hacer videos
-[0:24:06 -> 0:24:08] [SPEAKER_05] yo dije que Jeremy no tenía preocupación
+[0:24:04 -> 0:24:06] [Patricia] quería hacer videos...
+[0:24:06 -> 0:24:08] [SPEAKER_05] No, yo dije que Jeremy no tenía preocupación
 [0:24:08 -> 0:24:10] [SPEAKER_07] no, Jeremy, alguien dijo
-[0:24:10 -> 0:24:12] [SPEAKER_07] que debería tener casi como un uno a uno
+[0:24:10 -> 0:24:12] [SPEAKER_07] que debería tener casi como one-on-one
 [0:24:12 -> 0:24:14] [SPEAKER_07] una persona, porque aquí en el salón
 [0:24:14 -> 0:24:16] [SPEAKER_07] él llega y sale
 [0:24:16 -> 0:24:18] [SPEAKER_07] se va corriendo sin pedir permiso
 [0:24:18 -> 0:24:20] [SPEAKER_07] entonces pensar en esa situación en la calle
-[0:24:20 -> 0:24:22] [SPEAKER_07] ¿y qué tal?
-[0:24:22 -> 0:24:24] [SPEAKER_07] como un duo, Jeremy y Andrea
+[0:24:20 -> 0:24:22] [Patricia] ¿y qué tal?
+[0:24:22 -> 0:24:24] [SPEAKER_07] Entonces, fue eso, como un duo, Jeremy y Andrea
 [0:24:24 -> 0:24:26] [Patricia] genial
 [0:24:26 -> 0:24:28] [Patricia] activo, como siempre
 [0:24:28 -> 0:24:30] [SPEAKER_07] pero escuchando la música
-[0:24:30 -> 0:24:32] [Patricia] sin hacer nada
+[0:24:30 -> 0:24:32] [SPEAKER_07] sin hacer nada
 [0:24:32 -> 0:24:34] [Patricia] super bien
 [0:24:34 -> 0:24:36] [Patricia] Jeremy capturaba todo
 [0:24:36 -> 0:24:38] [Patricia] la joyería le encantó
@@ -691,10 +692,10 @@
 [0:24:46 -> 0:24:48] [Patricia] pero estaban encantadas
 [0:24:48 -> 0:24:50] [Patricia] estaban esperando
 [0:24:50 -> 0:24:52] [Patricia] yo agradecida dándole las gracias
-[0:24:52 -> 0:24:54] [SPEAKER_04] no, no, lo que quieran, lo miren
+[0:24:52 -> 0:24:54] [Patricia] no, no, lo que quieran, lo miren
 [0:24:54 -> 0:24:56] [SPEAKER_04] pero eso es algo muy culto
-[0:24:56 -> 0:24:58] [SPEAKER_04] estuvo bonito, las señoras de un lado ahí
-[0:24:58 -> 0:25:00] [SPEAKER_04] con la cara de angelitas
+[0:24:56 -> 0:24:58] [Patricia] estuvo bonito, las señoras de un lado ahí
+[0:24:58 -> 0:25:00] [Patricia] con la cara de angelitas
 [0:25:00 -> 0:25:02] [SPEAKER_04] en el midtown
 [0:25:02 -> 0:25:04] [SPEAKER_04] a lo mejor han visto a niños
 [0:25:04 -> 0:25:06] [Cristina] también cuando estábamos caminando
@@ -702,48 +703,70 @@
 [0:25:08 -> 0:25:10] [Cristina] esperando
 [0:25:10 -> 0:25:12] [Cristina] a poder cruzar
 [0:25:12 -> 0:25:14] [Cristina] también hubo este
-[0:25:14 -> 0:25:16] [Cristina] carro blanco
-[0:25:16 -> 0:25:18] [Cristina] como casi
-[0:25:18 -> 0:25:20] [Cristina] estaba cubriendo un poco
-[0:25:20 -> 0:25:22] [Cristina] el camino de la esquina, casi, muy cerca
+[0:25:14 -> 0:25:16] [Cristina] carro blanco que...
+[0:25:16 -> 0:25:18] [Cristina] Como like... casi...
+[0:25:18 -> 0:25:20] [Cristina] It was covering a little bit of
+[0:25:20 -> 0:25:22] [Cristina] the sidewalk, like, it was really close,
 [0:25:22 -> 0:25:24] [Cristina] y cuando
 [0:25:24 -> 0:25:26] [Cristina] cuando cambió
 [0:25:26 -> 0:25:28] [Cristina] y que teníamos que
 [0:25:28 -> 0:25:30] [Cristina] que
-[0:25:30 -> 0:25:32] [Cristina] mantenernos un poco más atrás para no
-[0:25:32 -> 0:25:34] [Cristina] a ver si
-[0:25:34 -> 0:25:36] [Cristina] en caso de que se moviera
+[0:25:30 -> 0:25:32] [Cristina] mantenernos un poco más atrás para no...
+[0:25:32 -> 0:25:34] [Cristina] a ver si,
+[0:25:34 -> 0:25:36] [Cristina] like, in case it moved,
 [0:25:36 -> 0:25:38] [Cristina] y cuando cambió la señal
 [0:25:38 -> 0:25:40] [Cristina] para poder cruzar
 [0:25:40 -> 0:25:42] [Cristina] el hombre
-[0:25:42 -> 0:25:44] [Cristina] como un hombre en la calle
-[0:25:44 -> 0:25:46] [Cristina] nos dijo
+[0:25:42 -> 0:25:44] [Cristina] como un hombre de la calle
+[0:25:44 -> 0:25:46] [Cristina] y nos dijo
 [0:25:46 -> 0:25:48] [Cristina] ahora pueden, ahora pueden cruzar
-[0:25:48 -> 0:25:50] [Cristina] y yo estaba como
+[0:25:48 -> 0:25:50] [Cristina] And I was like, "oh, thank you!"
 [0:25:50 -> 0:25:52] [SPEAKER_04] y él me dijo
 [0:25:52 -> 0:25:54] [SPEAKER_04] ahora, ahora, ahora
-[0:25:54 -> 0:25:56] [SPEAKER_04] porque iba a dar
-[0:25:56 -> 0:25:58] [SPEAKER_04] había este coche, estaba mal aparcado
-[0:25:58 -> 0:26:00] [SPEAKER_04] sí, porque
-[0:26:00 -> 0:26:02] [SPEAKER_04] tal vez porque
-[0:26:02 -> 0:26:04] [SPEAKER_04] estaba comprando
-[0:26:04 -> 0:26:06] [SPEAKER_04] el manejador estaba comprando
-[0:26:06 -> 0:26:08] [SPEAKER_04] y nosotros cruzamos
-[0:26:08 -> 0:26:10] [SPEAKER_04] y un hombre, no, no, venga, venga, venga
-[0:26:10 -> 0:26:12] [SPEAKER_04] y yo hablando
-[0:26:12 -> 0:26:14] [Cristina] tomaron fotos de eso
-[0:26:14 -> 0:26:16] [Cristina] como que
-[0:26:16 -> 0:26:18] [Cristina] estaba un hombre con un caballo en el caballo
-[0:26:18 -> 0:26:20] [Patricia] y alguien tomó una foto
-[0:26:44 -> 0:26:46] [SPEAKER_07] sí
-[0:27:08 -> 0:27:10] [SPEAKER_08] un dibujo
-[0:27:14 -> 0:27:16] [SPEAKER_08] no sé
-[0:27:16 -> 0:27:18] [SPEAKER_08] estaba muy alerta
-[0:27:44 -> 0:27:46] [Patricia] y aquí vive mi abuelita
-[0:27:46 -> 0:27:48] [SPEAKER_06] enseñándonos
-[0:27:48 -> 0:27:50] [Patricia] trayendo a todos los niños, venid, venid
-[0:27:50 -> 0:27:52] [Patricia] y luego la tiendita en la que
-[0:27:52 -> 0:27:54] [Patricia] entramos
+[0:25:54 -> 0:25:56] [SPEAKER_04] porque iba a dar revés,
+[0:25:56 -> 0:25:58] [SPEAKER_04] porque había este coche, estaba mal aparcado, no?
+[0:25:58 -> 0:26:00] [Cristina] sí, porque
+[0:26:00 -> 0:26:02] [Cristina] tal vez porque
+[0:26:02 -> 0:26:04] [SPEAKER_04] estaba comprando algo
+[0:26:04 -> 0:26:06] [Cristina] si, creo que el manejador estaba comprando en la...
+[0:26:06 -> 0:26:08] [SPEAKER_04] Y dije, este va a echar para atrás, y nosotros cruzamos,
+[0:26:08 -> 0:26:10] [SPEAKER_04] y un hombre, "no, no, venga, venga, venga, como ahí,"
+[0:26:10 -> 0:26:12] [SPEAKER_04] iba hablando...
+[0:26:12 -> 0:26:14] [Cristina] It was really funny. Tomaron fotos de eso
+[0:26:14 -> 0:26:16] [Cristina] Like
+[0:26:16 -> 0:26:18] [Cristina] This was like with kebabs and a grill.
+[0:26:18 -> 0:26:20] [Patricia] Estaban preocupados que estuvieran seguros los ninos.
+[0:26:17 -> 0:26:21] [SPEAKER_04] Estábamos un poco preocupados de que estuvieran seguros los niños.
+[0:26:21 -> 0:26:24] [SPEAKER_04] Estaba pensando que, ¿están locos, Washington Heights?
+[0:26:24 -> 0:26:28] [SPEAKER_04] Como que, es como que hay una percepción de peligro permanente.
+[0:26:28 -> 0:26:34] [SPEAKER_04] Uno nunca sabe dónde alguien va a doblar, alguien va a salir corriendo, alguien va a salir persiguiendo, viene algo.
+[0:26:34 -> 0:26:40] [SPEAKER_04] Y en ese sentido, todo el mundo como que estaba súper consciente de que había niños en el camino.
+[0:26:40 -> 0:26:42] [SPEAKER_04] Y los niños, no se toman.
+[0:26:42 -> 0:26:51] [SPEAKER_04] Entonces, como que fue una cosa medio rara de sentir, por un lado, como una extrema seguridad en un contexto de plena locura.
+[0:26:51 -> 0:26:54] [SPEAKER_04] Fue como bonito también eso, como un poco hablando de...
+
+[0:26:54 -> 0:26:55] [Group] Sí.
+[0:26:55 -> 0:27:06] [Cristina] Viernes, Noami, me parecía que estaba un poco... tenía miedo, porque habían unos hombres que nos parecían un poco, you know...
+[0:27:06 -> 0:27:07] [SPEAKER_07] Sketchy.
+[0:27:07 -> 0:27:08] [SPEAKER_08] On drugs,
+[0:27:08 -> 0:27:09] [SPEAKER_08] Yeah.
+[0:27:09 -> 0:27:14] [SPEAKER_08] Y inmediatamente se escondía y se escondía detrás de alguien o...
+[0:27:14 -> 0:27:18] [SPEAKER_08] I know, a mí, I was just hyper alert cuando llegamos a saint (inaudible).
+[0:27:18 -> 0:27:19] [SPEAKER_08] Ella es como así. (alerta)
+[0:27:19 -> 0:27:20] [SPEAKER_07] Sí.
+[0:27:20 -> 0:27:24] [SPEAKER_08] Porque antes pasamos por el edificio donde vive su abuela o...
+[0:27:24 -> 0:27:25] [Patricia] Noemi?
+[0:27:25 -> 0:27:26] [SPEAKER_08] Sí, Noami.
+[0:27:26 -> 0:27:31] [SPEAKER_08] Pero cuando llegamos a saint (inaudible), ella estaba súper atenta.
+[0:27:31 -> 0:27:33] [Patricia] A lo mejor le han dicho a alguien que le cuida...
+[0:27:33 -> 0:27:35] [SPEAKER_08] Sí, sí, creo que sí.
+[0:27:35 -> 0:27:38] [Patricia] Pero estuvo... conocí a dos personas en el camino.
+[0:27:38 -> 0:27:39] [SPEAKER_08] Sí, sí.
+[0:27:39 -> 0:27:41] [Patricia] Nos abrazó y estaba en su salsa.
+[0:27:41 -> 0:27:44] [Patricia] Y aquí vive mi abuelita y voy a sacar fotos por aquí, por allá y por el otro lado también.
+[0:27:44 -> 0:27:45] [Patricia] Sí, sí.
+[0:27:45 -> 0:27:49] [Patricia] Y aquí vive mi abuelita, trayendo a todos los niños, venir, venir.
+[0:27:49 -> 0:27:54] [Patricia] Y luego la tiendita en la que entramos, también fue una tiendita de dulces.
 [0:27:54 -> 0:27:56] [Patricia] también fue una tiendita de dulces
 [0:27:56 -> 0:27:58] [Patricia] que entró Belén a preguntar si podíamos pasar
 [0:27:58 -> 0:28:00] [Patricia] nos dieron permiso, entramos, la invadimos
@@ -752,8 +775,8 @@
 [0:28:04 -> 0:28:06] [Patricia] y todos los dulces ahí puestos
 [0:28:06 -> 0:28:08] [Patricia] y los pollos
 [0:28:08 -> 0:28:10] [Patricia] y sacando fotos a todo
-[0:28:10 -> 0:28:12] [Patricia] y allí ella había estado muchas veces
-[0:28:12 -> 0:28:14] [Patricia] y qué compras
+[0:28:10 -> 0:28:12] [Patricia] y allí ella había estado muchas veces.
+[0:28:12 -> 0:28:14] [Patricia] "Oh y qué compras?"
 [0:28:14 -> 0:28:16] [Patricia] estas paletas picantes
 [0:28:16 -> 0:28:18] [Patricia] como cosas que yo no sé lo que son
 [0:28:18 -> 0:28:20] [Patricia] y las nubecitas esas
@@ -761,115 +784,110 @@
 [0:28:22 -> 0:28:24] [Patricia] de un hombre que no me acuerdo ahora
 [0:28:24 -> 0:28:26] [Patricia] la grabación
 [0:28:26 -> 0:28:28] [Patricia] y
-[0:28:28 -> 0:28:30] [SPEAKER_01] me dijo tanto como los taquis, como cosas americanas
-[0:28:30 -> 0:28:32] [SPEAKER_01] como los chicharrones
-[0:28:32 -> 0:28:34] [SPEAKER_01] estuvo muy bonito, se sabía la tienda entera
-[0:28:34 -> 0:28:36] [SPEAKER_01] de todas las cosas que nos iba enseñando
-[0:28:36 -> 0:28:38] [SPEAKER_01] Noami
-[0:28:38 -> 0:28:40] [SPEAKER_01] Noami Seta
-[0:28:40 -> 0:28:42] [SPEAKER_01] iba con su
-[0:28:42 -> 0:28:44] [SPEAKER_11] abuelo
+[0:28:28 -> 0:28:30] [Patricia] me dijo tanto como los taquis, como cosas americanas
+[0:28:30 -> 0:28:32] [Patricia] como los chicharrones
+[0:28:32 -> 0:28:34] [Patricia] estuvo muy bonito, se sabía la tienda entera
+[0:28:34 -> 0:28:36] [Patricia] de todas las cosas que nos iba enseñando
+[0:28:36 -> 0:28:38] [Patricia] Noami.
+[0:28:40 -> 0:28:42] [Patricia] Iba con su
+[0:28:42 -> 0:28:44] [Patricia] abuelo
 [0:28:44 -> 0:28:46] [Patricia] me dijo su abuelo
-[0:28:46 -> 0:28:48] [SPEAKER_08] vivía su abuela
-[0:28:48 -> 0:28:50] [SPEAKER_08] pero también su abuelo vive allí
+[0:28:46 -> 0:28:48] [Patricia] vivía su abuela
+[0:28:48 -> 0:28:50] [Patricia] pero también su abuelo vive allí
 [0:28:50 -> 0:28:52] [SPEAKER_08] porque la dueña me dijo que conocía a su mamá
 [0:28:52 -> 0:28:54] [Patricia] sí, me dijo yo vengo así con mi abuelo
 [0:28:54 -> 0:28:56] [Patricia] siempre después
 [0:28:56 -> 0:28:58] [Patricia] y compramos dulces
-[0:28:58 -> 0:29:00] [Patricia] le llamó
-[0:29:00 -> 0:29:02] [Patricia] y Jeremy muy contento también con esos dulces
+[0:28:58 -> 0:29:00] [Patricia] le llamó.
+[0:29:00 -> 0:29:02] [Patricia] Y Jeremy muy contento también con esos dulces
 [0:29:02 -> 0:29:04] [Patricia] pero él no conocía mucho
 [0:29:04 -> 0:29:06] [Patricia] me dijo no lo sé
-[0:29:06 -> 0:29:08] [SPEAKER_08] eso es en Venezuela
-[0:29:08 -> 0:29:10] [SPEAKER_08] y en la tienda de dulces encontramos el ramen coreano
-[0:29:10 -> 0:29:12] [SPEAKER_08] fue lo primero
-[0:29:12 -> 0:29:14] [SPEAKER_08] el ramen coreano?
-[0:29:14 -> 0:29:16] [SPEAKER_08] sí, había un ramen coreano en aquella tienda
+[0:29:06 -> 0:29:08] [Patricia] eso en Venezuela no.
+[0:29:08 -> 0:29:10] [SPEAKER_08] Jeremy found the Korean ramen.
+[0:29:10 -> 0:29:12] [SPEAKER_08] It was the first thing.
+[0:29:12 -> 0:29:14] [Patricia] Korean Ramen?
+[0:29:14 -> 0:29:16] [SPEAKER_08] Yeah, there was korean ramen en aquella tienda
 [0:29:16 -> 0:29:18] [SPEAKER_08] la primera cosa que quiso
-[0:29:18 -> 0:29:20] [SPEAKER_08] tocar fue
+[0:29:18 -> 0:29:20] [SPEAKER_08] bueno, tocar, fue
 [0:29:20 -> 0:29:22] [SPEAKER_08] los videos
-[0:29:22 -> 0:29:24] [SPEAKER_08] en esa tienda?
+[0:29:22 -> 0:29:24] [Patricia] en esa tienda?
 [0:29:24 -> 0:29:26] [SPEAKER_08] eso es lo que estaban tocando y grabando
 [0:29:26 -> 0:29:28] [SPEAKER_08] no, no, no
-[0:29:28 -> 0:29:30] [Patricia] tú tienes dinero
+[0:29:28 -> 0:29:30] [SPEAKER_05] tú tienes dinero
 [0:29:30 -> 0:29:32] [SPEAKER_05] tú tienes dinero para que me compre
-[0:29:32 -> 0:29:34] [SPEAKER_05] tú tienes dinero para que me compre
-[0:29:34 -> 0:29:36] [SPEAKER_01] la señora está relleno
-[0:29:36 -> 0:29:38] [SPEAKER_01] ¿cuánto cobraba la panadera?
+[0:29:34 -> 0:29:36] [SPEAKER_05] la señora está relleno
 [0:29:38 -> 0:29:40] [SPEAKER_01] ¿cuánto cobraba la panadera?
-[0:29:40 -> 0:29:42] [SPEAKER_01] ¿cuánto cobraba la panadera?
-[0:29:42 -> 0:29:44] [Patricia] tuvieron una conversación con la panadera
+[0:29:42 -> 0:29:44] [Patricia] ah, si, tuvieron una conversación con la panadera
 [0:29:44 -> 0:29:46] [SPEAKER_07] Jeremy le dijo
-[0:29:46 -> 0:29:48] [SPEAKER_06] ¿cuánto me costó?
-[0:29:48 -> 0:29:50] [SPEAKER_06] no, no
-[0:29:50 -> 0:29:52] [SPEAKER_06] te juro, le dijo
+[0:29:46 -> 0:29:48] [SPEAKER_07] How much do you make a day?
+[0:29:48 -> 0:29:50] [SPEAKER_06] no, no...
+[0:29:50 -> 0:29:52] [SPEAKER_07] te juro, le dijo
 [0:29:52 -> 0:29:54] [SPEAKER_07] le miró, porque qué le quieren preguntar
-[0:29:54 -> 0:29:56] [SPEAKER_06] él sí dijo, ¿cómo hacen los patelitos?
-[0:29:56 -> 0:29:58] [SPEAKER_06] y Jeremy dijo, ¿cuánto me costó?
-[0:29:58 -> 0:30:00] [SPEAKER_06] y yo dije, Jeremy es un poco personal
+[0:29:54 -> 0:29:56] [SPEAKER_07] él sí dijo, ¿cómo hacen los patelitos?
+[0:29:56 -> 0:29:58] [SPEAKER_07] y Jeremy dijo, "How much you make a day?"
+[0:29:58 -> 0:30:00] [SPEAKER_07] Y yo dije, Jeremy es un poco personal
 [0:30:00 -> 0:30:02] [SPEAKER_07] no sé si le puedan contestar
 [0:30:02 -> 0:30:04] [SPEAKER_07] y ahí dándole yo
-[0:30:04 -> 0:30:06] [SPEAKER_07] pero está buena la pregunta
-[0:30:06 -> 0:30:08] [SPEAKER_06] sí, entonces
-[0:30:08 -> 0:30:10] [SPEAKER_06] no, elige ahí el business sense
+[0:30:04 -> 0:30:06] [Patricia] pero está buena la pregunta
+[0:30:06 -> 0:30:08] [SPEAKER_07] sí, entonces
+[0:30:08 -> 0:30:10] [SPEAKER_07] no, elige ahí el business sense
 [0:30:10 -> 0:30:12] [SPEAKER_07] elige, me gusta, estás pensando como un comerciante
 [0:30:12 -> 0:30:14] [SPEAKER_07] pero la señora ahí le dio risa
 [0:30:14 -> 0:30:16] [SPEAKER_07] y dijo, no, sobre el tribunal no te puedo decir
-[0:30:16 -> 0:30:18] [SPEAKER_07] poquito
-[0:30:18 -> 0:30:20] [Cristina] pero fue un poco
-[0:30:20 -> 0:30:22] [Cristina] como
-[0:30:22 -> 0:30:24] [Cristina] tú tienes que darme la cuenta
+[0:30:16 -> 0:30:18] [Patricia] poquito
+[0:30:18 -> 0:30:20] [Cristina] He's jaded, like,
+[0:30:20 -> 0:30:22] [Cristina] he's got it down.
 [0:30:24 -> 0:30:26] [SPEAKER_07] es como que
 [0:30:26 -> 0:30:28] [SPEAKER_07] te juro, cada vez que se me acerca
 [0:30:28 -> 0:30:30] [SPEAKER_07] me lo quiero como apretar así
 [0:30:30 -> 0:30:32] [SPEAKER_07] es delicioso
-[0:30:32 -> 0:30:34] [SPEAKER_05] yo lo hago todo el día con él
+[0:30:32 -> 0:30:34] [SPEAKER_07] yo lo hago todo el día con él
 [0:30:34 -> 0:30:36] [SPEAKER_05] y él sabe eso, cuando le dijiste baila
-[0:30:38 -> 0:30:40] [SPEAKER_07] baile
-[0:30:40 -> 0:30:42] [SPEAKER_07] no me gusta
+[0:30:38 -> 0:30:40] [SPEAKER_05] baile
+[0:30:40 -> 0:30:42] [SPEAKER_05] no me gusta
 [0:30:42 -> 0:30:44] [SPEAKER_07] pensé que me iba a decir que no, pero fue como ya
-[0:30:46 -> 0:30:48] [Patricia] en Latinoamérica quien no baila es como
-[0:30:48 -> 0:30:50] [Patricia] está súper avergonzado
-[0:30:50 -> 0:30:52] [SPEAKER_07] es como
+[0:30:46 -> 0:30:48] [Patricia] en Latinoamérica quien no baila es como,
+[0:30:48 -> 0:30:50] [Patricia] está súper avergonzado,
+[0:30:50 -> 0:30:52] [Patricia] es como....
 [0:30:52 -> 0:30:54] [SPEAKER_07] fue lindo que sí, yo pensé que no me iba
 [0:30:54 -> 0:30:56] [SPEAKER_07] pero como que dijo ya
-[0:30:56 -> 0:30:58] [SPEAKER_06] ya, ya a mi profesora
-[0:30:58 -> 0:31:00] [SPEAKER_06] que me está traboblando
+[0:30:56 -> 0:30:58] [SPEAKER_07] ya, ya a mi profesora
+[0:30:58 -> 0:31:00] [SPEAKER_07] que me está traboblando
 [0:31:00 -> 0:31:02] [SPEAKER_05] me dijo, no me gusta bailar
 [0:31:02 -> 0:31:04] [SPEAKER_05] pero cuando le pediste
 [0:31:04 -> 0:31:06] [SPEAKER_05] no, no
-[0:31:06 -> 0:31:08] [Patricia] chico
+[0:31:06 -> 0:31:08] [SPEAKER_05] chico
 [0:31:08 -> 0:31:10] [Patricia] las niñas sí bailaban bien
 [0:31:10 -> 0:31:12] [SPEAKER_07] yo sé que le gusta poner los brain breaks
 [0:31:12 -> 0:31:14] [SPEAKER_07] y le gusta menear
-[0:31:14 -> 0:31:16] [SPEAKER_06] la que me sorprendió fue Kelsey, digo Kaylee
-[0:31:16 -> 0:31:18] [SPEAKER_06] porque Kaylee es súper timida y reservada
-[0:31:18 -> 0:31:20] [SPEAKER_06] y Kaylee con mal arriba
+[0:31:14 -> 0:31:16] [SPEAKER_07] la que me sorprendió fue Kelsey, digo Kaylee
+[0:31:16 -> 0:31:18] [SPEAKER_07] porque Kaylee es súper timida y reservada
+[0:31:18 -> 0:31:20] [SPEAKER_07] y Kaylee con mal arriba
 [0:31:20 -> 0:31:22] [SPEAKER_07] y todo, y así
-[0:31:22 -> 0:31:24] [SPEAKER_07] pero Jera estaba como
+[0:31:22 -> 0:31:24] [SPEAKER_07] pero Jada estaba como
 [0:31:24 -> 0:31:26] [SPEAKER_07] en llamas
 [0:31:26 -> 0:31:28] [SPEAKER_07] y pero así como que le hubieras dado
 [0:31:28 -> 0:31:30] [SPEAKER_07] como una inyección de azúcar
 [0:31:30 -> 0:31:32] [SPEAKER_07] te juro andaba como
 [0:31:32 -> 0:31:34] [SPEAKER_07] y todo, y todo en un minuto
-[0:31:34 -> 0:31:36] [SPEAKER_07] y era como, yo Gina
+[0:31:34 -> 0:31:36] [SPEAKER_07] y era como, yo Georgina
 [0:31:36 -> 0:31:38] [SPEAKER_07] estás en llamas, que pasa
 [0:31:38 -> 0:31:40] [SPEAKER_07] y se le hacía la foto y se le hacía la pregunta
 [0:31:40 -> 0:31:42] [SPEAKER_07] y se reía solo
 [0:31:42 -> 0:31:44] [SPEAKER_07] te juro que estaba como prendido
-[0:31:44 -> 0:31:46] [SPEAKER_07] que yo, estaba emocionada
-[0:31:46 -> 0:31:48] [Patricia] no de verdad, sí yo creo que
+[0:31:44 -> 0:31:46] [SPEAKER_07] que yo, estaba emocionada, no de verdad.
+[0:31:46 -> 0:31:48] [Patricia] Sí yo creo que
 [0:31:48 -> 0:31:50] [Patricia] les ha ayudado a ver la comunidad de otra manera
 [0:31:50 -> 0:31:52] [Patricia] también a ellos, porque ellos pasan por
-[0:31:52 -> 0:31:54] [SPEAKER_05] esos sitios todo el tiempo
-[0:31:54 -> 0:31:56] [SPEAKER_05] sí, Aisis decía que camina por aquí
+[0:31:52 -> 0:31:54] [Patricia] esos sitios todo el tiempo
+[0:31:54 -> 0:31:56] [SPEAKER_05] sí, Isis decía que camina por aquí
 [0:31:56 -> 0:31:58] [SPEAKER_05] decía por aquí caminan todos los días
 [0:31:58 -> 0:32:00] [SPEAKER_05] no había visto que hay esto y eso
 [0:32:00 -> 0:32:02] [SPEAKER_05] y son los expertos
 [0:32:02 -> 0:32:04] [SPEAKER_04] o sea caminan cada día
 [0:32:04 -> 0:32:06] [SPEAKER_04] pero es diferente hacerlo en grupo
 [0:32:06 -> 0:32:08] [SPEAKER_04] con nosotros, contándonos
-[0:32:08 -> 0:32:10] [SPEAKER_05] y tratando de ver cosas
+[0:32:08 -> 0:32:10] [Cristina] y tratando de ver cosas, you know, like
 [0:32:10 -> 0:32:12] [SPEAKER_05] y tomando fotos
 [0:32:12 -> 0:32:14] [SPEAKER_07] el behind the scenes
 [0:32:14 -> 0:32:16] [SPEAKER_07] porque yo creo que nunca hablan con las personas
@@ -882,7 +900,7 @@
 [0:32:28 -> 0:32:30] [SPEAKER_07] y le daban el pastelito
 [0:32:30 -> 0:32:32] [SPEAKER_07] ya no es la persona, es Wendy
 [0:32:32 -> 0:32:34] [SPEAKER_07] es, es, es
-[0:32:34 -> 0:32:36] [SPEAKER_07] Gabriely
+[0:32:34 -> 0:32:36] [SPEAKER_07] Gabriel y como que...
 [0:32:36 -> 0:32:38] [SPEAKER_07] entonces también le va dando otro
 [0:32:38 -> 0:32:40] [Patricia] si la mamá de Isabel
 [0:32:40 -> 0:32:42] [Patricia] yo le pregunté sobre una verdura
@@ -890,7 +908,7 @@
 [0:32:44 -> 0:32:46] [Patricia] esta cosa marrón
 [0:32:46 -> 0:32:48] [Patricia] y le pregunté
 [0:32:48 -> 0:32:50] [Patricia] pero yo sé que eso es muy conocido
-[0:32:50 -> 0:32:52] [Patricia] no, no, no, Malanga
+[0:32:50 -> 0:32:52] [Group] Malanga
 [0:32:52 -> 0:32:54] [Patricia] eso mismo
 [0:32:54 -> 0:32:56] [Patricia] entonces yo estoy intentando averiguarlo
 [0:32:56 -> 0:32:58] [Patricia] y ella en ese momento
@@ -904,8 +922,8 @@
 [0:33:12 -> 0:33:14] [Patricia] en España, sí
 [0:33:14 -> 0:33:16] [Patricia] no, pero lo dijo con
 [0:33:16 -> 0:33:18] [Patricia] ya habíamos estado charlando un poco con el señor
-[0:33:18 -> 0:33:20] [Patricia] el señor muy colaborador, y le dijo primo
-[0:33:20 -> 0:33:22] [Patricia] no, no, ¿cuál es el nombre de esto?
+[0:33:18 -> 0:33:20] [Patricia] el señor muy colaborador, y le dijo primo,
+[0:33:20 -> 0:33:22] [Patricia] ¿cuál es el nombre de esto?
 [0:33:22 -> 0:33:24] [SPEAKER_04] como diciendo
 [0:33:24 -> 0:33:26] [SPEAKER_04] pero el primo es como familia
 [0:33:26 -> 0:33:28] [SPEAKER_04] luego me explicó, tengo en la grabación
@@ -916,7 +934,7 @@
 [0:33:36 -> 0:33:38] [SPEAKER_07] no, pero por eso decía como
 [0:33:38 -> 0:33:40] [SPEAKER_07] en España se dice oye tío
 [0:33:40 -> 0:33:42] [SPEAKER_07] a alguien como que le llamara a la persona
-[0:33:42 -> 0:33:44] [SPEAKER_06] oye tío, porque yo su parentesco, ah no me había dado cuenta
+[0:33:42 -> 0:33:44] [Patricia] oye tío, porque yo su parentesco, ah no me había dado cuenta
 [0:33:44 -> 0:33:46] [SPEAKER_07] así como oye tío
 [0:33:46 -> 0:33:48] [SPEAKER_07] y de todo lado
 [0:33:48 -> 0:33:50] [SPEAKER_07] en España hay otra cosa y en Argentina otra cosa
@@ -929,83 +947,82 @@
 [0:34:02 -> 0:34:04] [SPEAKER_07] nosotros dos tenemos un equivalente no tan polite
 [0:34:04 -> 0:34:06] [Patricia] pero tío tampoco es tan polite
 [0:34:06 -> 0:34:08] [Patricia] no se debe decir al frutero
-[0:34:08 -> 0:34:10] [None] es tío, dame la floja
+[0:34:08 -> 0:34:10] [Patricia] es tío, dame la floja
 [0:34:10 -> 0:34:12] [Patricia] no, that's all
 [0:34:12 -> 0:34:14] [Patricia] es super vulgar así
 [0:34:14 -> 0:34:16] [Patricia] pero sí lo decimos mucho
-[0:34:16 -> 0:34:18] [SPEAKER_07] no, no es una mala palabra
+[0:34:16 -> 0:34:18] [SPEAKER_07] pero no es una mala palabra
 [0:34:18 -> 0:34:20] [SPEAKER_07] pero no se confianzudamente así
-[0:34:20 -> 0:34:22] [SPEAKER_07] pero tío de que estás hablando
+[0:34:20 -> 0:34:22] [Patricia] pero tío de que estás hablando
 [0:34:22 -> 0:34:24] [Patricia] es como muy familiar
 [0:34:24 -> 0:34:26] [Patricia] muy vulgar, muy de calle
-[0:34:26 -> 0:34:28] [Patricia] digo eso es importante saberlo
-[0:34:28 -> 0:34:30] [SPEAKER_04] porque
+[0:34:26 -> 0:34:28] [Patricia] digo eso es importante saberlo, no?
+[0:34:28 -> 0:34:30] [Patricia] porque...
 [0:34:30 -> 0:34:32] [SPEAKER_04] es cuando dice oye amigo
 [0:34:34 -> 0:34:36] [Patricia] bueno, estaban muy emocionados
 [0:34:36 -> 0:34:38] [Patricia] Isabel se quería llevar la cámara a casa
-[0:34:38 -> 0:34:40] [SPEAKER_01] pero ya les dije, bueno quizá otro día
-[0:34:40 -> 0:34:42] [SPEAKER_01] que a ver cuando podía
+[0:34:38 -> 0:34:40] [Patricia] pero ya les dije, bueno quizá otro día
+[0:34:40 -> 0:34:42] [Patricia] que a ver cuando podía
 [0:34:42 -> 0:34:44] [Patricia] quizá otro día se la llevan a casa
 [0:34:44 -> 0:34:46] [Patricia] porque queríamos ver las fotos hoy
 [0:34:46 -> 0:34:48] [Patricia] entonces mañana
 [0:34:48 -> 0:34:50] [Patricia] cómo seguimos esto
-[0:34:50 -> 0:34:52] [SPEAKER_01] bueno, ¿tú estabas sacando las fotos?
-[0:34:52 -> 0:34:54] [SPEAKER_02] las fotos
-[0:34:54 -> 0:34:56] [SPEAKER_02] mi computadora no está funcionando
-[0:34:56 -> 0:34:58] [SPEAKER_02] con el wifi
-[0:34:58 -> 0:35:00] [SPEAKER_02] yo voy a hacer a la noche
-[0:35:00 -> 0:35:02] [SPEAKER_02] mi clase, durante mi clase
-[0:35:02 -> 0:35:04] [SPEAKER_02] y Belén se llevó algunas
-[0:35:04 -> 0:35:06] [Patricia] durante tu clase
-[0:35:06 -> 0:35:08] [SPEAKER_02] sí, no sé
-[0:35:08 -> 0:35:10] [SPEAKER_00] Belén tiene los otros
-[0:35:10 -> 0:35:12] [SPEAKER_02] pero no sé
+[0:34:50 -> 0:34:52] [Patricia] bueno, ¿tú estabas sacando las fotos?
+[0:34:52 -> 0:34:54] [Joe] las fotos
+[0:34:54 -> 0:34:56] [Joe] mi computadora no está funcionando
+[0:34:56 -> 0:34:58] [Joe] con el wifi
+[0:34:58 -> 0:35:00] [Joe] yo voy a hacer a la noche
+[0:35:00 -> 0:35:02] [Joe] mi clase, durante mi clase
+[0:35:02 -> 0:35:04] [Patricia] y Belén se llevó algunas
+[0:35:04 -> 0:35:06] [Patricia] durante tu clase?
+[0:35:06 -> 0:35:08] [Joe] sí, no sé
+[0:35:08 -> 0:35:10] [Joe] Belén tiene los otros
+[0:35:10 -> 0:35:12] [Joe] pero no sé
 [0:35:12 -> 0:35:14] [Patricia] Belén tiene algunas, sí
 [0:35:14 -> 0:35:16] [Patricia] y porque qué queríamos
 [0:35:16 -> 0:35:18] [Patricia] mañana habíamos dicho en el grupo
-[0:35:18 -> 0:35:20] [Patricia] en los grupos pequeños
-[0:35:20 -> 0:35:22] [SPEAKER_02] verlas en las cámaras
-[0:35:22 -> 0:35:24] [SPEAKER_02] porque no tenemos computadoras
-[0:35:24 -> 0:35:26] [SPEAKER_02] por favor
-[0:35:26 -> 0:35:28] [SPEAKER_02] no tenemos suficientes computadoras
-[0:35:28 -> 0:35:30] [SPEAKER_02] no sé si pueden acceder en sus computadoras
-[0:35:30 -> 0:35:32] [SPEAKER_02] tal vez pueden usar sus propios
-[0:35:32 -> 0:35:34] [SPEAKER_02] computadores
-[0:35:34 -> 0:35:36] [SPEAKER_02] como
+[0:35:18 -> 0:35:20] [Patricia] en los grupos pequeños...
+[0:35:20 -> 0:35:22] [Joe] y verlas en las cámaras
+[0:35:22 -> 0:35:24] [Joe] porque no tenemos computadoras
+[0:35:24 -> 0:35:26] [Joe] por todos
+[0:35:26 -> 0:35:28] [Patricia] no tenemos suficientes computadoras
+[0:35:28 -> 0:35:30] [Joe] no sé si pueden access en sus computadoras
+[0:35:30 -> 0:35:32] [Cristina] tal vez pueden usar sus propios
+[0:35:32 -> 0:35:34] [Joe] Computadores?
+[0:35:34 -> 0:35:36] [Cristina] yeah
 [0:35:36 -> 0:35:38] [Cristina] voy a tener el mío
-[0:35:38 -> 0:35:40] [SPEAKER_08] también
+[0:35:38 -> 0:35:40] [Cristina] también
 [0:35:40 -> 0:35:42] [SPEAKER_08] también puedo usar mi computadora
 [0:35:42 -> 0:35:44] [SPEAKER_08] porque van a estar en Google Drive también
 [0:35:44 -> 0:35:46] [SPEAKER_08] pero no sé si se puede
-[0:35:46 -> 0:35:48] [SPEAKER_02] todos van a ser
-[0:35:48 -> 0:35:50] [SPEAKER_02] al mismo tiempo
-[0:35:50 -> 0:35:52] [SPEAKER_02] en grupos
-[0:35:52 -> 0:35:54] [SPEAKER_02] una persona
-[0:35:54 -> 0:35:56] [SPEAKER_02] en grupos pequeños
-[0:35:56 -> 0:35:58] [SPEAKER_02] todos van a ser en grupos pequeños
-[0:35:58 -> 0:36:00] [SPEAKER_08] sus amigos también
-[0:36:00 -> 0:36:02] [SPEAKER_08] sí, porque tienen muchas
+[0:35:46 -> 0:35:48] [Joe] pero todos van a ser
+[0:35:48 -> 0:35:50] [Joe] al mismo tiempo, o
+[0:35:50 -> 0:35:52] [Joe] en grupos de
+[0:35:52 -> 0:35:54] [Joe] una persona
+[0:35:54 -> 0:35:56] [Joe] en grupos pequeños
+[0:35:56 -> 0:35:58] [Joe] Or everyone in gonna be in the same...
+[0:36:00 -> 0:36:02] [Patricia] sí, porque tienen muchas
 [0:36:02 -> 0:36:04] [Patricia] muchas son repetidas
-[0:36:04 -> 0:36:06] [Cristina] podemos hacerlo como
+[0:36:04 -> 0:36:06] [Cristina] We could do it like a...
 [0:36:06 -> 0:36:08] [Cristina] o en nuestro grupo
 [0:36:08 -> 0:36:10] [Cristina] o el mío con el mío
-[0:36:10 -> 0:36:12] [SPEAKER_08] oh, con Switch
-[0:36:12 -> 0:36:14] [SPEAKER_08] oh, hablamos de eso
-[0:36:14 -> 0:36:16] [SPEAKER_05] ¿hablamos de eso?
-[0:36:16 -> 0:36:18] [SPEAKER_05] sí, lo hicimos
-[0:36:18 -> 0:36:20] [SPEAKER_05] dijimos que cada grupo puede decidir
-[0:36:20 -> 0:36:22] [SPEAKER_05] si quieren cambiar o si quieren quedarse con su grupo
-[0:36:22 -> 0:36:24] [SPEAKER_05] porque no sé
-[0:36:24 -> 0:36:26] [SPEAKER_05] si por ejemplo Manuel
-[0:36:26 -> 0:36:28] [SPEAKER_05] si yo solo lo hago
-[0:36:28 -> 0:36:30] [SPEAKER_05] con todo eso
-[0:36:30 -> 0:36:32] [SPEAKER_05] podemos decidir en nuestro grupo
-[0:36:32 -> 0:36:34] [SPEAKER_05] si quieren
-[0:36:34 -> 0:36:36] [SPEAKER_08] sí, y tendremos las cámaras
-[0:36:36 -> 0:36:38] [SPEAKER_08] y lo vamos a hacer
-[0:36:38 -> 0:36:40] [SPEAKER_08] y lo hemos decidido con el video
-[0:36:40 -> 0:36:42] [Patricia] pero hay que capturarlo
-[0:36:42 -> 0:36:44] [Patricia] los investigadores
+[0:36:10 -> 0:36:12] [SPEAKER_08] Hh, we would switch.
+[0:36:12 -> 0:36:14] [SPEAKER_08] Oh, we talked about that!
+[0:36:14 -> 0:36:16] [SPEAKER_08] Did we talk about that?
+[0:36:16 -> 0:36:18] [SPEAKER_05] Yes, we did.
+[0:36:18 -> 0:36:20] [SPEAKER_05] We said that each group decide if you wanna switch
+[0:36:20 -> 0:36:22] [SPEAKER_05] or if you wanna stay with your group. Beacuse
+[0:36:22 -> 0:36:24] [SPEAKER_05] I don't know if
+[0:36:24 -> 0:36:26] [SPEAKER_05] for example when Manuel comes
+[0:36:26 -> 0:36:28] [SPEAKER_05] if I just do it
+[0:36:28 -> 0:36:30] [SPEAKER_05] with all of them.
+[0:36:30 -> 0:36:32] [SPEAKER_05] We can decide in our own groups.
+[0:36:32 -> 0:36:34] [SPEAKER_08] Yeah
+[0:36:34 -> 0:36:36] [SPEAKER_08] Yeah and we'll have the cameras
+[0:36:36 -> 0:36:38] [SPEAKER_08] cuz they'll love going through
+[0:36:38 -> 0:36:40] [SPEAKER_08] and we figured out videos so there's so much video to go through.
+[0:36:40 -> 0:36:42] [Patricia] Pero hay que capturarlo
+[0:36:42 -> 0:36:44] [Patricia] the searches.
 [0:36:44 -> 0:36:46] [Patricia] o bien
 [0:36:46 -> 0:36:48] [Patricia] grabarlo con
 [0:36:48 -> 0:36:50] [Patricia] el teléfono o
@@ -1018,390 +1035,380 @@
 [0:37:02 -> 0:37:04] [Patricia] si podéis grabar o tomar notas
 [0:37:04 -> 0:37:06] [Patricia] porque es una tarea
 [0:37:06 -> 0:37:08] [Patricia] ¿te has prestado atención a los niños?
-[0:37:08 -> 0:37:10] [Cristina] a veces olvido
-[0:37:10 -> 0:37:12] [Cristina] lo siento
-[0:37:12 -> 0:37:14] [SPEAKER_07] super importante
+[0:37:08 -> 0:37:10] [Cristina] Si, a veces olvido
+[0:37:10 -> 0:37:12] [Cristina] lo siento, pero si.
+[0:37:12 -> 0:37:14] [Patricia] super importante
 [0:37:14 -> 0:37:16] [SPEAKER_07] perdón, es que
-[0:37:16 -> 0:37:18] [SPEAKER_07] Andrés tenía que responder
+[0:37:16 -> 0:37:18] [SPEAKER_07] Andréa tenía que responder
 [0:37:18 -> 0:37:20] [SPEAKER_07] ¿están hablando de la próxima sesión?
-[0:37:20 -> 0:37:22] [Patricia] mañana, sí
-[0:37:22 -> 0:37:24] [Patricia] porque la idea es
-[0:37:24 -> 0:37:26] [Patricia] mover adelante es crear
-[0:37:26 -> 0:37:28] [Patricia] animaciones de pausa
-[0:37:28 -> 0:37:30] [Patricia] ¿verdad Joe?
-[0:37:30 -> 0:37:32] [Patricia] animaciones de pausa
-[0:37:32 -> 0:37:34] [SPEAKER_07] como los próximos pasos después de hoy día
+[0:37:20 -> 0:37:22] [Cristina] Mañana, sí.
+[0:37:22 -> 0:37:24] [Patricia] Porque la idea es
+[0:37:24 -> 0:37:26] [Patricia] moving forward
+[0:37:26 -> 0:37:28] [Patricia] is to create stop motion animations.
+[0:37:28 -> 0:37:30] [Patricia] Right Joe?
+[0:37:30 -> 0:37:32] [Patricia] Stop motion animations.
+[0:37:32 -> 0:37:34] [SPEAKER_07] Porque como los next steps después de hoy día
 [0:37:34 -> 0:37:36] [SPEAKER_07] también sería buenísimo que pudieran escribir
-[0:37:36 -> 0:37:38] [SPEAKER_07] un poco de
-[0:37:38 -> 0:37:40] [SPEAKER_07] reflexionar y escribir un parraquito
-[0:37:40 -> 0:37:42] [Patricia] o hacerlos como
-[0:37:42 -> 0:37:44] [Patricia] tenemos un handout
-[0:37:44 -> 0:37:46] [Cristina] mañana, sí, creo que sí
-[0:37:46 -> 0:37:48] [SPEAKER_05] tenemos un
-[0:37:48 -> 0:37:50] [SPEAKER_05] ¿un handout?
-[0:37:50 -> 0:37:52] [SPEAKER_05] sí, lo voy a pintar
-[0:37:52 -> 0:37:54] [SPEAKER_05] con preguntas para discutir
+[0:37:36 -> 0:37:38] [SPEAKER_07] un poco de...
+[0:37:38 -> 0:37:40] [SPEAKER_07] como reflexionar y escribir un parraquito
+[0:37:40 -> 0:37:42] [SPEAKER_07] o hacerlos como
+[0:37:42 -> 0:37:44] [Patricia] We had ahandout... mañana?
+[0:37:44 -> 0:37:46] [Cristina] Sí, creo que sí
+[0:37:46 -> 0:37:48] [SPEAKER_05] We have what?
+[0:37:48 -> 0:37:50] [Patricia] Yes a handout
+[0:37:50 -> 0:37:52] [Cristina] yes, I will print it
+[0:37:52 -> 0:37:54] [Cristina] con preguntas para discutir
 [0:37:54 -> 0:37:56] [SPEAKER_05] solo tienen dos preguntas y van a dibujar
 [0:37:56 -> 0:37:58] [SPEAKER_05] en uno de esos cuadros
 [0:37:58 -> 0:38:00] [SPEAKER_05] y Belén tuvo la idea de que
-[0:38:00 -> 0:38:02] [SPEAKER_05] vamos a pegar todos en un cartel
+[0:38:00 -> 0:38:02] [SPEAKER_05] vamos a pegar todos en un carte
 [0:38:02 -> 0:38:04] [SPEAKER_05] explicando su momento favorito
 [0:38:04 -> 0:38:06] [SPEAKER_05] del camino
 [0:38:06 -> 0:38:08] [Patricia] su momento favorito
-[0:38:08 -> 0:38:10] [Cristina] hablamos de la estructura
-[0:38:10 -> 0:38:12] [SPEAKER_05] ¿qué fue la estructura?
-[0:38:12 -> 0:38:14] [SPEAKER_05] vamos a hablar en el grupo
-[0:38:14 -> 0:38:16] [SPEAKER_05] primero, cuál fue su momento favorito
-[0:38:16 -> 0:38:18] [SPEAKER_05] luego van a mirar las fotos
-[0:38:18 -> 0:38:20] [SPEAKER_05] luego van a trabajar con los compañeros
-[0:38:20 -> 0:38:22] [SPEAKER_05] y explicar
-[0:38:22 -> 0:38:24] [Cristina] explican lo que hicieron
-[0:38:24 -> 0:38:26] [Cristina] lo que fue su momento favorito
-[0:38:26 -> 0:38:28] [Cristina] dibujar
-[0:38:28 -> 0:38:30] [Patricia] vamos a hablar
+[0:38:08 -> 0:38:10] [Cristina] Que fue la structura? We talked about the structure.
+[0:38:10 -> 0:38:12] [Cristina] What was the structure about??
+[0:38:12 -> 0:38:14] [SPEAKER_05] We're gonna talk in the group
+[0:38:14 -> 0:38:16] [SPEAKER_05] first, what was their favorite moment was
+[0:38:16 -> 0:38:18] [SPEAKER_05] then they're going to look at photos
+[0:38:18 -> 0:38:20] [SPEAKER_05] then they're going to work with eachother
+[0:38:20 -> 0:38:22] [SPEAKER_05] and explain.
+[0:38:22 -> 0:38:24] [Cristina] Oh yeah, explain what they drew.
+[0:38:24 -> 0:38:26] [Cristina] What their favorite moment was.
+[0:38:26 -> 0:38:28] [Cristina] That's what it was.
+[0:38:28 -> 0:38:30] [Patricia] No queriamos hablar
 [0:38:30 -> 0:38:32] [Patricia] en el paseo
 [0:38:32 -> 0:38:34] [Patricia] la idea de algo que ha pasado
 [0:38:34 -> 0:38:36] [Patricia] dentro, por ejemplo, Naomi
 [0:38:36 -> 0:38:38] [Patricia] que entra con su abuelo en esa tienda
-[0:38:38 -> 0:38:40] [SPEAKER_11] y qué hace cuando entra en la tienda
-[0:38:40 -> 0:38:42] [SPEAKER_11] como deslizar ese momento
-[0:38:42 -> 0:38:44] [SPEAKER_11] sí, pero fue más como
-[0:38:44 -> 0:38:46] [SPEAKER_05] cuál fue su momento favorito
-[0:38:46 -> 0:38:48] [Patricia] el momento favorito
-[0:38:48 -> 0:38:50] [Patricia] en el camino
-[0:38:50 -> 0:38:52] [SPEAKER_05] porque tiene que ser algo que es importante
-[0:38:52 -> 0:38:54] [SPEAKER_05] para la familia
-[0:38:54 -> 0:38:56] [SPEAKER_11] puedes moverte hacia ese espacio
-[0:38:56 -> 0:38:58] [SPEAKER_11] o ves que alguien dice
-[0:38:58 -> 0:39:00] [SPEAKER_11] porque he estado allí muchas veces
-[0:39:00 -> 0:39:02] [Patricia] cuándo fue eso, qué pasó
-[0:39:02 -> 0:39:04] [Patricia] cuando llegaste, ¿tienes una apuntación?
-[0:39:04 -> 0:39:06] [SPEAKER_11] como si dijera
-[0:39:06 -> 0:39:08] [SPEAKER_11] ahora elabore un poco en esos
-[0:39:08 -> 0:39:10] [SPEAKER_11] dos
-[0:39:10 -> 0:39:12] [SPEAKER_11] en el piso, porque pueden estar
-[0:39:12 -> 0:39:14] [SPEAKER_11] en las conversaciones
-[0:39:14 -> 0:39:16] [SPEAKER_11] en los espacios, como en el barrio
-[0:39:16 -> 0:39:18] [Patricia] que no capturamos
-[0:39:20 -> 0:39:22] [SPEAKER_11] sí, eso será mañana
-[0:39:22 -> 0:39:24] [SPEAKER_02] y pensando en las animaciones
-[0:39:24 -> 0:39:26] [SPEAKER_02] si vamos a hacer la 3D
-[0:39:26 -> 0:39:28] [SPEAKER_02] necesitamos equipos para eso
-[0:39:28 -> 0:39:30] [SPEAKER_02] no solo las cajas
-[0:39:30 -> 0:39:32] [SPEAKER_02] pero como
-[0:39:32 -> 0:39:34] [SPEAKER_02] Ipads o Iphones
-[0:39:34 -> 0:39:36] [SPEAKER_02] necesitamos pensar
-[0:39:36 -> 0:39:38] [SPEAKER_02] qué dispositivos vamos a usar
-[0:39:38 -> 0:39:40] [SPEAKER_02] y cómo vamos a ponerlos
-[0:39:40 -> 0:39:42] [None] en los tripodos
-[0:39:44 -> 0:39:46] [SPEAKER_02] o podemos hacer
-[0:39:46 -> 0:39:48] [SPEAKER_02] teclas
-[0:39:48 -> 0:39:50] [None] pero eso sería 2D
-[0:39:50 -> 0:39:52] [Patricia] sí
-[0:39:52 -> 0:39:54] [Patricia] pero en 3D
-[0:39:54 -> 0:39:56] [Patricia] tendríamos una caja pequeña
-[0:39:56 -> 0:39:58] [Patricia] similar a la que usamos
-[0:39:58 -> 0:40:00] [Patricia] para la identidad
-[0:40:00 -> 0:40:02] [Patricia] o eludicke
-[0:40:02 -> 0:40:04] [Patricia] probablemente
-[0:40:04 -> 0:40:06] [Patricia] y luego tendrían imágenes
-[0:40:06 -> 0:40:08] [Patricia] seleccionadas de la comunidad
-[0:40:08 -> 0:40:10] [SPEAKER_02] basadas en el sitio
-[0:40:10 -> 0:40:12] [Patricia] como un backdrop
-[0:40:12 -> 0:40:14] [Patricia] esto está sucediendo en la comunidad
-[0:40:14 -> 0:40:16] [Patricia] sobre estos tres espacios que escogimos
-[0:40:16 -> 0:40:18] [Patricia] por cierto, hay muchas cartas
-[0:40:18 -> 0:40:20] [Patricia] Dylan quería capturar
-[0:40:20 -> 0:40:22] [Patricia] de...
+[0:38:38 -> 0:38:40] [Patricia] y qué hace cuando entra en la tienda
+[0:38:40 -> 0:38:42] [Patricia] como slow down that moment.
+[0:38:42 -> 0:38:44] [SPEAKER_05] Yeah but it was more like
+[0:38:44 -> 0:38:46] [SPEAKER_05] their favorite moment.
+[0:38:46 -> 0:38:48] [Patricia] Their favorite moment
+[0:38:48 -> 0:38:50] [Patricia] in the world.
+[0:38:50 -> 0:38:52] [SPEAKER_05] Yes. Because it needs to be something
+[0:38:52 -> 0:38:54] [SPEAKER_05] that is important for them.
+[0:38:54 -> 0:38:56] [Patricia] But you know, you can move toward that space
+[0:38:56 -> 0:38:58] [Patricia] of you see that's...
+[0:38:58 -> 0:39:00] [Patricia] Because I think I have been there many times...
+[0:39:00 -> 0:39:02] [Patricia] when was that, what happened,
+[0:39:02 -> 0:39:04] [Patricia] when did you arrive, did you have an appointment?
+[0:39:04 -> 0:39:06] [Patricia] Like, did you say...
+[0:39:06 -> 0:39:08] [Patricia] Now elaborate in those...
+[0:39:08 -> 0:39:10] [Patricia] two...
+[0:39:10 -> 0:39:12] [Patricia] In the window... because they might be engaging
+[0:39:12 -> 0:39:14] [Patricia] in conversations in those spaces,
+[0:39:14 -> 0:39:16] [Patricia] like in the barber shop
+[0:39:16 -> 0:39:18] [Patricia] that we didn't capture.
+[0:39:20 -> 0:39:22] [Patricia] Yeah, that will be tomorrow.
+[0:39:22 -> 0:39:24] [Joe] And, thinking about the animations
+[0:39:24 -> 0:39:26] [Joe] If we're gonna do 3d
+[0:39:26 -> 0:39:28] [Joe] we need to get equipent for that.
+[0:39:28 -> 0:39:30] [Joe] Not just the boxes
+[0:39:30 -> 0:39:32] [Joe] but like
+[0:39:32 -> 0:39:34] [Joe] Ipads or Iphones or whatever.
+[0:39:34 -> 0:39:36] [Joe] we need to think about
+[0:39:36 -> 0:39:38] [Joe] what devices we're going to use
+[0:39:38 -> 0:39:40] [Joe] and how we're gonna set them up,
+[0:39:40 -> 0:39:42] [Joe] on like tripods. Maybe order those tripods...
+[0:39:44 -> 0:39:46] [Joe] Or we could do two dimensional.
+[0:39:46 -> 0:39:48] [Cristina] Teclas.
+[0:39:48 -> 0:39:50] [Joe] But that would be in 2d
+[0:39:50 -> 0:39:52] [Joe] Yeah.
+[0:39:52 -> 0:39:54] [Patricia] A ver, pero el 3D,
+[0:39:54 -> 0:39:56] [Patricia] we would have like a small
+[0:39:56 -> 0:39:58] [Patricia] similar to the one we use
+[0:39:58 -> 0:40:00] [Patricia] for the identity.
+[0:40:00 -> 0:40:02] [Patricia] O eludique (?)
+[0:40:02 -> 0:40:04] [Patricia] probably.
+[0:40:04 -> 0:40:06] [Patricia] And then they would have images. They would
+[0:40:06 -> 0:40:08] [Patricia] select images from the community.
+[0:40:08 -> 0:40:10] [Patricia] Based on the site.
+[0:40:10 -> 0:40:12] [Joe] Yeah, as like a backdrop. Yeah, exactly.
+[0:40:12 -> 0:40:14] [Patricia] So this is happening in the community.
+[0:40:14 -> 0:40:16] [Patricia] around these three spaces that they chose.
+[0:40:16 -> 0:40:18] [Patricia] By the way, there are many cards, I forgot to say.
+[0:40:18 -> 0:40:20] [Patricia] Dylan wanted to capture the...
+[0:40:20 -> 0:40:22] [Patricia] The... (loud noise)
 [0:40:22 -> 0:40:24] [Patricia] ¿estáis hablando del menú?
 [0:40:24 -> 0:40:26] [Patricia] hablando, hablando
 [0:40:26 -> 0:40:28] [Patricia] nos tenéis que alimentar
 [0:40:28 -> 0:40:30] [SPEAKER_05] 49, 44
-[0:40:30 -> 0:40:32] [SPEAKER_02] pero de todos modos
-[0:40:32 -> 0:40:34] [Patricia] tendremos los fotógrafos que tenemos que llevar
-[0:40:34 -> 0:40:36] [Patricia] para la próxima semana
-[0:40:36 -> 0:40:38] [SPEAKER_11] tenemos que enviarlos a Bobree
-[0:40:38 -> 0:40:40] [SPEAKER_02] si queremos hacer 3D
-[0:40:40 -> 0:40:42] [SPEAKER_02] deberíamos ordenar los tripodos
-[0:40:42 -> 0:40:44] [SPEAKER_02] o no sé, tenemos que encontrar
-[0:40:44 -> 0:40:46] [Patricia] no los tripodos
-[0:40:46 -> 0:40:48] [SPEAKER_02] ¿cómo podemos establecer los...
-[0:40:48 -> 0:40:50] [Patricia] ¿cómo podemos hacerlo?
-[0:40:50 -> 0:40:52] [SPEAKER_02] necesita...
-[0:40:52 -> 0:40:54] [SPEAKER_08] y no se mueva
-[0:40:54 -> 0:40:56] [SPEAKER_02] los más baratos que he visto
-[0:40:56 -> 0:40:58] [SPEAKER_02] son los que básicamente se atajan
-[0:40:58 -> 0:41:00] [SPEAKER_02] y se atajan
-[0:41:00 -> 0:41:02] [SPEAKER_02] y lo mantienen
-[0:41:02 -> 0:41:04] [Patricia] y no se mueve
-[0:41:04 -> 0:41:06] [Patricia] ¿has visto algo así?
-[0:41:06 -> 0:41:08] [SPEAKER_02] los tienen en la Thing Space
-[0:41:08 -> 0:41:10] [SPEAKER_02] en TC
-[0:41:10 -> 0:41:12] [SPEAKER_02] no sé de dónde los tienen, pero puedo preguntar
-[0:41:12 -> 0:41:14] [SPEAKER_02] ¿cómo se mueven?
-[0:41:14 -> 0:41:16] [SPEAKER_02] los preguntaré
-[0:41:16 -> 0:41:18] [Cristina] o podemos seguir con los 2D
-[0:41:18 -> 0:41:20] [SPEAKER_02] si esto se convierte en algo complicado
-[0:41:20 -> 0:41:22] [SPEAKER_02] porque es la próxima semana
-[0:41:22 -> 0:41:24] [SPEAKER_02] podemos seguir con los 2D
-[0:41:24 -> 0:41:26] [Patricia] pero aun así
-[0:41:26 -> 0:41:28] [Patricia] con los 2D las ideas que vamos a tener
-[0:41:28 -> 0:41:30] [Patricia] en el grupo, no es solo
-[0:41:30 -> 0:41:32] [Cristina] un tripod
-[0:41:32 -> 0:41:34] [SPEAKER_11] pero tendríamos que crear
-[0:41:34 -> 0:41:36] [Patricia] ese set
-[0:41:36 -> 0:41:38] [Cristina] es cierto
-[0:41:38 -> 0:41:40] [Cristina] yo solo quería decir
-[0:41:40 -> 0:41:42] [Cristina] Brenda tiene uno
-[0:41:42 -> 0:41:44] [Cristina] un tripod, me pregunto si
-[0:41:44 -> 0:41:46] [Cristina] podemos comprarlo
-[0:41:46 -> 0:41:48] [Cristina] Brenda es mi maestra
-[0:41:50 -> 0:41:52] [SPEAKER_07] cuando estaba haciendo mi TPA
-[0:41:52 -> 0:41:54] [SPEAKER_07] tenía un tripod
-[0:41:54 -> 0:41:56] [SPEAKER_07] y estaba perdiendo la pieza que tenía
-[0:41:56 -> 0:41:58] [SPEAKER_07] el teléfono, así que lo hice
-[0:41:58 -> 0:42:00] [SPEAKER_07] de Legos
-[0:42:06 -> 0:42:08] [SPEAKER_07] puedes construir algo de Legos
-[0:42:08 -> 0:42:10] [SPEAKER_07] así que puedes poner el hi-fi
-[0:42:10 -> 0:42:12] [SPEAKER_07] así que es lo que estoy diciendo
-[0:42:12 -> 0:42:14] [SPEAKER_07] y luego
-[0:42:14 -> 0:42:16] [SPEAKER_07] algo donde puedes poner esto
-[0:42:16 -> 0:42:18] [SPEAKER_07] porque la cámara estará aquí
-[0:42:18 -> 0:42:20] [SPEAKER_07] así que es como
-[0:42:20 -> 0:42:22] [Patricia] y idealmente usaremos nuestros hogares
-[0:42:22 -> 0:42:24] [SPEAKER_11] porque los iPad
-[0:42:24 -> 0:42:26] [SPEAKER_11] tenemos Legos en la oficina
-[0:42:26 -> 0:42:28] [SPEAKER_07] tengo una gran caja
-[0:42:28 -> 0:42:30] [Patricia] ¿con vos, Paulina, hicimos
-[0:42:30 -> 0:42:32] [Patricia] el clase de idea con Legos?
-[0:42:32 -> 0:42:34] [Patricia] Sabrina, por seguro
-[0:42:42 -> 0:42:44] [Patricia] no
-[0:42:52 -> 0:42:54] [SPEAKER_11] ¿estás cómoda con usar
-[0:42:54 -> 0:42:56] [SPEAKER_11] tus teléfonos?
-[0:42:56 -> 0:42:58] [Patricia] sí, eso es lo que quiero
-[0:42:58 -> 0:43:00] [Patricia] pero lo que me gustaría hacer es más fluido
-[0:43:00 -> 0:43:02] [SPEAKER_11] porque tomó mucho tiempo
-[0:43:02 -> 0:43:04] [SPEAKER_11] cuando hiciste tu primera ronda
-[0:43:04 -> 0:43:06] [SPEAKER_11] tomó mucho tiempo para que todos los niños lo hicieran
-[0:43:06 -> 0:43:08] [SPEAKER_00] así que queremos que todos lo hagan
-[0:43:08 -> 0:43:10] [SPEAKER_11] ¿qué es lo que te costó aprender?
-[0:43:10 -> 0:43:12] [SPEAKER_11] mi tecnología
-[0:43:12 -> 0:43:14] [SPEAKER_11] yo puedo traer Legos
-[0:43:14 -> 0:43:16] [Patricia] yo tengo Legos
-[0:43:16 -> 0:43:18] [Patricia] los haremos el viernes
-[0:43:18 -> 0:43:20] [SPEAKER_11] porque van a ser diferentes
-[0:43:20 -> 0:43:22] [SPEAKER_08] pero no los vamos a hacer el próximo mes
-[0:43:22 -> 0:43:24] [SPEAKER_08] no empezaremos el próximo mes
-[0:43:24 -> 0:43:26] [SPEAKER_08] pensé que hablábamos
-[0:43:26 -> 0:43:28] [SPEAKER_08] después de la ronda
-[0:43:28 -> 0:43:30] [SPEAKER_08] sí, porque
-[0:43:30 -> 0:43:32] [SPEAKER_11] en realidad el próximo mes
-[0:43:32 -> 0:43:34] [SPEAKER_11] el viernes y el viernes
-[0:43:34 -> 0:43:36] [SPEAKER_05] pero tenemos que elegir el miércoles
-[0:43:36 -> 0:43:38] [SPEAKER_08] pero si empezamos
-[0:43:38 -> 0:43:40] [SPEAKER_08] ¿como empezamos?
-[0:43:40 -> 0:43:42] [SPEAKER_11] ¿qué hacemos el próximo mes?
-[0:43:42 -> 0:43:44] [SPEAKER_02] ¿qué hacemos el próximo mes?
-[0:43:44 -> 0:43:46] [SPEAKER_02] planeamos
-[0:43:46 -> 0:43:48] [SPEAKER_08] podemos leer las fotografías
-[0:43:48 -> 0:43:50] [SPEAKER_08] y elegir las fotografías
-[0:43:50 -> 0:43:52] [SPEAKER_02] una estación puede ser eso
-[0:43:52 -> 0:43:54] [SPEAKER_02] sí, podemos hacer tres paredes
-[0:43:54 -> 0:43:56] [SPEAKER_11] y luego pueden pensar la historia
-[0:43:56 -> 0:43:58] [SPEAKER_02] podemos hacer una versión más amplia
-[0:43:58 -> 0:44:00] [SPEAKER_11] de la planeación que hicimos la última vez
-[0:44:00 -> 0:44:02] [SPEAKER_11] ¿qué va a ser con la clay?
-[0:44:02 -> 0:44:04] [SPEAKER_11] vamos a hacer animales pequeños
-[0:44:04 -> 0:44:06] [SPEAKER_11] pequeños gente
-[0:44:06 -> 0:44:08] [SPEAKER_02] si podemos conseguir suficiente
-[0:44:08 -> 0:44:10] [SPEAKER_02] sí, pero en realidad no veo
-[0:44:10 -> 0:44:12] [SPEAKER_11] la clay que compramos
-[0:44:12 -> 0:44:14] [SPEAKER_11] que es muy seca
-[0:44:14 -> 0:44:16] [SPEAKER_11] no me gusta
-[0:44:16 -> 0:44:18] [SPEAKER_11] necesitamos clay regular
-[0:44:18 -> 0:44:20] [SPEAKER_02] necesitamos clay polímer
-[0:44:20 -> 0:44:22] [SPEAKER_11] no, no necesitamos polímer
-[0:44:22 -> 0:44:24] [SPEAKER_11] necesitamos clay regular
-[0:44:24 -> 0:44:26] [SPEAKER_11] porque el polímer es el que pones en la cinta
-[0:44:26 -> 0:44:28] [SPEAKER_11] tienes que elegirlo
-[0:44:28 -> 0:44:30] [SPEAKER_07] ¿y por qué hablamos de eso?
-[0:44:30 -> 0:44:32] [SPEAKER_07] solo para hacer playdoh
-[0:44:32 -> 0:44:34] [SPEAKER_01] para crear la animación
-[0:44:34 -> 0:44:36] [SPEAKER_01] ¿recuerdas que hicimos
-[0:44:36 -> 0:44:38] [SPEAKER_01] cuartos de playdoh?
-[0:44:38 -> 0:44:40] [SPEAKER_07] ¿plastilina?
-[0:44:40 -> 0:44:42] [SPEAKER_07] sí, la consigo
+[0:40:30 -> 0:40:32] [Patricia] Anyway,
+[0:40:32 -> 0:40:34] [Patricia] we would have the photographs that we have to bring
+[0:40:34 -> 0:40:36] [Patricia] next week.
+[0:40:36 -> 0:40:38] [Patricia] We have to send them to bobree (?).
+[0:40:38 -> 0:40:40] [Joe] Yeah. If we want to do 3d though,
+[0:40:40 -> 0:40:42] [Joe] we should probably order the tripods
+[0:40:42 -> 0:40:44] [Joe] or, I don't know, we need to figure out...
+[0:40:44 -> 0:40:46] [Patricia] Not tripods.
+[0:40:46 -> 0:40:48] [Joe] Well, how else do we set up, the...
+[0:40:48 -> 0:40:50] [Patricia] How do we do it, yeah...
+[0:40:50 -> 0:40:52] [Joe] It needs...
+[0:40:52 -> 0:40:54] [SPEAKER_08] ...and not move.
+[0:40:54 -> 0:40:56] [Joe] The cheapest ones that I've seen
+[0:40:56 -> 0:40:58] [Joe] are basically clamps
+[0:40:58 -> 0:41:00] [Joe] that just clamp on to it... Yeah...
+[0:41:00 -> 0:41:02] [Joe] they keep it still/straight.
+[0:41:02 -> 0:41:04] [Patricia] And stable.
+[0:41:04 -> 0:41:06] [Patricia] You've seen something like that?
+[0:41:06 -> 0:41:08] [Joe] They have them in Thing Space
+[0:41:08 -> 0:41:10] [Joe] in TC
+[0:41:10 -> 0:41:12] [Joe] I don't know where they've got them, but I can ask tonight.
+[0:41:14 -> 0:41:16] [Joe] I'll ask them tonight.
+[0:41:16 -> 0:41:18] [Cristina] Or we can stick with the 2D
+[0:41:18 -> 0:41:20] [Joe] If it gets too complicated
+[0:41:20 -> 0:41:22] [Joe] because it's next week,
+[0:41:22 -> 0:41:24] [Joe] we can stick with 2D.
+[0:41:24 -> 0:41:26] [Patricia] But still,
+[0:41:26 -> 0:41:28] [Patricia] with the 2D the idea is that we are all going to
+[0:41:28 -> 0:41:30] [Patricia] be bringing in the group, not just...
+[0:41:30 -> 0:41:32] [Cristina] We would still need more plexiglass...
+[0:41:32 -> 0:41:34] [Patricia] But we would have to create
+[0:41:34 -> 0:41:36] [Patricia] that setup.
+[0:41:36 -> 0:41:38] [Cristina] That's true.
+[0:41:38 -> 0:41:40] [Cristina] I was just gonna say.
+[0:41:40 -> 0:41:42] [Cristina] Brendice has one,
+[0:41:42 -> 0:41:44] [Cristina] a tripod, I wonder if maybe we could
+[0:41:44 -> 0:41:46] [Cristina] ask her if we could borrow it.
+[0:41:46 -> 0:41:48] [Cristina] Brendice is my host teacher.
+[0:41:50 -> 0:41:52] [SPEAKER_07] When I was doing my TPA,
+[0:41:52 -> 0:41:54] [SPEAKER_07] I had a tripod
+[0:41:54 -> 0:41:56] [SPEAKER_07] and I was missing the piece that was holding
+[0:41:56 -> 0:41:58] [SPEAKER_07] the iphone, so I made one with legos.
+[0:41:58 -> 0:42:00] [SPEAKER_07] No pero
+[0:42:06 -> 0:42:08] [SPEAKER_07] you can build something with legos,
+[0:42:08 -> 0:42:10] [SPEAKER_07] so you can just put the ipad.
+[0:42:10 -> 0:42:12] [SPEAKER_07] So that's what I'm saying we can build it
+[0:42:12 -> 0:42:14] [SPEAKER_07] and then...
+[0:42:14 -> 0:42:16] [SPEAKER_07] Sounds like you can just put this,
+[0:42:16 -> 0:42:18] [SPEAKER_07] because the camera will be up here.
+[0:42:20 -> 0:42:22] [Patricia] And ideally we use our phones,
+[0:42:22 -> 0:42:24] [Patricia] because the iPads...
+[0:42:24 -> 0:42:26] [Patricia] we have Legos in the office
+[0:42:26 -> 0:42:28] [Patricia] I have a big box
+[0:42:28 -> 0:42:30] [Patricia] Was it with you, Paulina, we
+[0:42:30 -> 0:42:32] [Patricia] had the idea in the classrom with Legos?
+[0:42:32 -> 0:42:34] [Patricia] Sabrina, por seguro...
+[0:42:42 -> 0:42:44] [Error] (noisy, retranscribe)
+[0:42:52 -> 0:42:54] [Patricia] Are you okay with using
+[0:42:54 -> 0:42:56] [Patricia] your phones?
+[0:42:56 -> 0:42:58] [SPEAKER_07] Yeah that's fine with me.
+[0:42:58 -> 0:43:00] [Patricia] But I would like to do it more fluido
+[0:43:00 -> 0:43:02] [Patricia] It took forever!
+[0:43:02 -> 0:43:04] [Patricia] It took for ever to do it the first round
+[0:43:04 -> 0:43:06] [Patricia] It took forever to get all the children to do it.
+[0:43:06 -> 0:43:08] [Joe] Yeah we definitely need to do it all at once...
+[0:43:08 -> 0:43:10] [Patricia] It also much simpler to record, to be a teacher...
+[0:43:10 -> 0:43:12] [Patricia] with technologies.
+[0:43:12 -> 0:43:14] [Patricia] I can bring the Legos.
+[0:43:14 -> 0:43:16] [Patricia] I have Legos.
+[0:43:16 -> 0:43:18] [Patricia] We will do it next week
+[0:43:18 -> 0:43:20] [Patricia] Because they're going to be different.
+[0:43:20 -> 0:43:22] [SPEAKER_08] But we're not doing it next week,
+[0:43:22 -> 0:43:24] [SPEAKER_08] we're not starting next week..?
+[0:43:24 -> 0:43:26] [SPEAKER_08] I thought we had talked about
+[0:43:26 -> 0:43:28] [SPEAKER_08] after break.
+[0:43:28 -> 0:43:30] [Cristina] Yeah because
+[0:43:30 -> 0:43:32] [Patricia] Actually, next week,
+[0:43:32 -> 0:43:34] [Patricia] Thursday and Friday is off.
+[0:43:34 -> 0:43:36] [?] Next wednesday...
+[0:43:36 -> 0:43:38] [SPEAKER_08] But if we start, like...
+[0:43:38 -> 0:43:40] [SPEAKER_08] Do we start it?
+[0:43:40 -> 0:43:42] [Patricia] Yeah what do we do next week?
+[0:43:42 -> 0:43:44] [Joe] What do we do next week.
+[0:43:44 -> 0:43:46] [Joe] But, yeah, they can do...
+[0:43:46 -> 0:43:48] [SPEAKER_08] We can have stations
+[0:43:48 -> 0:43:50] [Patricia] They can do photographs...
+[0:43:50 -> 0:43:52] [SPEAKER_08] One station can be that.
+[0:43:52 -> 0:43:54] [Joe] Yeah, we can do three walls.
+[0:43:54 -> 0:43:56] [Patricia] And then they can think of the story.
+[0:43:56 -> 0:43:58] [Joe] We can do an expanded version
+[0:43:58 -> 0:44:00] [Joe] of the planning that we did last.
+[0:44:00 -> 0:44:02] [Patricia] What's it going to be with, clay?
+[0:44:02 -> 0:44:04] [Patricia] They're going to make little animals,
+[0:44:04 -> 0:44:06] [Patricia] little people.
+[0:44:06 -> 0:44:08] [Joe] Yeah, if we can get enough clay.
+[0:44:10 -> 0:44:12] [Patricia] But actually, the dry earth clay that we bought,
+[0:44:12 -> 0:44:14] [Patricia] it dries really quickly,
+[0:44:14 -> 0:44:16] [Patricia] I don't like it.
+[0:44:16 -> 0:44:18] [Patricia] We need regular clay.
+[0:44:18 -> 0:44:20] [Joe] We need polymer clay.
+[0:44:20 -> 0:44:22] [Patricia] Not even polymer,
+[0:44:22 -> 0:44:24] [Patricia] just regular,
+[0:44:24 -> 0:44:26] [Patricia] because the polymer is the one that you
+[0:44:26 -> 0:44:28] [Patricia] have to put in the over.
+[0:44:28 -> 0:44:30] [SPEAKER_07] And what are we talking about that for?
+[0:44:30 -> 0:44:32] [Patricia] Just plain Play-doh
+[0:44:32 -> 0:44:34] [Patricia] For creating the animations,
+[0:44:34 -> 0:44:36] [Patricia] you remember we were doing cut-outs
+[0:44:36 -> 0:44:38] [Patricia] we were doing cut-outs
+[0:44:38 -> 0:44:40] [SPEAKER_07] en plasti?
+[0:44:40 -> 0:44:42] [Patricia] sí, la consigo
 [0:44:42 -> 0:44:44] [Patricia] porque
 [0:44:44 -> 0:44:46] [Patricia] esa de los botecitos amarillos
-[0:44:46 -> 0:44:48] [Patricia] porque la playdoh
-[0:44:48 -> 0:44:50] [SPEAKER_11] se hace en cinco minutos
-[0:44:50 -> 0:44:52] [SPEAKER_11] cinco segundos
-[0:44:52 -> 0:44:54] [SPEAKER_07] pero puedes
-[0:44:54 -> 0:44:56] [SPEAKER_07] limpiarla
-[0:44:56 -> 0:44:58] [SPEAKER_11] sí, pero necesitamos
-[0:44:58 -> 0:45:00] [SPEAKER_11] manipularla
-[0:45:00 -> 0:45:02] [SPEAKER_11] capturar las imágenes
-[0:45:02 -> 0:45:04] [SPEAKER_11] ¿eso es como va a funcionar?
-[0:45:04 -> 0:45:06] [SPEAKER_11] podemos traer otras cosas
-[0:45:06 -> 0:45:08] [SPEAKER_11] podemos traer los legos
-[0:45:08 -> 0:45:10] [SPEAKER_11] y también pueden añadir plásticas
-[0:45:10 -> 0:45:12] [SPEAKER_11] y usar su imaginación
-[0:45:12 -> 0:45:14] [SPEAKER_02] ¿hay personas?
-[0:45:14 -> 0:45:16] [SPEAKER_11] hay un par de personas
-[0:45:16 -> 0:45:18] [SPEAKER_11] podemos usar esas
-[0:45:18 -> 0:45:20] [SPEAKER_08] no puedes cambiar su cara
-[0:45:20 -> 0:45:22] [SPEAKER_08] no, son como azules
-[0:45:22 -> 0:45:24] [Cristina] sí, tienen un punto
-[0:45:24 -> 0:45:26] [SPEAKER_04] ¿son azules?
-[0:45:26 -> 0:45:28] [SPEAKER_04] creo que pueden hacer su propia gente con su playdoh
-[0:45:28 -> 0:45:30] [SPEAKER_04] y hacer la plástica
-[0:45:30 -> 0:45:32] [SPEAKER_04] porque la gente es limitada
-[0:45:32 -> 0:45:34] [SPEAKER_04] no representa a ti
-[0:45:34 -> 0:45:36] [SPEAKER_04] no puede usar
-[0:45:36 -> 0:45:38] [SPEAKER_04] pequeños bolsos
-[0:45:38 -> 0:45:40] [SPEAKER_11] los participantes
-[0:45:40 -> 0:45:42] [SPEAKER_11] pueden ser
-[0:45:42 -> 0:45:44] [Patricia] los personajes pueden ser
-[0:45:44 -> 0:45:46] [Patricia] pequeños bolsos
-[0:45:46 -> 0:45:48] [Cristina] no quieren crear gente
-[0:45:48 -> 0:45:50] [SPEAKER_11] pero algunas personas pueden hacer una
-[0:45:50 -> 0:45:52] [SPEAKER_11] y quizás no necesitan ni cara
-[0:45:52 -> 0:45:54] [Patricia] ¿recuerdas cuando alguien se ríe
-[0:45:54 -> 0:45:56] [Patricia] y los personajes lloran
-[0:45:56 -> 0:45:58] [Patricia] y ríen
-[0:45:58 -> 0:46:00] [SPEAKER_02] creo que la playdoh y el lego
-[0:46:00 -> 0:46:02] [Patricia] y los tres fotografías
-[0:46:02 -> 0:46:04] [Patricia] nos van a dar mucho
-[0:46:04 -> 0:46:06] [Patricia] ¿qué tal la caja?
-[0:46:06 -> 0:46:08] [SPEAKER_02] ¿deberíamos pedir cajas?
-[0:46:08 -> 0:46:10] [SPEAKER_02] necesitamos playdoh
-[0:46:10 -> 0:46:12] [SPEAKER_02] o ¿cómo lo hacemos?
-[0:46:12 -> 0:46:14] [SPEAKER_02] mi compañera trabaja en una tienda de zapatos
-[0:46:14 -> 0:46:16] [SPEAKER_02] podría pedirle que traiga un montón de cajas
-[0:46:16 -> 0:46:18] [Patricia] ¿crees que ella podría tener?
-[0:46:18 -> 0:46:20] [Patricia] definitivamente
-[0:46:20 -> 0:46:22] [SPEAKER_07] esos serían geniales
-[0:46:22 -> 0:46:24] [SPEAKER_07] eso le daría mucho espacio
-[0:46:24 -> 0:46:26] [SPEAKER_06] ¿no?
-[0:46:26 -> 0:46:28] [SPEAKER_06] ¿no tiene caja?
-[0:46:28 -> 0:46:30] [Patricia] pero no
-[0:46:30 -> 0:46:32] [SPEAKER_02] ¿no tenemos caja?
-[0:46:32 -> 0:46:34] [SPEAKER_02] tal vez deberíamos hacer una por grupo
-[0:46:34 -> 0:46:36] [SPEAKER_02] ¿una por grupo?
-[0:46:36 -> 0:46:38] [SPEAKER_02] porque va a ser larga
-[0:46:38 -> 0:46:40] [Patricia] no tenemos tiempo para hacer cada una
-[0:46:40 -> 0:46:42] [Patricia] no, pero no es el tiempo, es el espacio
-[0:46:42 -> 0:46:44] [Patricia] ¿dónde vamos a poner las cajas?
-[0:46:44 -> 0:46:46] [Patricia] 22 cajas
-[0:46:46 -> 0:46:48] [Patricia] pero si tenemos como 5, 6
-[0:46:48 -> 0:46:50] [Patricia] 6, una por grupo
-[0:46:50 -> 0:46:52] [Patricia] una mujer también
-[0:46:52 -> 0:46:54] [Patricia] puede liderar un grupo
-[0:46:54 -> 0:46:56] [Patricia] un grupo muy pequeño
-[0:46:56 -> 0:46:58] [Patricia] un grupo muy pequeño de niños
-[0:46:58 -> 0:47:00] [Patricia] ¿cuántos serían?
-[0:47:00 -> 0:47:02] [SPEAKER_11] 3, 4 niños cada uno
-[0:47:02 -> 0:47:04] [Patricia] una animación
-[0:47:04 -> 0:47:06] [Patricia] y el proceso, capturamos el proceso
-[0:47:06 -> 0:47:08] [Patricia] de negociación histórica
-[0:47:08 -> 0:47:10] [SPEAKER_04] tenemos que decidir
-[0:47:10 -> 0:47:12] [SPEAKER_02] tenemos que negociar
-[0:47:12 -> 0:47:14] [Cristina] bueno, si lo framemos como
-[0:47:14 -> 0:47:16] [Cristina] ficción realística
-[0:47:16 -> 0:47:18] [Cristina] como que estamos
-[0:47:18 -> 0:47:20] [Cristina] creando una historia
-[0:47:20 -> 0:47:22] [Cristina] o como
-[0:47:22 -> 0:47:24] [Cristina] como sea compleja o
-[0:47:24 -> 0:47:26] [Cristina] compleja sea la historia
-[0:47:26 -> 0:47:28] [Cristina] pero una historia que es
-[0:47:28 -> 0:47:30] [Cristina] basada en la vida real
-[0:47:30 -> 0:47:32] [Cristina] entonces es como
-[0:47:32 -> 0:47:34] [Cristina] tal vez eso les da más espacio para negociar
-[0:47:34 -> 0:47:36] [Cristina] porque entonces no es como
-[0:47:36 -> 0:47:38] [Cristina] todos tienen que contar una historia
-[0:47:38 -> 0:47:40] [Cristina] donde Jordani es el personaje principal
-[0:47:40 -> 0:47:42] [Cristina] es como que pueden hacer
-[0:47:42 -> 0:47:44] [Cristina] tal vez eso les hace más fácil
-[0:47:44 -> 0:47:46] [Cristina] negociar
-[0:47:46 -> 0:47:48] [Cristina] como lo representa a ellos
-[0:47:48 -> 0:47:50] [Cristina] entonces es como, si, esto se hace en un lugar real
-[0:47:50 -> 0:47:52] [Cristina] que es Washington Heights, que es nuestro barrio
-[0:47:52 -> 0:47:54] [Cristina] es más concreto
-[0:47:54 -> 0:47:56] [Cristina] pero entonces es como, todavía puede ser una ficción
-[0:47:56 -> 0:47:58] [Cristina] que es como
-[0:47:58 -> 0:48:00] [Cristina] podemos crear un personaje, podemos crear un par de personajes
-[0:48:00 -> 0:48:02] [Cristina] y ellos nos pueden representar de alguna manera
-[0:48:02 -> 0:48:04] [Cristina] pero no tienen que ser
-[0:48:04 -> 0:48:06] [Cristina] no sé, es solo una idea
-[0:48:06 -> 0:48:08] [Cristina] entonces no es necesariamente
-[0:48:08 -> 0:48:10] [Cristina] crear un momento que realmente suceda
-[0:48:10 -> 0:48:12] [Cristina] creando una historia
-[0:48:12 -> 0:48:14] [Patricia] o una historia que se crea para
-[0:48:14 -> 0:48:16] [Patricia] comunicar, para transmitir
-[0:48:16 -> 0:48:18] [Patricia] algún tipo de mensaje
-[0:48:18 -> 0:48:20] [Patricia] ¿Quieres que traiga plato?
-[0:48:20 -> 0:48:22] [Patricia] Tengo un montón de plato
-[0:48:22 -> 0:48:24] [Patricia] para mi clase
-[0:48:24 -> 0:48:26] [Patricia] ¿Tienes extra?
-[0:48:26 -> 0:48:28] [SPEAKER_02] Bueno, necesito para mi clase
-[0:48:28 -> 0:48:30] [SPEAKER_03] Necesitaré de vuelta
-[0:48:30 -> 0:48:32] [SPEAKER_03] pero puedo traerlo
-[0:48:32 -> 0:48:34] [SPEAKER_03] ¿Para la semana que viene?
-[0:48:34 -> 0:48:36] [SPEAKER_03] Si yo lo pedí ahora
-[0:48:36 -> 0:48:38] [SPEAKER_03] llegará con Amazon, espero
-[0:48:38 -> 0:48:40] [SPEAKER_03] pero te lo dejaré saber si no
-[0:48:40 -> 0:48:42] [Patricia] ¿No estás aquí?
-[0:48:42 -> 0:48:44] [Patricia] No, no estoy aquí
-[0:48:44 -> 0:48:46] [Patricia] ¿No estás aquí?
-[0:48:46 -> 0:48:48] [SPEAKER_04] ¿No estás aquí la semana que viene?
-[0:48:48 -> 0:48:50] [SPEAKER_02] No, no estoy aquí
-[0:48:50 -> 0:48:52] [SPEAKER_02] ¿La semana que viene?
-[0:48:52 -> 0:48:54] [SPEAKER_02] ¿La semana que viene?
-[0:48:54 -> 0:48:56] [Cristina] ¿Es el jueves?
-[0:48:56 -> 0:48:58] [Cristina] ¿Es el jueves?
-[0:48:58 -> 0:49:00] [SPEAKER_02] ¿Vamos a estar aquí?
-[0:49:00 -> 0:49:02] [SPEAKER_02] No necesitamos porque no vamos a estar en la caja
-[0:49:02 -> 0:49:04] [Patricia] vamos a ponerlo en la mesa
-[0:49:04 -> 0:49:06] [SPEAKER_03] Sí, exactamente
-[0:49:06 -> 0:49:08] [SPEAKER_03] Solo una cosa, también quería decir
-[0:49:10 -> 0:49:12] [SPEAKER_03] que el tour fue increíble
-[0:49:12 -> 0:49:14] [SPEAKER_03] obviamente fue increíble
-[0:49:14 -> 0:49:16] [SPEAKER_03] No, no es un problema
-[0:49:16 -> 0:49:18] [SPEAKER_03] tenía una pequeña cosa que quería decir
-[0:49:20 -> 0:49:22] [SPEAKER_03] sé que la próxima vez
-[0:49:22 -> 0:49:24] [SPEAKER_03] tal vez sería bueno
-[0:49:24 -> 0:49:26] [SPEAKER_03] hablar antes de que te vayas
-[0:49:26 -> 0:49:28] [SPEAKER_03] darles un poco
-[0:49:30 -> 0:49:32] [SPEAKER_03] no sé, tal vez en su cámara
-[0:49:32 -> 0:49:34] [SPEAKER_03] un número de teléfono
-[0:49:34 -> 0:49:36] [SPEAKER_03] que pueden llamar si se pierden
-[0:49:36 -> 0:49:38] [SPEAKER_03] o hablar de
-[0:49:38 -> 0:49:40] [SPEAKER_03] qué hacer
-[0:49:40 -> 0:49:42] [SPEAKER_03] si se pierden, porque incluso
-[0:49:42 -> 0:49:44] [SPEAKER_03] como hay muchos adultos
-[0:49:44 -> 0:49:46] [SPEAKER_03] puede haber una situación
-[0:49:46 -> 0:49:48] [SPEAKER_03] donde un niño se pierde
-[0:49:48 -> 0:49:50] [SPEAKER_03] y no tienen nada
-[0:49:50 -> 0:49:52] [SPEAKER_03] en caso
-[0:49:52 -> 0:49:54] [SPEAKER_03] así que solo tener
-[0:49:54 -> 0:49:56] [SPEAKER_03] un número de teléfono
-[0:49:56 -> 0:49:58] [SPEAKER_03] o
-[0:49:58 -> 0:50:00] [SPEAKER_03] para que sepan, ir a la policía
-[0:50:00 -> 0:50:02] [SPEAKER_03] o ir al supermercado a pedir algo
-[0:50:02 -> 0:50:04] [SPEAKER_03] asegúrense de saber el nombre de la escuela
-[0:50:04 -> 0:50:06] [SPEAKER_03] asegúrense de saber
-[0:50:06 -> 0:50:08] [SPEAKER_03] solo por la próxima vez
-[0:50:08 -> 0:50:10] [SPEAKER_07] Podríamos robarlo
-[0:50:10 -> 0:50:12] [Cristina] Sí, borrar los que
-[0:50:12 -> 0:50:14] [SPEAKER_03] ustedes tienen
-[0:50:14 -> 0:50:16] [SPEAKER_03] Pero ese tiene el número equivocado
-[0:50:16 -> 0:50:18] [SPEAKER_03] No, pero podríamos
-[0:50:18 -> 0:50:20] [SPEAKER_08] ¿El número de la escuela?
-[0:50:20 -> 0:50:22] [SPEAKER_08] ¿Ese?
-[0:50:22 -> 0:50:24] [Patricia] Ok
-[0:50:24 -> 0:50:26] [SPEAKER_03] Ese es un gran punto
-[0:50:26 -> 0:50:28] [Patricia] La mamá de Isabela me dijo
-[0:50:28 -> 0:50:30] [Patricia] antes de que vinieras, dijo
-[0:50:30 -> 0:50:32] [Patricia] que estamos perdiendo un niño
-[0:50:32 -> 0:50:34] [Patricia] y yo casi le he dado un ataque
-[0:50:34 -> 0:50:36] [Patricia] como, no
+[0:44:46 -> 0:44:48] [Patricia] porque la playdoh --
+[0:44:48 -> 0:44:50] [Patricia] the dry one is horrible, it dries
+[0:44:50 -> 0:44:52] [Patricia] in like 5 minutes, 5 seconds.
+[0:44:52 -> 0:44:54] [SPEAKER_07] But you can, you
+[0:44:54 -> 0:44:56] [SPEAKER_07] can clean it.
+[0:44:56 -> 0:44:58] [Patricia] Yeah but we need
+[0:44:58 -> 0:45:00] [Patricia] to move it,
+[0:45:00 -> 0:45:02] [Patricia] for capturing the images.
+[0:45:02 -> 0:45:04] [SPEAKER_11] How's that going to work?
+[0:45:04 -> 0:45:06] [SPEAKER_11] We can bring other things.
+[0:45:06 -> 0:45:08] [Patricia] We can bring Legos.
+[0:45:08 -> 0:45:10] [Patricia] And they would also add furniture as well,
+[0:45:10 -> 0:45:12] [Patricia] you can use your imagination.
+[0:45:12 -> 0:45:14] [Joe] Hay otras personas?
+[0:45:14 -> 0:45:16] [Patricia] There's a couple of people...
+[0:45:16 -> 0:45:18] [Joe] We could use those.
+[0:45:18 -> 0:45:20] [Patricia] Yeah you can't change their faces
+[0:45:20 -> 0:45:22] [SPEAKER_08] They're like, yellow
+[0:45:22 -> 0:45:24] [Cristina] Yeah, that's a good point.
+[0:45:24 -> 0:45:26] [SPEAKER_04] Ah they're yellow?
+[0:45:26 -> 0:45:28] [SPEAKER_04] I think they can make their people with the playdoh.
+[0:45:28 -> 0:45:30] [SPEAKER_04] And make the furniture
+[0:45:30 -> 0:45:32] [SPEAKER_04] Because the people is limiting
+[0:45:32 -> 0:45:34] [SPEAKER_04] in representing...
+[0:45:34 -> 0:45:36] [Patricia] They can just use
+[0:45:36 -> 0:45:38] [Patricia] balls (bowls?).
+[0:45:38 -> 0:45:40] [Patricia] The participants,
+[0:45:40 -> 0:45:42] [Patricia] can be...
+[0:45:42 -> 0:45:44] [Patricia] The characters can be...
+[0:45:44 -> 0:45:46] [Patricia] little balls,
+[0:45:46 -> 0:45:48] [Patricia] if they don't want to create people.
+[0:45:48 -> 0:45:50] [Patricia] But some people do want
+[0:45:50 -> 0:45:52] [Patricia] and maybe they don't need faces.
+[0:45:52 -> 0:45:54] [Patricia] ¿recuerdas como some were smiling,
+[0:45:54 -> 0:45:56] [Patricia] and crying
+[0:45:56 -> 0:45:58] [Patricia] and they smiled...
+[0:45:58 -> 0:46:02] [Patricia] I think clay and Lego and the three photographs is going to give us a lot to play with.
+[0:46:04 -> 0:46:06] [Patricia] And how about the box?
+[0:46:06 -> 0:46:08] [Patricia] Do we order the boxes?
+[0:46:08 -> 0:46:10] [Patricia] Do we need clay?
+[0:46:10 -> 0:46:12] [Patricia] How would we use it?
+[0:46:10 -> 0:46:12] [Joe] I could see,
+[0:46:12 -> 0:46:14] [Joe] my partner works at a shoe store
+[0:46:14 -> 0:46:16] [Joe] I could ask her to get a bunch of shoe boxes
+[0:46:16 -> 0:46:18] [Patricia] Do you tink she might have some?
+[0:46:18 -> 0:46:20] [Joe] Definitely
+[0:46:20 -> 0:46:22] [Patricia] Those would be ideal.
+[0:46:22 -> 0:46:24] [Patricia] That would give them a lot of space
+[0:46:24 -> 0:46:26] [Patricia] No?
+[0:46:26 -> 0:46:28] [SPEAKER_07] (inaudible) ... no tiene caja?
+[0:46:28 -> 0:46:30] [Patricia] ...Pero no
+[0:46:30 -> 0:46:32] [Joe] Do we have a box?
+[0:46:32 -> 0:46:34] [Patricia] We maybe should do one per group
+[0:46:34 -> 0:46:36] [Joe] One per group?
+[0:46:36 -> 0:46:38] [Patricia] Because it's gonna be big.
+[0:46:38 -> 0:46:40] [Patricia] We don't have time to do one for each.
+[0:46:40 -> 0:46:42] [Patricia] No but not even the time, it's the space
+[0:46:42 -> 0:46:44] [Cristina] Where are we gonna put the boxes?
+[0:46:44 -> 0:46:46] [Patricia] 22 boxes
+[0:46:46 -> 0:46:48] [Patricia] No but we have like 5, 6
+[0:46:48 -> 0:46:50] [Patricia] 6, 1 per group
+[0:46:50 -> 0:46:52] [Patricia] Like we wanted also to....
+[0:46:52 -> 0:46:54] [Patricia] maybe lead a group
+[0:46:54 -> 0:46:56] [Patricia] a small group,
+[0:46:56 -> 0:46:58] [Patricia] a small group of children.
+[0:46:58 -> 0:47:00] [Patricia] How much would that be,
+[0:47:00 -> 0:47:02] [Patricia] 3, 4 children each?
+[0:47:02 -> 0:47:04] [Cristina] Yeah.
+[0:47:04 -> 0:47:06] [Patricia] And the process, we capture the process
+[0:47:06 -> 0:47:08] [Patricia] of negotiating the story
+[0:47:08 -> 0:47:10] [Patricia] Because we have to decide, how to negotiate it...
+[0:47:10 -> 0:47:12] [Joe] Yeah.
+[0:47:12 -> 0:47:14] [Cristina] Well, the good thing, if we frame it as a
+[0:47:14 -> 0:47:16] [Cristina] realistic fiction
+[0:47:16 -> 0:47:18] [Cristina] Like, we're
+[0:47:18 -> 0:47:20] [Cristina] creating a story,
+[0:47:20 -> 0:47:22] [Cristina] or like,
+[0:47:22 -> 0:47:24] [Cristina] however fleshed out or long, you know,
+[0:47:24 -> 0:47:26] [Cristina] or complex the story is,
+[0:47:26 -> 0:47:28] [Cristina] but a story that's
+[0:47:28 -> 0:47:30] [Cristina] based on real life.
+[0:47:30 -> 0:47:32] [Cristina] That it's like
+[0:47:32 -> 0:47:34] [Cristina] maybe that gives them more space to negotiate
+[0:47:34 -> 0:47:36] [Cristina] because then it's not like
+[0:47:36 -> 0:47:38] [Cristina] everyone's having to tell a story
+[0:47:38 -> 0:47:40] [Cristina] where Jordani is the main character.
+[0:47:40 -> 0:47:42] [Cristina] It's like they can make up...
+[0:47:42 -> 0:47:44] [Cristina] maybe that makes it easier for them to
+[0:47:44 -> 0:47:46] [Cristina] to negotiate, like
+[0:47:46 -> 0:47:48] [Cristina] how it represents them. I don't know.
+[0:47:48 -> 0:47:50] [Cristina] And it's like, yeah, this place in a real place,
+[0:47:50 -> 0:47:52] [Cristina] which is Washington Heights, which is our neighborhood, which is...
+[0:47:52 -> 0:47:54] [Patricia] It's more concrete.
+[0:47:54 -> 0:47:56] [Cristina] But it's like, it can still be a fiction,
+[0:47:56 -> 0:47:58] [Cristina] that it's like
+[0:47:58 -> 0:48:00] [Cristina] we can create a character, we can create a couple of characters
+[0:48:00 -> 0:48:02] [Cristina] and they can represent us in some way,
+[0:48:02 -> 0:48:04] [Cristina] but they don't actually have to be...
+[0:48:04 -> 0:48:06] [Cristina] I don't know, it's just an idea.
+[0:48:06 -> 0:48:08] [Cristina] So it's not necessarily
+[0:48:08 -> 0:48:10] [Cristina] creating a moment that actaully happened.
+[0:48:10 -> 0:48:12] [Patricia] Creating a story that's based off of...
+[0:48:12 -> 0:48:14] [Patricia] like someone photographed the trash, Isabella I think,
+[0:48:14 -> 0:48:16] [Patricia] because she wanted to encourage...
+[0:48:18 -> 0:48:20] [SPEAKER_08] Do you want me to bring Play-doh?
+[0:48:20 -> 0:48:22] [SPEAKER_08] I have a bunch of play-doh
+[0:48:22 -> 0:48:24] [SPEAKER_08] from my class.
+[0:48:24 -> 0:48:26] [Patricia] You have extra?
+[0:48:26 -> 0:48:28] [SPEAKER_08] Bueno, I need it for my class
+[0:48:28 -> 0:48:30] [SPEAKER_08] I will need it back,
+[0:48:30 -> 0:48:32] [SPEAKER_08] but I can bring it.
+[0:48:32 -> 0:48:34] [Patricia] For next week?
+[0:48:34 -> 0:48:36] [Patricia] But if I order it now,
+[0:48:36 -> 0:48:38] [Patricia] it will arrive with Amazon, I hope.
+[0:48:38 -> 0:48:40] [Patricia] But I will let you know if not.
+[0:48:40 -> 0:48:42] [Patricia] Because you're not here next week
+[0:48:46 -> 0:48:48] [SPEAKER_04] You're not here next week?
+[0:48:50 -> 0:48:52] [Joe] Next week?
+[0:48:54 -> 0:48:56] [Cristina] El jueves?
+[0:48:58 -> 0:49:00] [Joe] Are we gonna be here?
+[0:49:00 -> 0:49:02] [Joe] We're going to need it because we're going to be doing it in boxes
+[0:49:02 -> 0:49:04] [Patricia] We'll just put it on the table
+[0:49:04 -> 0:49:06] [SPEAKER_03] Yeah, exactly.
+[0:49:06 -> 0:49:08] [SPEAKER_03] Just one thing that I also wanted to say
+[0:49:10 -> 0:49:12] [SPEAKER_03] that the tour was amazing,
+[0:49:12 -> 0:49:14] [SPEAKER_03] obviously it was incredible.
+[0:49:14 -> 0:49:16] [SPEAKER_03] I had one little thing
+[0:49:16 -> 0:49:18] [SPEAKER_03] I wanted to say.
+[0:49:20 -> 0:49:22] [SPEAKER_03] For the next time maybe
+[0:49:22 -> 0:49:24] [SPEAKER_03] maybe it would be good to talk about
+[0:49:24 -> 0:49:26] [SPEAKER_03] before you leave,
+[0:49:26 -> 0:49:28] [SPEAKER_03] give them a little,
+[0:49:30 -> 0:49:32] [SPEAKER_03] no se, maybe in their camera or whatever
+[0:49:32 -> 0:49:34] [SPEAKER_03] just a phone number, that they can call,
+[0:49:34 -> 0:49:36] [SPEAKER_03] if they get lost.
+[0:49:36 -> 0:49:38] [SPEAKER_03] Or talk about, like,
+[0:49:38 -> 0:49:40] [SPEAKER_03] what to do
+[0:49:40 -> 0:49:42] [SPEAKER_03] if they ever get lost, because even
+[0:49:42 -> 0:49:44] [SPEAKER_03] as many adults as there are,
+[0:49:44 -> 0:49:46] [SPEAKER_03] there can be a situation
+[0:49:46 -> 0:49:48] [SPEAKER_03] where one kid gets lost
+[0:49:48 -> 0:49:50] [SPEAKER_03] and they don't have anything.
+[0:49:50 -> 0:49:52] [SPEAKER_03] In case, like,
+[0:49:52 -> 0:49:54] [SPEAKER_03] so just have like a
+[0:49:54 -> 0:49:56] [SPEAKER_03] a phone number,
+[0:49:56 -> 0:49:58] [SPEAKER_03] or
+[0:49:58 -> 0:50:00] [SPEAKER_03] so they know, like go to the police.
+[0:50:00 -> 0:50:02] [SPEAKER_03] Or go into the store, ask something.
+[0:50:02 -> 0:50:04] [SPEAKER_03] Make sure to know the name of the school,
+[0:50:04 -> 0:50:06] [SPEAKER_03] make sure to know, just
+[0:50:06 -> 0:50:08] [SPEAKER_03] for the next time
+[0:50:08 -> 0:50:10] [Cristina] Would we be able to rob it
+[0:50:10 -> 0:50:12] [Cristina] or borrow the ones that
+[0:50:12 -> 0:50:14] [Cristina] you guys have?
+[0:50:14 -> 0:50:16] [SPEAKER_03] Bueno, but that has the wrong number probably
+[0:50:16 -> 0:50:18] [SPEAKER_08] No, but we could
+[0:50:18 -> 0:50:20] [SPEAKER_07] The number of the school?
+[0:50:20 -> 0:50:22] [SPEAKER_07] This one?
+[0:50:22 -> 0:50:24] [SPEAKER_07] Ok
+[0:50:24 -> 0:50:26] [Patricia] That is a good point
+[0:50:26 -> 0:50:28] [Patricia] The mother of Isabelle came
+[0:50:28 -> 0:50:30] [Patricia] before, and she said, "I think
+[0:50:30 -> 0:50:32] [Patricia] ee're missing and a child."
+[0:50:32 -> 0:50:34] [Patricia] and I almost had a heart attack,
+[0:50:34 -> 0:50:36] [Patricia] like "no!"
