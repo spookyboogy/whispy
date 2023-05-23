@@ -2,7 +2,6 @@ import whisper
 import os
 import time
 import datetime
-import diarize
 
 def naive_merge(path, en_transcript, es_transcript):
     """ very naive """
@@ -90,10 +89,6 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
                 f.write(f'{segment}\n')
             f.write(finish_time)
 
-    # if len(langs) > 1:
-    #     naive_merge(path, transcripts['en'], transcripts['es'])
-    # return transcripts
-    
 
 if __name__ == '__main__':
     
@@ -108,9 +103,9 @@ if __name__ == '__main__':
     for file in files:
         print(f'\nfile: {file}\n')
         main(file, langs=['es'])
-        if diarizing:
-            diarize.main(file)
-            #merge diarization after
+        # if diarizing:
+        #     diarize.main(file)
+        #     #merge diarization after
         
 
 
