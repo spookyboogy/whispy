@@ -1,5 +1,6 @@
 /__pycache__
-/desktop.ini
+desktop.ini
+
 # Ignore media files
 *.wav
 *.m4a
