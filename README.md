@@ -119,7 +119,9 @@
 <br>
 <details>
 <summary> Todo </summary>
+
 ## Todo: 
+
 - [x] Join apr_18 session (session with children) pt1 and pt2 (check pt1 again)
 
 - [x] implement diarization from pyannote/speaker-diarization
@@ -128,6 +130,7 @@
 - [ ] test differnt beam_search values for transcriptions
 
 - [x] write method for joining transcripts and diarizations (strip parts from yinrui_rip) 
+- [ ] Make a requirements.txt installer 
 - [ ] write a pipeline/cli which applies whispy/diarization/merging to an audio file (user-facing)
 
 - [ ] make a good multilingual test .wav file for testing multilingual handling 
@@ -145,7 +148,6 @@
         [t0 -> t1] [speaker] [lang /start] and [t2 -> t3] [speaker] [lang /stop]
         markups which preserves the transcript timeline while substituing the
         marked section with the equivalent section of the diarized transcript in the indicated language (should try to use consistent/matching names or preserve name of primary transcript) 
-s
 - [ ] write a similar method for stitching transcripts up with retranscriptions of inaccurate segments
         - appropriately offsets times
         - preserves diarized names (if names)
