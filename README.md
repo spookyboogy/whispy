@@ -115,10 +115,8 @@
 <br>
 
 ## Todo:
-
-<br>
 <details>
-<summary> Todo </summary>
+<summary>  </summary>
 
 - [x] Join apr_18 session (session with children) pt1 and pt2 (check pt1 again)
 
