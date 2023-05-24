@@ -1,6 +1,10 @@
 /__pycache__
 desktop.ini
 /_junksort
+/.vscode
+
+yinrui_rip.py
+diarize_rip.py
 
 # Ignore media files
 *.wav
