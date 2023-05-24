@@ -1,7 +1,8 @@
 /__pycache__
-desktop.ini
 /_junksort
-/.vscode
+.vscode
+
+desktop.ini
 
 yinrui_rip.py
 diarize_rip.py
