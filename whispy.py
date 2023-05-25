@@ -93,7 +93,6 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
                 if print_line_nums:
                     segment = f"{line} " + segment
 
-                print(f'segment = {segment}')
                 transcripts[lang] += [segment]
                 f.write(f'{segment}\n')
 
