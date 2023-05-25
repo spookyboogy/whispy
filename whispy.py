@@ -55,7 +55,7 @@ def log_mel(path):
 def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False):
     """ write me """
 
-    print(f'\nfile: {file}\n')
+    print(f'\nfile: {path}\n')
     print(f'Loading model : {model_size}', end=' ... ')
     model = whisper.load_model(model_size)
     print('Done loading.\n')
