@@ -338,6 +338,9 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     condensed_csv_out = os.path.splitext(transcript_file)[0] + "--merged.csv"
     condense_csv_lines(merger, f_name=condensed_csv_out, encoding=encoding)
 
+    files_out = [txt_out, csv_out, condensed_csv_out]
+    return files_out
+
 
 if __name__ == "__main__":
 
