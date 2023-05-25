@@ -348,11 +348,6 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     spk_segs, annotation = reconstruct_diarization(diarization_file)
     merger = add_speaker_info_to_text(segscript, annotation)
 
-    print('\n')
-    for seg, spk, txt in merger:
-        print(seg.start, seg.end)
-    print('\n')
-
     formatted_merger = []
     for seg, spk, txt in merger:
         print(f'\nseg: {seg} - spk: {spk} - txt {txt}\n')
@@ -380,6 +375,7 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
     files_out = [txt_out, csv_out, condensed_csv_out]
     return files_out
+
 
 if __name__ == "__main__":
 
