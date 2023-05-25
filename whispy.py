@@ -52,7 +52,7 @@ def log_mel(path):
     return res
 
 
-def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False):
+def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False, encoding='utf-8'):
     """ write me """
 
     print(f'\nfile: {path}\n')
@@ -77,7 +77,7 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
 
         f_out = os.path.splitext(path)[0] + f'_{lang}_transcript.txt'
         files_out[lang] = f_out
-        with open(f_out, 'w') as f:
+        with open(f_out, 'w', encoding=encoding) as f:
             f.write(header)
             f.write(start_time)
             for i in result['segments']:
@@ -110,7 +110,7 @@ if __name__ == '__main__':
     folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
     # files = ["test\\test_0207.wav",]
     # m4a takes less time to load bc lower quality
-    files = ["test\\test_0207.m4a",]
+    files = ["test\\test_0307.m4a",]
     files = [os.path.join(folder, file) for file in files]
     langs = ['en']
    
