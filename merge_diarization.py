@@ -307,7 +307,9 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     - Converts and writes to csv "yourfile--merged.csv" 
     - Writes condensed dialogue version of script to csv "yourfile--merged--joined.csv"
 
-    Returns None (for now)
+    reconfigure this such that it can take a raw transcription result (precise timestamps)
+    as well as the raw diarization (annotation), for use in the whole whisper + speaker
+    diarization pipeline
     """
 
     segscript = transcript_to_segments(transcript_file, encoding=encoding)
@@ -340,7 +342,6 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
     files_out = [txt_out, csv_out, condensed_csv_out]
     return files_out
-
 
 if __name__ == "__main__":
 
