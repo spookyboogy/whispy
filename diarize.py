@@ -42,8 +42,10 @@ def print_timestamp(starting=False, return_HMS=False, return_time=False, quiet=F
 
 
 def main(path, testing=False, write_to_file=True):
+    """Write me"""
 
-    print('Loading Pipeline...\n')
+    print(f'\nfile: {path}\n')
+    print('\nLoading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
                                         use_auth_token=use_auth_token)
     print('\nDone loading.')
@@ -51,6 +53,7 @@ def main(path, testing=False, write_to_file=True):
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
     diarization = pipeline(path)
+    print(diarization)
     end_time, endstamp = print_timestamp(return_time=True)
     total_runtime = str(datetime.timedelta(seconds=end_time-start_time)).split('.')[0]
     runtime_stamp = print_runtime(total_runtime, return_stamp=True)
@@ -63,6 +66,7 @@ def main(path, testing=False, write_to_file=True):
         print(f'timeline:{diarization.get_timeline()}')
         _timeline = diarization.get_timeline()
 
+    f_out = None
     if write_to_file:
         f_out = os.path.splitext(path)[0] + '--diarization.txt'
         with open(f_out, 'w') as f:
@@ -76,13 +80,10 @@ def main(path, testing=False, write_to_file=True):
                         \nOverlap : \n\t{_overlap}\n\
                         \nTimeline: \n\t{_timeline}")  
 
-    print(diarization)
-    # dr = '\n'.join(i for i in dir(diarization) if not i.startswith('__'))
-    # print(f'\ndir...\n{dr}')
-
     # discrete = diarization.discretize()
     # print(discrete)
-    # return diarization
+
+    return [f_out, diarization]
 
 
 if __name__ == '__main__':
@@ -96,10 +97,9 @@ if __name__ == '__main__':
     # print(f'\nfile: {path}\n')
     # main(path)
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\apr_18\\meeting\\"
-    f_in = "apr_18_meeting.wav"
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
+    f_in = "test_0307.wav"
     path = os.path.join(folder, f_in)
-    print(f'\nfile: {path}\n')
-    main(path)
+    diarization_file, diarization = main(path)
 
     
