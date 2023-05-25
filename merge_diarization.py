@@ -1,8 +1,8 @@
 import os
 from pyannote.core import Segment, Timeline, Annotation
 import csv
-from . import cleanscript 
 from datetime import timedelta
+
 
 def read_file(transcript_or_diarization_file, encoding='utf-8'):
     """
@@ -20,6 +20,28 @@ def read_file(transcript_or_diarization_file, encoding='utf-8'):
                 if ('~' in line) or ('/' in line): 
                     continue
     return container
+
+
+def read_csv(csv_file, encoding='utf-8'):
+    """
+    Takes a csv of a diarized transcript (timestamps and names), and converts
+    it such that long comments by a single speaker are condensed into one line.
+
+    nvm just reading it in for now
+    """
+
+    script = []
+    with open(csv_file, 'r', encoding=encoding) as f:
+        f = f.read().splitlines()[1:]
+        for row in f:
+            start = row[:row.index(',')]
+            row = row[row.index(',')+1:]
+            end = row[:row.index(',')]
+            row = row[row.index(',')+1:]
+            name = row[:row.index(',')]
+            text = row[row.index(',')+1:]
+            script += [[start, end, name, text]]
+    return script
 
 
 def transcript_to_segments(transcript_file, encoding='utf-8'):
@@ -64,11 +86,21 @@ def convert_segment_to_hms(segment):
         [ 00:00:02.219 -->  00:00:02.320] to 
     Returns a list of two H:MM:SS formatted strings.
     Another method: use/convert segment.start and segment.end 
+
+    Updated not to return None when segment start == segment end. 
+    when start == end , str(segment) returns None
     """
-    s = str(segment).strip('[').strip(']').split('-->')
-    l = [i.split('.')[0].strip() for i in s]
-    l = [i[1:] for i in l]
-    return l
+    start = str(segment.start)
+    end = str(segment.end)
+    if start == end:
+        start = str(timedelta(seconds=float(start)))
+        end = str(timedelta(seconds=float(end)))
+        return [start, end]
+    else:
+        s = str(segment).strip('[').strip(']').split('-->')
+        l = [i.split('.')[0].strip() for i in s]
+        l = [i[1:] for i in l]
+        return l
 
 
 def reconstruct_diarization(diarization_file):
@@ -231,7 +263,7 @@ def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
 
     if type(csv_file) != list:
         # Read in the diarized transcript csv file
-        script = cleanscript.read_csv(csv_file, encoding=encoding)
+        script = read_csv(csv_file, encoding=encoding)
         # Convert the timestamps into seconds and replace them with a single Segment object 
         for i in range(len(script)):
             times = [convert_to_seconds(script[i][0]), convert_to_seconds(script[i][1])]
@@ -316,8 +348,14 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     spk_segs, annotation = reconstruct_diarization(diarization_file)
     merger = add_speaker_info_to_text(segscript, annotation)
 
+    print('\n')
+    for seg, spk, txt in merger:
+        print(seg.start, seg.end)
+    print('\n')
+
     formatted_merger = []
     for seg, spk, txt in merger:
+        print(f'\nseg: {seg} - spk: {spk} - txt {txt}\n')
         times = convert_segment_to_hms(seg)
         formatted_merger += [[times[0], times[1], spk, txt]]
     # Write to txt and csv
@@ -345,16 +383,18 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
 if __name__ == "__main__":
 
-    # latin-1 encoding seems to accomodate both en and es transcripts gracefully
+    # latin-1 encoding seems to accomodate both en and es transcripts well
+    encoding = "utf-8"
 
-    encoding = "latin-1"
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\mar_28\\"
-    transcript_files = ["032823_retranscribe_segment_es_transcript.txt",]
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
+    transcript_files = ["test_0307_en_transcript.txt",]
                         #"032123_meeting_es_transcript.txt",]
                         #"032123_meeting_fin.txt"]
     transcript_files = [folder + f for f in transcript_files]
-    diarization_file = folder + "032823_meeting--diarization.txt"
+    diarization_file = folder + "test_0307--diarization.txt"
 
     for transcript in transcript_files:
-        diarize_transcript(transcript, diarization_file, encoding=encoding)
+        diarized_transcript_files = diarize_transcript(transcript, 
+                                                       diarization_file, 
+                                                       encoding=encoding)
         #diarize_transcript(transcript, diarization_file, encoding=encoding)

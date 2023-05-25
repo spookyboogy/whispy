@@ -1,0 +1,12 @@
+[0:00:00 -> 0:00:03] [None] I have this app to our chat.
+[0:00:03 -> 0:00:05] [SPEAKER_01] It's called Stop Motion.
+[0:00:05 -> 0:00:05] [None] OK.
+[0:00:05 -> 0:00:07] [SPEAKER_00] And it's free?
+[0:00:07 -> 0:00:08] [SPEAKER_00] We download it from?
+[0:00:08 -> 0:00:10] [SPEAKER_00] Yes, it's free.
+[0:00:10 -> 0:00:15] [SPEAKER_00] And so we started with a new movie.
+[0:00:15 -> 0:00:19] [SPEAKER_01] I don't know if you want to see what's in it.
+[0:00:19 -> 0:00:23] [SPEAKER_01] So I put this piece of tape here just
+[0:00:23 -> 0:00:27] [SPEAKER_01] to make sure it's always in the same place.
+[0:00:27 -> 0:00:28] [SPEAKER_01] And then.
+[0:00:28 -> 0:00:30] [SPEAKER_01] Oh, there's the Apple Store.
