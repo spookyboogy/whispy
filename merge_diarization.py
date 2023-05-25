@@ -357,12 +357,3 @@ if __name__ == "__main__":
     for transcript in transcript_files:
         diarize_transcript(transcript, diarization_file, encoding=encoding)
         #diarize_transcript(transcript, diarization_file, encoding=encoding)
-
-    # # Copy result to a new groundtruth file where manual edits are done
-    # # and won't be overwritten by any scripts. 
-    # f_in = folder + "032823_meeting_groundtruth.txt"
-    # # Convert that to csv after some tweaking and manual renaming
-    # convert_txt_to_csv(f_in, encoding=encoding)
-    # # Make condensed version of new csv
-    # f_in = folder + "032823_meeting_groundtruth.csv"
-    # condense_csv_lines(f_in, encoding=encoding)
