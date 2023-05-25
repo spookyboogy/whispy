@@ -1,7 +1,7 @@
 import os
 from pyannote.core import Segment, Timeline, Annotation
 import csv
-import cleanscript 
+from . import cleanscript 
 from datetime import timedelta
 
 def read_file(transcript_or_diarization_file, encoding='utf-8'):
