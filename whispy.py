@@ -100,7 +100,7 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
         files_out[lang] = f_out
     
     for lang in langs:
-        print(f'\n{lang} transcript written to:\n\t{files_out[lang]}\n')
+        print(f'{lang} transcript written to:\n\t{files_out[lang]}\n')
 
     return [files_out, transcripts]
 
