@@ -350,7 +350,6 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
     formatted_merger = []
     for seg, spk, txt in merger:
-        print(f'\nseg: {seg} - spk: {spk} - txt {txt}\n')
         times = convert_segment_to_hms(seg)
         formatted_merger += [[times[0], times[1], spk, txt]]
     # Write to txt and csv
