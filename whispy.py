@@ -55,6 +55,7 @@ def log_mel(path):
 def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False):
     """ write me """
 
+    print(f'\nfile: {file}\n')
     print(f'Loading model : {model_size}', end=' ... ')
     model = whisper.load_model(model_size)
     print('Done loading.\n')
@@ -80,23 +81,23 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
             f.write(header)
             f.write(start_time)
             for i in result['segments']:
-                _line = f"{i['id']:4}"
-                _start = f"{i['start']:7}"
-                _end = f"{i['end']:7}"
-                _text = f"{i['text'].strip()}"
-                
-                start = str(datetime.timedelta(seconds=float(_start)))
-                end = str(datetime.timedelta(seconds=float(_end)))
+                line = f"{i['id']:4}"
+                start = f"{i['start']:7}"
+                end = f"{i['end']:7}"
+                text = f"{i['text'].strip()}"
 
+                start = str(datetime.timedelta(seconds=float(start))).split('.')[0]
+                end = str(datetime.timedelta(seconds=float(end))).split('.')[0]
+                
+                segment = f"[{start} -> {end}] {text}"
                 if print_line_nums:
-                    segment = f"{_line} [{start} -> {end}] {_text}"
-                else:
-                    segment = f"[{start} -> {end}] {_text}"
+                    segment = f"{line} " + segment
+
+                print(f'segment = {segment}')
                 transcripts[lang] += [segment]
                 f.write(f'{segment}\n')
 
             f.write(finish_time)
-
         files_out[lang] = f_out
     
     for lang in langs:
@@ -113,17 +114,10 @@ if __name__ == '__main__':
     files = ["test\\test_0207.m4a",]
     files = [os.path.join(folder, file) for file in files]
     langs = ['en']
-    # Change this path to whatever your test directory path is
-    # Will update soon to or make an --audio_path command line arg
-    # and/or check os.getcwd() assuming user is running in /whispy 
-
-    
+   
     for file in files:
-        print(f'\nfile: {file}\n')
         files_out, transcripts = main(file, langs=langs)
-        # if diarizing:
-        #     diarize.main(file)
-        #     #merge diarization after
+
         
 
 
