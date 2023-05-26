@@ -320,6 +320,8 @@ def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
     with open(f_out, 'w', encoding=encoding, newline='') as f:
         csvwriter = csv.writer(f)
         csvwriter.writerows(csv_container)
+        
+    return f_out
 
 
 def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
@@ -370,7 +372,7 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
     # Write an additional csv with joined (condensed) dialogue lines
     condensed_csv_out = os.path.splitext(transcript_file)[0] + "--merged.csv"
-    condense_csv_lines(merger, f_name=condensed_csv_out, encoding=encoding)
+    csv_f_out = condense_csv_lines(merger, f_name=condensed_csv_out, encoding=encoding)
 
     files_out = [txt_out, csv_out, condensed_csv_out]
     return files_out
