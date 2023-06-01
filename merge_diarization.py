@@ -384,7 +384,7 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
 if __name__ == "__main__":
 
-    # latin-1 encoding seems to accomodate both en and es transcripts well
+    #  latin-1 encoding seems to accomodate both en and es transcripts well
     encoding = "utf-8"
 
     folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test_11\\"
