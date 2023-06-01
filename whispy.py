@@ -146,5 +146,5 @@ if __name__ == '__main__':
     for file in files:
         files_out, transcripts = main(file, langs=langs)
 
-## include mutagen audio file metadata (length) printout
-## 
+# add print statement showing audio length and possibly estimated time to complete
+# depending on audio length and hardware 
