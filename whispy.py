@@ -64,7 +64,7 @@ def detect_lang(path, model=None):
     return [lang]
 
 
-def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False, encoding='utf-8'):
+def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, encoding='utf-8'):
     """ write me """
 
     print(f'\nfile: {path}\n')
