@@ -143,16 +143,16 @@ if __name__ == '__main__':
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
 
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\test_11\\"
+    # f_in = "test_022823.m4a"
+    
     root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
-    # folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\022823\\"
     files_in = ["050523_whatsapp\\050523.m4a",
                 "111522\\meeting_111522.m4a",
                 "120622\\b\\MeetingWithInServiceTeachers_120622b.m4a",
                 "112222\\MeetingWithInServiceTeachers_112222.m4a",
                 "110122\\MeetingWithInServiceTeachers_110122.m4a",
                 "102522\\MeetingWithInServiceTeachers_102522.m4a"]
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\test_11\\"
-    # f_in = "test_022823.m4a"
     for f_in in files_in:
         path = os.path.join(root_folder, f_in)
         diarization_file, diarization = main(path)
