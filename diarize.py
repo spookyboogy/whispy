@@ -1,7 +1,8 @@
 import os
 import time
 import datetime
-
+import ffmpeg
+# import librosa
 from pyannote.audio import Pipeline
 # from huggingface_hub import login
 # login()
@@ -14,6 +15,7 @@ def print_runtime(t, return_stamp=False):
            \n~~~~~~~~~~~~~~~~~~~~~~~\n")
     print(s)
     return s
+
 
 def print_timestamp(starting=False, return_HMS=False, return_time=False, quiet=False):
     """
@@ -41,13 +43,64 @@ def print_timestamp(starting=False, return_HMS=False, return_time=False, quiet=F
         return _time, s
 
 
+def convert_to_wav(path_to_audio, wav_path_out):
+    """
+    pyannote requires .wav input
+    """
+    # temp_audio = f_name + '--temp' + '.m4a' 
+    # ffmpeg.input(path, ss=0, t=30).output(temp_audio, loglevel="quiet").run()
+    try:
+        input_stream = ffmpeg.input(path_to_audio)
+        output_stream = ffmpeg.output(input_stream, wav_path_out, loglevel="quiet")
+        ffmpeg.run(output_stream)
+        return True
+    except:
+        print('failed to convert.')
+        return False
+
+
+def handle_audio_formatting(path_to_audio):
+    """
+    Check if audio is .wav, if not, check if .wav is in same directory,
+    if not, convert to wav and return new .wav path.
+    """
+
+    if os.path.splitext(path_to_audio)[1] != '.wav':
+        print(f'\nConverting {path_to_audio} to .wav\n')
+
+    audio_directory = os.path.sep.join(path_to_audio.split(os.path.sep)[:-1])
+    audio_fname = os.path.splitext(path_to_audio.split(os.path.sep)[-1])[0]
+    audio_out = audio_fname + '.wav'
+    wav_path_out = os.path.join(audio_directory, audio_out)
+
+    if audio_out not in os.listdir(audio_directory):
+        success = convert_to_wav(path_to_audio, wav_path_out)
+    else:
+        print(f'{audio_out} already exists.')
+        return path_to_audio
+
+    if success:
+        print(f'\nSuccessfully converted audio file : ')
+        print('\n\t' + f'{path_to_audio} ---> {wav_path_out}\n')
+        return wav_path_out
+    else:
+        print(f'\nFailed to convert to .wav? u_u\n')
+        return None
+
+
 def main(path, testing=False, write_to_file=True):
-    """Write me"""
+    """
+    Runs the pyannote/speaker-diarization pipeline 
+    """
 
     print(f'\nfile: {path}\n')
+    path = handle_audio_formatting(path)
+
     print('\nLoading Pipeline...\n')
-    pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
+    pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@develop",
                                         use_auth_token=use_auth_token)
+    # pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
+    #                                     use_auth_token=use_auth_token)
     print('\nDone loading.')
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
@@ -82,7 +135,6 @@ def main(path, testing=False, write_to_file=True):
 
     # discrete = diarization.discretize()
     # print(discrete)
-
     return [f_out, diarization]
 
 
@@ -90,16 +142,18 @@ if __name__ == '__main__':
     
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
-    # and/or check os.getcwd() assuming user is running in /whispy
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    # f_in = "test_0207.wav"
-    # path = os.path.join(folder, f_in)
-    # print(f'\nfile: {path}\n')
-    # main(path)
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    f_in = "test_0307.wav"
-    path = os.path.join(folder, f_in)
-    diarization_file, diarization = main(path)
+    root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
+    # folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\022823\\"
+    files_in = ["050523_whatsapp\\050523.m4a",
+                "111522\\meeting_111522.m4a",
+                "120622\\b\\MeetingWithInServiceTeachers_120622b.m4a",
+                "112222\\MeetingWithInServiceTeachers_112222.m4a",
+                "110122\\MeetingWithInServiceTeachers_110122.m4a",
+                "102522\\MeetingWithInServiceTeachers_102522.m4a"]
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test_11\\"
+    # f_in = "test_022823.m4a"
+    for f_in in files_in:
+        path = os.path.join(root_folder, f_in)
+        diarization_file, diarization = main(path)
 
-    

@@ -1,11 +1,14 @@
-import whisper
 import os
 import time
 import datetime
+import torch
+import whisper
+import ffmpeg
+import librosa
 
 
 def naive_merge(path, en_transcript, es_transcript):
-    """ very naive """
+    """ very naive (not used)"""
 
     merge_limit = min(len(en_transcript), len(es_transcript))
     f_out = os.path.splitext(path)[0] + '--naive-merge.txt'
@@ -28,40 +31,63 @@ def print_timestamp(_lang, starting=False, return_time=False):
         return s, _time
 
 
-def log_mel(path):
-    """copypasta from whisper readme, not implemented or working atm"""
-    model = whisper.load_model("large-v2")
-    audio = whisper.load_audio(path)
-    audio = whisper.pad_or_trim(audio)
+def detect_lang(path, model=None):
+    """
+    path -> path to audio file
+    model -> loaded whisper model (saves time to not load model twice)
+    """
+    if not model:
+        model = whisper.load_model("medium")
 
+    ## Creating a 30 second temp audio file of the provided audio 
+    ## because whisper only uses the first 30 seconds of an audio file
+    ## to get an accurately detect the spoken language, making it unneccesary
+    ## to load the entire audio file
+    ## Update this to skip this step if the audio file is shorter than 1min
+
+    if librosa.get_duration(path=path) > 60:
+        f_name, ext = os.path.splitext(path)
+        temp_audio = f_name + '--temp' + '.m4a' 
+        ffmpeg.input(path, ss=0, t=30).output(temp_audio, loglevel="quiet").run()
+
+    # Load audio, convert to mel spectrogram, load into model
+    audio = whisper.load_audio(temp_audio)
+    # audio = whisper.load_audio(path)
+    audio = whisper.pad_or_trim(audio)
     mel = whisper.log_mel_spectrogram(audio).to(model.device)
+    # Use whisper's detect_language function
     _, probs = model.detect_language(mel)
     lang = max(probs, key=probs.get)
+
     print(f"\nDetected language: {lang}")
-
-    options = whisper.DecodingOptions(fp16=False, language=lang)
-    print(f'\noptions = {options}\n')
-    result = whisper.decode(model, mel, options)
-
-    res = result.text
-    print(f'res = \n{res}\n')
-
-    f_out = path + '_transcript.txt'
-    with open(f_out, 'w') as f:
-        f.write(res)
-    return res
+    os.remove(temp_audio)
+    return [lang]
 
 
 def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False, fp16=False, encoding='utf-8'):
     """ write me """
 
     print(f'\nfile: {path}\n')
+
+    fp16 = torch.cuda.is_available()
+    print(f'Using CUDA (GPU inference) : {fp16}\n')
+
     print(f'Loading model : {model_size}', end=' ... ')
     model = whisper.load_model(model_size)
     print('Done loading.\n')
 
+    if not langs:
+        # no language set, guessing language with whisper
+        try:
+            print("Transcription language not specified.\
+                 \nAttempting to detect language...")
+            langs = detect_lang(path, model)
+        except:
+            print('\nFailed to detect language. Using English.\n')
+            langs = ['en']
+     
     header = f"Audio File : {os.path.sep.join(path.split(os.path.sep)[-3:])}\
-             \nModel size : {model_size}\n" #if model_size!="large-v2" else None
+             \nModel size : {model_size}\n"
     
     transcripts = {lang : [] for lang in langs}
     files_out = {lang : None for lang in langs}
@@ -107,19 +133,18 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
 
 if __name__ == '__main__':
     
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
+    
+    folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\012423"
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
     # files = ["test\\test_0207.wav",]
     # m4a takes less time to load bc lower quality
-    files = ["test\\test_0307.m4a",]
+    files = ["meeting_012423.m4a",]
     files = [os.path.join(folder, file) for file in files]
-    langs = ['en']
+    # langs = ['en']
+    langs = None
    
     for file in files:
         files_out, transcripts = main(file, langs=langs)
 
-        
-
-
-
-
-    
+## include mutagen audio file metadata (length) printout
+## 

@@ -1,0 +1,533 @@
+[0:00:00 -> 0:00:04] [None] ¿Cuántos niños son?
+[0:00:04 -> 0:00:05] [SPEAKER_03] 22.
+[0:00:05 -> 0:00:06] [SPEAKER_03] ¿23, no?
+[0:00:06 -> 0:00:08] [SPEAKER_03] ¿Nos dará tiempo?
+[0:00:08 -> 0:00:10] [SPEAKER_04] Sí, yo espero que si salen dos grupos,
+[0:00:10 -> 0:00:14] [SPEAKER_04] se quedan dos grupos, para hacerlo un grupito bien pequeño.
+[0:00:16 -> 0:00:25] [SPEAKER_00] Hay que ver también el clima, porque está abriendo y aparentemente el martes va a llover, supuestamente.
+[0:00:26 -> 0:00:32] [SPEAKER_02] Pero el miércoles no, pero en cualquier caso podemos cambiarlo para el miércoles.
+[0:00:32 -> 0:00:34] [SPEAKER_04] Sí, si hubiera...
+[0:00:34 -> 0:00:38] [SPEAKER_02] Y si llueve, pues entonces se puede hacer la actividad aquí.
+[0:00:38 -> 0:00:42] [SPEAKER_04] En mi teléfono dice 98% de que llueva el miércoles.
+[0:00:42 -> 0:00:46] [SPEAKER_04] Pero se va corriendo, yo no tomaría... no sé de qué estamos hablando, pero...
+[0:00:46 -> 0:00:47] [SPEAKER_04] Sí, se puede mover.
+[0:00:47 -> 0:00:50] [SPEAKER_04] Yo lo esperaría todavía, porque a veces se va...
+[0:00:50 -> 0:00:52] [SPEAKER_04] Sí, queda una semana.
+[0:00:52 -> 0:00:54] [SPEAKER_04] Se puede cambiar.
+[0:00:54 -> 0:00:56] [SPEAKER_04] Sí, puede cambiar todavía.
+[0:00:56 -> 0:00:59] [SPEAKER_04] ¿Qué aprendimos de la comunidad?
+[0:01:01 -> 0:01:06] [SPEAKER_04] Dylan habló de un campo de béisbol, que va casi todos los días allá.
+[0:01:06 -> 0:01:12] [SPEAKER_04] Va a su casa, se cambia de ropa y se pone su uniforme profesional y se va al campo de béisbol.
+[0:01:12 -> 0:01:14] [SPEAKER_04] Y lo dibujó.
+[0:01:14 -> 0:01:18] [SPEAKER_04] Y luego dibujó la entrada del tren, ¿le llaman?
+[0:01:18 -> 0:01:19] [SPEAKER_04] El metro.
+[0:01:19 -> 0:01:20] [SPEAKER_04] Me llaman metro.
+[0:01:20 -> 0:01:21] [SPEAKER_04] El subway.
+[0:01:21 -> 0:01:23] [SPEAKER_04] A mí me encanta la entrada, 181.
+[0:01:23 -> 0:01:26] [SPEAKER_04] Me encanta, porque hay mucha vida alrededor de la entrada.
+[0:01:26 -> 0:01:29] [SPEAKER_03] Sofía hizo el tren adentro y hizo una rata.
+[0:01:31 -> 0:01:32] [SPEAKER_04] Muy cultural.
+[0:01:34 -> 0:01:36] [SPEAKER_04] ¿Qué otras cosas aparecieron?
+[0:01:38 -> 0:01:40] [SPEAKER_04] Tenemos a los dos...
+[0:01:41 -> 0:01:48] [SPEAKER_04] En nuestro grupo, sí, estábamos con Marín, Novani y Jordani, que al principio...
+[0:01:48 -> 0:01:55] [SPEAKER_04] Jordani y Marín siempre hablan mucho y tienen sus opiniones, y Jeremy estaba corriendo, saliendo del...
+[0:01:55 -> 0:01:57] [SPEAKER_04] Estaba cansado, entonces.
+[0:01:57 -> 0:01:58] [SPEAKER_03] Sí, sí.
+[0:01:58 -> 0:02:00] [SPEAKER_04] Se paró un poquito con nosotros.
+[0:02:00 -> 0:02:02] [SPEAKER_04] Dijo que quería estar allá.
+[0:02:02 -> 0:02:03] [SPEAKER_04] Sí.
+[0:02:04 -> 0:02:06] [SPEAKER_04] Pero allí bailaban una a la otra.
+[0:02:06 -> 0:02:08] [SPEAKER_04] Le dije, ok, go, but you have to stay there.
+[0:02:09 -> 0:02:10] [SPEAKER_04] Y bueno...
+[0:02:10 -> 0:02:19] [SPEAKER_04] Y bueno, empezaron a ver, a pensar un poco, y después Marín...
+[0:02:19 -> 0:02:20] [SPEAKER_03] Tardó un poquito.
+[0:02:20 -> 0:02:21] [SPEAKER_04] Sí, quitó.
+[0:02:22 -> 0:02:28] [SPEAKER_04] Ella empezó como, mi papá trabaja, no me acuerdo del nombre del restaurante, decía.
+[0:02:28 -> 0:02:30] [SPEAKER_04] Seafood Junior, sí, que él trabaja.
+[0:02:30 -> 0:02:34] [SPEAKER_03] Hablaron de sus padres y dónde trabajan y todo eso.
+[0:02:34 -> 0:02:45] [SPEAKER_04] Y Marín quiso buscar como Google Maps, que ella conoce, y sabe que puede buscar el sitio y la dirección.
+[0:02:45 -> 0:02:48] [SPEAKER_04] Y creo que pidió a Paulina, ¿no?
+[0:02:48 -> 0:02:51] [SPEAKER_04] Y vino acá y me dijo, ¿tienes Google Maps? Y yo, sí, a ver, a ver.
+[0:02:51 -> 0:02:53] [SPEAKER_04] Me dijo, no, no, andate al McDonald's.
+[0:02:53 -> 0:02:55] [SPEAKER_04] Que no me hace más sentido, pero es la esquina que conozco.
+[0:02:55 -> 0:02:58] [SPEAKER_04] Y yo dije, el McDonald's está tapado, porque veo los negocios.
+[0:02:58 -> 0:03:00] [SPEAKER_04] Me dijo, no, no, no, camina para adelante.
+[0:03:01 -> 0:03:04] [SPEAKER_04] Y como se exasperó, porque yo estaba así como, ¿qué, qué?
+[0:03:06 -> 0:03:09] [SPEAKER_04] Avanzó hasta Broadway, giró y siguió avanzando.
+[0:03:09 -> 0:03:13] [SPEAKER_04] Y dijo, aquí, dio vuelta la cámara y se veía el local.
+[0:03:13 -> 0:03:16] [SPEAKER_04] Y dijo, ahí, ahí, ahí, ese es el local de mi papá.
+[0:03:23 -> 0:03:24] [SPEAKER_04] Pero es mejor.
+[0:03:24 -> 0:03:25] [SPEAKER_04] No es mejor o peor, pero...
+[0:03:25 -> 0:03:26] [SPEAKER_03] Porque mañana...
+[0:03:27 -> 0:03:31] [SPEAKER_04] Sí, planificamos, bueno, cuando hablamos, unas dos semanas,
+[0:03:31 -> 0:03:37] [SPEAKER_04] habíamos hablado que hoy veríamos los lugares que conocen, ya conocen.
+[0:03:37 -> 0:03:44] [SPEAKER_04] Y después mañana buscamos, porque yo tengo un mapa gigante de Google Maps,
+[0:03:44 -> 0:03:47] [SPEAKER_04] pero no encuentro esa impresora.
+[0:03:47 -> 0:03:49] [SPEAKER_04] Imprímenelo en un sitio.
+[0:03:49 -> 0:03:50] [SPEAKER_04] En un sitio.
+[0:03:50 -> 0:03:51] [SPEAKER_04] Y le das el recibo.
+[0:03:51 -> 0:03:52] [SPEAKER_04] Solo no cabe tiempo, sí.
+[0:03:53 -> 0:03:56] [SPEAKER_04] Pero si te da tiempo, mañana.
+[0:03:56 -> 0:03:57] [SPEAKER_04] Entre hoy y mañana.
+[0:03:58 -> 0:03:59] [SPEAKER_04] ¿Qué cosa necesitas?
+[0:03:59 -> 0:04:00] [SPEAKER_03] Yo tengo reunión a las nueve.
+[0:04:00 -> 0:04:01] [SPEAKER_04] ¿Color printing?
+[0:04:01 -> 0:04:02] [SPEAKER_04] Pero...
+[0:04:02 -> 0:04:04] [SPEAKER_04] ¿Podemos imprimir aquí? ¿Tú tienes un color printing acá?
+[0:04:04 -> 0:04:06] [SPEAKER_04] Sí, es mucho.
+[0:04:06 -> 0:04:07] [SPEAKER_03] Pero es grande.
+[0:04:07 -> 0:04:08] [SPEAKER_03] Son nueve páginas.
+[0:04:08 -> 0:04:09] [SPEAKER_03] Está bien.
+[0:04:09 -> 0:04:10] [SPEAKER_03] ¿Sí, está bien?
+[0:04:10 -> 0:04:11] [SPEAKER_03] Sí.
+[0:04:11 -> 0:04:12] [SPEAKER_04] Ok, ya tengo el archivo y todo.
+[0:04:13 -> 0:04:14] [SPEAKER_04] Te envío.
+[0:04:14 -> 0:04:16] [SPEAKER_04] Y ahí lo ponemos para que podamos...
+[0:04:16 -> 0:04:18] [SPEAKER_04] Es que en la oficina se nos...
+[0:04:18 -> 0:04:21] [SPEAKER_04] Ashley se compró una nueva computadora y no la han enchufado.
+[0:04:21 -> 0:04:23] [SPEAKER_04] No funciona cuando la impresora no va a...
+[0:04:23 -> 0:04:25] [SPEAKER_04] Y lo quería hacerlo en Castlebridge, pero...
+[0:04:25 -> 0:04:28] [SPEAKER_04] Número uno, no tuve tiempo, y número dos, creo que la impresora no estaba funcionando.
+[0:04:28 -> 0:04:30] [SPEAKER_04] Pero lo quieres luego pegar todo.
+[0:04:30 -> 0:04:33] [SPEAKER_04] Sí, pegar todo porque son por tres, por tres.
+[0:04:34 -> 0:04:37] [SPEAKER_04] Y si quieres ir al sitio profesional que te lo...
+[0:04:37 -> 0:04:38] [SPEAKER_04] ¿Cómo se llama?
+[0:04:38 -> 0:04:39] [SPEAKER_04] Edexo.
+[0:04:39 -> 0:04:40] [SPEAKER_04] ¿Cómo se llama?
+[0:04:40 -> 0:04:41] [SPEAKER_03] Staple.
+[0:04:41 -> 0:04:42] [SPEAKER_04] Sí, Staple.
+[0:04:42 -> 0:04:43] [SPEAKER_03] Ah, sí, sí, sí.
+[0:04:43 -> 0:04:45] [SPEAKER_03] No va a costar una fortuna, pero bueno.
+[0:04:45 -> 0:04:47] [SPEAKER_04] Sí, puedo intentar.
+[0:04:47 -> 0:04:48] [SPEAKER_04] No, pero si podemos pegar...
+[0:04:48 -> 0:04:49] [SPEAKER_04] De partidos al rincon.
+[0:04:49 -> 0:04:50] [SPEAKER_04] Sí, va a ser más barato y más fácil.
+[0:04:51 -> 0:04:56] [SPEAKER_03] Es que podemos preguntar en TC, abajo, hay un lugar que imprime.
+[0:04:56 -> 0:04:57] [SPEAKER_03] Sí, en Business Center.
+[0:04:57 -> 0:04:58] [SPEAKER_04] Sí.
+[0:04:58 -> 0:05:00] [SPEAKER_04] Bien caro, pero para una excepción.
+[0:05:00 -> 0:05:02] [SPEAKER_04] Ah, ¿dónde se envía...
+[0:05:02 -> 0:05:04] [SPEAKER_04] Business Center, en el Departamento.
+[0:05:04 -> 0:05:05] [SPEAKER_04] ...pastel y todo.
+[0:05:05 -> 0:05:06] [SPEAKER_04] Sí, ahí.
+[0:05:06 -> 0:05:07] [SPEAKER_04] Sí, ahí dice.
+[0:05:07 -> 0:05:08] [SPEAKER_04] No sé si hay idea, cuánto puede...
+[0:05:08 -> 0:05:10] [SPEAKER_04] Si tú tienes tiempo, verifica, no sé.
+[0:05:10 -> 0:05:12] [SPEAKER_04] Si me lo manda y puedo...
+[0:05:12 -> 0:05:14] [SPEAKER_03] Estaré en la escuela el día entero.
+[0:05:14 -> 0:05:17] [SPEAKER_04] Pues yo siento que si ya van a hacer esa inversión, sería bueno laminarlo.
+[0:05:18 -> 0:05:19] [SPEAKER_04] Laminator.
+[0:05:19 -> 0:05:21] [SPEAKER_04] Así pueden dibujar y pintar.
+[0:05:21 -> 0:05:24] [SPEAKER_04] No solo eso, pero si no es algo como que es recurrente.
+[0:05:24 -> 0:05:25] [SPEAKER_04] Ah, sí.
+[0:05:25 -> 0:05:27] [SPEAKER_04] Si lo quieren usar, siguen usando.
+[0:05:27 -> 0:05:29] [SPEAKER_04] Ahí mismo a lo mejor se lo pueden laminar.
+[0:05:29 -> 0:05:31] [SPEAKER_04] Si merece la pena laminarlo.
+[0:05:31 -> 0:05:33] [SPEAKER_04] Sí, podemos ponerlo en la pantalla.
+[0:05:33 -> 0:05:34] [SPEAKER_03] Sí, está bien el resumen.
+[0:05:34 -> 0:05:36] [SPEAKER_03] Es que me lo manda el pregunto.
+[0:05:36 -> 0:05:37] [SPEAKER_04] Sí.
+[0:05:37 -> 0:05:39] [SPEAKER_04] Bueno, porque si no se proyecta en la pantalla.
+[0:05:39 -> 0:05:40] [SPEAKER_03] Cuánto se demora también.
+[0:05:40 -> 0:05:41] [SPEAKER_03] Eso sí lo van a tener que ver.
+[0:05:41 -> 0:05:45] [SPEAKER_04] Si lo llevan por la mañana, le dicen, me lo pueden llevar para exaltar dentro de dos horas.
+[0:05:46 -> 0:05:50] [SPEAKER_04] Porque intenté hacerlo en la librería también, pero no pude.
+[0:05:51 -> 0:05:53] [SPEAKER_04] ¿Librería de las hermanas?
+[0:05:53 -> 0:05:55] [SPEAKER_04] Sí, no funcionó.
+[0:05:55 -> 0:06:00] [SPEAKER_04] Bueno, sí, pero mañana podemos ver y también buscar en nuestros teléfonos.
+[0:06:00 -> 0:06:04] [SPEAKER_04] Sí, porque ahí podemos ver todos los bloques y todo.
+[0:06:04 -> 0:06:07] [SPEAKER_04] Y también por dónde vamos a caminar.
+[0:06:07 -> 0:06:11] [SPEAKER_04] ¿Y cómo sería en grupo entero?
+[0:06:12 -> 0:06:18] [SPEAKER_04] Entonces, podemos empezar en grupo entero y después...
+[0:06:19 -> 0:06:22] [SPEAKER_04] Pero habría que hacer en los grupos, solo tenemos un mapa.
+[0:06:22 -> 0:06:27] [SPEAKER_04] Entonces, un grupo trabaja en mapa, el otro trabaja en Google Maps o algo así, ¿no?
+[0:06:27 -> 0:06:33] [SPEAKER_04] Sí, sí, sí. Y creo que para buscar, sí, sería mejor usar el teléfono.
+[0:06:33 -> 0:06:34] [SPEAKER_03] ¿Tienen iPad?
+[0:06:34 -> 0:06:35] [SPEAKER_03] No.
+[0:06:35 -> 0:06:38] [SPEAKER_03] ¿Pero los iPads no tienen Google Maps?
+[0:06:38 -> 0:06:39] [SPEAKER_03] No.
+[0:06:39 -> 0:06:40] [SPEAKER_00] No, no tienen iPads.
+[0:06:40 -> 0:06:42] [SPEAKER_00] No, pero nosotros tenemos.
+[0:06:42 -> 0:06:44] [SPEAKER_00] Pero no creo que soporte...
+[0:06:45 -> 0:06:46] [SPEAKER_00] ¿Es eso un mapa de Apple?
+[0:06:46 -> 0:06:47] [SPEAKER_00] Al menos.
+[0:06:48 -> 0:06:50] [SPEAKER_00] Google Maps debería ser una versión antigua.
+[0:06:50 -> 0:06:52] [None] Oh, está bien.
+[0:06:52 -> 0:06:54] [SPEAKER_02] No creo que se puede usar el teléfono.
+[0:06:54 -> 0:06:58] [SPEAKER_04] Pero podemos imprimir los individuales y tener un gran, gran.
+[0:06:58 -> 0:06:59] [SPEAKER_04] ¿Ves?
+[0:06:59 -> 0:07:02] [SPEAKER_02] Podemos tener el gran, gran al principio y decir, bien, ¿qué?
+[0:07:02 -> 0:07:05] [SPEAKER_02] En general, y luego cuando lo separamos, tenemos los pequeños y los grandes.
+[0:07:05 -> 0:07:07] [SPEAKER_04] Sí, por eso realmente quería el gran hoy.
+[0:07:07 -> 0:07:11] [SPEAKER_04] Para que, ¿sabes? Podríamos decir, oh, sí, ¿qué sabemos?
+[0:07:11 -> 0:07:16] [SPEAKER_04] Oh, sé, hay algo ahí arriba, McDonald's, Chick-fil-A, Mirachito, 184, ¿sabes?
+[0:07:16 -> 0:07:19] [SPEAKER_04] Pero no podía imprimir en cualquier lugar.
+[0:07:21 -> 0:07:26] [SPEAKER_04] Pero podemos tener individual porque lo hice a un 8x4, como una pieza de página letal, también.
+[0:07:26 -> 0:07:27] [SPEAKER_04] Cada grupo podría tener uno.
+[0:07:27 -> 0:07:29] [SPEAKER_04] ¿Es lo que tengo que imprimir mañana?
+[0:07:29 -> 0:07:31] [SPEAKER_04] Sí, pero no te preocupes por...
+[0:07:31 -> 0:07:33] [SPEAKER_04] ¿No tiene, como, ¿qué es eso?
+[0:07:33 -> 0:07:34] [SPEAKER_04] Creo que Belén va a intentar.
+[0:07:34 -> 0:07:35] [SPEAKER_04] ¿Va a intentar?
+[0:07:35 -> 0:07:36] [SPEAKER_04] No te preocupes por...
+[0:07:36 -> 0:07:37] [SPEAKER_04] Oh, ok.
+[0:07:37 -> 0:07:41] [SPEAKER_04] ¿Cuánto tamaño tendría una pieza? ¿Cuánto tamaño podríamos tener?
+[0:07:41 -> 0:07:47] [SPEAKER_04] El individual para grupos sería una página letal, pero el grande que estoy hablando de,
+[0:07:47 -> 0:07:49] [SPEAKER_04] si hay tres páginas para cada grupo.
+[0:07:49 -> 0:07:53] [SPEAKER_04] ¿No quieres proyectarlo y dibujarlo y tener una estación por la parte de afuera?
+[0:07:53 -> 0:07:54] [SPEAKER_04] Esa es otra opción.
+[0:07:54 -> 0:07:56] [SPEAKER_04] Esa es una opción, sí.
+[0:07:56 -> 0:07:59] [SPEAKER_04] Quiero decir, podríamos hacerlo en, ¿sabes? Google Maps.
+[0:08:00 -> 0:08:03] [SPEAKER_04] Yo solo pensé que sería genial ver, como, un mapa.
+[0:08:03 -> 0:08:04] [SPEAKER_04] Pero podríamos definitivamente...
+[0:08:04 -> 0:08:05] [SPEAKER_03] Sí, sí.
+[0:08:05 -> 0:08:10] [SPEAKER_04] No, con el mapa lo bueno es que podemos añadir, por ejemplo, post-its donde escriban sus espacios
+[0:08:10 -> 0:08:13] [SPEAKER_04] y escriban, o hagan un dibujito de cómo se sienten en ese espacio.
+[0:08:13 -> 0:08:17] [SPEAKER_04] Pero cómo es difícil tener un grande para cada grupo.
+[0:08:17 -> 0:08:22] [SPEAKER_04] Tendríamos el grande, el gigante, y después cada grupo tiene uno pequeño en tamaño de letra.
+[0:08:23 -> 0:08:26] [SPEAKER_04] Entonces son, ya, más copias de esos.
+[0:08:26 -> 0:08:28] [SPEAKER_04] Sí, pero esto de grupos puede ser en...
+[0:08:28 -> 0:08:29] [SPEAKER_04] Blanco y negro.
+[0:08:29 -> 0:08:30] [SPEAKER_04] Sí, negro.
+[0:08:31 -> 0:08:32] [SPEAKER_04] Blanco.
+[0:08:32 -> 0:08:33] [SPEAKER_04] Bueno.
+[0:08:34 -> 0:08:35] [SPEAKER_04] Bueno, de todos modos, volviendo.
+[0:08:35 -> 0:08:36] [SPEAKER_04] Sí.
+[0:08:36 -> 0:08:39] [SPEAKER_04] Ellas querían buscar esto, Maureen, ya sabía.
+[0:08:40 -> 0:08:44] [SPEAKER_04] No recordaba el nombre, pero ya sabía dónde estaba y todo.
+[0:08:44 -> 0:08:49] [SPEAKER_04] Y después, no, Bonnie, entonces también quiso buscar la barbería, ¿no?
+[0:08:50 -> 0:08:51] [SPEAKER_04] De su papá.
+[0:08:51 -> 0:08:52] [SPEAKER_04] La barbería de su papá.
+[0:08:52 -> 0:08:53] [SPEAKER_04] Donde trabaja su papá.
+[0:08:53 -> 0:08:55] [SPEAKER_04] Creo que debemos ir a estos dos sitios, principalmente.
+[0:08:55 -> 0:08:56] [SPEAKER_03] Sí, sí, sí.
+[0:08:56 -> 0:08:57] [SPEAKER_03] Están cerca.
+[0:08:57 -> 0:08:58] [SPEAKER_03] Porque son sus papás.
+[0:08:58 -> 0:08:59] [SPEAKER_03] Si no son...
+[0:08:59 -> 0:09:00] [SPEAKER_03] Es la barbería.
+[0:09:00 -> 0:09:02] [SPEAKER_03] Y es el lugar, por supuesto.
+[0:09:02 -> 0:09:03] [SPEAKER_03] Siento...
+[0:09:04 -> 0:09:11] [SPEAKER_03] Sí, porque Dariel nos preguntó si podíamos tomar fotos dentro y afuera.
+[0:09:11 -> 0:09:15] [SPEAKER_03] Entonces le dije, tenemos que preguntar porque quería ir a uno de un pollo.
+[0:09:15 -> 0:09:20] [SPEAKER_04] La semana pasada, cuando hablamos, estábamos diciendo de ir nosotros hoy.
+[0:09:20 -> 0:09:23] [SPEAKER_04] Estaba pensando que podemos ir ahora a visitarlos.
+[0:09:23 -> 0:09:25] [SPEAKER_04] Estos deben estar aquí cerca.
+[0:09:26 -> 0:09:30] [SPEAKER_04] Ir hasta la casa de Mofongo, el McDonald's, la entrada del metro.
+[0:09:30 -> 0:09:34] [SPEAKER_04] Como pensar una pequeña ruta, dos rutas para dos grupos.
+[0:09:36 -> 0:09:41] [SPEAKER_04] Y como los que estamos aquí seríamos los líderes, porque no están Andrea, no lo han hecho.
+[0:09:41 -> 0:09:45] [SPEAKER_04] Andrea se sentía insegura porque no conoce dónde llevar los niños, normal.
+[0:09:45 -> 0:09:48] [SPEAKER_04] Ángela lo conoce un poco más, Paulina lo conoce un poco más.
+[0:09:48 -> 0:09:49] [SPEAKER_04] Sí.
+[0:09:49 -> 0:09:51] [SPEAKER_04] Y que Belén...
+[0:09:51 -> 0:09:54] [SPEAKER_04] Tú conoces el sitio de comprar verduras.
+[0:09:54 -> 0:09:56] [SPEAKER_04] Sí, siempre vengo por acá.
+[0:09:56 -> 0:09:58] [SPEAKER_04] Que nos lo tienes que enseñar.
+[0:09:58 -> 0:10:01] [SPEAKER_04] Como pensar en dos o tres sitios que cada grupo puede visitar.
+[0:10:02 -> 0:10:05] [SPEAKER_02] Si no sé el grupo, yo tendría que ir con alguien que conozco.
+[0:10:05 -> 0:10:07] [SPEAKER_04] Pero por eso podemos ir ahora.
+[0:10:07 -> 0:10:08] [SPEAKER_04] Sí, vamos.
+[0:10:08 -> 0:10:10] [SPEAKER_04] Y tú conoces los sitios.
+[0:10:10 -> 0:10:13] [SPEAKER_04] Porque sí está Andrea, que no lo ha visto, porque no está hoy.
+[0:10:13 -> 0:10:16] [SPEAKER_04] Y quién más está enfermo. Y Cristina tampoco está.
+[0:10:17 -> 0:10:20] [SPEAKER_04] Y bueno, Cristina se conoce, yo sé el sitio del pollo, sí se lo conoce.
+[0:10:20 -> 0:10:21] [SPEAKER_04] El chicle.
+[0:10:21 -> 0:10:22] [SPEAKER_04] El chicle.
+[0:10:22 -> 0:10:23] [SPEAKER_04] El chicle.
+[0:10:23 -> 0:10:25] [SPEAKER_04] Todo el mundo ve el chicle.
+[0:10:25 -> 0:10:29] [SPEAKER_04] El chicle es fácil para yo, no sé, como que todo el mundo es chicle.
+[0:10:29 -> 0:10:31] [SPEAKER_04] Es donde pasamos toda la semana.
+[0:10:32 -> 0:10:34] [SPEAKER_04] Bueno, y ahí el Target.
+[0:10:35 -> 0:10:36] [SPEAKER_04] Bien, podemos ir.
+[0:10:36 -> 0:10:39] [SPEAKER_00] Algunas chicas te dieron a Claire's.
+[0:10:40 -> 0:10:41] [SPEAKER_03] Ah, sí.
+[0:10:42 -> 0:10:46] [SPEAKER_03] Ah, la tienda de cositas del Pebe, jodería, muy bonito.
+[0:10:46 -> 0:10:53] [SPEAKER_03] Sí, nos dijeron del parque que hay cruzando el puente, pero creo que no es muy lejos.
+[0:10:53 -> 0:10:54] [SPEAKER_04] ¿Hybrid?
+[0:10:54 -> 0:10:56] [SPEAKER_04] Sí, iba a decir hybrid, pero nadie mencionó hybrid.
+[0:10:56 -> 0:10:59] [SPEAKER_04] Sí, el puente, alguien lo dijo.
+[0:10:59 -> 0:11:02] [SPEAKER_04] El puente que lleva al Bronx, ¿puede ser?
+[0:11:02 -> 0:11:03] [SPEAKER_04] Sí.
+[0:11:03 -> 0:11:07] [SPEAKER_02] Creo que ella dice que lleva a Connecticut, pero...
+[0:11:07 -> 0:11:09] [SPEAKER_02] Dijo a Connecticut eventualmente, sí.
+[0:11:09 -> 0:11:10] [SPEAKER_02] Sí.
+[0:11:10 -> 0:11:11] [SPEAKER_03] Pero sí, me interesa.
+[0:11:11 -> 0:11:14] [SPEAKER_04] Sí que lo dijo, pero no sé si está muy lejos o no.
+[0:11:14 -> 0:11:19] [SPEAKER_04] Igual la casa de Dylan que está, sería bonito pasar por el edificio de alguien también,
+[0:11:19 -> 0:11:21] [SPEAKER_04] pero si no conocemos...
+[0:11:22 -> 0:11:29] [SPEAKER_04] Andrea está muy... quería que estuviéramos una ruta fija de los sitios donde vamos a ir.
+[0:11:30 -> 0:11:31] [SPEAKER_04] Y es una buena idea.
+[0:11:31 -> 0:11:38] [SPEAKER_04] Y, por ejemplo, en el sitio del Seafood, si fuéramos ahora, podríamos preguntar si estuviera bien entrar.
+[0:11:39 -> 0:11:43] [SPEAKER_04] Porque si es el papá de uno de ellos, sería muy complicado.
+[0:11:43 -> 0:11:46] [SPEAKER_04] Bueno, a ese le podría hacer como preguntar por mensaje o teléfono.
+[0:11:46 -> 0:11:48] [SPEAKER_04] Solo entrar sin disturbar, lo que fuera.
+[0:11:48 -> 0:11:51] [SPEAKER_04] ¿Jade y Marina es tu alumna?
+[0:11:51 -> 0:11:52] [SPEAKER_04] Sí.
+[0:11:52 -> 0:11:54] [SPEAKER_04] ¿Tú crees que le podrías preguntar al papá?
+[0:11:54 -> 0:11:55] [SPEAKER_04] Como por...
+[0:11:55 -> 0:11:57] [SPEAKER_04] ¿Junior Seafood?
+[0:11:57 -> 0:11:58] [SPEAKER_04] Sí.
+[0:11:58 -> 0:12:00] [SPEAKER_04] Pero es como bajo...
+[0:12:00 -> 0:12:01] [SPEAKER_04] No, no.
+[0:12:01 -> 0:12:02] [SPEAKER_04] Ah, vamos a ir.
+[0:12:02 -> 0:12:03] [SPEAKER_04] Ah, para las...
+[0:12:03 -> 0:12:05] [SPEAKER_04] Porque tampoco sabemos, o sea, bueno, tú sabes.
+[0:12:05 -> 0:12:07] [SPEAKER_04] Podemos pasar a ver si... pero no sabemos quién es.
+[0:12:07 -> 0:12:08] [SPEAKER_04] Sí, sí, sí.
+[0:12:08 -> 0:12:09] [SPEAKER_04] ¿Dónde está?
+[0:12:09 -> 0:12:12] [SPEAKER_04] Es como en... es en Broadway en 180th.
+[0:12:12 -> 0:12:17] [SPEAKER_04] La Casa del Mofongo es más al norte, pero si vamos allá, tenemos que ir al oeste también.
+[0:12:18 -> 0:12:21] [SPEAKER_04] Estamos en la Casa del Mofongo, como en 187th.
+[0:12:21 -> 0:12:22] [SPEAKER_04] Sí, desde aquí.
+[0:12:22 -> 0:12:23] [SPEAKER_04] Broadway.
+[0:12:23 -> 0:12:24] [SPEAKER_04] Sí.
+[0:12:24 -> 0:12:26] [SPEAKER_04] Así que la Casa del Mofongo es como...
+[0:12:26 -> 0:12:27] [SPEAKER_04] ¿Casa del Mofongo está aquí mismo?
+[0:12:27 -> 0:12:28] [SPEAKER_04] Sí.
+[0:12:28 -> 0:12:30] [SPEAKER_04] Aquí, pero estamos aquí, en este camino, ¿verdad?
+[0:12:30 -> 0:12:31] [SPEAKER_04] Sí.
+[0:12:31 -> 0:12:33] [SPEAKER_04] Pero su lugar es más al oeste.
+[0:12:33 -> 0:12:34] [SPEAKER_04] Sí, está más hacia allá.
+[0:12:34 -> 0:12:35] [SPEAKER_04] Sí, sí, sí.
+[0:12:35 -> 0:12:36] [SPEAKER_04] O al oeste.
+[0:12:36 -> 0:12:37] [SPEAKER_04] ¿Es la casa del Mofongo?
+[0:12:37 -> 0:12:38] [SPEAKER_04] Sí.
+[0:12:38 -> 0:12:39] [SPEAKER_04] Nosotros.
+[0:12:39 -> 0:12:40] [SPEAKER_04] Nosotros.
+[0:12:40 -> 0:12:41] [SPEAKER_04] Los mayores de...
+[0:12:41 -> 0:12:42] [SPEAKER_04] Miranchito.
+[0:12:42 -> 0:12:43] [SPEAKER_04] Es que es enorme.
+[0:12:43 -> 0:12:45] [SPEAKER_04] Es enorme y tiene como el pilón.
+[0:12:45 -> 0:12:46] [SPEAKER_04] Sí.
+[0:12:46 -> 0:12:54] [SPEAKER_04] Bueno, podemos ir, pero creo que esa es la ruta que tomamos Marín y algunos otros,
+[0:12:54 -> 0:12:56] [SPEAKER_04] porque creo que tenemos que ir hacia el oeste.
+[0:12:56 -> 0:12:57] [SPEAKER_04] Está.
+[0:12:57 -> 0:13:00] [SPEAKER_04] Así que si escogemos una ruta así...
+[0:13:00 -> 0:13:04] [SPEAKER_04] Porque cada grupo tiene una ruta diferente, ¿no?
+[0:13:04 -> 0:13:05] [SPEAKER_04] Un camino diferente.
+[0:13:05 -> 0:13:07] [SPEAKER_04] Sí, no sé si es mejor...
+[0:13:07 -> 0:13:08] [SPEAKER_04] ¿Dejamos a algunos en la clase?
+[0:13:08 -> 0:13:09] [SPEAKER_04] Sí, sí, sí, claro.
+[0:13:09 -> 0:13:10] [SPEAKER_04] Pero...
+[0:13:10 -> 0:13:12] [SPEAKER_04] ¿Nos dará tiempo a intercambiar?
+[0:13:12 -> 0:13:15] [SPEAKER_01] Sí, si no es tan largo la caminata.
+[0:13:15 -> 0:13:18] [SPEAKER_01] Sí, porque si salimos de aquí como a las 4 o 10...
+[0:13:18 -> 0:13:21] [SPEAKER_03] Sí, como, no sé, como dos cuadras por allá.
+[0:13:21 -> 0:13:24] [SPEAKER_04] Hay que venir a darte las normas, prepararse, salir de otro camino.
+[0:13:24 -> 0:13:26] [SPEAKER_04] Yo creo que nos las vamos a cambiar antes de las 11.
+[0:13:26 -> 0:13:28] [SPEAKER_04] Entonces el otro grupo tendría que ir más.
+[0:13:28 -> 0:13:34] [SPEAKER_03] Porque si quieren parar a tomar foto o si quieren entrar a una parte, eso toma tiempo.
+[0:13:35 -> 0:13:38] [SPEAKER_03] Porque todos van a querer tomar foto y todos van a querer entrar.
+[0:13:38 -> 0:13:39] [SPEAKER_03] Porque Junior Seafood...
+[0:13:39 -> 0:13:40] [SPEAKER_03] Sí, todos van a llevar su...
+[0:13:40 -> 0:13:42] [SPEAKER_04] Ese es Junior Seafood, está aquí.
+[0:13:42 -> 0:13:44] [SPEAKER_04] Está a unos 10 minutos de aquí.
+[0:13:44 -> 0:13:49] [SPEAKER_04] Pero lo que pasa es que si caminamos a otro y vemos otros sitios...
+[0:13:49 -> 0:13:51] [SPEAKER_04] Sí, hay cosas parando.
+[0:13:51 -> 0:13:54] [SPEAKER_04] Sí, eso es el final de esa ruta.
+[0:13:54 -> 0:13:55] [SPEAKER_04] Para hacer fotos.
+[0:13:55 -> 0:13:56] [SPEAKER_04] Es aquí, es esto.
+[0:13:56 -> 0:13:57] [SPEAKER_04] Sí, sí.
+[0:13:57 -> 0:13:58] [SPEAKER_04] ¿No?
+[0:13:58 -> 0:14:00] [SPEAKER_04] Y quizá les decimos sacar fotos que no tengan personas.
+[0:14:00 -> 0:14:02] [SPEAKER_04] ¿Y dónde está la barbería?
+[0:14:03 -> 0:14:05] [SPEAKER_04] A no ser que les preguntemos.
+[0:14:05 -> 0:14:07] [SPEAKER_04] De acaso no metemos...
+[0:14:07 -> 0:14:09] [SPEAKER_04] Se pone alguien agresivo ahí cada...
+[0:14:12 -> 0:14:13] [SPEAKER_05] Esa es la última página.
+[0:14:13 -> 0:14:14] [SPEAKER_05] Sí, hay que hablar...
+[0:14:14 -> 0:14:17] [SPEAKER_04] Hay que traerlos primero aquí y hablar de las normas.
+[0:14:17 -> 0:14:19] [SPEAKER_04] Ese martes estamos nosotros.
+[0:14:21 -> 0:14:28] [SPEAKER_02] Mi grupo es muy interesada en tierra, parque o bosque para buscar tesoro.
+[0:14:29 -> 0:14:30] [SPEAKER_01] ¿Tesoros?
+[0:14:30 -> 0:14:31] [None] Tesoros, sí.
+[0:14:31 -> 0:14:41] [SPEAKER_02] Y entonces estábamos pensando sobre cosas de historia, parque,
+[0:14:41 -> 0:14:44] [SPEAKER_02] que parecen como tesoros.
+[0:14:45 -> 0:14:46] [None] No sé, sí.
+[0:14:47 -> 0:14:49] [SPEAKER_05] ¿Cuáles tesoros?
+[0:14:49 -> 0:14:51] [SPEAKER_05] Para el stop motion.
+[0:14:53 -> 0:14:54] [SPEAKER_04] ¿Qué?
+[0:14:54 -> 0:14:56] [SPEAKER_04] Estás pensando para la historia del stop motion.
+[0:14:56 -> 0:14:58] [SPEAKER_00] Ahora no, pero sí.
+[0:14:58 -> 0:14:59] [SPEAKER_02] Eventualmente.
+[0:14:59 -> 0:15:00] [SPEAKER_02] Sí, pero...
+[0:15:00 -> 0:15:03] [SPEAKER_04] Eventualmente las fotos solo van a ser como la base.
+[0:15:03 -> 0:15:08] [SPEAKER_04] Luego estamos pensando hacer tridimensional con plástico o algo.
+[0:15:08 -> 0:15:09] [SPEAKER_04] Recortes.
+[0:15:10 -> 0:15:11] [SPEAKER_04] Sí.
+[0:15:11 -> 0:15:14] [SPEAKER_04] La barbería está más cerca.
+[0:15:14 -> 0:15:15] [SPEAKER_04] ¿Dónde?
+[0:15:15 -> 0:15:16] [SPEAKER_04] Que el Seafood.
+[0:15:16 -> 0:15:17] [SPEAKER_04] Sí.
+[0:15:17 -> 0:15:18] [SPEAKER_04] Cinco minutos.
+[0:15:18 -> 0:15:19] [SPEAKER_04] Está como...
+[0:15:19 -> 0:15:21] [SPEAKER_04] Pero está en el camino, ¿no?
+[0:15:21 -> 0:15:22] [SPEAKER_04] El camino...
+[0:15:22 -> 0:15:24] [SPEAKER_04] No, son caminos diferentes.
+[0:15:24 -> 0:15:27] [SPEAKER_04] Pero está cerca de la casa de la bufoca.
+[0:15:27 -> 0:15:28] [SPEAKER_04] ¿Por cada lado?
+[0:15:28 -> 0:15:31] [SPEAKER_04] Que un grupo vaya hacia el Seafood y otro grupo vaya hacia la barbería.
+[0:15:31 -> 0:15:33] [SPEAKER_04] Hacemos dos grupos.
+[0:15:33 -> 0:15:35] [SPEAKER_04] Bueno, hacemos cuatro.
+[0:15:35 -> 0:15:36] [SPEAKER_04] Y el miércoles los dos.
+[0:15:36 -> 0:15:44] [SPEAKER_04] Porque inicialmente habíamos pensado en seis grupos y dos grupos iban a salir juntos.
+[0:15:44 -> 0:15:45] [SPEAKER_04] Sí.
+[0:15:45 -> 0:15:46] [SPEAKER_04] ¿Sí? ¿Recuerdo?
+[0:15:46 -> 0:15:47] [SPEAKER_04] Sí.
+[0:15:47 -> 0:15:55] [SPEAKER_04] Así que estos dos grupos caminarían a un sitio, no sé, con una ruta fija.
+[0:15:56 -> 0:16:01] [SPEAKER_04] Y entonces, creo que tenemos como tres destinos.
+[0:16:01 -> 0:16:02] [SPEAKER_04] Tres.
+[0:16:02 -> 0:16:03] [SPEAKER_04] ¿Cuántos niños?
+[0:16:03 -> 0:16:05] [SPEAKER_04] Pero ellos quieren llegar hasta el parque.
+[0:16:05 -> 0:16:08] [SPEAKER_04] ¿Tú sabes qué parque es?
+[0:16:08 -> 0:16:09] [SPEAKER_02] No sé.
+[0:16:09 -> 0:16:11] [SPEAKER_02] ¿Es el parque de aquí?
+[0:16:11 -> 0:16:13] [SPEAKER_04] Era primero para seis, después para...
+[0:16:13 -> 0:16:15] [SPEAKER_04] Para mí, soy un aprendiz.
+[0:16:15 -> 0:16:16] [SPEAKER_00] Estoy acabando de aprender.
+[0:16:16 -> 0:16:20] [SPEAKER_01] Los grupos más pequeños serán los que tienen los seguintes más interactivos.
+[0:16:20 -> 0:16:21] [SPEAKER_01] Creo que...
+[0:16:21 -> 0:16:24] [SPEAKER_02] Porque es el tercer punto.
+[0:16:24 -> 0:16:26] [SPEAKER_04] Están hablando del parque de Highbridge.
+[0:16:26 -> 0:16:27] [SPEAKER_04] No, no.
+[0:16:27 -> 0:16:29] [SPEAKER_04] Están apuntando hacia el norte.
+[0:16:29 -> 0:16:31] [SPEAKER_03] No, era el que dije, el Raislin.
+[0:16:31 -> 0:16:35] [SPEAKER_04] Creo que es como un parque que es como detrás del colegio o algo así.
+[0:16:35 -> 0:16:38] [SPEAKER_04] Entonces, si es detrás del colegio de aquí, Highbridge, ¿entendí bien?
+[0:16:38 -> 0:16:40] [SPEAKER_03] No, la mina es...
+[0:16:40 -> 0:16:42] [SPEAKER_03] Yo creo que se refiere a algo que es como...
+[0:16:42 -> 0:16:44] [SPEAKER_04] ¿Este? ¿El parque de básquet?
+[0:16:44 -> 0:16:46] [SPEAKER_04] ¿Qué más sitios hablaran?
+[0:16:46 -> 0:16:52] [SPEAKER_04] Tenemos el parque, Seafood, la barbería, el mofongo, el McDonald's, Subway.
+[0:16:52 -> 0:16:53] [SPEAKER_04] McDonald's también.
+[0:16:54 -> 0:16:56] [SPEAKER_04] El Chicken & Feli.
+[0:16:56 -> 0:16:57] [SPEAKER_04] El Chicken Filet.
+[0:16:57 -> 0:17:02] [SPEAKER_02] Mi grupo también mencionó una tienda de mascotas, pero no puedo decir exactamente dónde está.
+[0:17:02 -> 0:17:03] [SPEAKER_02] Porque es un...
+[0:17:03 -> 0:17:05] [SPEAKER_02] Un Puppy Shop.
+[0:17:05 -> 0:17:07] [SPEAKER_02] ¿Una tienda de mascotas, Paulina?
+[0:17:07 -> 0:17:09] [SPEAKER_04] Sí, en 181st Street.
+[0:17:09 -> 0:17:10] [SPEAKER_04] ¿Cerquita?
+[0:17:10 -> 0:17:11] [SPEAKER_00] No, en la misma calle.
+[0:17:11 -> 0:17:13] [SPEAKER_04] Sí, está como caminando.
+[0:17:13 -> 0:17:15] [SPEAKER_04] Hay una tienda de plantas.
+[0:17:15 -> 0:17:16] [SPEAKER_04] Y luego, está un poco más...
+[0:17:16 -> 0:17:17] [SPEAKER_04] Está Dunkin' Donuts.
+[0:17:17 -> 0:17:19] [SPEAKER_04] Sí, McDonald's.
+[0:17:19 -> 0:17:21] [SPEAKER_04] Y el McDonald's está en la esquina.
+[0:17:21 -> 0:17:23] [SPEAKER_04] Porque hay que ir escuchando a los niños.
+[0:17:23 -> 0:17:25] [SPEAKER_04] Capturar eso va a ser difícil.
+[0:17:25 -> 0:17:27] [SPEAKER_04] Hay que grabar o escribir.
+[0:17:27 -> 0:17:28] [SPEAKER_04] No sé cómo.
+[0:17:28 -> 0:17:30] [SPEAKER_04] Además de sus fotos.
+[0:17:30 -> 0:17:32] [SPEAKER_04] Pero incluso...
+[0:17:32 -> 0:17:35] [SPEAKER_04] Hoy viniendo para acá, que me estaba fijando más en la comunidad.
+[0:17:35 -> 0:17:38] [SPEAKER_04] Hay una botita ahí que vende Virgen de la Guadalupe y qué sé yo.
+[0:17:38 -> 0:17:39] [SPEAKER_04] Hay que venir.
+[0:17:39 -> 0:17:40] [SPEAKER_04] Cosas...
+[0:17:40 -> 0:17:41] [SPEAKER_04] Muy bonitas.
+[0:17:41 -> 0:17:42] [SPEAKER_04] Los homerios.
+[0:17:42 -> 0:17:43] [SPEAKER_04] Tienen un montón.
+[0:17:43 -> 0:17:46] [SPEAKER_04] Hay que ir muy lejos para encontrar maravillas.
+[0:17:46 -> 0:17:47] [SPEAKER_04] Palosantos y cosas.
+[0:17:47 -> 0:17:48] [SPEAKER_04] Ya, porque ahora...
+[0:17:48 -> 0:17:50] [SPEAKER_04] Sí, digo, voy a entrar aquí a que me bendigan.
+[0:17:51 -> 0:17:52] [SPEAKER_04] Bien bonita.
+[0:17:52 -> 0:17:54] [SPEAKER_04] Y alrededor del metro.
+[0:17:54 -> 0:17:55] [SPEAKER_04] Me encanta esa...
+[0:17:55 -> 0:17:57] [SPEAKER_04] Había música en los lados de la carretera.
+[0:17:57 -> 0:18:00] [SPEAKER_03] Al metro hacia arriba cuando uno va a la primera guía,
+[0:18:00 -> 0:18:04] [SPEAKER_03] hay muchas tiendas y hay mucha gente que vende cosas en la calle.
+[0:18:04 -> 0:18:05] [SPEAKER_03] Pues vamos, vamos a verlo.
+[0:18:05 -> 0:18:07] [SPEAKER_04] Llevamos para escribir.
+[0:18:07 -> 0:18:09] [SPEAKER_04] Que no se vea, porque de aquí al martes a lo mejor se olvida.
+[0:18:09 -> 0:18:10] [SPEAKER_04] Manuel, ¿puedes no...?
+[0:18:10 -> 0:18:14] [SPEAKER_04] A los 3 o 4 de martes, tenemos que parar y poner y grabar.
+[0:18:14 -> 0:18:16] [SPEAKER_04] Parar, grabar.
+[0:18:16 -> 0:18:19] [SPEAKER_04] Un adulto con 4 o 5 niños como mucho.
+[0:18:20 -> 0:18:21] [SPEAKER_04] Que se sientan seguro.
+[0:18:21 -> 0:18:22] [SPEAKER_04] Que se sientan seguro.
+[0:18:22 -> 0:18:23] [SPEAKER_04] Un adulto con 4 niños.
+[0:18:23 -> 0:18:25] [SPEAKER_04] Los de aquí se quedan poquitos, dos adultos.
+[0:18:25 -> 0:18:26] [SPEAKER_04] Y los demás se van.
+[0:18:26 -> 0:18:28] [SPEAKER_04] Entonces, ¿los vamos a hacer en dos días?
+[0:18:28 -> 0:18:30] [SPEAKER_04] ¿Qué os parece si lo hacemos en dos días?
+[0:18:30 -> 0:18:31] [SPEAKER_04] ¿Se quejarán mucho?
+[0:18:31 -> 0:18:34] [SPEAKER_04] Al mismo tiempo y salimos con un desfase de 5 minutos.
+[0:18:34 -> 0:18:36] [SPEAKER_03] O sea, si hay...
+[0:18:36 -> 0:18:38] [SPEAKER_03] Es que viene Agostina.
+[0:18:38 -> 0:18:40] [SPEAKER_03] Si hay una chica que necesita...
+[0:18:40 -> 0:18:41] [SPEAKER_04] Hacer algo con un grupo pequeño.
+[0:18:41 -> 0:18:43] [SPEAKER_04] El martes solo.
+[0:18:44 -> 0:18:49] [SPEAKER_03] Por eso ella había dicho como salir con un grupo, volver y...
+[0:18:49 -> 0:18:51] [SPEAKER_02] Ah, que el mismo día no lo hacen.
+[0:18:51 -> 0:18:53] [SPEAKER_02] Pues entonces también, pero se tendría...
+[0:18:53 -> 0:18:56] [SPEAKER_02] Los que se quedan aquí se tendría que hacer algo con ellos también.
+[0:18:56 -> 0:18:59] [SPEAKER_02] O sea, podéis al otro día, pero el mismo día no van.
+[0:18:59 -> 0:19:01] [SPEAKER_04] No van a dar tiempo a Switch.
+[0:19:01 -> 0:19:03] [SPEAKER_04] Pero pueden acabar y salir.
+[0:19:05 -> 0:19:07] [SPEAKER_04] No tienen que esperar a que vuelva el otro grupo.
+[0:19:07 -> 0:19:09] [SPEAKER_04] O no seremos suficientes.
+[0:19:09 -> 0:19:10] [SPEAKER_04] No seremos suficientes.
+[0:19:10 -> 0:19:12] [SPEAKER_04] Porque Agostina puede ir con el grupo también.
+[0:19:12 -> 0:19:15] [SPEAKER_04] Agostina no va, tiene que ir uno que sepa que haya hecho el paseo.
+[0:19:15 -> 0:19:18] [SPEAKER_04] Pero también ella tiene como que no es parte de la After School.
+[0:19:18 -> 0:19:21] [SPEAKER_04] No, pero como acompañante, como soporte.
+[0:19:21 -> 0:19:23] [SPEAKER_04] Ah, como acompañante sí, pero no que ella ni...
+[0:19:23 -> 0:19:24] [SPEAKER_04] Ah, no, no, no.
+[0:19:24 -> 0:19:26] [SPEAKER_04] Y no conoce nada de la comunidad.
+[0:19:26 -> 0:19:28] [SPEAKER_04] No, no, pero la cosa es la habilidad.
+[0:19:28 -> 0:19:29] [SPEAKER_03] O sea que...
+[0:19:29 -> 0:19:30] [SPEAKER_04] También.
+[0:19:30 -> 0:19:32] [SPEAKER_04] Quiero decir, podemos separarlo.
+[0:19:32 -> 0:19:35] [SPEAKER_04] Pero siempre estaba pensando que podría ser bueno si todos fuéramos.
+[0:19:35 -> 0:19:36] [SPEAKER_04] Porque no es...
+[0:19:36 -> 0:19:39] [SPEAKER_04] Pero no vamos a estar aquí el martes.
+[0:19:39 -> 0:19:42] [SPEAKER_04] Bueno, podemos ir el martes con quienquiera que venga el martes.
+[0:19:42 -> 0:19:45] [SPEAKER_04] Pero sería más manejable si todos...
+[0:19:45 -> 0:19:49] [SPEAKER_03] Creo que tenemos que hacerlo un día.
+[0:19:49 -> 0:19:50] [SPEAKER_03] Sí, lo que sea.
+[0:19:50 -> 0:19:51] [SPEAKER_03] Quienquiera que quiera.
+[0:19:51 -> 0:19:52] [SPEAKER_03] ¿Puede?
+[0:19:52 -> 0:19:53] [SPEAKER_03] ¿Mandarinos?
+[0:19:53 -> 0:19:55] [SPEAKER_03] Los que están, los que no...
+[0:19:55 -> 0:19:58] [SPEAKER_04] O quizás si son pocos, si son pocos que no están.
+[0:19:58 -> 0:20:00] [SPEAKER_04] Sí, el martes.
+[0:20:00 -> 0:20:04] [SPEAKER_03] El miércoles, algunos de nosotros podemos salir y llevarlos cerca.
+[0:20:04 -> 0:20:05] [SPEAKER_03] A los que no vayan.
+[0:20:05 -> 0:20:06] [SPEAKER_03] A los que no estén.
+[0:20:06 -> 0:20:07] [None] A los que no estén.
+[0:20:07 -> 0:20:08] [None] Muchas.
+[0:20:09 -> 0:20:12] [SPEAKER_03] Porque sino que ya les avisamos.
+[0:20:14 -> 0:20:15] [SPEAKER_04] Gracias.
+[0:20:15 -> 0:20:17] [SPEAKER_04] Pues vamos, vamos a ver, vamos a visitar.
+[0:20:17 -> 0:20:20] [SPEAKER_04] Pero un sitio, que vamos a hacer...
+[0:20:20 -> 0:20:22] [SPEAKER_04] No vamos a definir rutas ahora, ¿no?
+[0:20:22 -> 0:20:23] [SPEAKER_04] El viernes.
+[0:20:23 -> 0:20:24] [SPEAKER_04] ¿No podemos hacer el primer video de 181?
+[0:20:24 -> 0:20:25] [SPEAKER_04] Sí.
+[0:20:25 -> 0:20:28] [SPEAKER_04] No, pero que por lo menos los que estén aquí, con que no estén...
+[0:20:28 -> 0:20:31] [SPEAKER_04] Por ejemplo, Manuel ha dicho, yo no conozco nada de la comunidad, tengo que ir con otro.
+[0:20:31 -> 0:20:32] [SPEAKER_04] Pero vamos ahora.
+[0:20:32 -> 0:20:34] [SPEAKER_01] Como hacemos el video de 181, podemos hacer el video de Paraguay.
+[0:20:34 -> 0:20:35] [SPEAKER_04] Ya, somos los expertos.
+[0:20:35 -> 0:20:36] [SPEAKER_04] Y apuntamos.
+[0:20:37 -> 0:20:39] [SPEAKER_04] Y yo también, que conozco...
+[0:20:39 -> 0:20:40] [SPEAKER_04] ¿Estás chocada?
+[0:20:40 -> 0:20:41] [SPEAKER_04] Ponte otra.
+[0:20:41 -> 0:20:42] [SPEAKER_04] La compré hoy.
+[0:20:42 -> 0:20:43] [SPEAKER_04] No, fíjate.
+[0:20:43 -> 0:20:44] [SPEAKER_02] Vamos ahora.
+[0:20:44 -> 0:20:45] [SPEAKER_05] Sí, vamos ahora.
+[0:20:46 -> 0:20:47] [SPEAKER_04] ¿Estamos traiendo mi cosa?
+[0:20:47 -> 0:20:48] [SPEAKER_04] Sí.
+[0:20:48 -> 0:20:49] [SPEAKER_04] Sí, es el...
+[0:20:49 -> 0:20:50] [SPEAKER_00] El Lili y mi espacio.
+[0:20:50 -> 0:20:51] [SPEAKER_00] ¿Cómo está?
+[0:20:51 -> 0:20:52] [SPEAKER_00] Bien.
+[0:20:52 -> 0:20:53] [SPEAKER_00] ¿Sí?
+[0:20:53 -> 0:20:55] [SPEAKER_00] Sí, porque me iban a decir que les gusta cerrar la habitación.
+[0:20:55 -> 0:20:56] [SPEAKER_00] Pero no tengo mi llave.
+[0:20:58 -> 0:21:00] [SPEAKER_04] Lo perdí el día que nunca tuvimos ese drone de fuego.
+[0:21:01 -> 0:21:02] [SPEAKER_04] ¿Qué?
+[0:21:02 -> 0:21:03] [SPEAKER_03] ¿Tienes tu llave?
+[0:21:03 -> 0:21:04] [SPEAKER_03] Sí, tengo mi llave.

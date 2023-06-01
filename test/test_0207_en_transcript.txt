@@ -3,7 +3,7 @@ Model size : large-v2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Starting en transcription...          
- Time : 20:05:39          
+ Time : 16:11:13          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [0:00:00 -> 0:00:05] So it's now like at the beginning that we have to chase?
@@ -26,6 +26,6 @@ Model size : large-v2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Finished en transcription...          
- Time : 20:11:12          
+ Time : 16:16:07          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

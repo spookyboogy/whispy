@@ -4,15 +4,17 @@ _junksort
 
 desktop.ini
 
+nbpaste.ipynb
 yinrui_rip.py
 diarize_rip.py
+
 
 # Ignore media files
 *.wav
 *.m4a
 *.mp3
 *.mp4
-
+*.zip
 # # Except test files
 # !test*.wav
 # !test*.m4a

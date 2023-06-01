@@ -1,0 +1,61 @@
+Audio File : whispy\test_10\test_012423.m4a             
+Model size : large-v2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting en transcription...          
+ Time : 15:31:09          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[0:00:00 -> 0:00:03] Scratch from the record.
+[0:00:03 -> 0:00:06] I'm going to sleep tonight.
+[0:00:06 -> 0:00:08] Oh no, you're not celebrating?
+[0:00:08 -> 0:00:10] Well, we're going to have Chick-fil-A for dinner.
+[0:00:10 -> 0:00:12] That's going to be the celebration.
+[0:00:12 -> 0:00:14] What do you have, chicken?
+[0:00:14 -> 0:00:16] I'm going to have Chick-fil-A for dinner, yeah.
+[0:00:16 -> 0:00:19] I'm going to pick it up on my way to Carmen's class.
+[0:00:19 -> 0:00:21] Busy day.
+[0:00:21 -> 0:00:22] Busy day.
+[0:00:22 -> 0:00:23] This weekend, right?
+[0:00:23 -> 0:00:24] Yeah.
+[0:00:24 -> 0:00:26] Are you celebrating Friday?
+[0:00:26 -> 0:00:28] When we meet for our 20th.
+[0:00:29 -> 0:00:32] I don't know, with the coffee.
+[0:00:32 -> 0:00:34] I can't eat it.
+[0:00:36 -> 0:00:38] Alright.
+[0:00:38 -> 0:00:40] Here we are.
+[0:00:40 -> 0:00:44] We met on Friday, the two candidates and us.
+[0:00:44 -> 0:00:47] We were thinking a lot about the program.
+[0:00:47 -> 0:00:49] So we tried new things today.
+[0:00:49 -> 0:00:52] We tried the stations.
+[0:00:52 -> 0:00:55] What did you think about the stations, Belén?
+[0:00:55 -> 0:00:57] And the session?
+[0:00:57 -> 0:01:02] I think overall, I would say thumbs up.
+[0:01:02 -> 0:01:06] I was ready for disaster.
+[0:01:06 -> 0:01:11] Like, not enough kids, nobody engaging in any of the activities.
+[0:01:11 -> 0:01:14] Whatever can happen.
+[0:01:14 -> 0:01:17] So for me, everything was positive.
+[0:01:17 -> 0:01:26] I heard some kids giving me suggestions on possible future stations.
+[0:01:26 -> 0:01:33] So they were very excited about having these small times to work on something.
+[0:01:33 -> 0:01:35] Like, very focused.
+[0:01:35 -> 0:01:39] I worked with Joey in the reading.
+[0:01:39 -> 0:01:44] I was worried that that would be the boring station.
+[0:01:44 -> 0:01:47] But actually, it turned out to be very good.
+[0:01:47 -> 0:01:50] I feel like we had the time to do repeated reading.
+[0:01:50 -> 0:01:53] We worked on difficult words.
+[0:01:54 -> 0:01:58] We didn't do a lot of out loud reading.
+[0:01:58 -> 0:02:00] Because they were not feeling confident.
+[0:02:00 -> 0:02:05] But at least I read a couple of times with one of them.
+[0:02:05 -> 0:02:09] They were asking about what is the meaning of this word.
+[0:02:09 -> 0:02:11] Or how do you pronounce this.
+[0:02:11 -> 0:02:13] Especially long words.
+[0:02:13 -> 0:02:19] And thank you everyone for committing to your stations.
+[0:02:20 -> 0:02:24] I know that I divided my responsibility in all of you.
+[0:02:24 -> 0:02:27] So thank you, everybody.
+[0:02:27 -> 0:02:30] I hope that it worked.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished en transcription...          
+ Time : 15:43:06          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

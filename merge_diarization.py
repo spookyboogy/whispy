@@ -50,7 +50,7 @@ def transcript_to_segments(transcript_file, encoding='utf-8'):
     where the timestamps has been converted into pyannote Segments.
 
     Currently assumes transcript lines in the following format (should be expanded):
-    * [HH:MM:SS -> HH:MM:SS] "    "
+    <optional line num> [HH:MM:SS -> HH:MM:SS] <text>
     """
 
     transcript = read_file(transcript_file, encoding=encoding)
@@ -281,14 +281,15 @@ def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
             cur_speaker = speaker
 
         if speaker != cur_speaker and cur_speaker != None:
+            # new speaker
             # add current cache to condensed container
             _start, _end = cache[0][0].start, cache[-1][0].end
             # merge sentences in cache into single string
             long_line = merge_sentences(cache)
             condensed += [[Segment(_start, _end), cur_speaker, long_line]]
-            #refresh cache with new speaker first line
+            #refresh cache with new speaker's first line
             cache = [script[i]]
-            #change current speaker to speaker
+            #change current speaker to new speaker
             cur_speaker = speaker
         elif speaker == cur_speaker:
             # keep adding to cur_speaker's cache
@@ -313,6 +314,8 @@ def condense_csv_lines(csv_file, f_name=None, encoding='utf-8'):
 
     # Write to file
     if f_name:
+        # not sure what f_name was usually meant to be used for, but
+        # but going with the assumption that f_name specifies base audio file name 
         f_out = os.path.splitext(f_name)[0] + "--joined.csv"
     else:
         f_out = os.path.splitext(csv_file)[0] + "--joined.csv"
@@ -339,17 +342,19 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
         building a diarized transcript along the way
     - Writes to file "yourfile--merged.txt"
     - Converts and writes to csv "yourfile--merged.csv" 
-    - Writes condensed dialogue version of script to csv "yourfile--merged--joined.csv"
+    - Writes condensed dialogue version of script to csv "yourfile--joined.csv"
 
-    reconfigure this such that it can take a raw transcription result (precise timestamps)
+    Reconfigure this such that it can take a raw transcription result (precise timestamps)
     as well as the raw diarization (annotation), for use in the whole whisper + speaker
-    diarization pipeline
+    diarization pipeline.
     """
 
+    # Bulk of work done here
     segscript = transcript_to_segments(transcript_file, encoding=encoding)
     spk_segs, annotation = reconstruct_diarization(diarization_file)
     merger = add_speaker_info_to_text(segscript, annotation)
 
+    # The rest is formatting and file io
     formatted_merger = []
     for seg, spk, txt in merger:
         times = convert_segment_to_hms(seg)
@@ -371,8 +376,7 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
         csvwriter.writerows(formatted_merger)
 
     # Write an additional csv with joined (condensed) dialogue lines
-    condensed_csv_out = os.path.splitext(csv_out)[0] + "--merged.csv"
-    csv_f_out = condense_csv_lines(merger, f_name=condensed_csv_out, encoding=encoding)
+    csv_f_out = condense_csv_lines(merger, f_name=f_name, encoding=encoding)
 
     files_out = [txt_out, csv_out, csv_f_out]
     return files_out
@@ -383,12 +387,12 @@ if __name__ == "__main__":
     # latin-1 encoding seems to accomodate both en and es transcripts well
     encoding = "utf-8"
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\"
-    transcript_files = ["test_0307_en_transcript.txt",]
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test_11\\"
+    transcript_files = ["test_022823_es_transcript.txt",]
                         #"032123_meeting_es_transcript.txt",]
                         #"032123_meeting_fin.txt"]
     transcript_files = [folder + f for f in transcript_files]
-    diarization_file = folder + "test_0307--diarization.txt"
+    diarization_file = folder + "test_022823--diarization.txt"
 
     for transcript in transcript_files:
         diarized_transcript_files = diarize_transcript(transcript, 
