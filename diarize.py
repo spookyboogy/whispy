@@ -151,7 +151,7 @@ if __name__ == '__main__':
                 "112222\\MeetingWithInServiceTeachers_112222.m4a",
                 "110122\\MeetingWithInServiceTeachers_110122.m4a",
                 "102522\\MeetingWithInServiceTeachers_102522.m4a"]
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test_11\\"
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test\\test_11\\"
     # f_in = "test_022823.m4a"
     for f_in in files_in:
         path = os.path.join(root_folder, f_in)
