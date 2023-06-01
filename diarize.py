@@ -77,7 +77,7 @@ def handle_audio_formatting(path_to_audio):
         success = convert_to_wav(path_to_audio, wav_path_out)
     else:
         print(f'{audio_out} already exists.')
-        return path_to_audio
+        return wav_path_out
 
     if success:
         print(f'\nSuccessfully converted audio file : ')
@@ -147,8 +147,7 @@ if __name__ == '__main__':
     # f_in = "test_022823.m4a"
 
     root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
-    files_in = ["050523_whatsapp\\050523.m4a",
-                "111522\\meeting_111522.m4a",
+    files_in = ["111522\\meeting_111522.m4a",
                 "120622\\b\\MeetingWithInServiceTeachers_120622b.m4a",
                 "112222\\MeetingWithInServiceTeachers_112222.m4a",
                 "110122\\MeetingWithInServiceTeachers_110122.m4a",
