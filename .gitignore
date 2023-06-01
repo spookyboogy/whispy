@@ -16,7 +16,8 @@ diarize_rip.py
 *.mp4
 *.zip
 # # Except test files
-# !test*.wav
+!test_0307.m4a
+!test_0207.m4a
 # !test*.m4a
 # !test*.mp3
 # !test*.mp4
