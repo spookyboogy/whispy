@@ -147,11 +147,7 @@ if __name__ == '__main__':
     # f_in = "test_022823.m4a"
 
     root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
-    files_in = ["111522\\meeting_111522.m4a",
-                "120622\\b\\MeetingWithInServiceTeachers_120622b.m4a",
-                "112222\\MeetingWithInServiceTeachers_112222.m4a",
-                "110122\\MeetingWithInServiceTeachers_110122.m4a",
-                "102522\\MeetingWithInServiceTeachers_102522.m4a"]
+    files_in = ["121322\\MeetingWithInServiceTeachers_121322_(3).m4a"]
     
     for f_in in files_in:
         path = os.path.join(root_folder, f_in)

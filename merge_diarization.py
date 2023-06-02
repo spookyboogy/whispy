@@ -44,6 +44,21 @@ def read_csv(csv_file, encoding='utf-8'):
     return script
 
 
+def get_transcripts_and_dia_from_directory(path_to_directory):
+    """returns -> [[transcripts in directory], diarization]"""
+
+    transcripts = []
+    diarization = None
+    for f in os.listdir(path_to_directory):
+        fname, ext = os.path.splitext(f)
+        if ext == '.txt':
+            if fname.split('_')[-1] == 'transcript':
+                transcripts += [os.path.join(path_to_directory, f)]
+            elif fname.split('--')[-1] == 'diarization':
+                diarization = os.path.join(path_to_directory, f)
+    return transcripts, diarization
+
+
 def transcript_to_segments(transcript_file, encoding='utf-8'):
     """
     Reads a transcript file and returns a list of transcript lines
@@ -382,20 +397,73 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     return files_out
 
 
+def merge_and_join_batch(encoding):
+    """ just a script for applying diarize_transcript to a batch of local files """
+
+    root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
+    subfolders = ['012423', '022823', '050523_whatsapp', '102522',
+                  '110122', '111522', '112222', '120622\\b', '120622\\a', '121322']
+    folders = [os.path.join(root_folder, subfolder) for subfolder in subfolders]
+
+    files_out = {folder : [] for folder in folders}
+    for folder in files_out:
+        transcript_files, diarization_file = get_transcripts_and_dia_from_directory(folder)
+        if not (transcript_files and diarization_file):
+            print(f'{folder} is missing files\n')
+            if transcript_files:
+                files_out[folder] = [transcript_files, 'missing diarization']
+            else:
+                files_out[folder] = ['missing transcripts', diarization_file]
+            continue
+
+        files_out[folder] = [transcript_files, diarization_file]
+        for transcript in transcript_files:
+            diarized_transcript_files = diarize_transcript(transcript, 
+                                                        diarization_file, 
+                                                        encoding=encoding)
+            files_out[folder] += [diarized_transcript_files]
+    
+    print('\nAll results:')
+    for f in files_out:
+        print(f'\n____________\n{f}\n')
+        if len(files_out[f]) > 2:
+            for lang in range(len(files_out[f][2:])):
+                print('\n'.join(files_out[f][2 + lang]) + '\n')
+            continue
+        if type(files_out[f][0]) != list:
+            print(files_out[f][0])
+        else:
+            print('\n'.join(files_out[f][0]))
+        print(files_out[f][1])
+    print()
+
+
 if __name__ == "__main__":
 
-    #  latin-1 encoding seems to accomodate both en and es transcripts well
+    # #  latin-1 encoding seems to accomodate both en and es transcripts well
     encoding = "utf-8"
 
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test_11\\"
-    transcript_files = ["test_022823_es_transcript.txt",]
-                        #"032123_meeting_es_transcript.txt",]
-                        #"032123_meeting_fin.txt"]
-    transcript_files = [folder + f for f in transcript_files]
-    diarization_file = folder + "test_022823--diarization.txt"
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\test_11\\"
+    # transcript_files = ["test_022823_es_transcript.txt",]
+    #                     #"032123_meeting_es_transcript.txt",]
+    #                     #"032123_meeting_fin.txt"]
+    # transcript_files = [folder + f for f in transcript_files]
+    # diarization_file = folder + "test_022823--diarization.txt"
 
-    for transcript in transcript_files:
-        diarized_transcript_files = diarize_transcript(transcript, 
-                                                       diarization_file, 
-                                                       encoding=encoding)
-        #diarize_transcript(transcript, diarization_file, encoding=encoding)
+    # for transcript in transcript_files:
+    #     diarized_transcript_files = diarize_transcript(transcript, 
+    #                                                    diarization_file, 
+    #                                                    encoding=encoding)
+    #     #diarize_transcript(transcript, diarization_file, encoding=encoding)
+
+    merge_and_join_batch(encoding)
+
+
+
+
+
+
+    
+    
+
+
