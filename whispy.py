@@ -141,10 +141,8 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
 if __name__ == '__main__':
     
     
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\"
-    # files = ["test\\test_0307.m4a",]
-    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\svek\\"
-    files = ["feb_07\\MeetingWithInServiceTeachers_020723.m4a",]
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\"
+    files = ["test\\test_0307.m4a",]
     files = [os.path.join(folder, file) for file in files]
     # langs = ['en']
     # langs = None
