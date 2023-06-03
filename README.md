@@ -1,118 +1,10 @@
-## Checklist:
-<br>
-<details>
-<summary> feb_07 </summary>
+Whispy consists of three main modules:
+- whispy.py : A wrapper for [openAI-whisper](https://openai.com/research/whisper), which transcribes audio.
+- diarize.py : A wrapper for [Pyannote-audio](https://github.com/pyannote/pyannote-audio#neural-speaker-diarization-with-pyannoteaudio)'s [speaker-diarization model](https://huggingface.co/pyannote/speaker-diarization)
+- merge_diarization.py : A handful of scripts and helper functions which stitch the transcript and diarization together to create a [diarized transcript](https://www.rev.com/blog/transcription-blog/what-is-speaker-diarization)
 
-- [x] transcripts
-    * [x] en 
-    * [x] es
-    * used ".m4a" instead of ".wav", might want to retry
-- [x] diarization
-- [x] merge transcripts with diarization
-- [x] handle mixed language (none, 'en' script)
-- [x] convert to csv
-- [ ] listen/check/correct/finalize
+See [whispy/notebooks](https://github.com/spookyboogy/whispy/tree/master/notebooks)  for [colab notebook](https://research.google.com/colaboratory/faq.html) recipes and usage examples. 
 
-</details>
-<details>
-<summary> mar_07 </summary>
-
-- [x] transcripts
-    * [x] en 
-    * [x] es
-- [x] diarization
-- [x] merge transcripts with diarization
-- [x] handle mixed language
-- [x] listen/check/finalize
-- [x] convert to joined csv
-
-</details>
-<details>
-<summary> mar_21 </summary>
-
-- [x] transcripts
-    * [x] en 
-    * [x] es
-- [x] diarization
-- [x] merge transcripts with diarization
-- [x] handle mixed language
-- [x] listen/check/finalize
-- [x] convert to joined csv
-
-</details>
-<details>
-<summary> mar_28 </summary>
-
-- [x] transcripts
-    * [x] en 
-    * [x] es
-- [x] diarization
-- [x] merge transcripts with diarization
-- [x] handle mixed language
-- [x] listen/check/finalize
-
-</details>
-<details>
-<summary> apr_18 </summary>
-
-- [x] Meeting with teachers
-    - [x] transcripts
-        * [x] en 
-        * [x] es
-    - [x] diarization
-    - [x] merge transcripts with diarization
-    - [x] handle mixed language
-    - [x] listen/check/finalize 
-    - [x] convert to csv
-- [x] Session with kids (con ninos)
-    - [x] transcripts
-        * [x] en 
-        * [x] es
-    - [x] diarization
-    - [x] merge transcripts with diarization
-    - [x] handle mixed language
-    - [x] listen/check/finalize
-    - [x] convert to csv
-
-</details>
-<details>
-<summary> apr_25 </summary>
-
-- [x] transcripts
-    * [x] en 
-    * [x] es
-- [x] diarization
-- [x] merge transcripts with diarization
-- [x] handle mixed language (next to none, 99% eng)
-- [x] listen/check/finalize
-- [x] convert to csv, joined
-
-</details>
-<details>
-<summary> may_02 </summary>
-
-- [x] Part 1
-    - [x] transcripts
-        * [x] en 
-        * [x] es
-    - [x] diarization
-    - [x] merge transcripts with diarization
-    - [x] handle mixed language
-    - [x] listen/check/finalize
-    - [x] convert to csv
-- [x] Part 2
-    - [x] transcripts
-        * [x] en 
-        * [x] es
-    - [x] diarization
-    - [x] merge transcripts with diarization
-    - [x] handle mixed language
-    - [x] listen/check/finalize
-    - [x] convert to csv
-
-</details>
-
-<br>
 
 ## Todo:
 <details>
@@ -129,7 +21,7 @@
 - [ ] Make a requirements.txt installer 
 - [ ] write a pipeline/cli which applies whispy/diarization/merging to an audio file (user-facing)
 
-- [ ] make a good multilingual test .wav file for testing multilingual handling 
+- [ ] make a good multilingual test .wav file for testing mixed language handling 
 
 - [ ] find fast way to get language verification for audio segments:
         - test whisper transcription by
@@ -151,7 +43,7 @@
 - [ ] test effect on runtime and quality of using input wav vs m4a vs mp3 (original audio is m4a so converting to wav might waste time/space) 
 - [x] revisit and diarize everything with large-v2 and pyannote/speaker-diarization
 - [ ] test whisper.cpp
-- [ ] get a colab (or other) set up to run remotely/on better hardware/multiple at a time
+- [x] get a colab (or other) set up to run remotely/on better hardware/multiple at a time
 - [ ] make portable installer (including dependencies if possible) and cli (which uses gpu if available)
 
 </details>
