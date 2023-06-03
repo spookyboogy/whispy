@@ -10,6 +10,7 @@ See [whispy/notebooks](https://github.com/spookyboogy/whispy/tree/master/noteboo
 <details>
 <summary>  </summary>
 
+- [ ] replace notebook image resources with links to notebooks/resources 
 - [ ] write a single module which applies whispy/diarize/merge to a given audio file (notebooks do this but a module for local use is lacking)
 - [ ] solve GPU non-usage problem with the diarization pipeline in colab notebook
 - [x] implement diarization from pyannote/speaker-diarization
