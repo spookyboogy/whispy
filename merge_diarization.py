@@ -398,14 +398,14 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
 
 
 def merge_and_join_batch(encoding):
-    """ just a script for applying diarize_transcript to a batch of local files """
+    """Just a script for applying diarize_transcript to a batch of local files."""
 
     root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
     subfolders = ['012423', '022823', '050523_whatsapp', '102522',
                   '110122', '111522', '112222', '120622\\b', '120622\\a', '121322']
     folders = [os.path.join(root_folder, subfolder) for subfolder in subfolders]
-
     files_out = {folder : [] for folder in folders}
+
     for folder in files_out:
         transcript_files, diarization_file = get_transcripts_and_dia_from_directory(folder)
         if not (transcript_files and diarization_file):
@@ -457,13 +457,4 @@ if __name__ == "__main__":
     #     #diarize_transcript(transcript, diarization_file, encoding=encoding)
 
     merge_and_join_batch(encoding)
-
-
-
-
-
-
-    
-    
-
 

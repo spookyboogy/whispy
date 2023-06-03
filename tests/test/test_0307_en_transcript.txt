@@ -1,26 +1,17 @@
-Audio File : whispy\test\test_0307.m4a             
-Model size : large-v2
+Audio File : tests\test\test_0307.m4a             
+Model size : small
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Starting en transcription...          
- Time : 11:45:57          
+ Time : 22:00:06          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[0:00:00 -> 0:00:03] I have this app to our chat.
-[0:00:03 -> 0:00:05] It's called Stop Motion.
-[0:00:05 -> 0:00:05] OK.
-[0:00:05 -> 0:00:07] And it's free?
-[0:00:07 -> 0:00:08] We download it from?
-[0:00:08 -> 0:00:10] Yes, it's free.
-[0:00:10 -> 0:00:15] And so we started with a new movie.
-[0:00:15 -> 0:00:19] I don't know if you want to see what's in it.
-[0:00:19 -> 0:00:23] So I put this piece of tape here just
-[0:00:23 -> 0:00:27] to make sure it's always in the same place.
-[0:00:27 -> 0:00:28] And then.
-[0:00:28 -> 0:00:30] Oh, there's the Apple Store.
+[0:00:00 -> 0:00:26] So, I put this piece of tape here just to make sure it's always in the same place.
+[0:00:26 -> 0:00:28] And then...
+[0:00:28 -> 0:00:30] Okay, there's the app store solo.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Finished en transcription...          
- Time : 11:50:30          
+ Time : 22:00:45          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

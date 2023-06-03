@@ -5,7 +5,7 @@ import torch
 import whisper
 import ffmpeg
 import librosa
-
+import warnings
 
 def naive_merge(path, en_transcript, es_transcript):
     """ very naive (not used)"""
@@ -45,13 +45,19 @@ def detect_lang(path, model=None):
     ## to load the entire audio file
     ## Update this to skip this step if the audio file is shorter than 1min
 
-    if librosa.get_duration(path=path) > 60:
-        f_name, ext = os.path.splitext(path)
-        temp_audio = f_name + '--temp' + '.m4a' 
-        ffmpeg.input(path, ss=0, t=30).output(temp_audio, loglevel="quiet").run()
+    temp_audio = None
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        if librosa.get_duration(path=path) > 60:
+            f_name, ext = os.path.splitext(path)
+            temp_audio = f_name + '--temp' + '.m4a' 
+            ffmpeg.input(path, ss=0, t=30).output(temp_audio, loglevel="quiet").run()
 
     # Load audio, convert to mel spectrogram, load into model
-    audio = whisper.load_audio(temp_audio)
+    if temp_audio:
+        audio = whisper.load_audio(temp_audio)
+    else:
+        audio = whisper.load_audio(path)
     # audio = whisper.load_audio(path)
     audio = whisper.pad_or_trim(audio)
     mel = whisper.log_mel_spectrogram(audio).to(model.device)
@@ -60,7 +66,8 @@ def detect_lang(path, model=None):
     lang = max(probs, key=probs.get)
 
     print(f"\nDetected language: {lang}")
-    os.remove(temp_audio)
+    if temp_audio:
+        os.remove(temp_audio)
     return [lang]
 
 
@@ -70,9 +77,8 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
     print(f'\nfile: {path}\n')
 
     fp16 = torch.cuda.is_available()
-    print(f'Using CUDA (GPU inference) : {fp16}\n')
-
-    print(f'Loading model : {model_size}', end=' ... ')
+    print(f"Using CUDA (GPU inference) : {fp16}\n\
+          \nLoading model : {model_size}", end = ' ... ')
     model = whisper.load_model(model_size)
     print('Done loading.\n')
 
@@ -82,7 +88,8 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
             print("Transcription language not specified.\
                  \nAttempting to detect language...")
             langs = detect_lang(path, model)
-        except:
+        except Exception as ex:
+            print(ex)
             print('\nFailed to detect language. Using English.\n')
             langs = ['en']
      
@@ -134,17 +141,17 @@ def main(path, langs=['en', 'es'],  model_size="large-v2", print_line_nums=False
 if __name__ == '__main__':
     
     
-    folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\012423"
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\"
-    # files = ["test\\test_0207.wav",]
-    # m4a takes less time to load bc lower quality
-    files = ["meeting_012423.m4a",]
+    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\"
+    # files = ["test\\test_0307.m4a",]
+    folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\svek\\"
+    files = ["feb_07\\MeetingWithInServiceTeachers_020723.m4a",]
     files = [os.path.join(folder, file) for file in files]
     # langs = ['en']
-    langs = None
+    # langs = None
+    langs = []
    
     for file in files:
-        files_out, transcripts = main(file, langs=langs)
+        files_out, transcripts = main(file, langs=langs, model_size='small')
 
 # add print statement showing audio length and possibly estimated time to complete
 # depending on audio length and hardware 
