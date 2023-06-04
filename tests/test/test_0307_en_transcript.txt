@@ -3,7 +3,7 @@ Model size : small
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Starting en transcription...          
- Time : 01:02:41          
+ Time : 09:16:47          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [0:00:00 -> 0:00:26] So, I put this piece of tape here just to make sure it's always in the same place.
@@ -12,6 +12,6 @@ Model size : small
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
  Finished en transcription...          
- Time : 01:03:04          
+ Time : 09:17:08          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
