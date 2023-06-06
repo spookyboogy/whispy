@@ -90,15 +90,13 @@ def handle_audio_formatting(path_to_audio):
         return None
 
 
-def main(path, testing=False, write_to_file=True, debug=True):
+def main(path, testing=False, write_to_file=True):
     """
     Runs the pyannote/speaker-diarization pipeline 
     """
 
     print(f'\nfile: {path}\n')
     path = handle_audio_formatting(path)
-
-    
 
     print('\nLoading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@develop",
@@ -109,9 +107,9 @@ def main(path, testing=False, write_to_file=True, debug=True):
     if torch.cuda.is_available():
         device = torch.device('cuda')
         pipeline = pipeline.to(device)
+        print("Devices:")
         for i in range(torch.cuda.device_count()):
-            print(f"{i}: {torch.cuda.get_device_name(i)}")
-
+            print(f"\n\t{i} : {torch.cuda.get_device_name(i)}")
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
@@ -143,9 +141,6 @@ def main(path, testing=False, write_to_file=True, debug=True):
                 f.write(f"\ntesting...\n\
                         \nOverlap : \n\t{_overlap}\n\
                         \nTimeline: \n\t{_timeline}")  
-
-    # discrete = diarization.discretize()
-    # print(discrete)
     return [f_out, diarization]
 
 
@@ -162,5 +157,4 @@ if __name__ == '__main__':
     
     for f_in in files_in:
         path = os.path.join(root_folder, f_in)
-        diarization_file, diarization = main(path, debug=True)
-
+        diarization_file, diarization = main(path)
