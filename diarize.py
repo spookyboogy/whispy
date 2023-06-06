@@ -106,7 +106,8 @@ def main(path, testing=False, write_to_file=True, debug=True):
     # Send the pipeline to torch device to ensure GPU is used, if available
     if torch.cuda.is_available():
         pipeline = pipeline.to(0)
-        print(f"Using GPU -- 0 : {torch.cuda.get_device_name(0)}")
+        for i in range(torch.cuda.device_count()):
+            print(f"{i}: {torch.cuda.get_device_name(i)}")
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
