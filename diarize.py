@@ -107,13 +107,18 @@ def main(path, testing=False, write_to_file=True, debug=True):
 
     # Send the pipeline to torch device to ensure GPU is used, if available
     if torch.cuda.is_available():
-        pipeline = pipeline.to(0)
+        pipeline = pipeline.to(device)
         for i in range(torch.cuda.device_count()):
             print(f"{i}: {torch.cuda.get_device_name(i)}")
+
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
     diarization = pipeline(path)
+
+    if debug:
+        return
+
     print(diarization)
     end_time, endstamp = print_timestamp(return_time=True)
     total_runtime = str(datetime.timedelta(seconds=end_time-start_time)).split('.')[0]
@@ -154,7 +159,7 @@ if __name__ == '__main__':
     # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\test_11\\"
     # f_in = "test_022823.m4a"
 
-    root_folder = "C:\\Users\\mattt\\Desktop\\tests\\test\\"
+    root_folder = "C:\\Users\\mattt\\Desktop\\CS\whispy\\tests\\test\\"
     files_in = ["test_0207.wav"]
     
     for f_in in files_in:
