@@ -109,7 +109,7 @@ def main(path, testing=False, write_to_file=True):
         pipeline = pipeline.to(device)
         print("Devices:")
         for i in range(torch.cuda.device_count()):
-            print(f"\n\t{i} : {torch.cuda.get_device_name(i)}")
+            print(f"\t{i} : {torch.cuda.get_device_name(i)}")
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
