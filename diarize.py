@@ -98,7 +98,7 @@ def main(path, testing=False, write_to_file=True, debug=True):
     print(f'\nfile: {path}\n')
     path = handle_audio_formatting(path)
 
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    
 
     print('\nLoading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@develop",
@@ -107,6 +107,7 @@ def main(path, testing=False, write_to_file=True, debug=True):
 
     # Send the pipeline to torch device to ensure GPU is used, if available
     if torch.cuda.is_available():
+        device = torch.device('cuda')
         pipeline = pipeline.to(device)
         for i in range(torch.cuda.device_count()):
             print(f"{i}: {torch.cuda.get_device_name(i)}")
