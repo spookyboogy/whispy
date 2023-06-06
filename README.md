@@ -3,7 +3,7 @@ Whispy consists of three main modules:
 - diarize.py : A wrapper for [Pyannote-audio](https://github.com/pyannote/pyannote-audio#neural-speaker-diarization-with-pyannoteaudio)'s [speaker-diarization model](https://huggingface.co/pyannote/speaker-diarization)
 - merge_diarization.py : A handful of scripts and helper functions which stitch the transcript and diarization together to create a [diarized transcript](https://www.rev.com/blog/transcription-blog/what-is-speaker-diarization)
 
-See [whispy/notebooks](https://github.com/spookyboogy/whispy/tree/master/notebooks) for [colab notebook](https://research.google.com/colaboratory/faq.html) recipes and usage examples. 
+See [/notebooks](https://github.com/spookyboogy/whispy/tree/master/notebooks) for [colab notebook](https://research.google.com/colaboratory/faq.html) recipes and usage examples. 
 
 
 ## Todo:
