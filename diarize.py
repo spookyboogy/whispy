@@ -98,6 +98,8 @@ def main(path, testing=False, write_to_file=True, debug=True):
     print(f'\nfile: {path}\n')
     path = handle_audio_formatting(path)
 
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
     print('\nLoading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@develop",
                                         use_auth_token=use_auth_token)
