@@ -116,7 +116,7 @@ def main(path, testing=False, write_to_file=True, debug=True):
     # test num_speakers
     diarization = pipeline(path)
 
-    print(diarization)
+    print(f"Diarization: \n{diarization}")
     end_time, endstamp = print_timestamp(return_time=True)
     total_runtime = str(datetime.timedelta(seconds=end_time-start_time)).split('.')[0]
     runtime_stamp = print_runtime(total_runtime, return_stamp=True)
