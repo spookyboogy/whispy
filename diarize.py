@@ -149,10 +149,7 @@ if __name__ == '__main__':
     # Change this path to whatever your test directory path is
     # Will update soon to or make an --audio_path command line arg
 
-    # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\test_11\\"
-    # f_in = "test_022823.m4a"
-
-    root_folder = "C:\\Users\\mattt\\Desktop\\CS\whispy\\tests\\test\\"
+    root_folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\test\\"
     files_in = ["test_0207.wav"]
     
     for f_in in files_in:
