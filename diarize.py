@@ -2,7 +2,7 @@ import os
 import time
 import datetime
 import ffmpeg
-# import librosa
+import torch
 from pyannote.audio import Pipeline
 # from huggingface_hub import login
 # login()
@@ -67,7 +67,9 @@ def handle_audio_formatting(path_to_audio):
 
     if os.path.splitext(path_to_audio)[1] != '.wav':
         print(f'\nConverting {path_to_audio} to .wav\n')
-
+    else:
+        return path_to_audio
+    
     audio_directory = os.path.sep.join(path_to_audio.split(os.path.sep)[:-1])
     audio_fname = os.path.splitext(path_to_audio.split(os.path.sep)[-1])[0]
     audio_out = audio_fname + '.wav'
@@ -88,7 +90,7 @@ def handle_audio_formatting(path_to_audio):
         return None
 
 
-def main(path, testing=False, write_to_file=True):
+def main(path, testing=False, write_to_file=True, debug=True):
     """
     Runs the pyannote/speaker-diarization pipeline 
     """
@@ -102,6 +104,12 @@ def main(path, testing=False, write_to_file=True):
     # pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
     #                                     use_auth_token=use_auth_token)
     print('\nDone loading.')
+
+    if debug:
+        pipeline = pipeline.to(0)
+        for i in range(torch.cuda.device_count()):
+            print(f"{i}: {torch.cuda.get_device_name(i)}")
+        return
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
@@ -146,10 +154,10 @@ if __name__ == '__main__':
     # folder = "C:\\Users\\mattt\\Desktop\\CS\\whispy\\tests\\test_11\\"
     # f_in = "test_022823.m4a"
 
-    root_folder = "C:\\Users\\mattt\\Desktop\\New_Audios\\"
-    files_in = ["121322\\MeetingWithInServiceTeachers_121322_(3).m4a"]
+    root_folder = "C:\\Users\\mattt\\Desktop\\tests\\test\\"
+    files_in = ["test_0207.wav"]
     
     for f_in in files_in:
         path = os.path.join(root_folder, f_in)
-        diarization_file, diarization = main(path)
+        diarization_file, diarization = main(path, debug=True)
 
