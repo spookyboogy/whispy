@@ -101,15 +101,12 @@ def main(path, testing=False, write_to_file=True, debug=True):
     print('\nLoading Pipeline...\n')
     pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@develop",
                                         use_auth_token=use_auth_token)
-    # pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization",
-    #                                     use_auth_token=use_auth_token)
     print('\nDone loading.')
 
-    if debug:
+    # Send the pipeline to torch device to ensure GPU is used, if available
+    if torch.cuda.is_available():
         pipeline = pipeline.to(0)
-        for i in range(torch.cuda.device_count()):
-            print(f"{i}: {torch.cuda.get_device_name(i)}")
-        return
+        print(f"Using GPU -- 0 : {torch.cuda.get_device_name(0)}")
 
     start_time, startstamp = print_timestamp(starting=True, return_time=True)
     # test num_speakers
