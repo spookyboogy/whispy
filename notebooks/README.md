@@ -14,9 +14,9 @@
 <details>
 <summary> graphs </summary>
 
-![cpu_vs_gpu](resources\Whisper-cpu_vs_gpu.png "The difference in time required to run whisper on a GPU vs a CPU")
-![model_size](resources\Whisper-model_size.png "The difference in time it takes to run different sized models on CPU or GPU. Notice that the large model is not included in second CPU graph because it is considered very time-inefficient in comparison to running large on GPU")
-![cpu_vs_gpu_vs_model](resources\Whisper-Transcription-Performance-1.png)
+![cpu_vs_gpu](resources/Whisper-cpu_vs_gpu.png "The difference in time required to run whisper on a GPU vs a CPU")
+![model_size](resources/Whisper-model_size.png "The difference in time it takes to run different sized models on CPU or GPU. Notice that the large model is not included in second CPU graph because it is considered very time-inefficient in comparison to running large on GPU")
+![cpu_vs_gpu_vs_model](resources/Whisper-Transcription-Performance-1.png)
 
 </details>
 
