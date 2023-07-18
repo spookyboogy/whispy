@@ -1,0 +1,17 @@
+Audio File : tests\test\test_0307.m4a             
+Model size : small
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting en transcription...          
+ Time : 09:16:47          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[0:00:00 -> 0:00:26] So, I put this piece of tape here just to make sure it's always in the same place.
+[0:00:26 -> 0:00:28] And then...
+[0:00:28 -> 0:00:30] Okay, there's the app store solo.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished en transcription...          
+ Time : 09:17:08          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

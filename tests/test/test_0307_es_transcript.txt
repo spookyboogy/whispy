@@ -1,0 +1,21 @@
+Audio File : whispy\test\test_0307.m4a             
+Model size : small
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting es transcription...          
+ Time : 02:18:40          
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   0 [0:00:00 -> 0:00:05] Es una página para la chat, que es llamada Stop Motion.
+   1 [0:00:05 -> 0:00:08] Ok. Y se dice, ¿es gratis? ¿La bajamos de...?
+   2 [0:00:08 -> 0:00:10] Sí, es gratis.
+   3 [0:00:10 -> 0:00:15] Y entonces, empezamos con un movie.
+   4 [0:00:15 -> 0:00:19] No sé si quieres ver qué hay en...
+   5 [0:00:19 -> 0:00:27] Entonces, me pongo esta pieza de tapas aquí para que se sienta siempre en el mismo lugar.
+   6 [0:00:27 -> 0:00:30] Ok, es de apestor solo.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished es transcription...          
+ Time : 02:19:17          
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

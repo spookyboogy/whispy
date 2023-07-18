@@ -1,0 +1,27 @@
+Audio File : whispy\test\test_0207.m4a             
+Model size : large-v2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting es transcription...          
+ Time : 17:22:09          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[0:00:00 -> 0:00:04] Entonces ahora es como en el principio que tenemos que...
+[0:00:04 -> 0:00:06] ...que nos atraigan.
+[0:00:06 -> 0:00:08] Creo que un adulto subiendo,
+[0:00:08 -> 0:00:11] como si solo tú, Jo, subieras a la sala sola,
+[0:00:11 -> 0:00:14] y se moviera quietamente por la sala, creo que sería bien.
+[0:00:14 -> 0:00:15] Claro.
+[0:00:15 -> 0:00:21] O preguntarles, ¿te imaginas si yo subiera y tenía que estar presa?
+[0:00:21 -> 0:00:24] Porque ese fue el proceso de pensamiento de enviar a un adulto aquí,
+[0:00:24 -> 0:00:27] que era simplemente asegurarse de que la sala estuviera lista,
+[0:00:27 -> 0:00:32] y que alguien tenía ojos en ella antes de que nos subieramos.
+[0:00:32 -> 0:00:35] Entonces antes de que nos saquemos, podemos asegurarnos de que es lo mismo.
+[0:00:35 -> 0:00:39] Pero hoy, había niños.
+[0:00:39 -> 0:00:40] Sí, sí.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished es transcription...          
+ Time : 17:27:41          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

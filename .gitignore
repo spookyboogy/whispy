@@ -1,0 +1,23 @@
+__pycache__
+_junksort
+.vscode
+
+desktop.ini
+
+nbpaste.ipynb
+yinrui_rip.py
+diarize_rip.py
+
+
+# Ignore media files
+*.wav
+*.m4a
+*.mp3
+*.mp4
+*.zip
+# # Except test files
+!test_0307.m4a
+!test_0207.m4a
+# !test*.m4a
+# !test*.mp3
+# !test*.mp4

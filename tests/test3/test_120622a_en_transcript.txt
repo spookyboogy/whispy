@@ -1,0 +1,36 @@
+Audio File : whispy\test3\test_120622a.m4a             
+Model size : large-v2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting en transcription...          
+ Time : 19:44:00          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[0:00:00 -> 0:00:02] It was a nice light form.
+[0:00:02 -> 0:00:03] Yeah.
+[0:00:03 -> 0:00:05] And she knew that, and it wasn't right,
+[0:00:05 -> 0:00:07] like it wasn't targeted, but she knew it was about her.
+[0:00:07 -> 0:00:09] You know, she knew it related to her.
+[0:00:09 -> 0:00:13] Maybe Jayda and Hannah don't know what is going on
+[0:00:13 -> 0:00:14] because they didn't hear.
+[0:00:16 -> 0:00:19] I think we should do some role play, Gabby.
+[0:00:21 -> 0:00:23] Have you done any role play?
+[0:00:23 -> 0:00:24] Basically, yeah.
+[0:00:24 -> 0:00:26] Okay, have you, Belen?
+[0:00:26 -> 0:00:28] Gabby, don't tell me what to do.
+[0:00:28 -> 0:00:29] What role play?
+[0:00:29 -> 0:00:32] Ah, like role play, no.
+[0:00:32 -> 0:00:33] I mean the games.
+[0:00:33 -> 0:00:34] You know the role play?
+[0:00:34 -> 0:00:35] The game?
+[0:00:35 -> 0:00:36] Yeah.
+[0:00:36 -> 0:00:37] Yeah.
+[0:00:37 -> 0:00:38] What was the role?
+[0:00:38 -> 0:00:40] What was the role?
+[0:00:40 -> 0:00:41] Where you kind of act out?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished en transcription...          
+ Time : 19:49:11          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

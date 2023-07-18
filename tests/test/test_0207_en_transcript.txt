@@ -1,0 +1,31 @@
+Audio File : whispy\test\test_0207.m4a             
+Model size : large-v2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Starting en transcription...          
+ Time : 16:11:13          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[0:00:00 -> 0:00:05] So it's now like at the beginning that we have to chase?
+[0:00:06 -> 0:00:08] I think one adult coming up,
+[0:00:08 -> 0:00:11] like if it were only you, Joe, coming up by yourself
+[0:00:11 -> 0:00:14] and moving quietly around the room, I think we'd be fine.
+[0:00:14 -> 0:00:15] Sure.
+[0:00:15 -> 0:00:17] I mean, we could pass her.
+[0:00:17 -> 0:00:19] Or ask her, you know, do you mind if I come in?
+[0:00:19 -> 0:00:21] I have to take my stuff.
+[0:00:21 -> 0:00:24] That was the thought process of sending an adult up here
+[0:00:24 -> 0:00:27] was to just make sure that the classroom is ready
+[0:00:27 -> 0:00:29] so that we don't, and so that someone has eyes on it
+[0:00:29 -> 0:00:31] before we come in.
+[0:00:31 -> 0:00:34] So then before we leave, we can make sure it's the same.
+[0:00:34 -> 0:00:36] So like, I don't wanna.
+[0:00:36 -> 0:00:38] But today, there were children.
+[0:00:38 -> 0:00:39] Yeah, yeah, yeah.
+[0:00:39 -> 0:00:40] Which is different, yeah.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~          
+ Finished en transcription...          
+ Time : 16:16:07          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
