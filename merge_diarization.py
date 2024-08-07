@@ -87,13 +87,24 @@ def transcript_to_segments(transcript_file, encoding='utf-8'):
     return segmented_transcript
 
 
+### this version was causing an issue with timestamp overflow at the hour mark
+# def convert_to_seconds(timestamp):
+#     """
+#     Converts "HH:MM:SS.SS" to seconds, returns float.
+#     Should expand or improve to handle other formats or broken formats.
+#     """
+#     t = [float(i) for i in timestamp.split(':')]
+#     return t[0]**60 + t[1]*60 + t[2]
+
 def convert_to_seconds(timestamp):
-    """
-    Converts "HH:MM:SS.SS" to seconds, returns float.
-    Should expand or improve to handle other formats or broken formats.
-    """
     t = [float(i) for i in timestamp.split(':')]
-    return t[0]**60 + t[1]*60 + t[2]
+    if len(t) == 2:  # If only minutes and seconds are provided
+        return t[0] * 60 + t[1]
+    elif len(t) == 3:  # If hours, minutes, and seconds are provided
+        return t[0] * 3600 + t[1] * 60 + t[2]
+    else:
+        raise ValueError(f"Unexpected timestamp format: {timestamp}")
+
 
 def convert_segment_to_hms(segment):
     """
@@ -105,16 +116,19 @@ def convert_segment_to_hms(segment):
     Updated not to return None when segment start == segment end. 
     when start == end , str(segment) returns None
     """
+    # print(f'in convert_to_hms : segment = {segment}')
     start = str(segment.start)
     end = str(segment.end)
     if start == end:
         start = str(timedelta(seconds=float(start)))
         end = str(timedelta(seconds=float(end)))
+        # print(f'returning {[start, end]}')
         return [start, end]
     else:
         s = str(segment).strip('[').strip(']').split('-->')
         l = [i.split('.')[0].strip() for i in s]
         l = [i[1:] for i in l]
+        # print(f'returning {l}')
         return l
 
 
@@ -368,11 +382,20 @@ def diarize_transcript(transcript_file, diarization_file, encoding='utf-8'):
     segscript = transcript_to_segments(transcript_file, encoding=encoding)
     spk_segs, annotation = reconstruct_diarization(diarization_file)
     merger = add_speaker_info_to_text(segscript, annotation)
+    # for i in segscript: 
+    #     print(i) 
+    # print(type(segscript))
+    # print(type(merger))
+    # for i in merger: 
+    #     print(i) 
 
     # The rest is formatting and file io
     formatted_merger = []
     for seg, spk, txt in merger:
         times = convert_segment_to_hms(seg)
+        # if seg == [] or spk == None:
+        #     print(f'seg, spk, txt : {seg}, {spk}, {txt}')
+        #     print(f'times : {times}')
         formatted_merger += [[times[0], times[1], spk, txt]]
     # Write to txt and csv
     f_name = os.path.splitext(transcript_file)[0]
@@ -456,5 +479,16 @@ if __name__ == "__main__":
     #                                                    encoding=encoding)
     #     #diarize_transcript(transcript, diarization_file, encoding=encoding)
 
-    merge_and_join_batch(encoding)
+    folder = "/home/spooky/CS/whispy/tests/testing_here_2"
+    transcript_files = ["/GMT20240613-170728_Recording_en_transcript.txt",]
+    transcript_files = [folder + f for f in transcript_files]
+    diarization_file = folder + "/GMT20240613-170728_Recording--diarization.txt"
+
+    for transcript in transcript_files:
+        diarized_transcript_files = diarize_transcript(transcript, 
+                                                       diarization_file, 
+                                                       encoding=encoding)
+    #diarize_transcript(transcript, diarization_file, encoding=encoding)
+
+    # merge_and_join_batch(encoding)
 
